@@ -31,13 +31,23 @@
               <header class="landing-topbar">
                 <a class="brand-mark" href="/evoto-help-center-site/"><img src="https://res.evoto.ai/ui/www/images/pages/common/evoto-logo.svg" alt="Evoto" class="brand-mark__logo" /><span class="brand-mark__text">Evoto Learning Center</span></a>
                 <nav class="hero-primary-nav" aria-label="Hero navigation">
-                  <a href="/evoto-help-center-site/en/evoto-desktop/">Products</a><a href="/evoto-help-center-site/#support-areas">Features</a><a href="https://blog.evoto.ai/" target="_blank" rel="noreferrer">Resources</a><a href="https://www.evoto.ai/payment" target="_blank" rel="noreferrer">Pricing</a><a href="/evoto-help-center-site/search/">Support</a><a href="https://www.evoto.ai/download" target="_blank" rel="noreferrer">Download</a>
+
+            <details class="primary-nav-dropdown">
+              <summary class="primary-nav-dropdown__summary">
+                <a class="primary-nav-dropdown__summary-link" href="/evoto-help-center-site/en/evoto-desktop/">Products</a>
+                <span class="primary-nav-dropdown__caret" aria-hidden="true"></span>
+              </summary>
+              <div class="primary-nav-dropdown__list">
+                <a class="primary-nav-dropdown__item" href="/evoto-help-center-site/en/evoto-desktop/">Evoto Desktop</a><a class="primary-nav-dropdown__item" href="/evoto-help-center-site/en/evoto-ipad/">Evoto iPad</a><a class="primary-nav-dropdown__item" href="/evoto-help-center-site/en/evoto-mobile/">Evoto Mobile</a><a class="primary-nav-dropdown__item" href="/evoto-help-center-site/en/evoto-instant/">Evoto Instant</a>
+              </div>
+            </details>
+            <a href="https://blog.evoto.ai/" target="_blank" rel="noreferrer">Resources</a><a href="https://www.evoto.ai/payment" target="_blank" rel="noreferrer">Pricing</a><a href="https://www.evoto.ai/download" target="_blank" rel="noreferrer">Download</a><a class="sign-in-button" href="https://www.evoto.ai/login">Sign in</a>
                 </nav>
               </header>
               <section class="landing-hero learning-hero">
                 <div class="hero-copy learning-hero__panel">
                   <h1>Learning Center</h1>
-                  <p>Find setup guides, feature explanations, pricing answers, and workflow tips for every Evoto product in one place. Use the sidebar to navigate by product, or jump straight into…</p>
+                  <p>Explore the complete Evoto Knowledge Base for setup, feature walkthroughs, pricing help, and workflow tips across Desktop, iPad, Mobile, and Instant. Use the sidebar to navigate…</p>
                   <form class="search-form search-form--landing" action="/evoto-help-center-site/search/" method="get">
                     <label class="search-input">
                       <span class="sr-only">Search Evoto help articles</span>
@@ -63,49 +73,99 @@
 
               <section class="landing-section" id="support-areas">
                 <div class="section-heading section-heading--compact">
-                  <span class="hero-kicker">Products</span>
                   <h2>Choose an Evoto workspace</h2>
                 </div>
                 <div class="feature-grid feature-grid--products">
 
         <a class="feature-card feature-card--product" href="/evoto-help-center-site/en/evoto-desktop/">
-          <span class="feature-card__badge">E</span>
-          <strong>Evoto PC</strong>
-          <p>How to Start, Color Adjustment, Portrait Retouching, Background Adjustments, Clothes &amp; Accessories Adjustments, and more</p>
+          <span class="feature-card__badge"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+  <rect x="3.5" y="5.5" width="17" height="11" rx="1.8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M8 19.2h8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+</span>
+          <strong>Evoto Desktop</strong>
+          <p>Experience the full power of Evoto with advanced editing tools and complete workflow control.</p>
         </a>
 
         <a class="feature-card feature-card--product" href="/evoto-help-center-site/en/evoto-ipad/">
-          <span class="feature-card__badge">E</span>
+          <span class="feature-card__badge"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+  <rect x="7" y="2.8" width="10" height="18.4" rx="2.2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M10 19h4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+</span>
           <strong>Evoto iPad</strong>
-          <p>How to Start, Color Adjustments, Portrait Retouching, Background Adjustments, Clothes &amp; Accessories Adjustments, and more</p>
+          <p>Edit anytime, anywhere with powerful tools designed for on-the-go creativity.</p>
         </a>
 
         <a class="feature-card feature-card--product" href="/evoto-help-center-site/en/evoto-mobile/">
-          <span class="feature-card__badge">E</span>
+          <span class="feature-card__badge"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+  <rect x="9" y="2.8" width="6" height="18.4" rx="2.2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M12 19h0" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+</span>
           <strong>Evoto Mobile</strong>
-          <p>How to Start, Color, Portrait, Clothes, Tethered Shooting, and more</p>
+          <p>AI-powered portrait retouching at your fingertips.</p>
         </a>
 
         <a class="feature-card feature-card--product" href="/evoto-help-center-site/en/evoto-instant/">
-          <span class="feature-card__badge">E</span>
+          <span class="feature-card__badge"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+  <path d="M13 2 5 14h7l-1 8 8-12h-7l1-8Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+</span>
           <strong>Evoto Instant</strong>
-          <p>Getting Started, Feature Deep Dive</p>
+          <p>Shoot. Cull. Edit. Proof. Done - in an Instant.</p>
         </a>
 
-                </div>
-                <div class="browse-band">
-                  <div class="browse-row">
-                    <span class="browse-row__label">Topics</span>
-                    <div class="browse-row__links">
-                      <a class="browse-link" href="/evoto-help-center-site/en/account-settings/">Account</a><a class="browse-link" href="/evoto-help-center-site/en/price-billing/">Price</a><a class="browse-link" href="/evoto-help-center-site/en/faq/">FAQ</a><a class="browse-link" href="/evoto-help-center-site/en/tips-tricks/">Tips &amp; Tricks</a>
-                    </div>
-                  </div>
-                  <div class="browse-row">
-                    <span class="browse-row__label">Resources</span>
-                    <div class="browse-row__links">
-                      <a class="browse-link" href="https://www.evoto.ai/" target="_blank" rel="noreferrer">Official Site</a><a class="browse-link" href="https://www.evoto.ai/download" target="_blank" rel="noreferrer">Download</a><a class="browse-link" href="https://www.evoto.ai/payment" target="_blank" rel="noreferrer">Pricing</a><a class="browse-link" href="https://blog.evoto.ai/" target="_blank" rel="noreferrer">Blog</a><a class="browse-link" href="https://www.evoto.ai/webinar" target="_blank" rel="noreferrer">Webinar</a><a class="browse-link" href="/evoto-help-center-site/search/">Support Search</a>
-                    </div>
-                  </div>
+        <a class="feature-card feature-card--product" href="http://video.evoto.ai/">
+          <span class="feature-card__badge"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+  <rect x="3.5" y="6" width="17" height="12" rx="2.2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M11 10.2v3.6l3.2-1.8L11 10.2Z" fill="currentColor" stroke="none" />
+</svg>
+</span>
+          <strong>Evoto Video</strong>
+          <p>Transform your video look in one click, and refine portraits with just a swipe.</p>
+        </a>
+
+        <a class="feature-card feature-card--product" href="/evoto-help-center-site/en/account-settings/">
+          <span class="feature-card__badge"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+  <rect x="3.5" y="5.5" width="17" height="11" rx="1.8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M8 19.2h8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+</span>
+          <strong>Account</strong>
+          <p>Account FAQs, Account Settings &amp; Security, Account Troubleshooting, Account Management</p>
+        </a>
+
+        <a class="feature-card feature-card--product" href="/evoto-help-center-site/en/price-billing/">
+          <span class="feature-card__badge"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+  <rect x="3.5" y="5.5" width="17" height="11" rx="1.8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M8 19.2h8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+</span>
+          <strong>Price</strong>
+          <p>Evoto Credits, Subscription Plans, Pay-as-You-Go Plan, Coupon &amp; Promo Codes FAQs, Pricing FAQs, and more</p>
+        </a>
+
+        <a class="feature-card feature-card--product" href="/evoto-help-center-site/en/faq/">
+          <span class="feature-card__badge"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+  <rect x="3.5" y="5.5" width="17" height="11" rx="1.8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M8 19.2h8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+</span>
+          <strong>FAQ</strong>
+          <p>Installation FAQs, Edit FAQs, Import &amp; Export FAQs, Miscellaneous FAQs, Additional Resources &amp; Support, and more</p>
+        </a>
+
+        <a class="feature-card feature-card--product" href="/evoto-help-center-site/en/tips-tricks/">
+          <span class="feature-card__badge"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+  <rect x="3.5" y="5.5" width="17" height="11" rx="1.8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M8 19.2h8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+</span>
+          <strong>Tips &amp; Tricks</strong>
+          <p>Editing Workflow, Feature Related, Setting Guides</p>
+        </a>
+
                 </div>
               </section>
             </main>
@@ -124,10 +184,6 @@
             <a href="https://www.evoto.ai/download" target="_blank" rel="noreferrer">Mobile</a>
           </div>
         </div>
-      </div>
-      <div class="footer-proof">
-        <p>Review us on</p>
-        <img src="https://res.evoto.ai/ui/www/images/pages/newHome/footer-trustpilot.png" alt="Evoto Trustpilot" class="footer-proof__image" />
       </div>
     </div>
     <div class="footer-grid">
