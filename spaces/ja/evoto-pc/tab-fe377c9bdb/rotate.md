@@ -1,0 +1,47 @@
+---
+title: "回転"
+source_url: "https://support.evoto.ai/ja/rotate/"
+source_type: "post"
+source_id: "7267"
+language: "ja"
+translation_group: "1355"
+primary_category: "%e6%9c%aa%e5%88%86%e9%a1%9e"
+tags:
+  - "pc-ja"
+migration_flags:
+  - "image"
+source_assets:
+  - "https://support.evoto.ai/wp-content/uploads/2025/07/20250709181741.jpg"
+---
+
+wp:tadv/classic-paragraph
+回転ツールでは、画像の角度や向きを手動または自動で調整できます。主な機能は以下のとおりです：
+
+- 時計回り・反時計回りの回転
+- 水平反転
+- 垂直反転
+- 角度調整（–45°〜+45°の範囲）
+
+**角度スライダー**を使用して、回転角度を自由に設定できます。
+
+---
+
+# **AI水平補正**
+
+![](https://support.evoto.ai/wp-content/uploads/2025/07/20250709181741.jpg)
+
+「自動」ボタンをクリックすると、AIが画像の水平線を自動で検出・補正します。
+
+- ボタンをクリックするとAIが画像を解析し、水平を自動で調整します。
+- 自動補正が有効になると、「自動」ボタンが黄色に変わります。
+- 角度スライダーも、AIが算出した角度に自動更新されます。
+- 毎回AI補正を実行すると、スライダーはその都度AIによって再計算された角度にリセットされます。
+
+---
+
+# **AI水平補正と手動回転の連携**
+
+- **時計回り・反時計回りの回転後にAI補正を使用すると**、回転後の画像を基準にして、AIが水平補正を自動的に再計算します。
+- **画像を水平方向または垂直方向に反転した場合も**、反転後の状態に合わせて、AIが最適な水平補正を再度適用します。
+
+/wp:tadv/classic-paragraph

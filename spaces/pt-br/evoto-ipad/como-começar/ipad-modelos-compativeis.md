@@ -1,0 +1,200 @@
+---
+title: "Ipad - Modelos Compatíveis"
+source_url: "https://support.evoto.ai/pt-br/ipad-modelos-compativeis/"
+source_type: "post"
+source_id: "22584"
+language: "pt-br"
+translation_group: "1459"
+primary_category: "sem-categoria"
+migration_flags:
+  - "table"
+---
+
+wp:tadv/classic-paragraph
+O Evoto AI é compatível apenas com iPadOS versão 15.0 ou superior.
+
+# Modelos Recomendados
+
+<table style="width: 100%; border-collapse: collapse; height: 171px;">
+<tbody>
+<tr style="background-color: #f2f2f2;">
+<th style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Model</th>
+<th style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">Screen Size (Inches)</th>
+<th style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">Memory (GB)</th>
+<th style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Notes</th>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Pro (5th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">11 / 12.9</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">8 / 16</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Pro (6th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">11 / 12.9</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">8 / 16</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Pro (7th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">11 / 13</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">8 / 16</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Air (5th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">10.9</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">8</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Air (6th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">11 / 13</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">8</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Air (7th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">11 / 13</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">8</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Mini (7th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">8.3</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">8</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+</tbody>
+</table>
+
+# Modelos Compatíveis
+
+<table style="width: 98.6474%; border-collapse: collapse; height: 418px;">
+<thead>
+<tr style="background-color: #f2f2f2;">
+<th style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Model</th>
+<th style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">Screen Size (Inches)</th>
+<th style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">Memory (GB)</th>
+<th style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Pro (1st Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">9.7</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">2</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported, but experience may vary; not recommended.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Pro (1st Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">12.9</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">4</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Pro (2nd Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">10.5 / 12.9</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">4</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Pro (3rd Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">11 / 12.9</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">4</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Pro (3rd Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">11 / 12.9</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">6</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Pro (4th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">11 / 12.9</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">6</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Air (2nd Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">9.7</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">2</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported, but experience may vary; not recommended.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Air (3rd Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">10.5</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">3</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported, but experience may vary; not recommended.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Air (4th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">10.9</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">4</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad (5th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">9.7</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">2</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported, but experience may vary; not recommended.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad (6th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">9.7</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">2</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported, but experience may vary; not recommended.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad (7th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">10.2</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">3</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported, but experience may vary; not recommended.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad (8th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">10.2</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">3</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported, but experience may vary; not recommended.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad (9th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">10.2</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">3</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported, but experience may vary; not recommended.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad (10th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">10.9</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">4</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad (11th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">10.9</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">6</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Mini (4th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">7.9</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">2</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported, but experience may vary; not recommended.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Mini (5th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">7.9</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">3</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported, but experience may vary; not recommended.</td>
+</tr>
+<tr style="height: 19px;">
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 20%;">iPad Mini (6th Gen)</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 19.2241%;">8.3</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 12.8448%;">4</td>
+<td style="border: 1px solid black; padding: 8px; height: 19px; width: 47.8448%;">Supported.</td>
+</tr>
+</tbody>
+</table>
+
+/wp:tadv/classic-paragraph

@@ -1,0 +1,15 @@
+---
+title: "Makeup"
+source_url: "https://support.evoto.ai/portrait-retouching-makeup/"
+source_type: "post"
+source_id: "20838"
+language: "en"
+translation_group: "7601"
+primary_category: "makeup"
+secondary_categories:
+  - "portrait-retouching"
+tags:
+  - "mobile"
+---
+
+Evoto’s intelligent AI automatically detects the face and relevant areas for makeup application. The **Makeup** feature allows users to enhance existing makeup or apply new styles where no makeup is present, offering fine-tuned control across various facial zones. Basic Highlight Adds brightness to key areas of the face to create a more dimensional and luminous appearance. Use the slider to control the intensity. Contour Enhances shadows and structure to define facial features. Adjust the slider to increase or soften contouring for a sculpted look. Eyebrow Makeup Enhance or reduce the original eyebrow makeup. Slide left to reduce makeup intensity Slide right to enhance the eyebrow makeup Eye Makeup Amount Refine and boost the appearance of eye makeup. Includes three sub-sliders for more detailed control: **Amount**– Adjusts the overall amount of the eye makeup **Saturation** – Controls the vividness of the eye makeup color. Slide left to mute; right to brighten. **Brightness** – Adjusts the overall brightness of the eye makeup. **Dimensionality** – Adds depth and a more 3D effect to the eyes. Lip Makeup Amount Adjust the strength and appearance of lipstick. Includes three sub-sliders for refinement: **Amount**– Adjusts the overall amount of the lip makeup **Saturation** – Controls how rich or soft the color appears **Brightness** – Adjusts the brightness and exposure of the lip color **Dimensionality** – Adds depth to the lips for a fuller, more realistic look ***Note: Use in conjunction with the**Lip Wrinkles & Flakes**in the Blemish Removal group for an even more professional look.*** Makeup Suite Evoto offers a wide variety of preset makeup looks. You can choose to replace or enhance the original makeup. Each preset includes an **Amount** slider to control how strongly it’s applied. A collection of 22 preset makeup looks, including 3 designed for male portraits and 2 for children. Individual Makeup Components Each component can be independently applied and adjusted. Many support symmetrical or independent (left/right) customization. **Eyebrows** – 9 styles available. *Note: Position adjustments are not currently supported. Eyebrow and eyelash materials support left/right independent adjustment.* **Eyeshadow** – 14 styles available. **Eyelashes** – 17 styles available. Supports conjunction or separate adjustment. **Eyeliner** – 9 styles available. **Contacts** – 11 styles available. **Blush** – 12 blush styles. *Icons for styles No. 10–12 have been updated with notes indicating they are suitable for children or infants.* **Lipstick** – 15 colors available. You can also adjust the **Texture** after selecting a color. **Contour** – 6 different contour styles available to shape and define the face. **Face Decorations –**Evoto currently offers 6 face decorations, all of which are freckle styles.

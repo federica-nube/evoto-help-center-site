@@ -1,0 +1,17 @@
+{
+  "name": "evoto-help-center",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Native static Help Center generated from GitHub markdown content.",
+  "scripts": {
+    "sync:spaces": "python3 scripts/sync_spaces_from_live3.py",
+    "build:help-center": "HELP_CENTER_BASE_PATH=/evoto-help-center-site HELP_CENTER_SITE_ORIGIN=https://federica-nube.github.io python3 scripts/build_help_center.py",
+    "validate:help-center": "HELP_CENTER_BASE_PATH=/evoto-help-center-site python3 scripts/validate_help_center.py",
+    "preview:help-center": "python3 scripts/serve_help_center.py",
+    "sync-and-build:help-center": "npm run sync:spaces && npm run build:help-center",
+    "rebuild:help-center": "npm run build:help-center && npm run validate:help-center"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

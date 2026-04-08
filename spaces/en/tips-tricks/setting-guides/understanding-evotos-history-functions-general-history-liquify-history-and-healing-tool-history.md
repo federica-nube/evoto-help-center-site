@@ -1,0 +1,52 @@
+---
+title: "How to Master Evoto's History Functions"
+source_url: "https://support.evoto.ai/understanding-evotos-history-functions-general-history-liquify-history-and-healing-tool-history/"
+source_type: "post"
+source_id: "1736"
+language: "en"
+translation_group: "1736"
+primary_category: "quick-tips"
+secondary_categories:
+  - "tips-tricks"
+tags:
+  - "tips"
+migration_flags:
+  - "image"
+source_assets:
+  - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.11.30-146x300.png"
+  - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.12.47-139x300.png"
+---
+
+wp:tadv/classic-paragraph
+Evoto’s History functions provide flexible and intuitive tools for tracking, managing, and refining your edits. These tools include the general History panel, as well as dedicated history modules for the Liquify and Healing features. Understanding how each one works will help you take full control of your editing workflow.
+
+# **General History Panel**
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.11.30-146x300.png)
+
+The floating **History** panel serves as the master timeline for all your edits. Every action is recorded in chronological order, allowing you to:
+
+- View a comprehensive list of all editing steps.
+- Revert to a specific point by clicking on an earlier step in the list.
+- Reset all edits by clicking the image name or the trash icon.
+- Recover changes after a reset by stepping forward through the list.
+
+**Important:** Edits made using the Liquify or Healing Tool are grouped into a single line item within this panel. If you undo this step, all changes made during that session will be reverted at once.
+
+# **Liquify and Healing Tool Histories**
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.12.47-139x300.png)
+
+Within the **Liquify** and **Healing Tool** panels, Evoto provides their own dedicated history modules. These panels allow you to:
+
+- Track and undo the last 10 editing actions within the tool.
+- Refine your edits step-by-step before finalizing.
+
+Once you click **Save** within either the Liquify or Healing Tool panel, all edits in that session are merged into a single step in the general History panel. At that point:
+
+- The detailed tool-specific history is cleared.
+- A new session will begin the next time you enter the tool, with its own separate history.
+
+This design gives you precise, session-based control when using Liquify or Healing, while also consolidating your edits for easier management in the main history view. By using both types of history together, you can work more confidently and efficiently—editing with flexibility while maintaining precise control at every stage.
+
+/wp:tadv/classic-paragraph
