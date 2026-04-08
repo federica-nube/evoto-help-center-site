@@ -23,7 +23,7 @@ source_assets:
 
 This guide outlines where you can find detailed documentation, connect with the user community, and reach out to the support team for assistance.
 
-### Finding Information & Community
+#### Finding Information & Community
 
 - **Community Support:**
 - The **Evoto user Facebook group** is an active community where you can share tips, gain insights, and get inspiration from fellow users.
@@ -32,7 +32,7 @@ This guide outlines where you can find detailed documentation, connect with the 
 - **Official Updates:**
 - The [**Evoto Blog**](https://blog.evoto.ai/) is regularly updated with news, new feature releases, and deep-dive articles on account management and security.
 
-### If I can’t get my questions answered by the community, how do I contact support?
+#### If I can’t get my questions answered by the community, how do I contact support?
 
 Evoto offers multiple ways to get assistance and provide feedback:
 

@@ -16,11 +16,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/2-6-266x300.jpg"
 ---
 
-### Ajustes de Fundo
+#### Ajustes de Fundo
 
 O módulo **Ajustes de Fundo** oferece um conjunto de ferramentas inteligentes projetadas para realçar ou limpar fundos, especialmente em cenários de estúdio com fundos de cor sólida. Essas ferramentas ajudam a refinar a aparência do fundo, remover distrações, unificar a iluminação e melhorar a consistência visual geral.
 
-#### Caneta de Ajuste Manual
+##### Caneta de Ajuste Manual
 
 O grupo de recursos Ajustes de Fundo inclui o seu próprio Ajuste Manual, que permite **pincelar** ou **apagar** o efeito aplicado em áreas específicas da imagem, oferecendo controle preciso sobre a edição.
 
@@ -28,9 +28,9 @@ O grupo de recursos Ajustes de Fundo inclui o seu próprio Ajuste Manual, que pe
 
 ---
 
-### Refinamento de Fundo Sólido
+#### Refinamento de Fundo Sólido
 
-#### Remoção de Distrações
+##### Remoção de Distrações
 
 Detecta e remove automaticamente elementos indesejados, como falhas ou objetos intrusivos em fundos de estúdio. A IA preenche essas áreas de forma inteligente e expande a tela para obter uma aparência uniforme
 
@@ -43,7 +43,7 @@ Detecta e remove automaticamente elementos indesejados, como falhas ou objetos i
 
 ---
 
-#### Limpar Fundo
+##### Limpar Fundo
 
 **Fundo sólido**
 
@@ -62,7 +62,7 @@ Esse recurso identifica automaticamente fundos de cor sólida e remove imperfei�
 
 ---
 
-#### Unificar iluminação
+##### Unificar iluminação
 
 Equilibra a iluminação de fundo em ambientes internos com cor sólida, como:
 
@@ -84,7 +84,7 @@ Ao ativar este recurso, são exibidos dois sub-sliders:
 
 ---
 
-#### Remoção de Bandas de Cor
+##### Remoção de Bandas de Cor
 
 Elimina quebras de cor, padrões de moiré, blocos de cor ou ondulações em fundos sólidos.
 
@@ -93,9 +93,9 @@ Elimina quebras de cor, padrões de moiré, blocos de cor ou ondulações em fun
 
 ---
 
-### Refinamento de Plano de Fundo
+#### Refinamento de Plano de Fundo
 
-#### Aprimoramento de Fundo
+##### Aprimoramento de Fundo
 
 Melhora a saturação e o contraste do fundo por meio de ajustes de cor baseados em IA. Esse recurso aprimora sutilmente o tom geral da imagem, sem alterar a atmosfera cromática original significativamente.
 

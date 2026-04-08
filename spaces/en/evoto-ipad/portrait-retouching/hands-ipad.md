@@ -19,7 +19,7 @@ source_assets:
 
 Evoto’s **Hand Touch-up** module focuses on refining the appearance of hands, ensuring consistency and smoothness in portrait edits.
 
-### Hand Vein Removal
+#### Hand Vein Removal
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-14-at-16.04.41-300x114.png)
 

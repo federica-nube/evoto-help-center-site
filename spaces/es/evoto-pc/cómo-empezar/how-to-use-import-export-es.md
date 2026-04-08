@@ -35,7 +35,7 @@ Esta guía cubre la importación y exportación manual de imágenes dentro de Ev
 
 ---
 
-### Tipos de Archivos Compatibles con Evoto
+#### Tipos de Archivos Compatibles con Evoto
 
 Evoto admite una amplia gama de formatos de imagen, incluidos JPEG, TIFF y PNG. También proporcionamos un procesamiento sólido para la mayoría de los tipos de archivos RAW de cámaras, impulsado por nuestro propio motor RAW avanzado. Actualizamos periódicamente nuestra biblioteca y realizamos mejoras para garantizar un soporte perfecto para las nuevas cámaras a medida que se lanzan.
 
@@ -43,17 +43,17 @@ Tenga en cuenta que Evoto actualmente no admite archivos de imágenes de más de
 
 ---
 
-### Número de Archivos Admitidos para Importar
+#### Número de Archivos Admitidos para Importar
 
 Si bien Evoto no limita la cantidad total de fotos que puede importar en un solo proyecto, existe un límite en la cantidad de fotos que puede importar a la vez. Puede importar hasta 15,000 fotografías por sesión de importación.
 
 ---
 
-### Importar Imágenes
+#### Importar Imágenes
 
 Evoto ofrece varios métodos para importar archivos individuales o carpetas completas, lo que facilita llevar sus imágenes a su espacio de trabajo.
 
-#### Importar en el Espacio de Trabajo de la Biblioteca
+##### Importar en el Espacio de Trabajo de la Biblioteca
 
 El espacio de trabajo de la biblioteca proporciona múltiples puntos de entrada para iniciar nuevos proyectos o agregar proyectos existentes.
 
@@ -104,7 +104,7 @@ El espacio de trabajo de la biblioteca proporciona múltiples puntos de entrada 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-31-at-23.22.29-300x163.png)
 
-#### Importar en el Espacio de Trabajo Editar
+##### Importar en el Espacio de Trabajo Editar
 
 Para importar imágenes adicionales a un proyecto abierto mientras ya se encuentra en el espacio de trabajo de edición:
 
@@ -114,7 +114,7 @@ Para importar imágenes adicionales a un proyecto abierto mientras ya se encuent
 
 - Alternativamente, puedes **arrastrar y soltar**imágenes directamente en la interfaz. Se agregarán entre las miniaturas de imágenes existentes en la parte inferior de la pantalla.
 
-#### Métodos de Importación Adicionales
+##### Métodos de Importación Adicionales
 
 Evoto ofrece cómodas opciones de importación desde fuera de la aplicación:
 
@@ -124,7 +124,7 @@ Evoto ofrece cómodas opciones de importación desde fuera de la aplicación:
 
 ---
 
-### Exportar Imágenes
+#### Exportar Imágenes
 
 Evoto proporciona opciones de exportación integrales y controles avanzados, lo que garantiza que sus imágenes finales cumplan con los estándares de calidad, formato y nomenclatura deseados. Evoto permite exportar nuevamente a catálogos de Lightroom Classic con múltiples opciones para la ubicación y compatibilidad de archivos.
 
@@ -144,7 +144,7 @@ Evoto ha mejorado el flujo de trabajo de exportación, admitiendo dos modos: ***
 
 ---
 
-### Diseño del Panel de Exportación
+#### Diseño del Panel de Exportación
 
 - **Panel Izquierdo:**Número de fotos para exportar y elegir preajustes de exportación
 - **Centro:**Imagen previa
@@ -154,7 +154,7 @@ Evoto ha mejorado el flujo de trabajo de exportación, admitiendo dos modos: ***
 
 ---
 
-#### Información de la Cola de Exportación
+##### Información de la Cola de Exportación
 
 Cuando abre el diálogo de exportación, verá información clave sobre su cola de exportación en el panel izquierdo:
 
@@ -163,7 +163,7 @@ Cuando abre el diálogo de exportación, verá información clave sobre su cola 
 
 ---
 
-#### Preajustes de Exportación
+##### Preajustes de Exportación
 
 **Preajsutes de Exportación**le permite guardar y administrar configuraciones para varias resoluciones y configuraciones de salida. Esto es ideal para aplicar rápidamente estándares de exportación consistentes.
 
@@ -173,7 +173,7 @@ Cuando abre el diálogo de exportación, verá información clave sobre su cola 
 
 ---
 
-#### Preajuste de Efectos
+##### Preajuste de Efectos
 
 Esta opción le permite aplicar un efecto preestablecido durante el proceso de exportación, especialmente útil si las imágenes aún no se han editado o para flujos de trabajo automatizados.
 
@@ -183,7 +183,7 @@ Esta opción le permite aplicar un efecto preestablecido durante el proceso de e
 
 ---
 
-#### Configuración de Exportación
+##### Configuración de Exportación
 
 Configure los aspectos fundamentales de su exportación, incluido el destino y el manejo de archivos.
 
@@ -202,7 +202,7 @@ Configure los aspectos fundamentales de su exportación, incluido el destino y e
 
 ---
 
-#### Nombre de Archivo
+##### Nombre de Archivo
 
 Evoto ofrece varias opciones flexibles de nombres de archivos para organizar sus exportaciones:
 
@@ -218,9 +218,9 @@ Evoto ofrece varias opciones flexibles de nombres de archivos para organizar sus
 
 ---
 
-#### Tamaño de Imagen
+##### Tamaño de Imagen
 
-#### Controle las dimensiones y la resolución de sus imágenes exportadas:
+##### Controle las dimensiones y la resolución de sus imágenes exportadas:
 
 - Tipo de escala: Escale sus exportaciones de imágenes mediante:
 -
@@ -234,7 +234,7 @@ Evoto ofrece varias opciones flexibles de nombres de archivos para organizar sus
 
 ---
 
-#### Configuración de Archivo
+##### Configuración de Archivo
 
 Elija el formato y la calidad de imagen que desee:
 
@@ -256,7 +256,7 @@ Elija el formato y la calidad de imagen que desee:
 
 ---
 
-#### Ajustes de Exportación
+##### Ajustes de Exportación
 
 Evoto incluye un Enfoque de Salida para optimizar sus imágenes según su uso final, ya sea para visualización en pantalla o para impresión.
 
@@ -273,7 +273,7 @@ Evoto incluye un Enfoque de Salida para optimizar sus imágenes según su uso fi
 
 ---
 
-#### Marca de Agua
+##### Marca de Agua
 
 Aplique una marca de agua personalizada a sus imágenes exportadas:
 
@@ -287,7 +287,7 @@ Aplique una marca de agua personalizada a sus imágenes exportadas:
 
 ---
 
-### Exportación de Catálogos de Lightroom (.lrcat)
+#### Exportación de Catálogos de Lightroom (.lrcat)
 
 Para proyectos originalmente importados como.lrcatarchivo, Evoto le permite exportar sus imágenes y metadatos editados nuevamente a Lightroom Catalogs, con múltiples opciones para la ubicación y compatibilidad de archivos.
 
@@ -307,7 +307,7 @@ Para proyectos originalmente importados como.lrcatarchivo, Evoto le permite expo
 
 ---
 
-### Solución de Problemas de Importación y Exportación
+#### Solución de Problemas de Importación y Exportación
 
 Si encuentra problemas durante el proceso de importación o exportación, consulte los problemas y soluciones comunes a continuación.
 
@@ -324,7 +324,7 @@ Si sus imágenes aparecen borrosas después de importarlas a Evoto, esto general
 - Aumente el tamaño de la vista previa según sea necesario: Evoto admite hasta 4000 px, la resolución máxima de vista previa disponible actualmente.
 - **Nota:**La configuración del tamaño de vista previa afecta solo cómo se muestra la imagen dentro de Evoto. No tiene ningún impacto en la calidad o resolución de las imágenes exportadas.
 
-#### Cambios en el tamaño del archivo después de la exportación
+##### Cambios en el tamaño del archivo después de la exportación
 
 Es posible que notes una diferencia en el tamaño del archivo después de exportar una imagen desde Evoto. Este es el comportamiento esperado y normalmente se debe a lo siguiente:
 
@@ -333,7 +333,7 @@ Es posible que notes una diferencia en el tamaño del archivo después de export
 
 A pesar de las variaciones en el tamaño del archivo, la imagen exportada siempre mantendrá la calidad y resolución especificadas en su configuración de exportación.
 
-#### Imagen exportada no encontrada en la carpeta de destino
+##### Imagen exportada no encontrada en la carpeta de destino
 
 Si una imagen exportada no aparece en la carpeta seleccionada, es probable que el problema esté relacionado con los permisos del archivo.
 
@@ -342,6 +342,6 @@ Si una imagen exportada no aparece en la carpeta seleccionada, es probable que e
 - Algunas unidades externas o carpetas administradas por el sistema (por ejemplo, carpetas del sistema, unidades de red) pueden restringir el acceso de escritura, permitiendo solo el acceso de lectura de forma predeterminada.
 - Asegúrese de que Evoto tenga los permisos de escritura necesarios para la ubicación de exportación seleccionada. Otorgar acceso completo de escritura a la carpeta de destino o elegir un destino de exportación diferente y menos restringido generalmente resuelve este problema.
 
-#### Exportar códigos de error
+##### Exportar códigos de error
 
 Si encuentra un error durante la exportación, comuníquese con nuestro equipo de soporte al **support@evoto.ai**. Para ayudarnos a resolver el problema más rápido, incluya una captura de pantalla del código de error en su Lista de exportación.

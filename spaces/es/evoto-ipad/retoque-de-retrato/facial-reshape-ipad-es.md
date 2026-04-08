@@ -20,7 +20,7 @@ source_assets:
 
 Las herramientas de **Remodelación facial** de Evoto utilizan IA para analizar inteligentemente la estructura facial del sujeto, permitiendo ajustes detallados e intuitivos. Los usuarios pueden modificar la forma general del rostro, así como características individuales como cejas, ojos, nariz y boca, con control fino sobre cada subcaracterística.
 
-### Ajustes Conjuntos/Separados
+#### Ajustes Conjuntos/Separados
 
 Algunas características faciales permiten ajustes tanto **vinculados (conjuntos)** como **independientes (separados)** para los lados izquierdo y derecho del rostro. Haz clic en el **icono de enlace** para desbloquear el control independiente, lo que permite refinamientos asimétricos precisos.
 

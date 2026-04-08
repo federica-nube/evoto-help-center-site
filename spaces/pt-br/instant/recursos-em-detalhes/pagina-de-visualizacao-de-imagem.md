@@ -21,7 +21,7 @@ Basta tocar em qualquer foto do seu projeto para abrir a vista de visualização
 
 ---
 
-### Informações da Foto
+#### Informações da Foto
 
 Localizada sob o ícone de informação (canto superior direito), esta secção disponibiliza:
 
@@ -39,7 +39,7 @@ Localizada sob o ícone de informação (canto superior direito), esta secção 
 
 ---
 
-### Reconhecimento Facial
+#### Reconhecimento Facial
 
 Apresenta todos os rostos detetados na foto selecionada.
 
@@ -52,7 +52,7 @@ Apresenta todos os rostos detetados na foto selecionada.
 
 ---
 
-### Comparação com Efeitos
+#### Comparação com Efeitos
 
 - Se a Edição por IA tiver sido aplicada, a visualização será exibida por padrão no estado **“Depois”**.
 - Toque longo na foto para alternar para **“Antes”** e comparar lado a lado.

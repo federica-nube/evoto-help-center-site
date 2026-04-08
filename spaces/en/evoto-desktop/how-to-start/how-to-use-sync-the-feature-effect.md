@@ -17,7 +17,7 @@ source_assets:
 ---
 
 Evoto is designed to make photo editing faster and more efficient, especially when working with large batches of images. Once you've finished editing a photo, you can easily apply the same adjustments to other images using one of two sync methods:
-#### Method 1: Sync to All Pictures
+##### Method 1: Sync to All Pictures
 
 1. Select the photo you've finished editing.
 2. Press **Ctrl + A** (or **Command + A** on macOS) to select all images.
@@ -25,7 +25,7 @@ Evoto is designed to make photo editing faster and more efficient, especially wh
 4. A pop-up will appear. Choose the specific adjustments you’d like to sync.
 5. Click **Save** to synchronize selected pictures to apply the changes.
 
-#### Method 2: Copy & Paste Settings
+##### Method 2: Copy & Paste Settings
 
 1. Select the edited image.
 2. Press **Ctrl + C** (or **Command + C** on macOS) to copy its adjustment settings. Before copying, you'll be prompted to select which adjustments you'd like to include. Click **Save**
@@ -33,7 +33,7 @@ Evoto is designed to make photo editing faster and more efficient, especially wh
 4. Press **Ctrl + V** (or **Command + V** on macOS) to paste the settings.
 
 Both methods allow you to selectively apply only the adjustments you need, giving you control and speed in your editing workflow.
-#### Pop-up Frequency Settings
+##### Pop-up Frequency Settings
 
 By default, Evoto is set to show the Sync Settings pop-up only once per project. This means:
 - The first time you sync or copy/paste settings, you'll see a pop-up where you can choose which adjustments to apply.

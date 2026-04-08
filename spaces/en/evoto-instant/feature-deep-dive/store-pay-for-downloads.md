@@ -38,13 +38,13 @@ source_assets:
 
 Learn how to monetize your galleries by setting up paid downloads. This guide covers everything from store configuration to the client checkout experience.
 
-### Setting Up Your Store
+#### Setting Up Your Store
 
 To begin selling, navigate to the Store tab in the left-hand panel to access the Pricing Configuration Console.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/4-7-119x300.jpg)
 
-### Connect Your Stripe Account
+#### Connect Your Stripe Account
 
 Before you can receive payments, you must link your Stripe account with Evoto Instant.
 
@@ -53,11 +53,11 @@ Before you can receive payments, you must link your Stripe account with Evoto In
 
 ---
 
-### Configure Photo Pricing Models
+#### Configure Photo Pricing Models
 
 Set your own pricing strategy to control profit margins and tailor your sales approach to different business needs. Evoto Instant currently offers **3 photo pricing models**, allowing you to flexibly monetize your galleries based on your workflow and customer preferences. This guide covers everything from store configuration to the client checkout experience.
 
-#### 1. Paid per Photo
+##### 1. Paid per Photo
 
 - Set a fixed price per photo download.
 - **Price range:** $0.50 – $200 USD per photo.
@@ -79,7 +79,7 @@ We’ve designed the checkout process to be fast and friction-less for your clie
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/20251218101153-1024x570.jpg)
 - **Flexible Downloads:** Clients can choose to download images **individually** or as a convenient **ZIP file**.
 
-#### 2. Free Downloads + Paid
+##### 2. Free Downloads + Paid
 
 Offer a certain number of free downloads for your photos, and charge for downloads beyond that.
 
@@ -108,7 +108,7 @@ Clicking "Checkout" triggers a login prompt. Users can authenticate via Email Ve
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/24-300x176.jpg)
 
-#### 3. Paid Gallery Access
+##### 3. Paid Gallery Access
 
 Allow users to unlock the entire gallery with a one-time payment.
 
@@ -138,7 +138,7 @@ Clients Purchase Experience
 
 ---
 
-### Watermark Protection
+#### Watermark Protection
 
 Protect your work before it's purchased.
 
@@ -148,7 +148,7 @@ Protect your work before it's purchased.
 
 ---
 
-### File Delivery & Access
+#### File Delivery & Access
 
 - **Packaging Time:** Small orders are usually ready **within seconds**. Larger orders may take a moment to process.
 - **Email Notification:** Once the files are ready, the client receives an automated email containing:
@@ -160,12 +160,12 @@ Protect your work before it's purchased.
 
 ---
 
-### Manage Your Earnings
+#### Manage Your Earnings
 
 - For a limited time, enjoy **0% platform commission**. Additionally, **we are covering the standard payment processing fees**, ensuring you keep the maximum amount from every sale.
 - **Availability:** Currently, the payment system is available exclusively to **U.S.-based photographers**.
 
-#### Withdrawing Funds
+##### Withdrawing Funds
 
 Click **Withdraw** in your dashboard to access your Stripe payout portal. You can choose your preferred payout schedule:
 
@@ -174,7 +174,7 @@ Click **Withdraw** in your dashboard to access your Stripe payout portal. You ca
 
 ---
 
-### Tracking Your Sales Performance —— Analytics
+#### Tracking Your Sales Performance —— Analytics
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/6-3-300x131.jpg)
 

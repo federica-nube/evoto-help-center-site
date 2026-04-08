@@ -19,24 +19,24 @@ As configurações do sistema do Evoto permitem otimizar o desempenho, gerenciar
 
 ---
 
-### Desempenho
+#### Desempenho
 
 Essas configurações ajudam a melhorar a velocidade de processamento de acordo com as capacidades do seu dispositivo.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/desempenho-300x245.jpg)
 
-#### Configurações de Velocidade de Renderização
+##### Configurações de Velocidade de Renderização
 
 O Evoto oferece várias opções para melhorar o desempenho de renderização, especialmente durante edições complexas ou fluxos de trabalho de grande volume. Ajustar essas opções pode acelerar os processos de pré-visualização e exportação, equilibrando o uso de recursos e a qualidade do resultado.
 
-##### Velocidade de Visualização
+###### Velocidade de Visualização
 
 Essas configurações ajudam a acelerar a visualização de efeitos, alocando mais recursos do sistema para o processo de renderização:
 
 - ****Aceleração de Renderização de Efeito de Retrato****: Utiliza mais poder de processamento do computador para acelerar a renderização de efeitos relacionados a retratos durante a visualização.
 - ****Aceleração de Renderização de Efeito de Cor****: Utiliza mais poder de processamento para acelerar a renderização de ajustes relacionados à cor durante a visualização.
 
-##### Velocidade de Exportação
+###### Velocidade de Exportação
 
 O Evoto aplica os efeitos uma segunda vez ao exportar imagens para garantir a máxima qualidade. Você pode habilitar a seguinte configuração para acelerar esse processo:
 
@@ -46,7 +46,7 @@ Aloca mais poder de processamento para a renderização de efeitos de retrato du
 
 > Observação: É necessário reiniciar o Evoto após habilitar esta configuração para que ela tenha efeito.
 
-##### Otimização de Retratos em Grupo
+###### Otimização de Retratos em Grupo
 
 Para fotos com muitos sujeitos (tipicamente 15 ou mais), o Evoto oferece uma opção para melhorar a velocidade de processamento:
 
@@ -54,7 +54,7 @@ Para fotos com muitos sujeitos (tipicamente 15 ou mais), o Evoto oferece uma op�
 
 Acelera a renderização de retratos em grupo grandes. Isso pode reduzir ligeiramente a precisão de certos efeitos, mas aumenta significativamente a velocidade de processamento. Desativar essa função garantirá maior precisão dos efeitos em grupo, porém resultará em tempos de processamento mais longos.
 
-#### Configurações de Uso de Memória
+##### Configurações de Uso de Memória
 
 Otimizar o uso de memória ajuda a manter edição estável e responsiva. Essas opções controlam como o Evoto gerencia a memória durante as fases de visualização e exportação:
 
@@ -71,13 +71,13 @@ Fase de Exportação:
 
 > Observação: É necessário reiniciar o Evoto para que as configurações de memória tenham efeito.
 
-#### Configurações de Rede
+##### Configurações de Rede
 
 Duração do Timeout de Solicitação: Altere o tempo que o sistema tentará encontrar uma conexão de internet estável antes de exibir uma mensagem de erro de timeout. O padrão do sistema é 3 minutos (180 segundos).
 
 ---
 
-### Exportação
+#### Exportação
 
 - **Máximo de Exportações Simultâneas**
 
@@ -93,7 +93,7 @@ Escolha se os metadados da imagem exportada devem incluir:
 
 ---
 
-### Cachê
+#### Cachê
 
 Gerencie as configurações de cachê do Evoto através de:
 
@@ -111,7 +111,7 @@ Gerencie as configurações de cachê do Evoto através de:
 
 ---
 
-### Visualização
+#### Visualização
 
 As configurações de visualização permitem personalizar como as imagens aparecem durante a edição, sem afetar a qualidade da exportação final.
 
@@ -146,9 +146,9 @@ Quando ativado, o Evoto lembra o nível de zoom e a posição usados pela últim
 
 ---
 
-### Preferências
+#### Preferências
 
-#### Frequência de Pop-up de sincronização
+##### Frequência de Pop-up de sincronização
 
 Por padrão, o Evoto está configurado para mostrar o pop-up de Sincronização de Ajustes apenas uma vez por projeto:
 
@@ -175,13 +175,13 @@ Com essa configuração ativada, você poderá confirmar ou ajustar quais ediç�
 
 ---
 
-#### Captura Vinculada
+##### Captura Vinculada
 
 **Conexão Automática à Câmera**
 
 Ative esta opção para conectar automaticamente sua câmera ao Evoto ao usar um cabo tether. Se desativada, você precisará conectar a câmera manualmente toda vez que ela for plugada.
 
-#### Configurações de Alternância de Espaço de Trabalho
+##### Configurações de Alternância de Espaço de Trabalho
 
 Alternar Automaticamente para Editar
 
@@ -189,7 +189,7 @@ Quando ativado, ao importar imagens em um projeto vazio, o programa abrirá auto
 
 ---
 
-### Uso do Software
+#### Uso do Software
 
 ****Compartilhar Minhas Informações de Uso****
 

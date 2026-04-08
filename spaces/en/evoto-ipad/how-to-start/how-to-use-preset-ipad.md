@@ -17,7 +17,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/iPad-Preset-Imports.png"
 ---
 
-### Creating a New Preset
+#### Creating a New Preset
 
 To create a new preset:
 
@@ -35,7 +35,7 @@ To create a new preset:
 
 **Managing Your Presets** **Share, Rename or Delete**: Long-press on any preset to bring up options to *Share, Rename*or*Delete Preset.* **Additional Features**: Import Presets Share Presets Filter Presets View Type Tags (e.g., identifying presets by category or effect type)
 
-### Preset Groups
+#### Preset Groups
 
 Preset Groups help you organize presets by shoot type, lighting conditions, or editing style.
 
@@ -45,7 +45,7 @@ To create a new group, tap the **+** icon in the top right corner of the Presets
 
 ---
 
-### Importing Presets
+#### Importing Presets
 
 To import presets from another device or user, tap the **+** icon in the top right corner of the Presets menu and select Import Preset(s). Enter the preset token provided, and the preset will be added to your My Presets list.
 

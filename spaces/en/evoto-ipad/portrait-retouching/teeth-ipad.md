@@ -20,7 +20,7 @@ The Teeth module is designed to enhance the appearance of teeth in portraits, of
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-25-at-17.29.06-227x300.png)
 
-### Teeth Flaws Removal
+#### Teeth Flaws Removal
 
 Automatically removes imperfections such as braces, stains, or gaps while maintaining natural tooth texture.
 
@@ -28,14 +28,14 @@ Automatically removes imperfections such as braces, stains, or gaps while mainta
 
 **Fix Teeth Edge:**When toggled on, this feature fills in jagged or chipped edges for smoother-looking teeth. *Note: These features will only work on natural teeth, and not AI-generated teeth from the****Smile Generation****feature from the Facial Expression group*
 
-### Teeth Whitening
+#### Teeth Whitening
 
 Brighten and enhance the color of teeth with precise control. Enabling this feature also activates two sub-sliders:
 
 - **Brightness** – Adjusts the overall brightness of the teeth.
 - **Desaturation** – Reduces yellowing by lowering the saturation of the teeth.
 
-### Teeth Alignment
+#### Teeth Alignment
 
 Corrects uneven or misaligned teeth for a straighter, more symmetrical smile.
 
@@ -43,7 +43,7 @@ Corrects uneven or misaligned teeth for a straighter, more symmetrical smile.
 - AI analyzes the dental structure to address common issues such as gaps, crooked teeth, protrusions, or missing teeth.
 - *Note: This feature is optimized for adult teeth only.*
 
-### Pretty Teeth
+#### Pretty Teeth
 
 For more extensive imperfections (e.g., irregular teeth, braces, or missing teeth), this tool generates a complete, naturally shaped set of teeth with one click.
 

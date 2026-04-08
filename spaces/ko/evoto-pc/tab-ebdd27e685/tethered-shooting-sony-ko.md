@@ -21,7 +21,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/8e1a38f1-ce84-4ce8-9ddd-bddac88dbbaf.png"
 ---
 
-### 테더링 촬영 설정 - 소니 카메라
+#### 테더링 촬영 설정 - 소니 카메라
 
 컴퓨터 설정 확인 For Windows System For MacOS Operation System Windows 시스템의 경우, 장치 관리자로 이동하여 휴대용 장치 아래에서 카메라가 컴퓨터에 연결되었는지 확인합니다. MacOS 시스템의 경우, "사진" 앱을 열고 "장치" 아래에서 카메라가 컴퓨터에 연결되었는지 확인하십시오.
 

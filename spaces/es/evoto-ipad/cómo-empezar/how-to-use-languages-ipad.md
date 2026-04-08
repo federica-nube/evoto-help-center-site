@@ -16,7 +16,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/2ad92788-f700-4e0f-9453-64fff5c28d99-300x225.png"
 ---
 
-### Multilingual Support
+#### Multilingual Support
 
 Evoto iPad now supports multiple languages, including:
 
@@ -27,7 +27,7 @@ Evoto iPad now supports multiple languages, including:
 
 ---
 
-### Default Language Behavior
+#### Default Language Behavior
 
 - When Evoto iPad is first downloaded, the app will automatically adopt the system's default language.
 - If the system language is not supported by Evoto (e.g., Dutch), the app will default to English.
@@ -35,7 +35,7 @@ Evoto iPad now supports multiple languages, including:
 
 ---
 
-### How to Change the Language
+#### How to Change the Language
 
 To change the language used in Evoto iPad:
 

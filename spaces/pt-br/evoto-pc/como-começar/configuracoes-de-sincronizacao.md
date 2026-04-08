@@ -20,9 +20,9 @@ O Evoto foi desenvolvido para tornar a edição de fotos mais rápida e eficient
 
 Após terminar de editar uma foto, você pode aplicar facilmente os mesmos ajustes em outras imagens utilizando um de dois métodos de sincronização:
 
-### Sincronizar Ajustes
+#### Sincronizar Ajustes
 
-### Método 1: Sincronizar para Todas as Imagens
+#### Método 1: Sincronizar para Todas as Imagens
 
 1. Selecione a foto que você já terminou de editar.
 2. Pressione **Ctrl + A** (ou**Command + A** no macOS) para selecionar todas as imagens.
@@ -30,7 +30,7 @@ Após terminar de editar uma foto, você pode aplicar facilmente os mesmos ajust
 4. Um pop-up aparecerá. Escolha quais ajustes específicos deseja sincronizar.
 5. Clique em **Salvar** para aplicar as alterações.
 
-#### Método 2: Copiar e Colar Ajustes
+##### Método 2: Copiar e Colar Ajustes
 
 1. Selecione a imagem editada.
 2. Pressione **Ctrl + C** (ou **Command + C** no macOS) para copiar os ajustes da imagem.
@@ -42,7 +42,7 @@ Ambos os métodos permitem aplicar seletivamente apenas os ajustes desejados, pr
 
 ---
 
-### Frequência de Pop-up de sincronização
+#### Frequência de Pop-up de sincronização
 
 Por padrão, o Evoto está configurado para mostrar o pop-up de Sincronização de Ajustes apenas uma vez por projeto:
 

@@ -15,7 +15,7 @@ This guide addresses common issues where Evoto might be blocked by your operatin
 
 ---
 
-### How to fix "Evoto can’t be opened because it was not downloaded from the App Store" error on Mac?
+#### How to fix "Evoto can’t be opened because it was not downloaded from the App Store" error on Mac?
 
 This error occurs when macOS Gatekeeper, a security feature, prevents applications from opening if they are not downloaded from the App Store or identified developers.
 
@@ -33,7 +33,7 @@ To resolve this error, follow these instructions:
 
 ---
 
-### How do I allow Evoto through Windows Antivirus?
+#### How do I allow Evoto through Windows Antivirus?
 
 Antivirus and anti-malware programs may sometimes flag or restrict Evoto-related processes, preventing the software from running smoothly. By creating an exclusion or whitelist entry, you can ensure Evoto operates without interference.
 

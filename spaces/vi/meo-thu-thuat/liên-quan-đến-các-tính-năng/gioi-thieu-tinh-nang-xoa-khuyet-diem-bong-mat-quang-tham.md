@@ -12,20 +12,20 @@ secondary_categories:
 
 Trong Evoto, tính năng Xóa khuyết điểm cung cấp hai thanh trượt mạnh mẽ được thiết kế riêng để cải thiện vùng mắt: **Quầng thâm** và **Bọng mắt**. Các công cụ này giúp mang lại vẻ ngoài tươi tắn và khỏe mạnh bằng cách xử lý các vấn đề thường gặp dưới mắt.
 
-### Xoá quầng thâm
+#### Xoá quầng thâm
 
 Thanh trượt **xoá quầng thâm**được thiết kế để loại bỏ vùng da tối màu thường xuất hiện dưới mắt. Tính năng này lý tưởng để làm sáng tông màu da dưới mắt, giúp đôi mắt trông tươi tắn và tỉnh táo hơn.
 
 - **Cách sử dụng**: Bạn chỉ cần kéo thanh trượt sang phải để làm giảm sắc tố gây tối màu dưới mắt. Điều này giúp loại bỏ vẻ mệt mỏi do tăng các sắc tố gây ra.
 
-### Xoá bọng mắt
+#### Xoá bọng mắt
 
 Thanh trượt **xoá** **bọng mắt** được thiết kế đặc biệt để loại bỏ bọng dưới mắt, nguyên nhân do da chảy xệ hoặc sưng phồng. Tính năng này giúp khôi phục lại cấu trúc khuôn mặt khỏe mạnh và mịn màng hơn.
 
 - **Chức năng chính**: Nhận diện và loại bỏ chính xác bọng mắt. Bằng cách kéo thanh trượt, bạn có thể làm giảm sự xuất hiện của đôi mắt sưng phồng, giúp khuôn mặt trông khỏe mạnh và trẻ trung hơn.
 - **Bảo vệ bọng mắt cười**: Thanh trượt này bao gồm chức năng giữ lại bọng mắt cười – phần bọng mắt tự nhiên thường được xem là dấu hiệu của sự trẻ trung và cuốn hút trong nhiều nền văn hóa. Theo mặc định, tính năng này được đặt ở mức 100, đảm bảo rằng trong khi bọng mắt được loại bỏ, bọng mắt cười tự nhiên vẫn được giữ nguyên.
 
-### Sử dụng các thanh trượt
+#### Sử dụng các thanh trượt
 
 Để sử dụng hiệu quả các thanh trượt này:
 

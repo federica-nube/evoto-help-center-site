@@ -10,7 +10,7 @@ tags:
   - "ipad"
 ---
 
-### Keyboard Shortcuts
+#### Keyboard Shortcuts
 
 New navigation shortcuts have been added to improve efficiency in your workflow (with connected keyboard):
 

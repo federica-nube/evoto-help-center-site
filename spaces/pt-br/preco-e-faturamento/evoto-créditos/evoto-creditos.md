@@ -18,7 +18,7 @@ source_assets:
 
 Este guia explica o que são os créditos do Evoto, como eles são utilizados e como gerenciar o saldo de créditos e o acesso por dispositivo.
 
-### O que são créditos no Evoto?
+#### O que são créditos no Evoto?
 
 Os créditos são a moeda utilizada no Evoto para exportar fotos editadas sem marca d’água. Pense em 1 crédito como a chave para desbloquear 1 imagem retocada profissionalmente.
 
@@ -26,7 +26,7 @@ Os créditos são a moeda utilizada no Evoto para exportar fotos editadas sem ma
 
 ---
 
-### Regras de Uso de Créditos
+#### Regras de Uso de Créditos
 
 Entender como os créditos são descontados ajuda você a gerenciar seu saldo de forma mais eficiente.
 
@@ -41,13 +41,13 @@ Se você modificar uma imagem fora do Evoto (por exemplo, redimensionando ou gir
 
 ---
 
-### Compartilhamento e Transferência de Créditos
+#### Compartilhamento e Transferência de Créditos
 
 - **Entre o Evoto Desktop e o iPad****Sim.** Os créditos adquiridos em qualquer uma das plataformas estão vinculados à sua conta Evoto e podem ser usados de forma intercambiável tanto na versão desktop quanto na versão para iPad.
 - **Transferência para Outras Contas****Não.** Os créditos não são transferíveis e permanecem vinculados à conta que realizou a compra.
 - **Compartilhamento com Outros Usuários****Não.** Os créditos são exclusivos da sua conta e não podem ser compartilhados com outros usuários.
 
-### Gerenciamento de Créditos
+#### Gerenciamento de Créditos
 
 O Evoto oferece maneiras simples de verificar seu saldo de créditos e até mesmo obter créditos gratuitos.
 
@@ -66,11 +66,11 @@ Você pode ganhar até 15 créditos gratuitos apenas completando o seu perfil:
 - Cada dispositivo pode resgatar essa recompensa apenas uma vez.
 - Utilize esses créditos de recompensa dentro de 30 dias após o resgate, pois eles podem expirar.
 
-### Como Verificar o Saldo de Créditos
+#### Como Verificar o Saldo de Créditos
 
 Você pode visualizar seu saldo atual de créditos e o histórico de uso de duas maneiras:
 
-#### Método 1: No App Evoto
+##### Método 1: No App Evoto
 
 1. Toque no **ícone da conta** (seu avatar ou inicial) no canto superior direito.
 2. Selecione **Créditos** no menu suspenso.
@@ -78,7 +78,7 @@ Você pode visualizar seu saldo atual de créditos e o histórico de uso de duas
 
 ![](https://support.evoto.ai/wp-content/uploads/2026/01/1-300x175.jpg)
 
-#### Método 2: No Site do Evoto
+##### Método 2: No Site do Evoto
 
 1. Faça login em **[evoto.ai](https://evoto.ai)**.
 2. Vá para **Minha Conta → Faturamento e Uso**.
@@ -88,11 +88,11 @@ Você pode visualizar seu saldo atual de créditos e o histórico de uso de duas
 
 ![](https://support.evoto.ai/wp-content/uploads/2026/01/3-300x193.jpg)
 
-### Os Créditos Expiram?
+#### Os Créditos Expiram?
 
 **Sim.** Os créditos possuem uma data de validade que depende do pacote adquirido.
 
-##### Como Verificar a Validade dos Créditos
+###### Como Verificar a Validade dos Créditos
 
 1. Faça login em **[evoto.ai](https://evoto.ai)**.
 2. Vá para **Minha Conta → Faturamento e Uso**.
@@ -104,11 +104,11 @@ Você pode visualizar seu saldo atual de créditos e o histórico de uso de duas
 
 ![](https://support.evoto.ai/wp-content/uploads/2026/01/5-300x237.jpg)
 
-### Como os Créditos São Descontados se eu Tiver Vários Pacotes?
+#### Como os Créditos São Descontados se eu Tiver Vários Pacotes?
 
 Se você tiver mais de um pacote ou plano de créditos ativo, o Evoto sempre utilizará primeiro os créditos do pacote com a data de expiração mais próxima. Isso ajuda você a maximizar o uso dos créditos antes que eles expirem.
 
-### Acesso por Dispositivo
+#### Acesso por Dispositivo
 
 O número de dispositivos nos quais você pode estar logado simultaneamente depende do seu plano Evoto:
 

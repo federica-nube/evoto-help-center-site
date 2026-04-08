@@ -26,17 +26,17 @@ A correspondência de estilo em lote permite aplicar o mesmo visual e efeitos em
 
 ---
 
-### Método 1: Sincronizando efeitos entre fotos
+#### Método 1: Sincronizando efeitos entre fotos
 
 Esse método é ideal quando você deseja copiar todos os efeitos (ou apenas os selecionados) de uma foto e aplicá-los diretamente a outras dentro do mesmo projeto.
 
-#### Passo 1 – Selecionar a foto de origem
+##### Passo 1 – Selecionar a foto de origem
 
 Escolha a foto que já possui o estilo que você deseja usar. Clique nela para que seja destacada em amarelo.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250905113913-scaled.jpg)
 
-#### Passo 2 – Selecionar as fotos de destino
+##### Passo 2 – Selecionar as fotos de destino
 
 Agora, selecione as fotos às quais deseja aplicar os efeitos sincronizados.
 
@@ -48,7 +48,7 @@ As fotos selecionadas serão destacadas em branco.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250905114310-scaled.jpg)
 
-#### Passo 3 – Escolher quais efeitos sincronizar
+##### Passo 3 – Escolher quais efeitos sincronizar
 
 Clique no **ícone de engrenagem** ao lado do botão **Sincronizar**. Um painel será exibido, permitindo selecionar quais tipos de efeitos você deseja sincronizar, como:
 
@@ -60,7 +60,7 @@ Isso oferece controle total, caso você queira que apenas determinados ajustes s
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250905181803-scaled.jpg)
 
-#### Passo 4 – Sincronizar os efeitos
+##### Passo 4 – Sincronizar os efeitos
 
 Clique no botão **Sincronizar**. O Evoto copiará todos os efeitos da foto destacada em amarelo para todas as fotos destacadas em branco.
 

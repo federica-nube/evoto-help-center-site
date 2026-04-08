@@ -18,7 +18,7 @@ O tom de pele é essencial na edição de retratos. Com o Evoto, você pode unif
 
 ---
 
-### Método 1: Ajuste de Tom de Pele
+#### Método 1: Ajuste de Tom de Pele
 
 Permite controlar manualmente a aparência da pele. **Caminho: Retoque de Retrato > Retoque de Pele > Tom de Pele**
 
@@ -34,7 +34,7 @@ Permite controlar manualmente a aparência da pele. **Caminho: Retoque de Retrat
 
 ---
 
-### Método 2: Máscara Local para Ajuste de Pele
+#### Método 2: Máscara Local para Ajuste de Pele
 
 Para edições mais precisas em áreas específicas. **Caminho: Máscara Local > Pele > Ajustes de Cor**
 
@@ -47,7 +47,7 @@ Ideal para corrigir áreas irregulares ou realçar regiões específicas sem afe
 
 ---
 
-### Unificar Tom de Pele por IA
+#### Unificar Tom de Pele por IA
 
 Ferramenta inteligente que unifica tons de pele automaticamente.
 
@@ -72,7 +72,7 @@ Ferramenta inteligente que unifica tons de pele automaticamente.
 
 ---
 
-### Dicas Profissionais
+#### Dicas Profissionais
 
 - **Comece com ajustes sutis:** aumente os sliders gradualmente até encontrar o equilíbrio natural.
 - **Compare antes e depois:** use o preview para garantir resultados realistas.

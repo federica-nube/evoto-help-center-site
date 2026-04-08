@@ -17,7 +17,7 @@ Este guia explica onde encontrar documentação detalhada, como se conectar com 
 
 ---
 
-### Encontrar Informações & Comunidade
+#### Encontrar Informações & Comunidade
 
 - **Suporte de Comunidade**
 - O **grupo oficial do Evoto no Facebook** é uma comunidade ativa onde você pode compartilhar dicas, obter insights e se inspirar com outros usuários.
@@ -28,7 +28,7 @@ Este guia explica onde encontrar documentação detalhada, como se conectar com 
 
 ---
 
-### Se não conseguir resolver minhas dúvidas pela comunidade, como entro em contato com o suporte?
+#### Se não conseguir resolver minhas dúvidas pela comunidade, como entro em contato com o suporte?
 
 O Evoto oferece várias formas de assistência e envio de feedback:
 

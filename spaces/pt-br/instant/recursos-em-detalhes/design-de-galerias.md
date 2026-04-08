@@ -28,7 +28,7 @@ source_assets:
 As galerias são a forma como as suas fotos são apresentadas aos clientes. O Evoto Instant permite-lhe personalizar o design das suas galerias para que tenham um aspeto profissional, com a sua identidade de marca e alinhado com o seu evento. Todas as definições de design das galerias são guardadas na nuvem e sincronizadas automaticamente entre a Aplicação e o Portal Web.
 ---
 
-### Aceder às Definições de Design de Galerias
+#### Aceder às Definições de Design de Galerias
 
 Pode configurar o design das galerias nas Definições do Projeto, tanto na Aplicação como no Portal Web:
 
@@ -47,13 +47,13 @@ Pode configurar o design das galerias nas Definições do Projeto, tanto na Apli
 
 ---
 
-### Opções de Design da Galeria
+#### Opções de Design da Galeria
 
-#### No Portal Web
+##### No Portal Web
 
 O Evoto Instant suporta 4 opções de identidade visual que lhe permitem transformar uma galeria simples numa montra profissional que reflete a sua marca ou identidade do evento.
 
-##### Definições de Atividade (Favoritos e Comentários)
+###### Definições de Atividade (Favoritos e Comentários)
 
 O Painel de Atividade foi concebido para ajudar os fotógrafos a acompanhar o envolvimento e identificar as suas fotos mais populares, transformando a Galeria Evoto de uma experiência de visualização estática num Espaço de Trabalho Interativo.
 
@@ -74,7 +74,7 @@ Para ativar esses recursos de interação, acesse Marca da Galeria > Atividade e
 
 ---
 
-##### Configuração Geral
+###### Configuração Geral
 
 Os fotógrafos podem definir uma sequência padrão de fotos para suas galerias. Esse recurso também oferece aos visitantes a flexibilidade de personalizar a visualização, alternando entre diferentes critérios de ordenação diretamente na interface do cliente.
 
@@ -82,7 +82,7 @@ A ordenação agora pode ser baseada na **data de captura**, **horário de uploa
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/5-3-300x231.jpg)
 
-##### Apresentação de Slides
+###### Apresentação de Slides
 
 A**Apresentação de Slides**permite que fotógrafos exibam fotos em tempo real em telas grandes, com atualizações automáticas e acesso por QR code para os convidados.
 
@@ -101,7 +101,7 @@ A**Apresentação de Slides**permite que fotógrafos exibam fotos em tempo real 
 
 ---
 
-##### Banner Superior
+###### Banner Superior
 
 Personalize o banner apresentado no topo da sua galeria partilhada.
 
@@ -118,7 +118,7 @@ Personalize o banner apresentado no topo da sua galeria partilhada.
 
 ---
 
-##### Banner Inferior
+###### Banner Inferior
 
 Crie o banner exibido na parte inferior da sua galeria compartilhada.
 
@@ -130,7 +130,7 @@ Crie o banner exibido na parte inferior da sua galeria compartilhada.
 
 ---
 
-##### Marca de Água
+###### Marca de Água
 
 As definições de marca de água suportam dois tipos:
 
@@ -141,7 +141,7 @@ As definições de marca de água suportam dois tipos:
 
 ---
 
-##### Perfil de Identificação do Fotógrafo
+###### Perfil de Identificação do Fotógrafo
 
 A funcionalidade de Perfil de Identificação do Fotógrafo permite aos fotógrafos apresentar as suas informações pessoais e detalhes de contacto diretamente na página da Galeria, ajudando-os a transmitir uma imagem profissional aos clientes e facilitando o contacto por parte dos mesmos.
 
@@ -169,7 +169,7 @@ Modos de Posicionamento do Cartão de Perfil: Pode escolher como o Perfil de Ide
 
 ---
 
-### Identidade Visual Personalizada
+#### Identidade Visual Personalizada
 
 Para além das imagens de capa, o Evoto Instant suporta opções de identidade visual que lhe permitem:
 

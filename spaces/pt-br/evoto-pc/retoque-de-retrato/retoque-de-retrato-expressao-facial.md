@@ -17,7 +17,7 @@ Ajuste expressões faciais sutis para realçar o humor e a aparência natural em
 
 ---
 
-### Sorriso Gengival
+#### Sorriso Gengival
 
 Controle a quantidade de gengiva exposta ajustando a posição do lábio superior. Isso é útil para reduzir a aparência de um “sorriso gengival” ou minimizar dentes projetados.
 
@@ -27,7 +27,7 @@ Controle a quantidade de gengiva exposta ajustando a posição do lábio superio
 
 ---
 
-### Sorriso Suave
+#### Sorriso Suave
 
 Realce os cantos da boca para introduzir um sorriso sutil.
 
@@ -35,7 +35,7 @@ Realce os cantos da boca para introduzir um sorriso sutil.
 
 ---
 
-### Geração de Sorrisos
+#### Geração de Sorrisos
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/笑容生成-300x138.jpg)
 

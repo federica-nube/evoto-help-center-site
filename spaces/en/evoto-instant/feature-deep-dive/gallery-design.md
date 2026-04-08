@@ -30,7 +30,7 @@ Galleries are how your photos are presented to clients. Evoto Instant allows you
 
 ---
 
-### Accessing Gallery Design Settings
+#### Accessing Gallery Design Settings
 
 You can configure gallery design in the **Project Settings** of both the App and the Web Portal:
 
@@ -49,13 +49,13 @@ You can configure gallery design in the **Project Settings** of both the App and
 
 ---
 
-### Options for Gallery Branding
+#### Options for Gallery Branding
 
-#### On the Web Portal
+##### On the Web Portal
 
 Evoto Instant supports 4 branding options that allow you to transform a simple gallery into a professional showcase that reflects your brand or event identity.
 
-##### Activity Settings (Favorites & Notes)
+###### Activity Settings (Favorites & Notes)
 
 The Activity Dashboard is designed to help photographers track engagement and identify their most popular photos, transforming the Evoto Gallery from a static viewing experience into an Interactive Workspace.
 
@@ -69,7 +69,7 @@ The Activity Dashboard is designed to help photographers track engagement and id
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/9-1-130x300.jpg)
 
-##### General Setting: Live Slideshow Display
+###### General Setting: Live Slideshow Display
 
 Live Slideshow Mode allows photographers to display photos in real-time on large screens with automatic updates and QR code access for guests.
 
@@ -85,7 +85,7 @@ Slideshow Settings: Access Slideshow Settings directly from the gallery view to 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/11-4-300x238.jpg)
 
-##### Top Banner
+###### Top Banner
 
 Design the banner shown at the top of your shared gallery.
 
@@ -102,7 +102,7 @@ Design the banner shown at the top of your shared gallery.
 
 - **Template:** Select a top banner format first, then upload an image (less than 10MB) that fits the chosen format.
 
-##### Bottom Banner
+###### Bottom Banner
 
 Design the banner shown at the bottom of your shared gallery.
 
@@ -112,7 +112,7 @@ Design the banner shown at the bottom of your shared gallery.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/3-300x138.jpg)
 
-##### Watermark
+###### Watermark
 
 The watermark settings support two types of watermarks:
 
@@ -123,7 +123,7 @@ The watermark settings support two types of watermarks:
 
 **Note:** When **Pay-to-Download** is enabled, Photo Protection is turned on by default. You can customize these settings directly in the Pay-to-Download configuration menu.
 
-##### Photographer ID Profile
+###### Photographer ID Profile
 
 Photographer ID Profile Feature allows photographers to showcase their personal information and contact details directly on the Gallery page, helping them present a professional image to clients and making it easy for clients to reach out.
 
@@ -151,7 +151,7 @@ Photographer ID Profile Feature allows photographers to showcase their personal 
 
 ---
 
-### Custom Branding
+#### Custom Branding
 
 In addition to cover images, Evoto Instant supports branding options that allow you to:
 

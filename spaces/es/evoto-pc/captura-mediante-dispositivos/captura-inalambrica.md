@@ -26,7 +26,7 @@ Esta función permite:
 
 Evoto también admite una configuración dual, lo que te permite usar una cámara inalámbrica y una cámara con cable en el mismo proyecto simultáneamente.
 
-### Cómo Usarla
+#### Cómo Usarla
 
 - Abre Evoto y ve a la página **Captura mediante Dispositivos**, luego selecciona **Captura Inalámbrica**.
 
@@ -39,7 +39,7 @@ Evoto también admite una configuración dual, lo que te permite usar una cámar
 
 ---
 
-### Configuración Previa a la Captura
+#### Configuración Previa a la Captura
 
 Antes de disparar, puedes configurar las siguientes opciones. Estos ajustes se sincronizan con la captura con cable.
 
@@ -52,7 +52,7 @@ Antes de disparar, puedes configurar las siguientes opciones. Estos ajustes se s
 
 ---
 
-### Pantalla Secundaria para Captura mediante Dispositivos
+#### Pantalla Secundaria para Captura mediante Dispositivos
 
 Durante la captura, las imágenes se pueden mostrar en una pantalla secundaria. Esto es útil para que los modelos vean sus poses, facilitando la comunicación, y durante la **Selección con IA**, permite navegar y marcar imágenes, acelerando el flujo de trabajo.
 
@@ -62,7 +62,7 @@ Cómo Usarla En el panel de **Captura Inalámbrica**, activa la opción **Ventan
 
 ---
 
-### Soporte y Limitaciones
+#### Soporte y Limitaciones
 
 - **Compatible:** Evoto admite una configuración dual con una cámara inalámbrica y una cámara con cable simultáneamente.
 - **No compatible:** El software no admite el uso de varias cámaras inalámbricas ni varias cámaras con cable al mismo tiempo.

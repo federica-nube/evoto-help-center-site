@@ -19,7 +19,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/d431de28-b8ef-45cc-8da4-4956f1d42a34.png"
 ---
 
-### Rendimiento
+#### Rendimiento
 
 ![](https://res.evoto.ai/wordpress/5b53456a-85e5-4667-b4a5-e74cc43893f6.png)
 

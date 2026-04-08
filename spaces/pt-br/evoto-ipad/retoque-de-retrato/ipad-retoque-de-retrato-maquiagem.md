@@ -17,30 +17,30 @@ O módulo de **Maquiagem** do Evoto detecta automaticamente os traços faciais e
 
 ---
 
-### Aprimoramentos Gerais
+#### Aprimoramentos Gerais
 
-#### Realce
+##### Realce
 
 Adiciona brilho a áreas-chave do rosto para criar uma aparência mais dimensional e luminosa. Use o slider para ajustar a intensidade.
 
-#### Contorno
+##### Contorno
 
 Intensifica sombras e estrutura para definir os traços faciais. Ajuste o slider para aumentar ou suavizar o contorno, criando um visual esculpido.
 
 ---
 
-### Ajustes Avançados de Maquiagem
+#### Ajustes Avançados de Maquiagem
 
 Esses recursos oferecem controle detalhado sobre a maquiagem existente nas sobrancelhas, olhos e lábios. Todos os ajustes suportam edição tanto em conjunto (ligada) quanto separadamente (individual para esquerda/direita).
 
-#### Maquiagem das Sobrancelhas
+##### Maquiagem das Sobrancelhas
 
 Realce ou reduza a maquiagem original das sobrancelhas.
 
 - Deslize para a esquerda para reduzir a intensidade da maquiagem.
 - Deslize para a direita para intensificar a maquiagem das sobrancelhas.
 
-#### Maquiagem dos Olhos
+##### Maquiagem dos Olhos
 
 Realça a maquiagem original dos olhos:
 
@@ -52,7 +52,7 @@ Realça a maquiagem original dos olhos:
 - **Brilho:** Ajusta a luminosidade geral da maquiagem dos olhos.
 - **Dimensionalidade:** Realça o efeito 3D, tornando os olhos mais destacados.
 
-#### Maquiagem dos Lábios
+##### Maquiagem dos Lábios
 
 Realça a maquiagem original dos lábios:
 
@@ -66,17 +66,17 @@ Realça a maquiagem original dos lábios:
 
 ---
 
-### Looks de Maquiagem
+#### Looks de Maquiagem
 
 O Evoto oferece uma ampla variedade de looks de maquiagem predefinidos. Você pode escolher substituir ou realçar a maquiagem original. Cada predefinição inclui um **slider de Valor** para ajustar a intensidade da aplicação.
 
-#### Suíte de Maquiagem
+##### Suíte de Maquiagem
 
 Uma coleção com 18 looks de maquiagem predefinidos, incluindo 2 desenvolvidos para retratos masculinos e 2 para crianças.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/4-1-137x300.jpg)
 
-#### Componentes Individuais de Maquiagem
+##### Componentes Individuais de Maquiagem
 
 - ****Sobrancelhas**** – 9 estilos disponíveis.
 

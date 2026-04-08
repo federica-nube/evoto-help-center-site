@@ -21,7 +21,7 @@ Seja em retratos de grupo, fotos individuais ou lotes de fotos de eventos, o Evo
 
 ---
 
-### Reconhecimento Facial e Tags de Personagem
+#### Reconhecimento Facial e Tags de Personagem
 
 Após a análise, o Evoto identifica recursos faciais e atribui gênero e atributos de idade a cada personagem. Essas tags orientam a lógica de retoque e podem ser modificadas manualmente, se necessário.
 
@@ -32,12 +32,12 @@ Como Acessar a Percepção Facial
 1. Acesse o módulo ****Retoque de Retrato****.
 2. Clique em ****Detecção Facial**** no canto superior direito do Painel de Controle.
 
-#### Adicionar ou Remover Personagens Manualmente
+##### Adicionar ou Remover Personagens Manualmente
 
 - **Adicionar Personagem:** Use a ferramenta ****Localizar Rosto**** para definir um quadro ao redor de um rosto que deseja marcar. O Evoto identificará e atribuirá como um novo personagem.
 - **Remover Personagem:** Selecione o personagem (destacado em amarelo quando selecionado) e clique na opção ****Excluir****.
 
-#### Alterar Tag de Personagem
+##### Alterar Tag de Personagem
 
 Você pode ajustar a identificação manualmente caso a marcação automática esteja incorreta. Após alterar uma tag, é possível escolher sincronizar o novo atributo em todas as fotos do projeto, eliminando a necessidade de edições repetitivas.
 
@@ -45,7 +45,7 @@ Você pode ajustar a identificação manualmente caso a marcação automática e
 
 ---
 
-#### Edição Individual
+##### Edição Individual
 
 Após concluir os ajustes globais, você pode ajustar os detalhes de uma pessoa específica utilizando o recurso de Edição Individual.
 
@@ -57,7 +57,7 @@ Como funcionar
 
 As edições individuais herdam os valores dos ajustes globais de Gênero ou Idade. No entanto, após a edição individual de um personagem, ele não será mais afetado por alterações posteriores de Gênero/Idade, a menos que você redefina as configurações individuais com base em Gênero ou Idade.
 
-#### Redefinir Edições Individuais
+##### Redefinir Edições Individuais
 
 Se você redefinir as edições individuais, todas as personalizações feitas na aba individual serão apagadas. O personagem voltará a ser afetado pelos ajustes baseados em Gênero ou Idade.
 
@@ -65,7 +65,7 @@ Se você redefinir as edições individuais, todas as personalizações feitas n
 
 ---
 
-#### Retoque de Retrato Vinculado
+##### Retoque de Retrato Vinculado
 
 O Evoto permite vincular personagens de diferentes categorias de gênero ou idade para aplicar ajustes consistentes simultaneamente. Isso é útil em fotos de grupo, por exemplo, adultos e crianças precisam de retoques coordenados.
 

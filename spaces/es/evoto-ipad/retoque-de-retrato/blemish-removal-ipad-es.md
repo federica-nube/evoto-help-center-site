@@ -21,7 +21,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/482e2f43-ab1d-4f7f-b5e1-ff23c98fd58f.png"
 ---
 
-### Pecas & Acné
+#### Pecas & Acné
 
 ![](https://res.evoto.ai/wordpress/4f694239-2ff5-4ed8-b213-d48b38ca819d.png)
 

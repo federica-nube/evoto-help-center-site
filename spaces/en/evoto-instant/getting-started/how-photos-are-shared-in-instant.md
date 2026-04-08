@@ -25,7 +25,7 @@ Once your photos reach the **Shared** stage of the workflow, they’re ready to 
 
 ---
 
-### Gallery Access Methods
+#### Gallery Access Methods
 
 Visitors can access both Global Gallery and Individual Gallery using the following access methods. These options allow you to share with privacy control based on your needs.
 
@@ -34,7 +34,7 @@ Visitors can access both Global Gallery and Individual Gallery using the followi
 
 ---
 
-### The “Find Me” Feature
+#### The “Find Me” Feature
 
 The **Find Me** feature helps guests quickly locate their photos within a gallery. By uploading or taking a quick reference photo, the system searches the gallery and instantly returns matching results. This saves time for guests who don’t want to scroll through hundreds of images.
 
@@ -50,7 +50,7 @@ The **Find Me** feature helps guests quickly locate their photos within a galler
 
 ---
 
-### Interact Feature (Individual Gallery Only)
+#### Interact Feature (Individual Gallery Only)
 
 The**Interact** feature is available only in Individual Gallery. Use this feature to generate a personal gallery link for each guest. A Personal Link contains only the photos belonging to a single guest. Each guest receives one unique link, ensuring private and secure access to their own photos.
 
@@ -69,7 +69,7 @@ This method ensures privacy while giving every guest a direct connection to thei
 
 ---
 
-### Global Gallery Sharing
+#### Global Gallery Sharing
 
 The global gallery contains all photos from your event. You can share this gallery with guests in several ways:
 
@@ -85,7 +85,7 @@ Global galleries are best when you want guests to browse the entire collection f
 
 ---
 
-### Private Gallery Sharing
+#### Private Gallery Sharing
 
 For more personalized interaction, Evoto Instant supports private galleries powered by face recognition.
 
@@ -105,7 +105,7 @@ This method ensures privacy while giving every guest a direct connection to thei
 
 ---
 
-### Customization Options
+#### Customization Options
 
 Evoto Instant makes it easy to present your galleries professionally and align them with your brand identity. Customization options include:
 

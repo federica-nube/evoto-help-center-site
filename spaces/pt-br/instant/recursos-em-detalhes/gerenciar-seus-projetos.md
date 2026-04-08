@@ -17,7 +17,7 @@ source_assets:
 Os projetos são base do Evoto Instant. Eles sincronizam perfeitamente entre o App Evoto Instant e o Portal Web. Esta guia explica como os projetos são gerenciados, quais informações são exibidas, e como editar e personalizar as configurações do projeto.
 ---
 
-### Onde os Projetos São Gerenciados
+#### Onde os Projetos São Gerenciados
 
 Os projetos podem ser criados e gerenciados tanto no **app Evoto Instant** quanto no [**Portal Web**](https://workspace.instant.evoto.ai/pt-br/list).
 
@@ -26,7 +26,7 @@ Os projetos podem ser criados e gerenciados tanto no **app Evoto Instant** quant
 
 ---
 
-### Visualizando Projetos na Página Inicial
+#### Visualizando Projetos na Página Inicial
 
 On the homepage, all created projects are displayed in a list. Each project entry includes: Na página inicial, todos os projetos criados são exibidos em uma lista. Cada entrada do projeto inclui:
 - **Nome do projeto**
@@ -36,7 +36,7 @@ On the homepage, all created projects are displayed in a list. Each project entr
 Os projetos são ordenados por data de criação, com os projetos mais recentes aparecendo no topo da lista.
 ---
 
-### Ações do Projeto
+#### Ações do Projeto
 
 Cada cartão de projeto possui um menu de três pontos que permite realizar as seguintes ações:
 
@@ -58,17 +58,17 @@ Cada cartão de projeto possui um menu de três pontos que permite realizar as s
 
 ---
 
-### Editando Detalhes do Projeto
+#### Editando Detalhes do Projeto
 
 Se você quiser alterar as configurações do projeto, é possível editar os detalhes após a criação do projeto.
 
-#### No App
+##### No App
 
 Abra o projeto e toque no **ícone de configuração** (canto superior direito) para acessar as **Configurações do Projeto**.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-11-at-19.14.12-266x300.png)
 
-#### No [Portal Web](https://workspace.instant.evoto.ai/pt-br/list)
+##### No [Portal Web](https://workspace.instant.evoto.ai/pt-br/list)
 
 Abra o projeto e você encontrará as **Configurações** na **barra lateral esquerda**.
 

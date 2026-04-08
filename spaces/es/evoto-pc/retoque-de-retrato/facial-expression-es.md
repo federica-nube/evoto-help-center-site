@@ -17,7 +17,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/smile-300x189.jpg"
 ---
 
-### Ajustar Encías
+#### Ajustar Encías
 
 ![](https://res.evoto.ai/wordpress/71f09a9c-dae1-400a-96e0-6b66c29b122b.png)
 

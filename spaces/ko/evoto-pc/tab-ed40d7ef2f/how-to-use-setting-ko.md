@@ -19,7 +19,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/스크린샷-2025-08-15-12.42.24.png"
 ---
 
-### Evoto 설정 및 고객센터 교육 영상
+#### Evoto 설정 및 고객센터 교육 영상
 
 **프로그램 설정
 

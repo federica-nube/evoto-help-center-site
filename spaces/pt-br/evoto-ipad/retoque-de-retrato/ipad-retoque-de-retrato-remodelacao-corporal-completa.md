@@ -16,7 +16,7 @@ O módulo ****Remodelação Corporal Completa**** do Evoto utiliza inteligência
 
 ---
 
-### Remodelação por IA
+#### Remodelação por IA
 
 O Evoto combina o posicionamento de pontos do esqueleto em 3D com o reconhecimento de postura para gerar um efeito natural de afinamento ou aumento de volume. Esse recurso preserva o formato original do corpo e mantém uma aparência realista.
 
@@ -24,7 +24,7 @@ O Evoto combina o posicionamento de pontos do esqueleto em 3D com o reconhecimen
 
 ---
 
-### Suavizar Físico
+#### Suavizar Físico
 
 Esse recurso suaviza saliências ou protuberâncias não naturais em áreas do corpo (excluindo roupas), refinando o contorno corporal como um todo.
 
@@ -35,7 +35,7 @@ Esse recurso suaviza saliências ou protuberâncias não naturais em áreas do c
 
 ---
 
-### Ajustes Corporais Individuais
+#### Ajustes Corporais Individuais
 
 - **Corpo** – Ajusta a forma geral do corpo para uma aparência mais esguia ou mais cheia. Também afeta sutilmente a proporção entre cabeça e corpo.
 - **Altura** – Aumenta a altura total do corpo. **(*****Observação: pode ser desativado em imagens que não mostrem o corpo inteiro.)***

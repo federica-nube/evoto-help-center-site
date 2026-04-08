@@ -14,9 +14,9 @@ tags:
 
 The Blemish Removal section in Evoto allows for precise and natural corrections to a wide range of facial and body imperfections, helping you maintain the integrity and realism of the original image while enhancing overall appearance.
 
-### Face Refinement
+#### Face Refinement
 
-#### Freckle & Acne Removal
+##### Freckle & Acne Removal
 
 Evoto uses AI technology to remove freckles and acne, achieving smooth, polished skin without sacrificing natural texture or vibrancy.
 - Move the slider or enter a value to control the effect strength.
@@ -25,44 +25,44 @@ Evoto uses AI technology to remove freckles and acne, achieving smooth, polished
 - **Acne**: Use the acne slider for spot or breakout removal.
 - The individual Freckle & Acne sliders will become available only after activating the main feature toggle.
 
-#### Face Mole Removal
+##### Face Mole Removal
 
 - With one click, you can remove mole spots from the face.
 - If there are moles you wish to keep, use the **Manual Tuning Pen** (mentioned above) to restore them.
 
-#### Reduce Face Shine
+##### Reduce Face Shine
 
 This tool detects oily highlights on the face and minimizes them while preserving natural skin texture and depth.
-#### Dark Circles
+##### Dark Circles
 
 The Dark Circle slider is designed to reduce pigmentation and shadows beneath the eyes, which often make subjects appear tired or stressed.
 
 Move the slider to the right to gradually lighten the under-eye area. This adjustment helps to brighten the eyes and reduce signs of fatigue, creating a more vibrant and alert expression.
-#### Eye Bags and Lower Eyelids Protection
+##### Eye Bags and Lower Eyelids Protection
 
 - Removes puffiness or sagging under the eyes that result from loose or swollen skin.
 - The **Lower Eyelids protection** includes built-in protection for the natural puffiness of the lower eyelids, which can contribute to a youthful and expressive appearance. By default, the preservation level is set to 100, ensuring that while eye bags are reduced, the natural shape and volume of the lower eyelids remain intact. You can adjust this level as needed for your desired result.
 
-#### Remove Glass Glare
+##### Remove Glass Glare
 
 Quickly remove glare caused by glasses using a single slider.
 > Note : This feature does not currently support color-tinted glasses.
 
-#### Nostril Cleanup
+##### Nostril Cleanup
 
 The Nostril Cleanup feature removes dirt, debris, and other blemishes around the nostrils and surrounding areas.
 > Note: Supports manual brush adjustments for precise control of the effect.
 
-#### Lip Wrinkles & Flakes
+##### Lip Wrinkles & Flakes
 
 Repairs dry or cracked lips by smoothing out lines and restoring a fuller, more defined lip shape.
-#### Double Chin
+##### Double Chin
 
 Applies a subtle liquify effect and shadow blending to minimize the appearance of a double chin while maintaining facial realism.
-#### Beard Protection
+##### Beard Protection
 
 Prevents beards from being accidentally altered during blemish removal. This feature is always active when facial hair is detected.
-### Facial Wrinkles
+#### Facial Wrinkles
 
 Evoto includes specialized sliders for different facial wrinkle zones:
 - **Forehead Wrinkle**: Smooths horizontal lines on the forehead.
@@ -78,7 +78,7 @@ Evoto includes specialized sliders for different facial wrinkle zones:
 
 ---
 
-### Body Refinement
+#### Body Refinement
 
 Evoto also supports advanced blemish and texture control for body areas:
 - **Body Blemish**: Removes acne, marks, or irregularities on the body.

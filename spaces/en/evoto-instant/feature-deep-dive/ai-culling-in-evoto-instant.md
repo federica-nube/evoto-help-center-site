@@ -30,7 +30,7 @@ Sorting through thousands of photos manually is time-consuming. AI Culling in Ev
 
 ---
 
-### How to Enable AI Culling
+#### How to Enable AI Culling
 
 You can turn on AI Culling when creating a new project, toggle on **AI Culling** in the setup screen.
 
@@ -45,11 +45,11 @@ You can turn on AI Culling when creating a new project, toggle on **AI Culling**
 
 ---
 
-### Setting Up Culling Rules
+#### Setting Up Culling Rules
 
 In the culling settings, you can customize which rules to apply. After making adjustments, click **Apply** to confirm.
 
-#### Available Rules
+##### Available Rules
 
 - **Closed Eyes** – Detects when subjects have their eyes closed. Advance setting includes:
 - **Laughing Photos**: choose whether closed-eye detection applies to laughing expressions.
@@ -76,7 +76,7 @@ In the culling settings, you can customize which rules to apply. After making ad
 
 ---
 
-#### Sensitivity Levels
+##### Sensitivity Levels
 
 For **Blur, Underexposure, Overexposure,**and **Duplicates**, you can set a detection sensitivity level: **Low, Medium,**or **High**.
 
@@ -98,7 +98,7 @@ For **Duplicates**, sensitivity controls **how similar photos must be to be grou
 
 ---
 
-#### Upload Settings
+##### Upload Settings
 
 You can decide what happens to photos flagged by AI Culling:
 
@@ -111,7 +111,7 @@ This flexibility allows you to balance speed with thoroughness depending on your
 
 ---
 
-### AI Culling in Action
+#### AI Culling in Action
 
 Once enabled, AI Culling works automatically in the background:
 

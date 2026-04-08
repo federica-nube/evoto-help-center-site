@@ -16,7 +16,7 @@ O **Evoto AI** é dedicado a fornecer soluções inteligentes de imagem para fot
 
 ---
 
-### Página de Login
+#### Página de Login
 
 Faça login na sua conta Evoto para começar a editar. Se você já se registrou na versão para desktop, pode usar a mesma conta para fazer login no iPad.
 
@@ -24,7 +24,7 @@ Faça login na sua conta Evoto para começar a editar. Se você já se registrou
 
 ---
 
-### Visão Geral do Espaço de Trabalho
+#### Visão Geral do Espaço de Trabalho
 
 - **Superior – Área de Navegação** Acesse os botões para voltar ao espaço de trabalho principal, visualizar seu centro pessoal, verificar a lista de exportação ou abrir as opções de exportação.
 - **Central – Área de Visualização de Efeitos** Visualize uma prévia em tempo real da foto que está editando. O resultado final refletirá exatamente o que é exibido aqui no momento da exportação.
@@ -33,7 +33,7 @@ Faça login na sua conta Evoto para começar a editar. Se você já se registrou
 
 ---
 
-### Espaço de Cor
+#### Espaço de Cor
 
 **Imagens RAW:** exibidas em **sRGB**, exportadas como **sRGB** por padrão.
 

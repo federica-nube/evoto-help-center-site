@@ -10,7 +10,7 @@ tags:
   - "mobile"
 ---
 
-### What are Presets?
+#### What are Presets?
 
 Presets are a powerful way to speed up your workflow by applying saved settings to new images with just one click. They bundle together a set of adjustments, such as retouching, color, and AI enhancements, into a reusable format.
 
@@ -18,7 +18,7 @@ If you're working with large volumes of photos and want consistent, high-quality
 
 ---
 
-### Preset Library
+#### Preset Library
 
 Evoto offers three preset libraries to help you stay organized and collaborate more effectively:
 
@@ -27,13 +27,13 @@ Evoto offers three preset libraries to help you stay organized and collaborate m
 
 ---
 
-### Using a Preset
+#### Using a Preset
 
 You'll find **Presets** in the editing page. Simply tap on a preset to apply it to the image you're editing.
 
 ---
 
-### Creating a New Preset
+#### Creating a New Preset
 
 1. After finishing your edits, tap **Save Preset** above the **Feature Area**.
 2. Enter a name for your preset.
@@ -42,11 +42,11 @@ You'll find **Presets** in the editing page. Simply tap on a preset to apply it 
 
 ---
 
-### Managing Presets
+#### Managing Presets
 
 Evoto Mobile introduces enhanced preset management features for better organization.
 
-#### Preset Groups
+##### Preset Groups
 
 Create **Preset Groups** to keep your workspace tidy and efficient. These groups allow you to organize different types of presets by style, project, or purpose.
 
@@ -56,7 +56,7 @@ To create a new group:
 2. Select **Create New Group**.
 3. Name your group, then either drag existing presets into it or save new presets directly into the group during creation.
 
-#### Preset Actions
+##### Preset Actions
 
 Long-press on any preset to access management options:
 
@@ -66,7 +66,7 @@ Long-press on any preset to access management options:
 
 ---
 
-### Importing Presets
+#### Importing Presets
 
 Tap the **+ (Plus) icon** in the Floating Widget to open the **Import Preset** menu.
 
@@ -76,6 +76,6 @@ You can import:
 
 ---
 
-### Preset Sharing
+#### Preset Sharing
 
 Once a **Preset Token** is generated, it remains valid even if the original preset is deleted or updated. The token continues to point to the saved version of the preset, ensuring consistent results for anyone who uses it.

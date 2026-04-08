@@ -12,7 +12,7 @@ Ao usar o recurso **Remodelação Corporal Completa** no Evoto, você pode notar
 
 ---
 
-### Porque isso acontece?
+#### Porque isso acontece?
 
 Os sliders ficam desativados quando o sistema tem dificuldade em reconhecer com precisão certas partes do corpo na imagem atual. Isso normalmente ocorre por dois motivos principais:
 
@@ -23,7 +23,7 @@ Ao desativar os sliders dessas áreas, o sistema garante que qualquer tentativa 
 
 ---
 
-### O que você pode fazer?
+#### O que você pode fazer?
 
 Se encontrar sliders desativados, você pode seguir estas etapas para melhorar a situação e contribuir para o desenvolvimento contínuo do produto:
 

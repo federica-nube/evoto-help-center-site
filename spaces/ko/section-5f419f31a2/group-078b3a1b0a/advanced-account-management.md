@@ -22,7 +22,7 @@ source_assets:
 
 This guide provides instructions on how to manage multiple profiles or roles within Evoto, outlines account recovery options, and details the steps for permanently deleting your account.
 
-### How do I manage multiple profiles or switch roles?
+#### How do I manage multiple profiles or switch roles?
 
 If you operate both personal and organizational accounts within Evoto, you can efficiently switch between them using the dashboard's profile-switching feature. Some organizations also allow for role delegation, where specific permissions and responsibilities can be assigned to different users.
 
@@ -30,7 +30,7 @@ If you operate both personal and organizational accounts within Evoto, you can e
 
 ---
 
-### How do I permanently delete my account?
+#### How do I permanently delete my account?
 
 If you decide to permanently delete your Evoto account, please follow these steps carefully. This action is irreversible and will result in data loss.
 
@@ -55,7 +55,7 @@ If you decide to permanently delete your Evoto account, please follow these step
 
 ---
 
-### Account Recovery Options
+#### Account Recovery Options
 
 In the unfortunate event of an account compromise, follow these recovery steps immediately to secure your account:
 

@@ -29,13 +29,13 @@ source_assets:
 
 Evoto AI organizes image retouching through a project-based workflow. This makes it easy to manage your edits, return to previous work, or make secondary adjustments at any time. Simply tap an existing project to reopen it.
 
-### Home Tab
+#### Home Tab
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/IMG_0334-1024x689.jpg)
 
-#### Project
+##### Project
 
-##### Creating a New Project
+###### Creating a New Project
 
 To start a new project, tap the **“+”** button inside the yellow circle at the bottom right of the screen. You’ll be prompted to import images using one of the supported methods.
 
@@ -55,7 +55,7 @@ After creating a project:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-16.36.51-296x300.png)
 
-#### Smart AI Tools
+##### Smart AI Tools
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-16.38.44-300x126.png)
 
@@ -66,13 +66,13 @@ The **Smart AI Tools** section offers immediate access to 8 powerful AI-powered 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-16.39.45-300x240.png)
 
-#### Hot Edits: Presets for Every Style
+##### Hot Edits: Presets for Every Style
 
 Hot Edits is an iPad-exclusive preset entry point on the Home page, designed for quick access and seamless use. It features a curated collection of presets, each with a specific style, tone, and set of retouching adjustments.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250908144749-1024x168.jpg)
 
-##### Wedding Presets
+###### Wedding Presets
 
 These presets are designed to capture the unique emotion and atmosphere of wedding photography.
 
@@ -95,7 +95,7 @@ These presets are designed to capture the unique emotion and atmosphere of weddi
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250908143003-1024x381.jpg)
 
-##### Lifestyle & Portrait Presets
+###### Lifestyle & Portrait Presets
 
 These presets are tailored for specific portrait styles and moods, helping you create a polished, consistent look.
 
@@ -130,7 +130,7 @@ These presets are tailored for specific portrait styles and moods, helping you c
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250908144246-1024x672.jpg)
 
-### Learn Tab
+#### Learn Tab
 
 Clicking the **Learn** tab in the workspace provides quick access to a library of video resources for getting started and some key feature tutorials.
 
@@ -138,7 +138,7 @@ Clicking the **Learn** tab in the workspace provides quick access to a library o
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/6C635D31-A08D-494D-AD3A-7A5B2A6D97AA-1024x715.png)
 
-#### Knowledge Base
+##### Knowledge Base
 
 A dedicated **Knowledge Base** entry for Evoto iPad has been added to make it easier for you to find tutorials and help articles.
 

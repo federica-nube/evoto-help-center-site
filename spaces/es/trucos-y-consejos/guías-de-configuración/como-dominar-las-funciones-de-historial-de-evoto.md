@@ -19,7 +19,7 @@ Las funciones de Historial de Evoto proporcionan herramientas flexibles e intuit
 
 ---
 
-### Panel de Historial General
+#### Panel de Historial General
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.11.30-146x300.png)
 
@@ -34,7 +34,7 @@ El panel flotante de **Historial** sirve como la línea de tiempo maestra para t
 
 ---
 
-### Historiales de Herramientas Licuar y Corrector
+#### Historiales de Herramientas Licuar y Corrector
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.12.47-139x300.png)
 

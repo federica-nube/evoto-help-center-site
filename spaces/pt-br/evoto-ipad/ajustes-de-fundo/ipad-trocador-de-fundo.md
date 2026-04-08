@@ -18,19 +18,19 @@ Substitua facilmente o fundo com um clique utilizando o alterador de fundo recom
 
 ---
 
-### Caneta de Ajuste Manual
+#### Caneta de Ajuste Manual
 
 Use a Caneta de Ajuste Manual para pincelar ou apagar o efeito caso partes da imagem sejam editadas incorretamente durante a substituição do fundo.
 
 ---
 
-### Trocador de Fundo – Recomendado
+#### Trocador de Fundo – Recomendado
 
 Substitua o fundo facilmente com um clique, usando o trocador de fundo recomendado.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/1-300x247.jpg)
 
-#### Área Preservada
+##### Área Preservada
 
 Ao trocar o fundo, escolha quanto da imagem original deseja manter:
 
@@ -40,9 +40,9 @@ Ao trocar o fundo, escolha quanto da imagem original deseja manter:
 
 ---
 
-### Opções de Preenchimento de Fundo
+#### Opções de Preenchimento de Fundo
 
-#### Região de Preenchimento
+##### Região de Preenchimento
 
 Escolha como o novo fundo irá preencher o enquadramento:
 
@@ -51,7 +51,7 @@ Escolha como o novo fundo irá preencher o enquadramento:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/%E4%BD%8D%E7%BD%AE-300x128.jpg)
 
-#### Modo de Preenchimento
+##### Modo de Preenchimento
 
 Controle como a imagem de fundo se ajusta:
 
@@ -63,7 +63,7 @@ Controle como a imagem de fundo se ajusta:
 
 ---
 
-### Ferramentas de Ajuste de Detalhes
+#### Ferramentas de Ajuste de Detalhes
 
 Refine a aparência do novo fundo utilizando os seguintes sliders:
 

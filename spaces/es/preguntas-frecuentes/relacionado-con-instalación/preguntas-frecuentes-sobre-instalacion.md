@@ -11,7 +11,7 @@ tags:
   - "pc-es"
 ---
 
-### ¿Cómo solucionar el error de Mac: “Evoto no se puede abrir porque no fue descargado desde la App Store”?
+#### ¿Cómo solucionar el error de Mac: “Evoto no se puede abrir porque no fue descargado desde la App Store”?
 
 - Haga clic en **Aceptar** en el cuadro de diálogo.
 - Abra el menú Apple y vaya a **Preferencias del Sistema**.
@@ -22,11 +22,11 @@ tags:
 - Cierre las Preferencias del Sistema.
 - Vuelva a abrir Evoto; la aplicación debería iniciarse correctamente.
 
-### ¿Cómo permitir Evoto en antivirus de Windows?
+#### ¿Cómo permitir Evoto en antivirus de Windows?
 
 Es posible que ciertos antivirus bloqueen procesos relacionados con Evoto. Para evitar problemas, añádalo a la lista de exclusiones del antivirus correspondiente:
 
-#### Windows Defender
+##### Windows Defender
 
 - Abra **Windows Defender** desde el área de notificación.
 - Seleccione **Protección contra virus y amenazas**.
@@ -37,7 +37,7 @@ Es posible que ciertos antivirus bloqueen procesos relacionados con Evoto. Para 
 
 Para instrucciones más detalladas, haga clic aquí: [Agregar una exclusión en Seguridad de Windows.](https://support.microsoft.com/en-us/windows/virus-and-threat-protection-in-the-windows-security-app-1362f4cd-d71a-b52a-0b66-c2820032b65e)
 
-#### McAfee
+##### McAfee
 
 Asegúrate de haber activado previamente las conexiones a Internet para Evoto y, a continuación, haz lo siguiente:
 
@@ -62,7 +62,7 @@ Una vez realizados estos cambios, podrás utilizar la aplicación que anteriorme
 
 Para obtener instrucciones más detalladas, haz clic aquí: [Cómo excluir archivos del análisis de virus en Windows](https://www.mcafee.com/support/s/?language=en_US&articleId=TS102056&page=shell&shell=article-view).
 
-#### Avast
+##### Avast
 
 - Abra Avast desde la zona de notificación y vaya a **Configuración → General → Exclusiones**.
 - En **Rutas de archivo**, haga clic en **Examinar**, localice la carpeta o archivo de Evoto.
@@ -71,7 +71,7 @@ Para obtener instrucciones más detalladas, haz clic aquí: [Cómo excluir archi
 
 Para instrucciones más detalladas, haga clic aquí: [Excluir archivos o sitios web del análisis en Avast Antivirus](https://support.avast.com/en-sg/article/antivirus-scan-exclusions/#mac).
 
-#### ESET
+##### ESET
 
 - Abra ESET y pulse **F5** para acceder a la configuración avanzada.
 - Vaya a **Antivirus y antispyware → Exclusiones**.
@@ -80,7 +80,7 @@ Para instrucciones más detalladas, haga clic aquí: [Excluir archivos o sitios 
 
 Para instrucciones más detalladas, haga clic aquí: [Excluir una aplicación por nombre en productos domésticos de ESET para Windows](https://support.eset.com/en/kb6519-exclude-an-application-by-name-from-scanning-in-eset-windows-home-products).
 
-#### Avira
+##### Avira
 
 - En el área de notificación, desactive temporalmente la protección en tiempo real.
 - Instale Evoto.
@@ -91,7 +91,7 @@ Para instrucciones más detalladas, haga clic aquí: [Excluir una aplicación po
 
 Para instrucciones más detalladas, haga clic aquí: [Cómo excluir archivos del proceso de limpieza en Avira System Speedup](https://support.avira.com/hc/en-us/articles/360000105338-How-do-I-exclude-files-from-the-clean-up-process-of-Avira-System-Speedup).
 
-#### Bitdefender
+##### Bitdefender
 
 1. Abra Bitdefender y vaya a **Protección → Ver funciones → Configuración → Exclusiones**.
 2. En **Lista de archivos o carpetas excluidas del análisis**, haga clic en **Agregar**.
@@ -100,7 +100,7 @@ Para instrucciones más detalladas, haga clic aquí: [Cómo excluir archivos del
 
 Para instrucciones más detalladas, haga clic aquí: [Cómo excluir archivos y carpetas del análisis en Bitdefender Antivirus](https://www.bitdefender.com/consumer/support/answer/13427/).
 
-#### Malwarebytes
+##### Malwarebytes
 
 1. Abra Malwarebytes.
 2. En **Configuración → Excepciones de malware**, seleccione **Agregar archivo** o **Agregar carpeta**.

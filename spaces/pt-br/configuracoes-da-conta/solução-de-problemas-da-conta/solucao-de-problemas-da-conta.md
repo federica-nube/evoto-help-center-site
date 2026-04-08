@@ -12,7 +12,7 @@ Esta seção aborda problemas comuns de conta, descreve como resolvê-los e orie
 
 ---
 
-### O que devo fazer se eu esquecer minha senha?
+#### O que devo fazer se eu esquecer minha senha?
 
 Se você esquecer a senha da sua conta Evoto, é possível redefini-la facilmente pelo aplicativo ou site:
 
@@ -23,7 +23,7 @@ Se o problema persistir após seguir esses passos, entre em contato com o suport
 
 ---
 
-### Como resolver problemas ou erros na conta?
+#### Como resolver problemas ou erros na conta?
 
 Se você encontrar problemas ou erros gerais na conta, tente os seguintes passos de solução:
 
@@ -37,7 +37,7 @@ Se você encontrar problemas ou erros gerais na conta, tente os seguintes passos
 
 ---
 
-### Como reportar bugs ou fornecer feedback sobre a conta?
+#### Como reportar bugs ou fornecer feedback sobre a conta?
 
 O seu feedback é importante para melhorar a Evoto. As formas mais eficazes de reportar bugs ou obter suporte são:
 

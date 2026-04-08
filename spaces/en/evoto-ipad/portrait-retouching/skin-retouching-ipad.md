@@ -28,11 +28,11 @@ Evoto’s Skin Retouching feature set provides advanced tools for refining skin 
 
 ---
 
-### Facial Skin Retouching
+#### Facial Skin Retouching
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-14-at-10.25.01-100x300.png)
 
-#### Even (Dodge & Burn)
+##### Even (Dodge & Burn)
 
 *(Available only in non-Asian regions)*
 
@@ -43,7 +43,7 @@ The exclusive **Even (Dodge & Burn)** feature is designed to smooth and unify bo
 
 Manual editing is supported, allowing you to reverse any unwanted effects or selectively apply the smoothing to specific areas.
 
-#### Sculpt (Dodge & Burn)
+##### Sculpt (Dodge & Burn)
 
 Enhances facial dimensionality by refining lighting and contour definition.
 
@@ -54,11 +54,11 @@ This feature includes two adjustable sliders:
 
 *We recommend combining “Even with Dodge & Burn” and “Sculpt with Dodge & Burn” for best results.*
 
-#### Textured Smoothing
+##### Textured Smoothing
 
 Also based on Dodge & Burn techniques, this tool subtly refines skin tone and structure while preserving natural highlights, shadows, and texture. It’s ideal for smoothing imperfections while maintaining a realistic, three-dimensional appearance.
 
-#### Frequency Separation
+##### Frequency Separation
 
 This classic skin retouching method separates high-frequency (texture) and low-frequency (tone and color) layers for fine-tuned control.
 
@@ -73,7 +73,7 @@ Includes two sub-sliders:
 
 *Recommended for portraits with even exposure.*
 
-#### Skin Softening
+##### Skin Softening
 
 This feature uses frequency separation to smooth facial skin by targeting the **low-frequency layer** (tone and color) while preserving details in the **high-frequency layer** (texture). It blends both layers for a natural finish and allows fine-tuning of smoothing intensity. For best results, avoid over-applying to prevent a plastic or overly airbrushed appearance.
 
@@ -82,9 +82,9 @@ This feature uses frequency separation to smooth facial skin by targeting the **
 
 ---
 
-### Body Skin Retouching
+#### Body Skin Retouching
 
-#### Even (Dodge & Burn）
+##### Even (Dodge & Burn）
 
 Smooths body skin by evening out shadows and highlights caused by cellulite, muscle compression, loose skin, or uneven lighting. Preserves body structure and texture.
 
@@ -94,19 +94,19 @@ Smooths body skin by evening out shadows and highlights caused by cellulite, mus
 
 ![image.png](https://res.evoto.ai/community/post/5qxSjJtbKUL.png)
 
-#### Frequency Separation
+##### Frequency Separation
 
 Same functionality as facial Frequency Separation, now available for body skin. Ideal for refining large areas with precise tonal and texture control.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-24-at-17.40.01-300x160.png)
 
-#### Skin Softening
+##### Skin Softening
 
 Uses the same frequency separation technology as face smoothing, but tailored to body application.
 
 ---
 
-### Skin Texture
+#### Skin Texture
 
 Adds skin texture overlays for a more natural appearance. Includes three presets and fine-tuning options:
 
@@ -126,44 +126,44 @@ Adds skin texture overlays for a more natural appearance. Includes three presets
 
 ---
 
-### Skin Tone
+#### Skin Tone
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-24-at-17.45.21-300x195.png)
 
-#### AI Unify Face Complexion
+##### AI Unify Face Complexion
 
 This slider focuses exclusively on the face. It helps correct uneven tones caused by lighting conditions or makeup inconsistencies. Use this tool to ensure the facial skin tone appears smooth and uniform.
 
 ![](https://res.evoto.ai/community/post/5hVyfxPTWh1.jpg)
 
-#### AI Unify Body Complexion
+##### AI Unify Body Complexion
 
 This slider targets the body (excluding the face). It is ideal for correcting uneven tones caused by sun exposure, clothing marks, or lighting differences. The result is a consistent tone across the body that complements the face.
 
-#### Unify Body Complexion
+##### Unify Body Complexion
 
 This is the original unification slider. It works across both the face and body to balance skin tone differences between the two areas. It’s especially helpful when the face and body appear mismatched due to lighting, shadows, or other factors.
 
-#### Select Skin Tone
+##### Select Skin Tone
 
 ![](https://res.evoto.ai/wordpress/a0af3310-f52a-481c-937b-31dd8ff1c4a0.png)
 
 **Purpose:** Adjust and harmonize overall skin and facial feature tones. **Functionality:**Allows you to select from 8 skin tones and fine-tune the intensity using a slider. This feature adjusts the entire skin tone while also modifying the color of facial features to maintain visual consistency and natural harmony. **Use Case:**Ideal for color correction or creative changes where skin and facial tones need to be adjusted in tandem. **Skin Color**: Choose from eight preset tones and adjust using the slider. **Temperature**: Warms or cools the selected skin tone. **Tint**: Adjusts redness. Ideal for correcting over-red skin tones. Best used alongside AI Unify Face/Body Complexion.
 
-#### Skin Radiance
+##### Skin Radiance
 
 **Purpose:** Brighten and enhance the glow of the skin while preserving facial color integrity.
 
 - **Functionality:**Increases the brightness and clarity of the skin, giving it a more luminous, healthy appearance. It deliberately avoids altering the brightness or color of key facial features, maintaining natural color fidelity.
 - **Use Case:**Best for improving dull or uneven skin tones when you want to add vibrance without disrupting the subject’s natural facial coloring.
 
-#### Skin Tone vs Skin Radiance
+##### Skin Tone vs Skin Radiance
 
 <table border="2" style="height: 256px; width: 94.6903%;"> <tbody> <tr> <td><span style="font-size: 16px;"><b>Feature</b></span></td> <td><span style="font-size: 16px;"><b>Skin Color Change</b></span></td> <td><span style="font-size: 16px;"><b>Skin Radiance</b></span></td> </tr> <tr> <td><span style="font-size: 16px;"><b>Primary Effect</b></span></td> <td><span style="font-weight: 400; font-size: 16px;">Changes skin tone and facial feature colors</span></td> <td><span style="font-weight: 400; font-size: 16px;">Enhances skin glow and clarity</span></td> </tr> <tr> <td><span style="font-size: 16px;"><b>Facial Color Sync</b></span></td> <td><span style="font-weight: 400; font-size: 16px;">Yes – adjusts facial tones to match skin tone</span></td> <td><span style="font-weight: 400; font-size: 16px;">No – facial features are protected from changes</span></td> </tr> <tr> <td><span style="font-size: 16px;"><b>Use Case</b></span></td> <td><span style="font-weight: 400; font-size: 16px;">Color correction, tone coordination</span></td> <td><span style="font-weight: 400; font-size: 16px;">Brightening dull skin while preserving natural look</span></td> </tr> </tbody> </table>
 
 By using Skin Color Change for tone adjustments and Skin Radiance for glow enhancement, you can tailor your edits with precision, ensuring each portrait maintains both beauty and balance.
 
-#### Rosy Complexion
+##### Rosy Complexion
 
 Adds or reduces redness in the skin for a healthier appearance.
 
@@ -173,7 +173,7 @@ Adds or reduces redness in the skin for a healthier appearance.
 
 ---
 
-### Manual Tuning with the Tuning Pen
+#### Manual Tuning with the Tuning Pen
 
 For precise control, the **Manual Tuning Pen** allows you to manually apply or remove smoothing effects in specific areas. This tool is ideal for:
 
@@ -183,7 +183,7 @@ For precise control, the **Manual Tuning Pen** allows you to manually apply or r
 
 ---
 
-### Additional Tips: Local Mask Adjustments
+#### Additional Tips: Local Mask Adjustments
 
 For finer control, you can use **Local Mask > Color Adjustments** to manually refine skin tone. This tool allows targeted color edits on specific areas such as the face, body, or entire skin area.
 

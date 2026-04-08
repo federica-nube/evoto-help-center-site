@@ -30,7 +30,7 @@ O recurso **Máscaras** permite uma edição e precisa, isolando áreas específ
 
 ---
 
-### Acessar o Recurso de Máscaras
+#### Acessar o Recurso de Máscaras
 
 Para começar a usar as máscaras:
 
@@ -39,7 +39,7 @@ Para começar a usar as máscaras:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/mask-1-300x300.jpg)
 
-#### Tipos de Máscara Disponíveis
+##### Tipos de Máscara Disponíveis
 
 - **Máscara de Pessoa:** aplica ajustes a uma pessoa específica ou a áreas determinadas do rosto ou corpo.
 - **Máscara de Animais de Estimação:** aplica ajustes especificamente aos animais de estimação detectados em sua imagem.
@@ -52,7 +52,7 @@ Após criada, a máscara aparecerá no Painel de **Acesso Rápido**, localizado 
 
 ---
 
-### Opções de Máscara de Pessoa
+#### Opções de Máscara de Pessoa
 
 O Evoto oferece controle detalhado sobre cada pessoa identificada em uma imagem. Para cada indivíduo detectado, é possível aplicar ajustes a diversas áreas específicas. Oferece suporte à seleção de diferentes partes do corpo e à combinação delas em um único grupo de máscara.
 
@@ -71,7 +71,7 @@ Uma nova categoria de máscaras **Vestuário** foi adicionada em Máscara de Pes
 
 ---
 
-### Opções de Máscara de Animais de Estimação
+#### Opções de Máscara de Animais de Estimação
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/2-2-300x187.jpg)
 
@@ -93,7 +93,7 @@ Você pode aplicar os mesmos ajustes de cor nas máscaras de animais de estimaç
 
 ---
 
-### Opções de Máscara de Fundo
+#### Opções de Máscara de Fundo
 
 O Evoto oferece controle detalhado sobre cada plano de fundo identificado em uma imagem. Oferece suporte à seleção de diferentes tipos de plano de fundo e à combinação deles em um único grupo de máscara.
 
@@ -103,13 +103,13 @@ Uma nova máscara **Recife** foi adicionada à seção **Máscaras de Fundo**.
 
 ---
 
-### Tipos de Máscara Personalizada
+#### Tipos de Máscara Personalizada
 
 Crie áreas de máscara personalizadas com três ferramentas flexíveis — Pincel, Gradiente Linear e Gradiente Radial — e duas opções de máscaras combinadas (sujeito/fundo).
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/21-3-210x300.jpg)
 
-##### Pincel
+###### Pincel
 
 - Use o pincel para adicionar ou remover manualmente áreas da máscara.
 - Os parâmetros ajustáveis incluem:
@@ -121,19 +121,19 @@ Crie áreas de máscara personalizadas com três ferramentas flexíveis — Pinc
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/pincel-176x300.jpg)
 
-##### Gradiente Linear
+###### Gradiente Linear
 
 - Ideal para céus, horizontes ou elementos arquitetônicos.
 - Personalize o gradiente ajustando sua direção e área usando três linhas horizontais e uma linha central vertical.Arraste a extensão central para girar a máscara.
 - Você pode criar vários gradientes lineares e reposicioná-los conforme necessário.
 
-##### Gradiente Radial
+###### Gradiente Radial
 
 - Use este modo para máscaras circulares ou elípticas, idealpara isolar rostos ou reflexos solares.
 - Duas elipses representam o início e o final suave do gradiente.
 - Arraste para ajustara máscara.
 
-##### Intervalo de Luminância
+###### Intervalo de Luminância
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/17-2-201x300.jpg)
 
@@ -158,23 +158,23 @@ Um novo **Intervalo de Luminância** foi adicionado às máscaras de **Ajustes d
 
 ---
 
-### Seleção Inteligente
+#### Seleção Inteligente
 
 O recurso **Seleção Inteligente** utiliza tecnologia de IA para permitir que os usuários selecionem rapidamente áreas específicas em fotos por meio de cliques, seleção por quadro ou pinceladas, reduzindo significativamente a complexidade das operações de máscaras.
 
-#### Três Ferramentas de Seleção Inteligente
+##### Três Ferramentas de Seleção Inteligente
 
 - **Segmento (Seleção Semântica):**A IA pré-segmenta todos os objetos na foto, exibindo áreas selecionáveis em tempo real conforme o movimento do mouse. Suporta seleção por ponto e por quadro.
 - **Interativo (Segmentação Interativa):**Segmenta inteligentemente em tempo real conforme o mouse se move, exibindo dinamicamente a área dividida. Suporta seleção por ponto e por quadro.
 - **Rápido (Seleção Rápida):**Crie e ajuste seleções rapidamente com pinceladas. Tamanho do pincel ajustável (1–300 px) com reconhecimento inteligente de bordas.
 
-#### Modos de Operação
+##### Modos de Operação
 
 - **Modo Pincel:**Clique ou arraste para aumentar a área de seleção; múltiplas seleções se fundem automaticamente.
 - **Modo Borracha:**Clique ou arraste para reduzir a área de seleção.
 - **Inverter:**Inverte com um clique as áreas selecionadas e não selecionadas.
 
-#### Ferramentas de Refinamento de Bordas
+##### Ferramentas de Refinamento de Bordas
 
 - **Suavizar**: Deixa as bordas da seleção mais suaves (1–500 px).
 - **Expandir**: Amplia proporcionalmente as bordas da seleção (1–500 px).
@@ -185,7 +185,7 @@ O recurso **Seleção Inteligente** utiliza tecnologia de IA para permitir que o
 
 ---
 
-### Ajustar máscaras
+#### Ajustar máscaras
 
 - Clique com o botão direito sobre qualquer máscara criada na **lista de Máscaras** para **Editar** ou **Excluir**.
 - Escolha **o ícone de máscaras respetivas** para ajustar máscaras.
@@ -195,7 +195,7 @@ O recurso **Seleção Inteligente** utiliza tecnologia de IA para permitir que o
 
 ---
 
-### Adicionar/Subtrair Máscara
+#### Adicionar/Subtrair Máscara
 
 Ao usar a função **“Adicionar Máscara”**, todas as ferramentas de mascaramento podem ser utilizadas para selecionar uma área, e múltiplas ferramentas podem ser aplicadas sobre a mesma área.
 
@@ -219,7 +219,7 @@ Pode aplicar:
 
 ---
 
-### Acesso Rápido: Controle de Visibilidade da Máscara
+#### Acesso Rápido: Controle de Visibilidade da Máscara
 
 O **ícone de olho** no Painel de Acesso Rápido controla a visibilidade da máscara:
 
@@ -234,7 +234,7 @@ Ao passar o cursor sobre um ícone de máscara, a área mascarada é apresentada
 
 ---
 
-### Salvar e Sincronizar Ajustes
+#### Salvar e Sincronizar Ajustes
 
 Pode salvar e sincronizar os seguintes ajustes:
 

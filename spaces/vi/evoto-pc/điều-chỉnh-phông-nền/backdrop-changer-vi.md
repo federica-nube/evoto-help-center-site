@@ -64,7 +64,7 @@ Chế độ lấp đầy Điều chỉnh cách nền được chèn vào khung h
 
 Điều chỉnh chi tiết **Điều chỉnh viền**: Sử dụng thanh trượt để kiểm soát hiệu ứng điều chỉnh viền, thường được sử dụng để làm mượt vùng chuyển tiếp xung quanh tóc con và các cạnh trên phông nền. **Độ mờ**: Điều chỉnh độ trong suốt của nền, với thanh trượt từ 0 đến 100 (mặc định là 100). **Kích thước**: Thay đổi kích thước của nền, với thanh trượt từ 0 đến 100 (mặc định là 0). **Xoay dọc**: Dùng để di chuyển nền (Mặc định: Cố định tại điểm trung tâm). **Xoay ngang**: Dùng để di chuyển nền (Mặc định: Cố định tại điểm trung tâm).
 
-### Xoá lem màu
+#### Xoá lem màu
 
 Tính năng này giúp loại bỏ các phản chiếu màu không mong muốn từ phông nền khi bạn thay thế phông nền trong ảnh. Bằng cách sử dụng thanh trượt xoá lem màu, bạn có thể giảm hoặc loại bỏ ánh sáng từ phông nền gốc phản chiếu lên chủ thể, giúp kết quả trông sạch sẽ và tự nhiên hơn.
 

@@ -53,17 +53,17 @@ Evoto iPadでは、iPadに直接ケーブル接続することでテザー撮影
 
 <table style="border-collapse: collapse; width: 100%;"> <tbody> <tr> <th style="width: 49.6552%; text-align: left;"> <p class="p1"><b>フォーマット</b></p> </th> <th style="width: 50.2586%; text-align: left;"> <p class="p1"><b>説明</b></p> </th> </tr> <tr> <td style="width: 49.6552%;"> <p class="p1">カスタム名 + 連番（デフォルト）</p> </td> <td style="width: 50.2586%;"> <p class="p1">例：Evoto_001, Evoto_002</p> </td> </tr> <tr> <td style="width: 49.6552%;"> <p class="p1">カスタム名 + 元のファイル名</p> </td> <td style="width: 50.2586%;"> <p class="p1">任意の接頭語 + カメラの元ファイル名</p> </td> </tr> <tr> <td style="width: 49.6552%;"> <p class="p1">撮影日 + 連番</p> </td> <td style="width: 50.2586%;"> <p class="p1">例：20240506_001, 20240506_002</p> </td> </tr> <tr> <td style="width: 49.6552%;"> <p class="p1">撮影日 + 元のファイル名</p> </td> <td style="width: 50.2586%;"> <p class="p1">撮影日＋元ファイル名</p> </td> </tr> <tr> <td style="width: 49.6552%;"> <p class="p1">元のファイル名（カメラ由来の名前）</p> </td> <td style="width: 50.2586%;"> <p class="p1">デフォルト使用</p> </td> </tr> </tbody> </table>
 
-#### 対応日付形式
+##### 対応日付形式
 
 - 例：YYYYMMDD → 20241016 のように表示されます。
 
-#### 使用できない記号
+##### 使用できない記号
 
 ;、:、^、*、<、>、?、| は使用不可です。
 
 ---
 
-### 対応カメラブランドの設定ガイド
+#### 対応カメラブランドの設定ガイド
 
 - [Canon（キヤノン）](https://support.evoto.ai/ja/wired-tethered-shooting-canon-ipad-ja/)
 - [Sony（ソニー）](https://support.evoto.ai/ja/wired-tethered-shooting-sony-ipad-ja/)
@@ -77,7 +77,7 @@ Evoto iPadでは、iPadに直接ケーブル接続することでテザー撮影
 
 ---
 
-#### キャプチャ画像の書き出し
+##### キャプチャ画像の書き出し
 
 - **編集済み画像**（チケットを消費）
 - **オリジナル画像**（無料／チケット消費なし）
@@ -86,9 +86,9 @@ Evoto iPadでは、iPadに直接ケーブル接続することでテザー撮影
 
 ---
 
-### 接続トラブルシューティング
+#### 接続トラブルシューティング
 
-#### 考えられる原因
+##### 考えられる原因
 
 - iPadOSのバージョンが古い
 - 対応していないカメラを使用している
@@ -98,7 +98,7 @@ Evoto iPadでは、iPadに直接ケーブル接続することでテザー撮影
 - Wi-Fi接続が不安定／弱い
 - ドライバや常駐アプリとの競合
 
-#### 推奨される対処法
+##### 推奨される対処法
 
 - iPadOSを最新版にアップデート
 - カメラがEvoto対応機種に含まれているか確認
@@ -111,7 +111,7 @@ Evoto iPadでは、iPadに直接ケーブル接続することでテザー撮影
 
 ---
 
-### お問い合わせ
+#### お問い合わせ
 
 - メール：support@evoto.ai
 - アプリ内サポート：Evoto内のヘルプ画面からご連絡いただけます。

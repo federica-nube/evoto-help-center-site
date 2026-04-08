@@ -25,21 +25,21 @@ source_assets:
 ¿Listo para liberar el poder de la IA en la edición de tus fotos? Esta guía rápida te mostrará cómo descargar Evoto y configurar tu cuenta, ¡para que puedas empezar a transformar tus imágenes en poco tiempo! ¡Bienvenido a Evoto, uno de los editores de fotos con IA más avanzados del mundo! Nuestro objetivo es proporcionar a los fotógrafos herramientas de edición rápidas e inteligentes que eliminen el trabajo repetitivo, para que puedas centrarte en la creatividad y en lo que realmente te apasiona. Impulsado por algoritmos de IA de última generación, Evoto te ayuda a producir imágenes impresionantes de calidad profesional con solo unos clics. ¡Empecemos! **Requisitos del Sistema** **Sistema Operativo** Windows 7 (x64), Windows 10 (x64), Windows 11 (x64) macOS: 10.13 y superior **Hardware** Al menos 8 GB de RAM Procesador de 64 bits (x64), 1,2 GHz o superior Mac: 2015 o posterior, Intel o Apple Silicon **Dispositivos Recomendados** **Mac** Mac mini – Configuración: 32GB RAM + 1TB SSD iMac – Configuración: 32GB RAM + 1TB SSD **Windows** HP Envy Desktop PC CPU: Intel Core i9-13900KS (13ª Gen) RAM: 32GB Almacenamiento: 1TB SSD GPU: NVIDIA GeForce RTX 4060 Ti 16GB GDDR6 Lenovo Legion 5i Tower CPU: Intel Core i7 RAM: 32GB Almacenamiento: 1TB SSD GPU: NVIDIA GeForce RTX Series HOENGAGER Poseidon Gaming PC Desktop CPU: AMD Ryzen 7 5700X 3.4GHz RAM: 32GB DDR4 Almacenamiento: 1TB M.2 PCIe SSD GPU: NVIDIA RTX 3050 6GB Skytech Shadow Gaming PC Desktop CPU: Intel Core i5-12400F RAM: 32GB Almacenamiento: 1TB SSD GPU: NVIDIA GeForce RTX 4060 HP Pavilion TG01 Gaming/Entertainment Desktop PC CPU: AMD Ryzen 7 5700G 8-Core RAM: 32GB Almacenamiento: 1TB M.2 SATA SSD + 3TB HDD GPU: NVIDIA RTX 3060 ROG Gaming Small Form Factor Desktop PC CPU: Intel i7-13700KF RAM: 32GB DDR5 Almacenamiento: 1TB SSD GPU: NVIDIA RTX 4070 Para conocer las especificaciones y disponibilidad más recientes, consulta el sitio web oficial.
 
 Modelos de GPU Compatibles
-##### Modelos NVIDIA GeForce Series 10 y 16 Compatibles
+###### Modelos NVIDIA GeForce Series 10 y 16 Compatibles
 
 NVIDIA GeForce GTX 1050
 
 NVIDIA GeForce GTX 1650 NVIDIA GeForce GTX 1660
 
-##### Modelos NVIDIA RTX Series 20, 30, 40 y 50 Compatibles
+###### Modelos NVIDIA RTX Series 20, 30, 40 y 50 Compatibles
 
 NVIDIA GeForce RTX 2050 NVIDIA GeForce RTX 2060 NVIDIA GeForce RTX 2070 NVIDIA GeForce RTX 2080 NVIDIA GeForce RTX 3050 NVIDIA GeForce RTX 3060 NVIDIA GeForce RTX 3070 NVIDIA GeForce RTX 3080 NVIDIA GeForce RTX 3090 NVIDIA GeForce RTX 4050 NVIDIA GeForce RTX 4060 NVIDIA GeForce RTX 4070 NVIDIA GeForce RTX 4080 NVIDIA GeForce RTX 4090 NVIDIA GeForce RTX 5060 NVIDIA GeForce RTX 5070 NVIDIA GeForce RTX 5080 NVIDIA GeForce RTX 5090
 
-##### Modelos NVIDIA RTX Serie A Compatibles
+###### Modelos NVIDIA RTX Serie A Compatibles
 
 NVIDIA RTX A400 NVIDIA RTX A500 NVIDIA RTX A1000 NVIDIA RTX A2000 NVIDIA RTX A3000 NVIDIA RTX A4000 NVIDIA RTX A4500 NVIDIA RTX A5000 NVIDIA RTX A6000
 
-##### Otros Modelos Compatibles
+###### Otros Modelos Compatibles
 
 NVIDIA T400 NVIDIA T500 NVIDIA T550 NVIDIA T600 NVIDIA T1000 NVIDIA T1200 NVIDIA A10 NVIDIA TITAN V NVIDIA TITAN X NVIDIA Quadro RTX 3000 NVIDIA Quadro RTX 4000 NVIDIA Quadro RTX 5000 NVIDIA Quadro RTX 6000 NVIDIA Quadro RTX 8000 NVIDIA Tesla P4
 

@@ -12,13 +12,13 @@ secondary_categories:
 
 Sau khi dành nhiều thời gian chỉnh sửa hình ảnh trong Evoto, sẽ rất thất vọng nếu chất lượng ảnh sau khi xuất bị giảm. Nếu bạn nhận thấy ảnh xuất ra không rõ nét như mong muốn, có hai phương pháp chính bạn có thể áp dụng để đảm bảo chất lượng tốt nhất có thể.
 
-### Lựa chọn cài đặt xuất ảnh phù hợp
+#### Lựa chọn cài đặt xuất ảnh phù hợp
 
 Định dạng và các cài đặt chất lượng mà bạn chọn khi xuất ảnh đóng vai trò quan trọng trong việc giữ nguyên độ rõ nét của hình ảnh. Để đạt kết quả tốt nhất, chúng tôi khuyến nghị sử dụng định dạng **TIFF**. TIFF là định dạng không nén, giữ nguyên chất lượng cao nhất bằng cách tránh mất dữ liệu do nén, rất phù hợp cho mục đích chuyên nghiệp hoặc khi cần chỉnh sửa thêm sau đó.
 
 Nếu bạn muốn xuất ảnh ở định dạng **JPG**, vốn phổ biến hơn để chia sẻ và lưu trữ, hãy đảm bảo đặt chất lượng ở mức cao nhất. Evoto cho phép bạn điều chỉnh các cài đặt xuất JPG, và chọn chất lượng cao nhất sẽ giúp ảnh giữ lại nhiều chi tiết nhất có thể, giảm thiểu việc giảm chất lượng do nén ảnh.
 
-### Điều chỉnh độ phân giải khi cắt ảnh
+#### Điều chỉnh độ phân giải khi cắt ảnh
 
 Một yếu tố khác có thể ảnh hưởng đến chất lượng hình ảnh là việc cắt ảnh. Khi bạn cắt ảnh, đặc biệt là khi làm việc với kích thước cụ thể, bạn cần chú ý kỹ đến các cài đặt độ phân giải để giữ được độ rõ nét của ảnh.
 

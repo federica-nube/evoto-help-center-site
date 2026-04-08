@@ -16,7 +16,7 @@ A Evoto está comprometida em atender fotógrafos de todo o mundo com soluções
 
 Atualmente, o Evoto oferece suporte a ****12 idiomas diferentes****, e nossa equipe trabalha ativamente para expandir essa lista à medida que avançamos para novas regiões.
 
-### Alterar idioma
+#### Alterar idioma
 
 Para mudar o idioma da interface:
 

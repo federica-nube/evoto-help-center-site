@@ -16,7 +16,7 @@ source_assets:
 
 O Evoto oferece vários métodos de corte para atender a diferentes necessidades, incluindo proporção fixa, tamanho livre e dimensões personalizadas. Após ajustar o corte, clique em ****OK**** no canto inferior direito para aplicar o resultado.
 
-### Tipos de Corte
+#### Tipos de Corte
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/corte1-182x300.jpg)
 
@@ -56,7 +56,7 @@ Personalize e salve seus parâmetros de corte preferidos. Clique em ****Criar Pr
 
 ---
 
-### Localização por IA
+#### Localização por IA
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/corte3-205x300.jpg)
 
@@ -76,13 +76,13 @@ O recurso Alinhamento automático de pessoa no módulo de Localização por IA (
 - Alinhamento vertical usando o eixo central do sujeito
 - Alinhamento horizontal usando a linha de base dos olhos
 
-#### Opções de Área de Localização
+##### Opções de Área de Localização
 
 - **Cabeça**: inclui rosto e cabelo
 - **Cabeça + Topo**: inclui rosto, cabelo e qualquer acessório na cabeça
 - **Rosto**: foca estritamente no rosto
 
-#### Sliders de Ajuste
+##### Sliders de Ajuste
 
 - **Margem superior:** Ajusta o espaço entre o topo da cabeça e a borda superior da foto.
 - **Tamanho da cabeça:** Controla o quão grande a cabeça aparece na imagem final.
@@ -95,7 +95,7 @@ O recurso Alinhamento automático de pessoa no módulo de Localização por IA (
 
 ---
 
-### Dimensões da Imagem e Casos de Borda
+#### Dimensões da Imagem e Casos de Borda
 
 O recurso Localização de Rosto por IA é desativado quando:
 

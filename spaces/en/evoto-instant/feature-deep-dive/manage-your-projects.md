@@ -20,7 +20,7 @@ Projects are the foundation of Evoto Instant. They sync seamlessly between the E
 
 ---
 
-### Where Projects Are Managed
+#### Where Projects Are Managed
 
 Projects can be created and managed in both the**Evoto Instant App**and the [**Web Portal**](https://workspace.instant.evoto.ai/).
 
@@ -29,7 +29,7 @@ Projects can be created and managed in both the**Evoto Instant App**and the [**W
 
 ---
 
-### Viewing Projects on the Homepage
+#### Viewing Projects on the Homepage
 
 On the homepage, all created projects are displayed in a list. Each project entry includes:
 
@@ -41,7 +41,7 @@ Projects are sorted by creation time, with the newest projects appearing at the 
 
 ---
 
-### Project Actions
+#### Project Actions
 
 Each project card has a **three-dot**menu that allows you to perform the following actions:
 
@@ -63,7 +63,7 @@ Each project card has a **three-dot**menu that allows you to perform the followi
 
 ---
 
-### Editing Project Details
+#### Editing Project Details
 
 If you want to change project settings, you can edit details after a project has been created.
 

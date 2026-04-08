@@ -27,7 +27,7 @@ O fluxo completo de processamento inclui cinco etapas: **Importadas → Enviadas
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-11-at-18.07.33-300x167.png)
 
-### Importadas
+#### Importadas
 
 As fotos aparecem primeiro na etapa **Importadas** após serem transferidas para o seu telefone. Atualmente, o Evoto oferece três métodos de importação:
 
@@ -39,7 +39,7 @@ Nesta etapa, os arquivos existem apenas no seu dispositivo e ficam na fila para 
 
 ---
 
-### Enviadas
+#### Enviadas
 
 Quando as fotos entram na etapa **Enviadas**, isso significa que foram carregadas com sucesso para a nuvem. Você pode decidir se esse envio será feito manualmente — selecionando quais arquivos deseja enviar — ou automaticamente.
 
@@ -49,7 +49,7 @@ Se o upload automático estiver ativado juntamente com a Seleção Inteligente c
 
 ---
 
-### Editadas com IA
+#### Editadas com IA
 
 ***(visível apenas se a Edição com IA estiver ativada)***
 
@@ -63,7 +63,7 @@ Durante a captura ao vivo, as pré-visualizações dessas edições são exibida
 
 ---
 
-### Exportadas
+#### Exportadas
 
 ***(visível apenas se a Edição com IA estiver ativada)***
 
@@ -75,7 +75,7 @@ A exportação pode ser feita de forma manual, permitindo que você visualize as
 
 ---
 
-### Compartilhadas
+#### Compartilhadas
 
 A etapa final do fluxo de trabalho é **Compartilhadas**. Ela indica a quantidade de fotos que foram entregues com sucesso nas galerias destinadas aos clientes.
 

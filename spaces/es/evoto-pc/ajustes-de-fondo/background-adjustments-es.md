@@ -17,7 +17,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/530bacaf-d02f-4f40-9bad-c3cea368922c.png"
 ---
 
-### Limpiar Fondo Sólido
+#### Limpiar Fondo Sólido
 
 ![](https://res.evoto.ai/wordpress/6e220936-855d-45fe-826b-e1c562d1df77.png)
 

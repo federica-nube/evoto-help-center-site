@@ -29,7 +29,7 @@ The complete photo processing workflow includes five steps: **Imported → Uploa
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-11-at-18.07.33-300x167.png)
 
-### Imported
+#### Imported
 
 Photos first appear in the Imported stage after they are transferred to your phone. Evoto currently supports three import methods:
 
@@ -41,7 +41,7 @@ At this stage, the files exist only on your device and are queued for upload to 
 
 ---
 
-### Uploaded
+#### Uploaded
 
 When photos move into the Uploaded stage, it means they’ve successfully reached the cloud. You can decide whether this happens manually—choosing which files to send—or automatically.
 
@@ -51,7 +51,7 @@ If automatic upload is enabled together with AI Culling, only photos that pass t
 
 ---
 
-### AI Edited
+#### AI Edited
 
 ***(visible only if AI Editing is enabled)***
 
@@ -65,7 +65,7 @@ During live shooting, previews of these edits appear in real time and are comple
 
 ---
 
-### Exported
+#### Exported
 
 ***(visible only if AI Editing is enabled)***
 
@@ -77,7 +77,7 @@ Export can be handled manually—allowing you to preview edits before confirming
 
 ---
 
-### Shared
+#### Shared
 
 The final step of the workflow is Shared**.** This reflects the number of photos that have been successfully delivered to client-facing galleries.
 

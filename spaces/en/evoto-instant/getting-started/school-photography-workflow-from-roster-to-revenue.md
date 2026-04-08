@@ -33,11 +33,11 @@ Follow this step-by-step guide to master the end-to-end workflow.
 
 ---
 
-### Phase 1: Preparation (Web Portal)
+#### Phase 1: Preparation (Web Portal)
 
 All setup should be done on the web portal before the shoot to ensure a smooth on-site experience.
 
-#### Step 1: Create Project & Import Roster
+##### Step 1: Create Project & Import Roster
 
 1. **Create Project:** Log in to the Evoto Web Portal, click **Create Project**, and select **School Mode**.
 
@@ -52,7 +52,7 @@ All setup should be done on the web portal before the shoot to ensure a smooth o
 
 ![](https://support.evoto.ai/wp-content/uploads/2026/01/20260111162230-1024x554.jpg)
 
-#### Step 2: Configure Workflow & Store
+##### Step 2: Configure Workflow & Store
 
 Now, define how your photos will look and how you will sell them.
 
@@ -79,11 +79,11 @@ Now, define how your photos will look and how you will sell them.
 
 ---
 
-### Phase 2: The Shoot (On-Site & Mobile App)
+#### Phase 2: The Shoot (On-Site & Mobile App)
 
 On the day of the event, your focus is purely on capturing the best shots.
 
-#### Step 3: Connect & Capture (Tethered Shooting)
+##### Step 3: Connect & Capture (Tethered Shooting)
 
 1. **AI Culling (Optional):** You can toggle **AI Culling** on if you want the system to automatically filter out blinking eyes or blurry shots in real-time.
 2. Choose the workflow that fits your style: Real-time Tethering or Standard Shooting with SD Card Import. **Option A: Tethered Shooting (Real-Time Sorting)** Best for instant feedback and immediate file backup. **Option B: Non-Tethered Shooting (SD Card Workflow)** Best for photographers who prefer the freedom of shooting without cables.
@@ -110,11 +110,11 @@ Alternatively, use your phone’s camera to scan a participant’s QR card and i
 
 ---
 
-### Phase 3: Photo Delivery (Web Portal)
+#### Phase 3: Photo Delivery (Web Portal)
 
 After the shoot, return to the Web Portal to finalize and deliver.
 
-#### Step 4: Review & Batch Delivery
+##### Step 4: Review & Batch Delivery
 
 1. **Final Check:** In **Content Management tab**, review the **Ungrouped** folder. If any QR codes were missed, select and move those photos to the correct student folders manually (both available on mobile app and web portal).
 2. **Batch Emailing:** In **Participant** tab, select all participants in the list and click **Share**button.
@@ -125,7 +125,7 @@ After the shoot, return to the Web Portal to finalize and deliver.
 The system sends a personalized email to each parent containing their unique gallery link.
 - **Privacy:** Parents must enter their specific Access Code (if enabled) to view photos.
 
-#### Step 5: Client Purchase Experience
+##### Step 5: Client Purchase Experience
 
 Once parents receive the email with unique link and access code (if enabled):
 

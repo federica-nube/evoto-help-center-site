@@ -14,7 +14,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/12/5-2-300x228.jpg"
 ---
 
-### Como Alterar o Idioma
+#### Como Alterar o Idioma
 
 Para alterar o idioma utilizado no Evoto para iPad:
 

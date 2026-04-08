@@ -12,7 +12,7 @@ O Evoto oferece ferramentas poderosas baseadas em IA para aprimorar suas fotos d
 
 ---
 
-### Remoção de Guia
+#### Remoção de Guia
 
 O recurso **Remoção de Guia**para Animais de Estimação permite a detecção e remoção automática de guia em fotografias de animais de estimação, preservando a textura e os detalhes do fundo da imagem original.
 
@@ -24,7 +24,7 @@ Esta ferramenta gera um novo arquivo no formato **.tsq** e consome **1 crédito*
 
 ---
 
-### Remoção de Pelos Soltos
+#### Remoção de Pelos Soltos
 
 Limpe automaticamente fotos de animais de estimação eliminando pelos soltos e frizz que distraem. Este recurso detecta e reduz rapidamente pelos soltos de alta frequência, preservando a textura natural da pelagem do animal de estimação.
 

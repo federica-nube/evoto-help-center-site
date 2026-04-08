@@ -22,7 +22,7 @@ The Rotate module in Evoto for iPad allows precise control over image orientatio
 
 ---
 
-### Rotate Options
+#### Rotate Options
 
 Evoto for iPad supports the following orientation tools:
 
@@ -37,7 +37,7 @@ You can also use the rotation slider to make fine adjustments to image alignment
 
 ---
 
-### AI Horizontal Correction
+#### AI Horizontal Correction
 
 Evoto for iPad includes an **AI Horizontal Correction** tool to automatically straighten images.
 
@@ -47,7 +47,7 @@ Evoto for iPad includes an **AI Horizontal Correction** tool to automatically st
 
 ---
 
-### Interaction Between AI Horizontal Correction and Rotation Tools
+#### Interaction Between AI Horizontal Correction and Rotation Tools
 
 Evoto ensures seamless integration between manual rotation and AI adjustments:
 

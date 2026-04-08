@@ -17,7 +17,7 @@ As função de**Histórico** do Evoto oferecem as ferramentas flexíveis e intui
 
 ---
 
-### Painel Geral de Histórico
+#### Painel Geral de Histórico
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.11.30-146x300.png)
 
@@ -32,7 +32,7 @@ O panel flutuante de **Histórico** funciona como a linha do tempo principal par
 
 ---
 
-### Histórico de Ferramenta de Dissolver e Ferramenta de Recuperação
+#### Histórico de Ferramenta de Dissolver e Ferramenta de Recuperação
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.12.47-139x300.png)
 

@@ -18,7 +18,7 @@ Ajuste **expressões faciais** sutis para realçar o humor e a aparência natura
 
 ---
 
-### Sorriso Gengival
+#### Sorriso Gengival
 
 Controle a quantidade de gengiva exposta ajustando a posição do lábio superior. Isso é útil para reduzir a aparência de um “sorriso gengival” ou minimizar dentes projetados.
 
@@ -26,7 +26,7 @@ Controle a quantidade de gengiva exposta ajustando a posição do lábio superio
 
 ---
 
-### Sorriso Suave
+#### Sorriso Suave
 
 Realce os cantos da boca para introduzir um sorriso sutil.
 
@@ -34,7 +34,7 @@ Realce os cantos da boca para introduzir um sorriso sutil.
 
 ---
 
-### Geração de Sorrisos
+#### Geração de Sorrisos
 
 Gere um sorriso de aparência natural que se adapta ao rosto em tempo real.
 

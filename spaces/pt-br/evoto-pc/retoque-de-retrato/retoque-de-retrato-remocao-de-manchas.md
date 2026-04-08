@@ -19,7 +19,7 @@ A seção **Remoção de Manchas** no Evoto permite correções precisas e natur
 
 ---
 
-### Remoção de Sardas e Acne
+#### Remoção de Sardas e Acne
 
 O Evoto utiliza IA para remover sardas e acne, resultando em uma pele lisa e uniforme sem alterar a textura ou a vivacidade natural.
 
@@ -34,7 +34,7 @@ O Evoto utiliza IA para remover sardas e acne, resultando em uma pele lisa e uni
 
 > Os sliders individuais de Sardas e Acne só ficam disponíveis após a ativação do recurso principal.
 
-#### Remoção de Sinal no Rosto
+##### Remoção de Sinal no Rosto
 
 Com um clique, você pode remover sinais do rosto.
 
@@ -42,17 +42,17 @@ Se houver sinal que deseja manter, use a Caneta de Ajuste Manual (mencionada aci
 
 ---
 
-#### Reduzir Brilho Facial
+##### Reduzir Brilho Facial
 
 Esta ferramenta detecta brilhos oleosos no rosto e os minimiza, preservando a textura e a profundidade natural da pele.
 
-#### Olheiras
+##### Olheiras
 
 O slider Olheiras foi desenvolvido para reduzir a pigmentação e as sombras abaixo dos olhos, que muitas vezes fazem com que o rosto pareça cansado ou estressado.
 
 Como funciona: mova o slider para a direita para clarear gradualmente a área abaixo dos olhos. Esse ajuste ajuda a iluminar o olhar e reduzir os sinais de fadiga, criando uma expressão mais vibrante e desperta.
 
-#### Bolsas nos Olhos e Proteção das Pálpebras Inferiores
+##### Bolsas nos Olhos e Proteção das Pálpebras Inferiores
 
 Remove o inchaço ou a flacidez abaixo dos olhos causados pela pele solta ou inchada.
 
@@ -60,13 +60,13 @@ A proteção das Pálpebras Inferiores inclui um mecanismo integrado que preserv
 
 Por padrão, o nível de preservação é definido em 100, garantindo que, enquanto as bolsas são reduzidas, o formato e o volume natural das pálpebras inferiores sejam mantidos.
 
-#### Remover Reflexo dos Óculos
+##### Remover Reflexo dos Óculos
 
 Remova rapidamente o reflexo causado por óculos usando um único slider.
 
 > Observação: Este recurso atualmente não é compatível com óculos com lentes coloridas.
 
-#### Limpeza de Narinas
+##### Limpeza de Narinas
 
 O recurso Limpeza de Narinas remove sujeira, resíduos e outras imperfeições ao redor das narinas e áreas próximas.
 
@@ -74,21 +74,21 @@ O recurso Limpeza de Narinas remove sujeira, resíduos e outras imperfeições a
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/17-1-300x250.jpg)
 
-#### Rugas e Rachaduras Labiais
+##### Rugas e Rachaduras Labiais
 
 Repara rachaduras labiais, suavizando linhas e restaurando um contorno mais cheio e definido.
 
-#### Queixo Duplo (Papada)
+##### Queixo Duplo (Papada)
 
 Aplica um efeito sutil de dissolver e mistura de sombras para minimizar a aparência da papada, mantendo o realismo facial.
 
-#### Proteção da Barba
+##### Proteção da Barba
 
 Evita que a barba seja alterada acidentalmente durante a remoção de manchas. Este recurso está sempre ativo quando pelos faciais são detectados.
 
 ---
 
-### Rugas Faciais
+#### Rugas Faciais
 
 O Evoto inclui sliders especializados para diferentes áreas de rugas faciais:
 
@@ -130,7 +130,7 @@ Trabalha nas rugas ao redor da boca, removendo-as enquanto mantém as caracterí
 
 ---
 
-### Refinamento Corporal
+#### Refinamento Corporal
 
 O Evoto também oferece controle avançado de imperfeições e textura para áreas do corpo:
 
@@ -154,7 +154,7 @@ Remove gordura visível nas axilas e suaviza a área.
 
 Desenvolvido para mulheres, este slider remove estrias ao redor do abdômen. – Inclui um sub-slider para ****Linha d********e********Gravidez**** para ajustes precisos.
 
-#### Tatuagens (Tattos) com Ferramenta de Máscara Manual
+##### Tatuagens (Tattos) com Ferramenta de Máscara Manual
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/纹身-300x89.jpg)
 
@@ -165,7 +165,7 @@ Desenvolvido para mulheres, este slider remove estrias ao redor do abdômen. –
 
 ---
 
-### Caneta de Ajuste Manual
+#### Caneta de Ajuste Manual
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/手动工具-224x300.jpg)
 

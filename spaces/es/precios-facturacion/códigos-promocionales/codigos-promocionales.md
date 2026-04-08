@@ -16,7 +16,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/07/image-15-300x218.png"
 ---
 
-### ¿Dónde puedo encontrar códigos promocionales de Evoto?
+#### ¿Dónde puedo encontrar códigos promocionales de Evoto?
 
 Los códigos promocionales de Evoto se distribuyen a través de promociones oficiales y comunicaciones con suscriptores.
 
@@ -34,7 +34,7 @@ Para no perderte ninguna oferta exclusiva, te recomendamos suscribirte al bolet�
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/07/image-15-300x218.png)
 
-### ¿Caducan los códigos promocionales?
+#### ¿Caducan los códigos promocionales?
 
 Sí, los códigos promocionales tienen una fecha de caducidad.
 
@@ -42,7 +42,7 @@ Sí, los códigos promocionales tienen una fecha de caducidad.
 - Si no se menciona ninguna fecha, puedes probar a introducir el código durante el pago. Si ha caducado, aparecerá el siguiente mensaje:
 - **“Debe introducir un código promocional válido.”**
 
-### ¿Para qué paquetes es válido mi código promocional?
+#### ¿Para qué paquetes es válido mi código promocional?
 
 La validez depende de la promoción o evento específico.
 
@@ -50,11 +50,11 @@ Algunos códigos se aplican a todos los paquetes, mientras que otros pueden esta
 
 Si no estás seguro de si tu código es válido para el paquete que has seleccionado, contacta con **support@evoto.ai** para obtener ayuda.
 
-### ¿Puedo combinar varios códigos promocionales?
+#### ¿Puedo combinar varios códigos promocionales?
 
 No. Solo se puede aplicar un código promocional por transacción.
 
-### ¿Existen restricciones para los códigos promocionales?
+#### ¿Existen restricciones para los códigos promocionales?
 
 Sí. Los códigos promocionales:
 

@@ -18,7 +18,7 @@ source_assets:
 ---
 
 Evoto iPad cung cấp nhiều tuỳ chọn cắt ảnh linh hoạt phù hợp với nhiều mục đích chỉnh sửa ảnh khác nhau, bao gồm: tỷ lệ cố định, kích thước tự chọn hoặc nhập giá trị chiều dài và chiều rộng thủ công.
-### Cắt ảnh
+#### Cắt ảnh
 
 Evoto cung cấp 3 cách cắt ảnh khác nhau: **Tỷ lệ cố định:**Chọn từ các tỷ lệ khung hình tiêu chuẩn để giữ nguyên tỷ lệ kích thước. **Kích thước tuỳ chọn:**Điều chỉnh vùng cắt thủ công mà không bị ràng buộc bởi bất kỳ tỷ lệ khung hình nào. **Dài * Rộng***********Độ phân giải:** Nhập chiều rộng và chiều cao cố định với độ phân giải để cắt ảnh chính xác. Đơn vị cắt: Hiện tại đã có hỗ trợ đơn vị cắt Inch. Phù hợp cho in ấn hoặc các yêu cầu đầu ra cụ thể. Sau khi cắt ảnh, nhấp vào "**OK**" ở góc dưới bên phải để lưu kết quả cắt.
 

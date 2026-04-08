@@ -12,7 +12,7 @@ secondary_categories:
 
 This section provides answers to common questions about Evoto's Pay-as-You-Go credit packages, which are ideal for users who do not require an annual subscription.
 
-### Credit Packs & Validity
+#### Credit Packs & Validity
 
 - **What Credit Packs Are Available?** Evoto offers four flexible Pay-as-You-Go credit packs designed to suit workflows of any size, with no recurring fees or commitment:
 - 200 credits
@@ -21,7 +21,7 @@ This section provides answers to common questions about Evoto's Pay-as-You-Go cr
 - 3,600 credits
 - **Credit Expiration:** Credits purchased after September 26, 2024 (12:00 PM UTC) are valid for 2 years from the purchase date. Credits purchased before that date are valid for 1 year, under the previous policy. For more information on this policy change, please see the Evoto Price Change Notice.
 
-### Other Frequently Asked Questions
+#### Other Frequently Asked Questions
 
 - **Can I Roll Over Unused Credits?**
 

@@ -17,7 +17,7 @@ Este guia fornece instruções sobre como gerenciar múltiplos perfis ou funçõ
 
 ---
 
-### Como gerenciar múltiplos perfis ou alternar funções?
+#### Como gerenciar múltiplos perfis ou alternar funções?
 
 Se você utiliza contas pessoais e organizacionais na Evoto, é possível alternar entre elas de forma eficiente usando o recurso de mudança de perfil no painel. Algumas organizações também permitem delegação de funções, onde permissões e responsabilidades específicas podem ser atribuídas a diferentes usuários.
 
@@ -25,7 +25,7 @@ Se você utiliza contas pessoais e organizacionais na Evoto, é possível altern
 
 ---
 
-### Como excluir permanentemente minha conta?
+#### Como excluir permanentemente minha conta?
 
 Se você decidir excluir permanentemente sua conta Evoto, siga os passos abaixo com atenção. Esta ação não pode ser revertida e resultará na perda de todos os dados.
 
@@ -47,7 +47,7 @@ Se você decidir excluir permanentemente sua conta Evoto, siga os passos abaixo 
 
 ---
 
-### Opções de Recuperação de Conta
+#### Opções de Recuperação de Conta
 
 Em caso de comprometimento da conta, siga estes passos imediatamente para proteger sua conta:
 

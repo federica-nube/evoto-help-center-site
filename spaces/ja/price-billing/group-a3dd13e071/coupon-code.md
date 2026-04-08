@@ -19,7 +19,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/07/image-8-1024x478.png"
 ---
 
-#### クーポンコードの使い方
+##### クーポンコードの使い方
 
 クーポンコードの使い方については以下の画像をご参照ください。
 

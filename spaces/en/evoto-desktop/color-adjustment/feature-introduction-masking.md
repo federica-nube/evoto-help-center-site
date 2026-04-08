@@ -37,7 +37,7 @@ source_assets:
 The Masking feature allows for nondestructive, precision editing by isolating specific areas of an image, such as people, pets, backgrounds, or custom regions, for targeted color adjustments. Whether you’re fine-tuning skin tones, enhancing a sky, adjusting pet fur colors, or selectively applying HSL or color grading, masking gives you full control over localized edits.
 ---
 
-### Accessing the Masking Feature
+#### Accessing the Masking Feature
 
 To begin using masks:
 - Go to the **Color Adjustments** feature group.
@@ -56,7 +56,7 @@ Once created, the mask will appear in the Quick Access panel in the top left cor
 
 ---
 
-### Person Mask Options
+#### Person Mask Options
 
 Evoto enables detailed control of individual people in an image. For each identified person, you can make targeted edits to an array of areas. Supports selecting different body parts and combining them into a single mask group.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/10-2-229x300.jpg)
@@ -64,10 +64,10 @@ Evoto enables detailed control of individual people in an image. For each identi
 Additionally, you can edit all persons simultaneously using the All Persons option. This includes sub-masks and supports effect syncing across the project.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/截屏2025-05-29-17.19.08-300x204.png)
 
-#### Ears
+##### Ears
 
 A new Ears mask is available under Person Masks for targeted ear adjustments.
-#### Apparel
+##### Apparel
 
 A new Apparel mask category has been added under Person Masks, including the following sub-masks:
 - **Clothing:** Tops, Inner Layer, Dress, Bottom, Shoes
@@ -75,7 +75,7 @@ A new Apparel mask category has been added under Person Masks, including the fol
 
 ---
 
-### Pet Mask Options
+#### Pet Mask Options
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-57.png)
 
@@ -93,37 +93,37 @@ Pet Masking enables you to create professional pet portraits by adjusting the pe
 
 ---
 
-### Background Mask Options
+#### Background Mask Options
 
 Evoto enables detailed control of the background in an image. Supports selecting different types of backgrounds and combining them into a single mask group.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/12-5-182x300.jpg)
 
-#### Reef
+##### Reef
 
 A new Reef mask is available under Background Masks.
 ---
 
-### Custom Mask Types
+#### Custom Mask Types
 
 Create personalized masking areas with three flexible tools and two c ombined masks options (subject/background).
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/custom-mask-295x300.jpg)
 
-#### Brush Tool
+##### Brush Tool
 
 Use the brush to manually add or remove mask areas. Adjustable parameters include Size , Softness , Flow , and Density . You can also use Invert to reverse the selected mask area.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/截屏2025-05-29-17.22.59-181x300.png)
 
-#### Linear Gradient
+##### Linear Gradient
 
 Ideal for skies, horizons, or architectural elements. Customize the gradient by adjusting its direction and area using three horizontal lines and one vertical center line. Drag the center extension to rotate the mask. You can create multiple linear masks and reposition them if needed.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/截屏2025-05-29-17.55.51-300x161.png)
 
-#### Radial Gradient
+##### Radial Gradient
 
 Use this for circular or elliptical masking, perfect for isolating faces or sun flares. Two ellipses represent the soft start and end of the gradient. Drag from the center or outer line to resize, reposition, or rotate the mask.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/截屏2025-05-29-17.59.33-300x161.png)
 
-#### Luminance Range
+##### Luminance Range
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/15-2-199x300.jpg)
 
@@ -148,19 +148,19 @@ Supporting Features
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/18-243x300.jpg)
 
 The Smart Selection feature uses AI technology to allow users to quickly select specific areas in photos through clicks, frame selection, or brush strokes, significantly reducing the complexity of mask operations.
-#### Three Smart Selection Tools
+##### Three Smart Selection Tools
 
 - **Segment (Semantic Selection):** AI pre-segments all objects in the photo, displaying selectable areas in real-time as the mouse moves. Supports point and box selection.
 - **Interactive (Interactive Segmentation):** Intelligently segments in real-time as the mouse moves, dynamically displaying the split area. Supports point and frame selection.
 - **Quick (Fast Selection):** Create and adjust selections quickly with brush strokes. Adjustable brush size (1-300px) with intelligent edge recognition.
 
-#### Operation Modes
+##### Operation Modes
 
 - **Brush Mode:** Click or drag to increase selection range; multiple selections auto-merge.
 - **Eraser Mode:** Click or drag to reduce selection area.
 - **Invert:** One-click invert selection and non-selection areas.
 
-#### Edge Refinement Tools
+##### Edge Refinement Tools
 
 - **Smooth:** Smoother selection edges (1-500 pixels).
 - **Expand:** Proportionally enlarge selection edges (1-500 pixels).
@@ -171,7 +171,7 @@ The Smart Selection feature uses AI technology to allow users to quickly select 
 
 ---
 
-### Editing and Managing Masks
+#### Editing and Managing Masks
 
 Right-click any created mask in the Local Mask list to Edit or Delete it. To reposition a mask, click and drag it in the preview area when the hand icon appears. Use the **Invert** option to flip the masked and unmasked areas.
 

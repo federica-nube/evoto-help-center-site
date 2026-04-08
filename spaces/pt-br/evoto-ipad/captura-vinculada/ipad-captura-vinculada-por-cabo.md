@@ -23,7 +23,7 @@ source_assets:
 
 O **Evoto para iPad** oferece suporte à captura vinculada com conexão por cabo, permitindo **capturar, visualizar e editar fotos em tempo real**. Ao conectar a câmera diretamente via cabo, você pode aplicar predefinições instantaneamente e monitorar todas as configurações da câmera durante a sessão.
 
-### Principais Benefícios
+#### Principais Benefícios
 
 - Suporte à captura vinculada com fio (USB)
 - Conexão plug-and-play com detecção automática da câmera
@@ -33,7 +33,7 @@ O **Evoto para iPad** oferece suporte à captura vinculada com conexão por cabo
 
 ---
 
-### Como Iniciar a Captura Vinculada
+#### Como Iniciar a Captura Vinculada
 
 1. Abra o **Evoto** no seu iPad.
 2. Toque no **ícone da câmera** na barra de ferramentas à direita.
@@ -61,9 +61,9 @@ Após a Conexão, você poderá visualizar:
 
 ---
 
-### Configurações de Captura e Pré-visualização
+#### Configurações de Captura e Pré-visualização
 
-#### Opções de Efeito na Captura
+##### Opções de Efeito na Captura
 
 Defina como os efeitos serão aplicados às novas imagens capturadas:
 
@@ -72,7 +72,7 @@ Defina como os efeitos serão aplicados às novas imagens capturadas:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/13-1-300x208.jpg)
 
-#### Opções de Exibição da Pré-visualização
+##### Opções de Exibição da Pré-visualização
 
 Controle como as imagens aparecem após cada captura:
 
@@ -83,7 +83,7 @@ Controle como as imagens aparecem após cada captura:
 
 ---
 
-### Configurações de Importação
+#### Configurações de Importação
 
 Filtragem por Formato
 
@@ -101,7 +101,7 @@ A captura vinculada com fio permite filtrar imagens por formato:
 
 ---
 
-### Opções de Nomeação de Arquivos
+#### Opções de Nomeação de Arquivos
 
 Escolha entre 5 métodos flexíveis para nomear os arquivos originais capturados:
 
@@ -114,7 +114,7 @@ Escolha entre 5 métodos flexíveis para nomear os arquivos originais capturados
 
 ---
 
-### Modelos de Câmera Compatíveis
+#### Modelos de Câmera Compatíveis
 
 Para melhor compatibilidade, algumas marcas podem exigir configurações adicionais. Consulte os guias específicos por marca:
 
@@ -128,7 +128,7 @@ Para melhor compatibilidade, algumas marcas podem exigir configurações adicion
 
 ---
 
-### Exportação das Imagens Capturadas
+#### Exportação das Imagens Capturadas
 
 Após a sessão tethered, você pode exportar:
 
@@ -139,7 +139,7 @@ Por padrão, o Evoto utiliza o seletor de arquivos do iPadOS. Caso serviços em 
 
 ---
 
-### Solução de Problemas: Falha de Conexão
+#### Solução de Problemas: Falha de Conexão
 
 Se aparecer a mensagem **“Falha na Conexão”** ao iniciar a captura vinculada, considere as seguintes causas e soluções:
 

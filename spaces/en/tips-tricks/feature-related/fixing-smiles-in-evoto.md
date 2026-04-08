@@ -21,7 +21,7 @@ source_assets:
 
 Not every portrait captures the perfect smile, but with Evoto, you can easily adjust and enhance expressions to achieve natural and flattering results. This tutorial walks you through how to fix smiles using Evoto’s **Facial Expression Management**, **Teeth Whitening**, and **Facial Reshape** tools.
 
-### Step 1: Manage Expressions with Evoto
+#### Step 1: Manage Expressions with Evoto
 
 Go to **Portrait > Facial Expression** to find the smile adjustment tools. Here you’ll see three sliders designed to control how natural or expressive the smile appears.
 
@@ -37,13 +37,13 @@ Go to **Portrait > Facial Expression** to find the smile adjustment tools. Here 
 
 Tip: Keep the adjustments light-handed to maintain a natural look. Over-adjusting may make the smile look artificial.
 
-### Step 2: Brighten the Smile with Teeth Whitening
+#### Step 2: Brighten the Smile with Teeth Whitening
 
 A smile doesn’t just depend on expression; it also shines brighter with healthy-looking teeth. Evoto includes a **Teeth Whitening** option under the Portrait tools. With a quick adjustment, you can remove stains or yellow tones and create a balanced, natural brightness.
 
 ???? For a full step-by-step guide, check out our **Teeth Whitening Tutorial**.
 
-### Step 3: Refine the Face with Facial Reshape
+#### Step 3: Refine the Face with Facial Reshape
 
 After adjusting the smile, you may want to fine-tune other facial features for balance. Go to **Portrait > Facial Reshape**.
 
@@ -59,12 +59,12 @@ Here are a few key controls that complement smile editing:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/10/20251009151121-scaled.jpg)
 
-### Best Practices
+#### Best Practices
 
 - **Work Gradually**: Small adjustments often look more natural than extreme changes.
 - **Check Across Multiple Photos**: If you’re editing a set (such as headshots), use batch settings to keep consistency.
 - **Compare Before/After**: Always toggle your changes to ensure the smile looks authentic and flattering.
 
-### Conclusion
+#### Conclusion
 
 With Evoto, fixing smiles is fast, natural, and flexible. Whether you need to enhance a subtle grin, brighten teeth, or adjust surrounding features, the **Expression Management**, **Teeth Whitening**, and **Facial Reshape** tools give you everything you need to bring out the best smiles in your portraits.

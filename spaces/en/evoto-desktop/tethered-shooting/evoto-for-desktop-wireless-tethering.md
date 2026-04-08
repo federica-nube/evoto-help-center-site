@@ -28,7 +28,7 @@ This feature enables:
 
 Evoto also supports a dual setup, allowing you to use one wireless camera and one wired camera in the same project simultaneously.
 
-### How to Use
+#### How to Use
 
 1. Open Evoto and go to the **Tethering** page, then select **Wireless Tethering**.
 
@@ -41,7 +41,7 @@ Evoto also supports a dual setup, allowing you to use one wireless camera and on
 
 ---
 
-### Pre-Capture Settings
+#### Pre-Capture Settings
 
 Before shooting, you can configure the following options. These settings are synchronized with wired tethering.
 
@@ -54,7 +54,7 @@ Before shooting, you can configure the following options. These settings are syn
 
 ---
 
-### Secondary Display for Tethered Shooting
+#### Secondary Display for Tethered Shooting
 
 During capture, images can be displayed on a secondary screen. This is useful for models to view their poses, making communication easier, and during Culling, it allows you to browse and mark images, speeding up the workflow.
 
@@ -68,7 +68,7 @@ During capture, images can be displayed on a secondary screen. This is useful fo
 
 ---
 
-### Support & Limitations
+#### Support & Limitations
 
 - **Supported:** Evoto supports a dual setup of **one wireless camera and one wired camera** simultaneously.
 - **Not Supported:** The software does not support using multiple wireless or multiple wired cameras at the same time.
@@ -76,7 +76,7 @@ During capture, images can be displayed on a secondary screen. This is useful fo
 
 ---
 
-### Supported Camera Models & Important Notes
+#### Supported Camera Models & Important Notes
 
 To ensure smooth usage of the tethered shooting feature, please note that adjustments may be necessary on both your device and camera, depending on the camera manufacturer’s settings.
 

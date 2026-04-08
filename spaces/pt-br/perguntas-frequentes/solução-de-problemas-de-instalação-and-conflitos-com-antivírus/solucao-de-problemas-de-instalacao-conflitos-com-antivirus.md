@@ -12,7 +12,7 @@ Este guia aborda problemas comuns em que o Evoto pode ser bloqueado pelo sistema
 
 ---
 
-### Como corrigir o erro “O Evoto não pode ser aberto porque não foi baixado da App Store” no Mac?
+#### Como corrigir o erro “O Evoto não pode ser aberto porque não foi baixado da App Store” no Mac?
 
 Esse erro ocorre quando o **Gatekeeper do macOS**, um recurso de segurança, impede a abertura de aplicativos que não foram baixados da App Store ou de desenvolvedores identificados.
 
@@ -30,7 +30,7 @@ Esse erro ocorre quando o **Gatekeeper do macOS**, um recurso de segurança, imp
 
 ---
 
-### Como permitir o Evoto no antivírus do Windows?
+#### Como permitir o Evoto no antivírus do Windows?
 
 Programas antivírus e anti-malware podem, ocasionalmente, bloquear processos relacionados ao Evoto, impedindo seu funcionamento adequado. Ao criar uma exceção (whitelist), você garante que o Evoto funcione sem interferências.
 

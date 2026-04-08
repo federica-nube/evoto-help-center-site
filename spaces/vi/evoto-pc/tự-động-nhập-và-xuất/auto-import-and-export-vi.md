@@ -22,7 +22,7 @@ source_assets:
 
 Tính năng Tự động nhập và xuất của Evoto giúp tự động hóa quy trình xử lý ảnh của bạn. Bằng cách theo dõi các thư mục đã chỉ định theo thời gian thực, tính năng này tự động nhập ảnh mới vào Evoto để xử lý và xuất chúng khi hoàn tất. Chức năng này phù hợp với các qui trình xử lý ảnh lớn, và đặc biệt hữu ích khi bạn sử dụng kết hợp với tính năng Chụp ảnh kết nối máy tính.
 
-### Tổng quan
+#### Tổng quan
 
 Tính năng Tự động nhập & xuất cho phép bạn:
 
@@ -33,22 +33,22 @@ Tính năng Tự động nhập & xuất cho phép bạn:
 
 Tính năng này giúp tự động hóa các tác vụ lặp đi lặp lại, cho phép bạn tập trung vào công việc sáng tạo trong khi Evoto xử lý phần còn lại.
 
-### Các điểm lưu ý quan trọng
+#### Các điểm lưu ý quan trọng
 
 - Tính năng Tự động nhập và xuất có thể được sử dụng trong cùng một dự án với Chụp ảnh kết nối với máy tính. Hai tính năng này hoạt động độc lập và sẽ không gây cản trở lẫn nhau.
 - Thư mục lưu ảnh chụp của Chụp ảnh kết nối với máy tính, thư mục đích của Tự động nhập, và thư mục xuất của Tự động xuất phải là các thư mục riêng biệt và không được trùng lặp.
 - Tính năng Tự động nhập và xuất chỉ hoạt động ở không gian chỉnh sửa ảnh. Nếu bạn quay lại không gian dự án hoặc chuyển sang dự án khác, quá trình tự động nhập và xuất sẽ được tạm dừng.
 - Trong khi quá trình tự động xuất đang hoạt động, các tính năng chỉnh sửa khác sẽ bị vô hiệu hoá. Để tinh chỉnh ảnh, hãy tạm dừng hoặc ngừng tác vụ xuất tự động.
 
-### Cách bắt đầu nhập và xuất tự động
+#### Cách bắt đầu nhập và xuất tự động
 
-#### Cách 1: Trong không gian dự án - khi tạo dự án mới
+##### Cách 1: Trong không gian dự án - khi tạo dự án mới
 
 Bạn có thể kích hoạt tính năng Tự động nhập và xuất bằng cách tạo một dự án mới. Trong không gian làm việc của dự án, sau khi tạo dự án mới, chọn Thư mục tự động để kích hoạt tính năng.
 
 ![](https://res.evoto.ai/wordpress/4f482bc6-1f65-4c12-8891-0d77ba0a8802.png)
 
-#### Cách 2: Trong không gian tinh chỉnh ảnh
+##### Cách 2: Trong không gian tinh chỉnh ảnh
 
 Trong phần **Xem trước**, nhấp vào biểu tượng mô-đun **Thư mục tự động** để truy cập tính năng.
 
@@ -56,26 +56,26 @@ Trong phần **Xem trước**, nhấp vào biểu tượng mô-đun **Thư mục
 
 ***Lưu ý: Khuyến khích tạo một dự án mới khi kích hoạt tính năng Tự động nhập và xuất để tránh việc tự động xuất các ảnh khác đã có trong dự án.***
 
-### Cài đặt nhập tự động
+#### Cài đặt nhập tự động
 
-#### Nguồn nhập
+##### Nguồn nhập
 
 ![](https://res.evoto.ai/wordpress/5be75bc2-8443-45b2-a487-dd2878dd336a.png)
 
 - Thêm các thư mục bạn muốn sử dụng để làm nguồn nhập. Bạn có thể chọn **tối đa 10 thư mục.**
 - Nếu bật tùy chọn **Bao gồm thư mục con**, các ảnh trong các thư mục con cũng sẽ được tự động nhập trong quá trình này.
 
-#### Định dạng tệp nhập
+##### Định dạng tệp nhập
 
 - Bạn có thể chọn các định dạng tệp sau khi nhập tự động: JPEG, RAW, TIFF và PNG.
 - Có thể chọn nhiều định dạng cùng lúc.
 
-#### Cài sẵn
+##### Cài sẵn
 
 - Hỗ trợ áp dụng cái sẵn có trong Cài sẵn của tôi hoặc Cài sẵn đề xuất.
 - Sau khi chọn cài sẵn, cài sẵn được tự động áp dụng vào ảnh ngay khi bắt đầu quá trình nhập tự động.
 
-#### Cài đặt xem trước hình ảnh
+##### Cài đặt xem trước hình ảnh
 
 Bạn có thể chọn xem trước ảnh ở 2 chế độ:
 
@@ -84,7 +84,7 @@ Bạn có thể chọn xem trước ảnh ở 2 chế độ:
 
 ![](https://res.evoto.ai/wordpress/b49c1244-f564-4a8f-876c-97a2704374fa.png)
 
-#### Bắt đầu tự động nhập
+##### Bắt đầu tự động nhập
 
 Nhấp vào nút **Bắt đầu tự động nhập** để bắt đầu quá trình nhập tự động. Quá trình này sẽ nhập các ảnh mới được thêm vào từ thư mục được chỉ định. Các ảnh đã có sẵn trong thư mục trước khi bắt đầu tự động nhập sẽ không được nhập vào Evoto.
 

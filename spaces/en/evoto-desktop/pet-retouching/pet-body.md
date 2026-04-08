@@ -20,7 +20,7 @@ Evoto provides powerful AI-driven tools to enhance your pet photos. The **Pet Bo
 
 ---
 
-### Leash Removal
+#### Leash Removal
 
 The **Pet Leash Removal** feature allows for the automatic detection and removal of leashes in pet photography while preserving the texture and background detail of the original image.
 
@@ -34,7 +34,7 @@ This tool generates a new **.tsq** format file and charges **1 credit** when you
 
 ---
 
-### Stray Fur Removal
+#### Stray Fur Removal
 
 Automatically clean up pet photos by eliminating distracting flyaways and frizz. This feature quickly detects and minimizes high-frequency stray hairs while preserving the natural texture of the pet's coat.
 

@@ -57,9 +57,9 @@ source_assets:
 El espacio de trabajo de Evoto está dividido en cinco secciones principales para ayudar a optimizar su flujo de trabajo y mejorar la productividad:
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250424140038-1-300x131.jpg)
 
-### Sección de Navegación (parte superior)
+#### Sección de Navegación (parte superior)
 
-#### Barra de Herramientas
+##### Barra de Herramientas
 
 - **Botones generales:** incluye opciones para Exportar, Historial de exportación, Perfil y Compra.
 
@@ -73,7 +73,7 @@ El espacio de trabajo de Evoto está dividido en cinco secciones principales par
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-08-at-20.51.14-300x45.png)
 
-#### Búsqueda de Proyectos
+##### Búsqueda de Proyectos
 
 Puede buscar proyectos directamente dentro del panel de Proyectos de la Biblioteca usando la herramienta de búsqueda o los siguientes atajos de teclado:
 - macOS: ⌘F
@@ -83,7 +83,7 @@ Puede buscar proyectos directamente dentro del panel de Proyectos de la Bibliote
 
 ---
 
-### Sección de Gestión (Izquierda)
+#### Sección de Gestión (Izquierda)
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250917154317.jpg)
 
@@ -99,7 +99,7 @@ El panel izquierdo se puede redimensionar para ajustar la disposición del espac
 
 ---
 
-### Sección de Gestión (Izquierda)
+#### Sección de Gestión (Izquierda)
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250917154317.jpg)
 
@@ -113,7 +113,7 @@ Incluye:
 
 ---
 
-### Sección de Galería (inferior)
+#### Sección de Galería (inferior)
 
 Muestra miniaturas de imágenes con herramientas para etiquetar, filtrar, ordenar y visualizar imágenes:
 
@@ -125,15 +125,15 @@ Muestra miniaturas de imágenes con herramientas para etiquetar, filtrar, ordena
 
 ---
 
-### Sección de Acceso Rápido (Derecha)
+#### Sección de Acceso Rápido (Derecha)
 
 Muestra herramientas de selección, preajustes, opciones de sincronización y metadatos:
-#### Selección
+##### Selección
 
 La función de Selección está disponible en el panel Biblioteca y admite selección manual y con IA. Consulta más detalles en Selección y Organización .
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250917172715.jpg)
 
-#### Preajustes y Sincronización
+##### Preajustes y Sincronización
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-08-at-21.01.27-288x300.png)
 
@@ -151,7 +151,7 @@ La función de Selección está disponible en el panel Biblioteca y admite selec
 - Ajuste de ropa y accesorios
 - Recortar y rotar
 
-#### Panel de Metadatos
+##### Panel de Metadatos
 
 Un módulo de metadatos se encuentra en el lado derecho del panel de la Biblioteca. Esto permite a los usuarios ver, editar y actualizar los metadatos de las imágenes directamente dentro de Evoto.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-08-at-21.08.16-206x300.png)
@@ -166,7 +166,7 @@ Un módulo de metadatos se encuentra en el lado derecho del panel de la Bibliote
 
 ---
 
-### Área de Visualización de Imágenes (Centro)
+#### Área de Visualización de Imágenes (Centro)
 
 - **Configuración inicial:** Si no existen proyectos, se te pedirá que crees uno.
 
@@ -178,7 +178,7 @@ Un módulo de metadatos se encuentra en el lado derecho del panel de la Bibliote
 
 ---
 
-### Importación de Imágenes
+#### Importación de Imágenes
 
 Existen varias formas de importar imágenes:
 
@@ -200,15 +200,15 @@ Existen varias formas de importar imágenes:
 
 ---
 
-### Organización de Proyectos con Grupos en Evoto
+#### Organización de Proyectos con Grupos en Evoto
 
 La función de **Grupos** en Evoto te ayuda a mantener tus proyectos organizados dentro de la Biblioteca. Al agrupar proyectos, puedes gestionar un gran número de ellos de manera más eficiente y mantener un espacio de trabajo más limpio.
 
-#### Acceso a los grupos
+##### Acceso a los grupos
 
 En el panel de la Biblioteca, dentro de la pestaña **Proyectos**, puedes crear y gestionar grupos. Los grupos funcionan como carpetas para tus proyectos, permitiéndote organizarlos según clientes, sesiones, temas o cualquier flujo de trabajo que se ajuste a tus necesidades.
 
-#### Creación de un grupo
+##### Creación de un grupo
 
 - Ve a la pestaña **Proyectos** en la Biblioteca.
 - Haz clic en el botón **+**.
@@ -218,7 +218,7 @@ En el panel de la Biblioteca, dentro de la pestaña **Proyectos**, puedes crear 
 Tu nuevo grupo ahora aparecerá en la lista de proyectos.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250916212105-scaled.jpg)
 
-#### Agregar proyectos a un grupo
+##### Agregar proyectos a un grupo
 
 Puedes asignar un nuevo proyecto a un grupo cuando se crea.
 
@@ -229,7 +229,7 @@ Puedes asignar un nuevo proyecto a un grupo cuando se crea.
 El proyecto se creará bajo el grupo seleccionado.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250916212324-scaled.jpg)
 
-#### Administrar grupos
+##### Administrar grupos
 
 Puedes administrar tus grupos haciendo clic derecho sobre un grupo (o haciendo clic en el menú ⋮ en la pestaña del grupo) para acceder a un menú con opciones de gestión.
 
@@ -239,14 +239,14 @@ Puedes administrar tus grupos haciendo clic derecho sobre un grupo (o haciendo c
 - **Expandir todos los grupos**: Expande todos los grupos de proyectos en la lista.
 - **Eliminar**: Elimina el grupo. Esta acción no borra los proyectos contenidos dentro del grupo.
 
-#### Reorganizar grupos
+##### Reorganizar grupos
 
 Puedes reordenar fácilmente tus grupos para adaptarlos a tu flujo de trabajo. Simplemente arrastra y suelta una pestaña de grupo para reposicionarla dentro de la lista.
 ---
 
-### Gestión de Archivos
+#### Gestión de Archivos
 
-#### Carpetas relacionadas
+##### Carpetas relacionadas
 
 Las carpetas solo muestran las imágenes asociadas con el proyecto seleccionado.
 
@@ -274,7 +274,7 @@ Actualizar una carpeta sincroniza Evoto con cualquier cambio realizado fuera de 
 - Nuevas fotos (importadas automáticamente usando **Carpeta de sincronización**)
 - Fotos faltantes (eliminadas automáticamente)
 
-#### Colección
+##### Colección
 
 La función Colección en Evoto permite agrupar y organizar fotos de múltiples proyectos sin duplicar los archivos originales. Esto es especialmente útil cuando necesitas reunir imágenes específicas para editar, revisar o exportar sin alterar la estructura original del proyecto. **Ubicación de las colecciones**
 
@@ -310,7 +310,7 @@ Las fotos en las colecciones se comportan igual que las de los proyectos. Puedes
 Esto asegura que las colecciones no sean solo herramientas de organización, sino también espacios de trabajo funcionales para tu flujo de edición.
 ---
 
-### Modos de Visualización
+#### Modos de Visualización
 
 Atajos para vista rápida:
 
@@ -319,7 +319,7 @@ Atajos para vista rápida:
 - **L** – Modo de imagen grande (admite zoom)
 - **N** – Modo de revisión
 
-#### Vista en cuadrícula (G)
+##### Vista en cuadrícula (G)
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/a8921393-759a-4930-be3a-92560963c944-300x178.png)
 
@@ -332,12 +332,12 @@ Atajos para vista rápida:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-13.58.09-300x174.png)
 
-#### Vista Lupa (L)
+##### Vista Lupa (L)
 
 La Vista Lupa permite ver una sola imagen a la vez, facilitando el zoom y la inspección detallada.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/1ae445dd-c522-45d0-afb7-5ff97fd79eff-300x178.png)
 
-#### Vista de Encuesta (N)
+##### Vista de Encuesta (N)
 
 El Modo Encuesta permite ver hasta 12 imágenes a la vez en una vista comparativa lado a lado.
 
@@ -359,7 +359,7 @@ Color del Lienzo El color de fondo del lienzo se puede cambiar haciendo clic der
 
 ---
 
-### Selección y Navegación de Imágenes
+#### Selección y Navegación de Imágenes
 
 - **Imagen Única:** Haz clic para seleccionar.
 - **Selección Múltiple:**
@@ -406,7 +406,7 @@ Evoto ofrece varias maneras de etiquetar, seleccionar o calificar sus imágenes.
 
 ---
 
-### Filtrado de Imágenes
+#### Filtrado de Imágenes
 
 Se puede abrir o cerrar el menú de filtros con el atajo de teclado (\).
 
@@ -430,9 +430,9 @@ Se puede abrir o cerrar el menú de filtros con el atajo de teclado (\).
 
 ---
 
-### Mover y Copiar Imágenes
+#### Mover y Copiar Imágenes
 
-#### Mover
+##### Mover
 
 Acciones que cambian las rutas de archivo:
 
@@ -445,14 +445,14 @@ Acciones que cambian las rutas de archivo:
 
 > Notas: Si se está procesando o exportando, el movimiento puede fallar. Interrumpir un movimiento masivo puede resultar en un éxito parcial. Los permisos, el espacio de almacenamiento y el estado del archivo pueden afectar la operación.
 
-#### Copiar
+##### Copiar
 
 Arrastrar imágenes entre proyectos las copiará, incluyendo los efectos actuales. Una vez que una imagen se copia a otro proyecto, puede editarse en uno sin afectar al otro.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/bf7c4d55-6c06-483f-b41a-51c170e89424-300x179.png)
 
 ---
 
-### Opciones al Hacer Clic Derecho en una Imagen
+#### Opciones al Hacer Clic Derecho en una Imagen
 
 Al hacer clic derecho en una imagen en la Vista de Cuadrícula aparecerá una variedad de opciones, que incluyen:
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/1954c16a-fe31-4e7f-9925-a3062bc8ae18-300x276.png)
@@ -470,7 +470,7 @@ Al hacer clic derecho en una imagen en la Vista de Cuadrícula aparecerá una va
 
 ---
 
-### Virtual Copy
+#### Virtual Copy
 
 Las copias virtuales permiten a los usuarios crear múltiples versiones con ajustes independientes basadas en los mismos datos de la imagen original. Los usuarios pueden previsualizar y comparar varias imágenes una al lado de la otra en la misma página, evaluar eficientemente las diferencias y exportar rápidamente los mejores resultados. Crear una Copia Virtual
 - Haz clic derecho en la imagen y selecciona **Create Virtual Copy** (Crear Copia Virtual).
@@ -490,9 +490,9 @@ Características:
 
 ---
 
-### Preguntas Frecuentes sobre Casos Especiales
+#### Preguntas Frecuentes sobre Casos Especiales
 
-#### Ubicaciones de Archivos No Movibles
+##### Ubicaciones de Archivos No Movibles
 
 Las carpetas ubicadas en rutas protegidas del sistema no se pueden mover dentro de Evoto. Estas restricciones ayudan a mantener la estabilidad del sistema y a prevenir errores de acceso a archivos.
 
@@ -503,7 +503,7 @@ Las carpetas ubicadas en rutas protegidas del sistema no se pueden mover dentro 
 C:\Users\<username>\Download C:\Windows C:\Program Files C:\Users<username>\AppData C:\Users<username>\Favorites C:\Windows\System32 C:\Windows\Temp C:\ProgramData C:\Users<username>\Saved Games C:\Program Files (x86) C:$Recycle.Bin C:\Recovery C:$WINDOWS.~BT or C:$WINDOWS.~WS C:\System Volume Information/Users/<username>/Desktop/Users/<username>/Documents /Users/<username>/Downloads /System /Applications /Library /bin, /sbin, /usr /private /Volumes
 ---
 
-#### Archivos Fuente Faltantes
+##### Archivos Fuente Faltantes
 
 - Archivos eliminados o movidos
 - DNGs sin archivos RAW originales
@@ -513,24 +513,24 @@ C:\Users\<username>\Download C:\Windows C:\Program Files C:\Users<username>\AppD
 Si algunos archivos faltan durante un movimiento, los válidos se transferirán igualmente. Actualmente no aparece un mensaje emergente para archivos faltantes.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/5cf03036-8008-43b9-909a-9f5e6ae5fe58-300x118.png)
 
-#### Problemas de Permisos
+##### Problemas de Permisos
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/bed39869-6d7e-4b45-97eb-1a401e2425a9-300x35.png)
 
 - El destino es de solo lectura (por ejemplo, unidades externas, carpetas en la nube)
 - Evoto no puede escribir en carpetas sincronizadas como iCloud o Dropbox
 
-#### Limitaciones de Almacenamiento
+##### Limitaciones de Almacenamiento
 
 - No hay suficiente espacio en la ubicación de destino
 
-#### Conflicto de Anidamiento de Carpetas
+##### Conflicto de Anidamiento de Carpetas
 
 - No se puede arrastrar una carpeta dentro de su carpeta principal o subcarpeta
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/d13d7a6d-f3da-4d69-9fed-16c6585121e8-300x214.png)
 
-#### Nombres Duplicados de Carpetas/Archivos
+##### Nombres Duplicados de Carpetas/Archivos
 
 - Los nombres duplicados bloquean el movimiento
 

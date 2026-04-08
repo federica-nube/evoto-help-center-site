@@ -12,7 +12,7 @@ secondary_categories:
 
 Evoto offers annual subscription plans that are ideal for consistent, high-volume users. These plans provide a lower cost per credit, rollover benefits, and exclusive access to Add-on Packs.
 
-### Annual Subscription Tiers
+#### Annual Subscription Tiers
 
 Evoto offers five annual subscription tiers, each providing a set number of credits and additional benefits:
 
@@ -24,9 +24,9 @@ Evoto offers five annual subscription tiers, each providing a set number of cred
 
 ---
 
-### Credit Management
+#### Credit Management
 
-#### Credit Rollover Feature
+##### Credit Rollover Feature
 
 When you renew your annual subscription, any unused credits from the previous year will roll over to the next year.
 
@@ -51,7 +51,7 @@ An Add-on Pack is an optional credit bundle you can purchase during your subscri
 2. Go to the **Pricing Page**.
 3. Click **Add-on Pack** to view the available options for your plan.
 
-#### Credit Expiration and Renewal
+##### Credit Expiration and Renewal
 
 - **Do credits expire?** Annual subscription credits roll over if you renew your plan on time and do not expire. Pay-as-you-go credits, however, are valid for 2 years from the date of purchase.
 - **Renewal Reminder:** Evoto will send you a renewal reminder before your annual subscription is set to renew, giving you time to review, update, or cancel your plan as needed.
@@ -60,9 +60,9 @@ An Add-on Pack is an optional credit bundle you can purchase during your subscri
 
 ---
 
-### Managing Your Subscription
+#### Managing Your Subscription
 
-#### Subscription Downgrades
+##### Subscription Downgrades
 
 You can request to downgrade your plan at any time. The change will take effect at the start of your next billing cycle.
 

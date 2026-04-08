@@ -46,7 +46,7 @@ The Color Adjustment module in Evoto for iPad allows precise and creative contro
 
 ![](https://evoto.gitbook.io/~gitbook/image?url=https%3A%2F%2F3099291537-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FGcGHhe6Z57mAjGmYtrQ4%252Fuploads%252F9bi9WH8nyoU5Y51jcf9h%252Fimage.png%3Falt%3Dmedia%26token%3De0e8b12d-c1e1-4bc1-b829-ab1cf734e7ae&width=768&dpr=4&quality=100&sign=f37aea16&sv=2)
 
-### Histogram
+#### Histogram
 
 The histogram visually represents the distribution of image brightness:
 

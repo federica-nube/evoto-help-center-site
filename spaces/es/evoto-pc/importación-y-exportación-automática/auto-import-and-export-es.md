@@ -22,7 +22,7 @@ source_assets:
 ---
 
 La función de Importación y Exportación Automática de Evoto optimiza tu flujo de trabajo al monitorear carpetas designadas en busca de nuevas imágenes, aplicar automáticamente un ajuste preestablecido seleccionado y exportar los resultados editados. Esta funcionalidad es ideal para el procesamiento de imágenes de alto volumen y es especialmente útil cuando se combina con Captura Conectada.
-### Descripción General
+#### Descripción General
 
 La Importación y Exportación Automática te permite:
 
@@ -37,15 +37,15 @@ Esta función ayuda a automatizar tareas repetitivas, permitiéndote concentrart
 
 ---
 
-### Cómo habilitar la Importación y Exportación Automática
+#### Cómo habilitar la Importación y Exportación Automática
 
-#### Método 1: Habilitar al crear un nuevo proyecto
+##### Método 1: Habilitar al crear un nuevo proyecto
 
 Después de crear un nuevo proyecto, habilita la opción de Importación y Exportación Automática para configurar la función desde el principio.
 
 ![image.png](https://res.evoto.ai/community/post/5kdVcApFuZw.png)
 
-#### Método 2: Habilitar en la sección de Vista Previa
+##### Método 2: Habilitar en la sección de Vista Previa
 
 En un proyecto abierto, ve a la Sección de Vista Previa y haz clic en el ícono de Importación y Exportación Automática para acceder al módulo.
 ![image.png](https://res.evoto.ai/community/post/5kdVewi4YeE.png)
@@ -53,16 +53,16 @@ En un proyecto abierto, ve a la Sección de Vista Previa y haz clic en el ícono
 Consejo: Se recomienda configurar esto en un proyecto nuevo para evitar exportar imágenes existentes sin querer.
 ---
 
-### Configuración de Importación Automática
+#### Configuración de Importación Automática
 
-#### Carpeta Vigilada
+##### Carpeta Vigilada
 
 ![image.png](https://res.evoto.ai/community/post/5kgtFYTuDUU.png)
 
 - Selecciona hasta 100 carpetas para que Evoto las monitoree.
 - Habilita Incluir Subcarpetas para monitorear subcarpetas ilimitadas de primer nivel dentro de cada carpeta.
 
-#### Tipo de Imagen de Importación
+##### Tipo de Imagen de Importación
 
 Elige qué tipos de archivo importar automáticamente:
 
@@ -73,7 +73,7 @@ Elige qué tipos de archivo importar automáticamente:
 
 (Se pueden seleccionar múltiples formatos.)
 
-#### Preajustes
+##### Preajustes
 
 Elige un preajuste que se aplicará automáticamente al importar. Puedes usar:
 
@@ -82,20 +82,20 @@ Elige un preajuste que se aplicará automáticamente al importar. Puedes usar:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-27-at-15.18.29-300x275.png)
 
-#### Configuración de Imagen de Vista Previa
+##### Configuración de Imagen de Vista Previa
 
 - **Mostrar Última Imagen Importada** (predeterminado): Selecciona y muestra automáticamente la imagen importada más recientemente.
 - **Mantener Selección Actual**: Mantiene la imagen actual seleccionada incluso cuando se agregan nuevas imágenes.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-27-at-15.21.07-300x123.png)
 
-#### Iniciar Importación Automática
+##### Iniciar Importación Automática
 
 Haz clic en Iniciar Importación Automática para comenzar a monitorear la carpeta. Por defecto, solo se importarán las imágenes agregadas después de este punto; los archivos existentes se ignoran.
 
 > Notas Puedes tener subcarpetas ilimitadas, pero solo se procesarán las subcarpetas de primer nivel. La configuración de importación no se puede cambiar después de que se inicie la Importación Automática.
 
-##### Detección de Importación Inteligente (Reanudar Importación)
+###### Detección de Importación Inteligente (Reanudar Importación)
 
 La Detección de Importación Inteligente permite reanudar la Importación Automática, asegurando que no se pierdan imágenes incluso si el flujo de trabajo de la carpeta caliente se interrumpe. Cuando está habilitada, Evoto rastrea qué imágenes se han importado de cada carpeta vigilada. Si la Importación Automática se pausa o detiene y se agregan nuevas fotos a la carpeta durante este tiempo, estas imágenes se importarán automáticamente la próxima vez que reinicies la Importación Automática.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-60-300x253.png)
@@ -109,9 +109,9 @@ Cómo Habilitar:
 
 ---
 
-### Configuración de Exportación Automática
+#### Configuración de Exportación Automática
 
-#### Intervalo de Exportación Automática
+##### Intervalo de Exportación Automática
 
 Establece con qué frecuencia Evoto verifica si hay imágenes exportables:
 
@@ -120,7 +120,7 @@ Establece con qué frecuencia Evoto verifica si hay imágenes exportables:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/1-4-300x256.jpg)
 
-#### Configuración de Exportación de Imágenes
+##### Configuración de Exportación de Imágenes
 
 La Exportación Automática utiliza las mismas opciones de configuración que la exportación manual. Haz clic en Iniciar Exportación Automática para mostrar la configuración completa de exportación. Consulta más detalles en la [Configuración de Exportación](https://support.evoto.ai/how-to-use-import-export/#:~:text=Exporting%20Images,-Evoto%20provides%20comprehensive).
 
@@ -134,7 +134,7 @@ La Exportación Automática utiliza las mismas opciones de configuración que la
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/2-300x151.png)
 
-#### Iniciar Exportación Automática
+##### Iniciar Exportación Automática
 
 Haz clic en Iniciar Exportación Automática para activar la exportación automatizada.
 
@@ -142,17 +142,17 @@ Haz clic en Iniciar Exportación Automática para activar la exportación automa
 
 ---
 
-### Monitoreo del Progreso
+#### Monitoreo del Progreso
 
 - **Barra de Progreso de Importación:** Muestra la actividad de importación en tiempo real. Incluye un botón de Pausa.
 - **Barra de Progreso de Exportación:** Muestra el estado de exportación pero no se puede pausar una vez iniciada.
 
 ---
 
-### Uso con Captura Conectada
+#### Uso con Captura Conectada
 
 La Importación y Exportación Automática funciona perfectamente con la Captura Conectada, permitiendo una automatización completa desde la captura hasta la exportación final.
-#### Flujo de trabajo de ejemplo
+##### Flujo de trabajo de ejemplo
 
 1. Las imágenes se capturan mediante Captura Conectada.
 2. Las imágenes se importan al proyecto activo a través de la Importación Automática.

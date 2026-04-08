@@ -35,7 +35,7 @@ O Evoto oferece um conjunto completo e conveniente de ferramentas de edição ma
 
 ---
 
-### Ferramenta de Pesquisa
+#### Ferramenta de Pesquisa
 
 A Ferramenta de Pesquisa ajuda a localizar rapidamente recursos ou projetos dentro do Evoto, dependendo do espaço de trabalho em que você está (Biblioteca ou Editar).
 
@@ -67,7 +67,7 @@ Recursos da Ferramenta de Pesquisa
 
 ---
 
-### Redefinir Efeitos
+#### Redefinir Efeitos
 
 Esta ferramenta oferece opções para reverter edições aplicadas:
 
@@ -79,7 +79,7 @@ Esta ferramenta oferece opções para reverter edições aplicadas:
 
 ---
 
-### Ferramenta Dissolver
+#### Ferramenta Dissolver
 
 A Ferramenta Dissolver permite aos usuários ajustar manualmente formas e contornos da imagem. Recomenda-se aplicar primeiro os efeitos baseados em AI dos Módulos de Recursos e, em seguida, usar Dissolver para refinamentos.
 
@@ -87,7 +87,7 @@ A Ferramenta Dissolver permite aos usuários ajustar manualmente formas e contor
 
 Após realizar os ajustes, clique em “OK” no canto inferior direito para aplicar o efeito.
 
-#### Ferramentas Disponíveis
+##### Ferramentas Disponíveis
 
 - **Ferramenta de formação progressiva**
 
@@ -143,7 +143,7 @@ Protege áreas selecionadas aplicando uma máscara; essas áreas permanecem inal
 
 Remove a máscara congelada, permitindo que áreas previamente protegidas sejam editadas.
 
-#### Opções da Ferramenta Dissolver
+##### Opções da Ferramenta Dissolver
 
 > Observação: Nem todas as opções estão disponíveis para todas as ferramentas.
 
@@ -154,7 +154,7 @@ Remove a máscara congelada, permitindo que áreas previamente protegidas sejam 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/24-1-300x197.jpg)
 
-#### Opções Adicionais
+##### Opções Adicionais
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/25-1-300x97.jpg)
 
@@ -168,13 +168,13 @@ Alterna a visibilidade da máscara congelada aplicada com a ferramenta congelar 
 
 ---
 
-### Ferramenta de Recuperação
+#### Ferramenta de Recuperação
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/26-300x72.jpg)
 
 As Ferramentas de Recuperação ajudam a reparar defeitos da imagem, mesclando textura e cor das áreas ao redor, permitindo remover manchas ou imperfeições com resultados naturais.
 
-#### Pincel de Recuperação para Manchas
+##### Pincel de Recuperação para Manchas
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/28-1-300x259.jpg)
 
@@ -183,7 +183,7 @@ Amostra automaticamente os pixels próximos para reparar as áreas selecionadas.
 - **Tamanho:** Ajusta o tamanho do pincel.
 - **Dureza:** Ajusta a suavidade das bordas do pincel.
 
-#### Ferramenta de Correção
+##### Ferramenta de Correção
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/29-1-300x190.jpg)
 
@@ -192,7 +192,7 @@ Usa uma área de origem para reparar uma área de destino, corresponde a textura
 - **Fonte:** Seleciona a área para amostra.
 - **Destino:** Aplica a textura, a iluminação e o sombreamento amostrados na área alvo.
 
-#### Carimbo de Clone
+##### Carimbo de Clone
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/30-1-236x300.jpg)
 

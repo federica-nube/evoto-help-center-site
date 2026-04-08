@@ -20,7 +20,7 @@ Para mais informações, consulte nossa página completa sobre [Importação & E
 
 ---
 
-### Escolher o Formato de Arquivo Ideal
+#### Escolher o Formato de Arquivo Ideal
 
 O Evoto oferece suporte a múltiplos formatos de imagem, cada um adequado a diferentes necessidades.
 
@@ -28,7 +28,7 @@ O Evoto oferece suporte a múltiplos formatos de imagem, cada um adequado a dife
 - **JPG (8-bit):**Formato ideal quando o tamanho do arquivo é uma prioridade, como para uso na web, redes sociais e compartilhamento online. O JPG utiliza compressão, o que reduz o tamanho do arquivo, mas pode resultar em perda de alguns detalhes da imagem.
 - **TIFF (8-bit / 16-bit):**A melhor opção para imagens de alta qualidade e sem perdas. O TIFF é um formato profissional que preserva todos os dados da imagem ao evitar compressão, sendo ideal para edições posteriores, impressão profissional e arquivamento.
 
-### Controlar Qualidade e Tamanho de Arquivo
+#### Controlar Qualidade e Tamanho de Arquivo
 
 A configuração de qualidade no Evoto está disponível ao exportar imagens no formato JPG e permite equilibrar a qualidade da imagem com o tamanho do arquivo.
 
@@ -43,7 +43,7 @@ A configuração de qualidade no Evoto está disponível ao exportar imagens no 
 
 ---
 
-### Ajustar o Nitidez de Saída (Output Sharpening)
+#### Ajustar o Nitidez de Saída (Output Sharpening)
 
 O Evoto inclui configurações personalizadas de nitidez de saída (Output Sharpening) para otimizar suas imagens de acordo com o uso final, seja para exibição em tela ou impressão.
 
@@ -51,7 +51,7 @@ O Evoto inclui configurações personalizadas de nitidez de saída (Output Sharp
 
 ---
 
-### Ajustar a Resolução e as Dimensões
+#### Ajustar a Resolução e as Dimensões
 
 Ao cortar ou redimensionar uma imagem, é fundamental prestar atenção às configurações de resolução para manter a clareza.
 

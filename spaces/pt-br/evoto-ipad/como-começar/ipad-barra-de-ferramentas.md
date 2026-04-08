@@ -25,13 +25,13 @@ A barra de ferramentas do iPad no Evoto oferece uma variedade de funções avan�
 
 ---
 
-### Ferramenta Liquify (Dissolver)
+#### Ferramenta Liquify (Dissolver)
 
 A ferramenta **Dissolver** oferece efeitos de distorção intuitivos baseados em pincel. As configurações padrão do pincel são otimizadas para iPad, e as configurações personalizadas são salvas por dispositivo. Durante a edição com o Dissolver, você pode alternar entre diferentes abas de retoque sem interromper o seu fluxo de trabalho.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/2-3-163x300.jpg)
 
-#### Pincéis principais do Liquify
+##### Pincéis principais do Liquify
 
 - **Ferramenta de formação progressiva**Empurra os pixels para frente ao arrastar.
 - **Ferramenta suavizar**Suaviza detalhes da imagem para um acabamento mais uniforme e polido.
@@ -42,13 +42,13 @@ A ferramenta **Dissolver** oferece efeitos de distorção intuitivos baseados em
 
 ---
 
-#### Ferramentas de Auxílio do Liquify
+##### Ferramentas de Auxílio do Liquify
 
 - **Ferramenta reconstruir**Reverte distorções aplicadas anteriormente.
 - **Ferramenta congelar máscara**Protege áreas selecionadas aplicando uma máscara; essas áreas permanecem inalteradas durante dissolver.
 - **Ferramenta descongelar máscara**Remove a máscara congelada, permitindo que áreas previamente protegidas sejam editadas.
 
-#### Opções da Ferramenta Dissolver
+##### Opções da Ferramenta Dissolver
 
 > Cada ferramenta do Dissolver inclui sliders ajustáveis para refinar o efeito:
 
@@ -59,7 +59,7 @@ A ferramenta **Dissolver** oferece efeitos de distorção intuitivos baseados em
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/3-4-300x243.jpg)
 
-#### Opções Adicionais
+##### Opções Adicionais
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/4-4-300x144.jpg)
 

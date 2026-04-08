@@ -25,7 +25,7 @@ Suporte a configuração dupla: é possível usar uma câmera sem fio e uma com 
 
 ---
 
-### Como usar
+#### Como usar
 
 1. Abra o Evoto e acesse a página **Fotografia em tempo real**.
 
@@ -43,7 +43,7 @@ Suporte a configuração dupla: é possível usar uma câmera sem fio e uma com 
 
 ---
 
-### Configurações Pré-captura
+#### Configurações Pré-captura
 
 Antes de iniciar a sessão, você pode ajustar as seguintes opções — as mesmas disponíveis para a captura com fio.
 
@@ -54,7 +54,7 @@ Antes de iniciar a sessão, você pode ajustar as seguintes opções — as mesm
 
 ---
 
-### Janela Secundária para Captura com Câmera Vinculada
+#### Janela Secundária para Captura com Câmera Vinculada
 
 Durante a captura, as imagens podem ser exibidas em uma janela secundária. Essa função é útil para que o modelo acompanhe poses em tempo real, facilitando a comunicação e, durante a seleção, permite navegar e marcar imagens, acelerando o fluxo de trabalho.
 
@@ -68,7 +68,7 @@ Durante a captura, as imagens podem ser exibidas em uma janela secundária. Essa
 
 ---
 
-### Suporte & Limitações
+#### Suporte & Limitações
 
 - **Suportado:** O Evoto permite uma configuração dupla com uma câmera sem fio e uma câmera com fio simultaneamente.
 - **Não suportado:** O software não suporta o uso de múltiplas câmeras sem fio ou múltiplas câmeras com fio ao mesmo tempo.
@@ -80,7 +80,7 @@ Durante a captura, as imagens podem ser exibidas em uma janela secundária. Essa
 
 ---
 
-### Modelos de Câmera Suportados & Observações Importantes
+#### Modelos de Câmera Suportados & Observações Importantes
 
 Para garantir o uso da função de captura com câmera conectada, ajustes podem ser necessários tanto no dispositivo quanto na câmera, dependendo do modelo de câmera.
 
@@ -90,7 +90,7 @@ Após a conexão, você pode clicar nos links relevantes de acordo com a marca d
 
 ---
 
-### Problemas e Situações Anormais
+#### Problemas e Situações Anormais
 
 Se você encontrar problemas ou mensagens de “Falha na Conexão” durante a captura vinculada, considere as causas possíveis e soluções recomendadas a seguir:
 

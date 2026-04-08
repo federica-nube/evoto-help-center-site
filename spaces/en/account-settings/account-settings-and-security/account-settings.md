@@ -18,7 +18,7 @@ tags:
 
 This guide provides comprehensive instructions on how to access and manage your Evoto account settings, including personal information, security features, notification preferences, and logged-in devices.
 
-### How do I access my account settings?
+#### How do I access my account settings?
 
 You can access your account settings conveniently through both the Evoto desktop/iPad app and the Evoto official website.
 
@@ -50,7 +50,7 @@ You can access your account settings conveniently through both the Evoto desktop
 
 ---
 
-### How do I change my password?
+#### How do I change my password?
 
 You can update your password through the app or on the official website.
 
@@ -70,7 +70,7 @@ You can update your password through the app or on the official website.
 
 ---
 
-### How do I change my email address?
+#### How do I change my email address?
 
 You can update the email address associated with your Evoto account via the official website.
 
@@ -84,7 +84,7 @@ You can update the email address associated with your Evoto account via the offi
 
 ---
 
-### What security features are available?
+#### What security features are available?
 
 Evoto offers various security features to help protect your account:
 
@@ -94,7 +94,7 @@ Evoto offers various security features to help protect your account:
 
 ---
 
-### What notification and privacy settings are available?
+#### What notification and privacy settings are available?
 
 You have control over the communications you receive and certain aspects of your data.
 
@@ -117,7 +117,7 @@ You have control over the communications you receive and certain aspects of your
 
 ---
 
-### How do I manage my logged-in devices?
+#### How do I manage my logged-in devices?
 
 Your active plan determines the number of devices that can be logged in at the same time.
 
@@ -134,6 +134,6 @@ To manage your devices:
 
 ---
 
-### Still Need Help?
+#### Still Need Help?
 
 If you encounter any account-related issues, feel free to contact us at **support@evoto.ai**. Our team will be happy to assist you.

@@ -16,23 +16,23 @@ tags:
   - "thong-bao"
 ---
 
-#### Tôi có thể tìm cài đặt tài khoản ở đâu?
+##### Tôi có thể tìm cài đặt tài khoản ở đâu?
 
-##### Trong ứng dụng Evoto
+###### Trong ứng dụng Evoto
 
 Sau khi đăng nhập, hãy nhấp vào ảnh đại diện có chữ cái đầu trong tên của bạn ở góc trên bên phải của màn hình, sau đó nhấp vào “Cài đặt tài khoản”.
 
 Tại đây, bạn có thể chỉnh sửa các thông tin cơ bản: tên, số điện thoại, mật khẩu và liên kết tài khoản của bên thứ ba.
 
-##### Trên trang web chính thức của Evoto
+###### Trên trang web chính thức của Evoto
 
 Sau khi đăng nhập, hãy nhấp vào ảnh đại diện có chữ cái đầu trong tên của bạn ở góc trên bên phải của trang web, sau đó nhấp vào “Tài khoản của tôi”.
 
 Tại đây, bạn có thể chỉnh sửa các thông tin cơ bản như: tên, tên công ty, thông báo qua email, điều chỉnh ngôn ngữ và múi giờ.
 
-#### Làm thế nào để thay đổi mật khẩu và bảo mật tài khoản của tôi?
+##### Làm thế nào để thay đổi mật khẩu và bảo mật tài khoản của tôi?
 
-##### Các bước để thay đổi mật khẩu:
+###### Các bước để thay đổi mật khẩu:
 
 **Trong ứng dụng Evoto**
 
@@ -48,7 +48,7 @@ Tại đây, bạn có thể chỉnh sửa các thông tin cơ bản như: tên,
 4. Nhập mật khẩu mới mà bạn muốn thay đổi. Lưu ý: Cân nhắc sử dụng kết hợp chữ cái, số và ký hiệu để mật khẩu mạnh và an toàn.
 5. Lưu thay đổi.
 
-#### Làm thế nào để thay đổi địa chỉ email của tôi?
+##### Làm thế nào để thay đổi địa chỉ email của tôi?
 
 Bạn có thể thay đổi địa chỉ email của mình trên trang web chính thức của Evoto nếu bạn chưa mua gói dịch vụ. Vui lòng đảm bảo rằng địa chỉ email mới mà bạn muốn sử dụng chưa được đăng ký trước đó. Nếu đã đăng ký, trước tiên bạn sẽ cần xóa tài khoản đó trước khi sử dụng lại email này.
 
@@ -62,7 +62,7 @@ Sau đây là các bước để thay đổi địa chỉ email của bạn:
 
 Xin lưu ý rằng quy trình này chỉ khả dụng nếu bạn chưa mua gói ảnh dịch vụ.
 
-#### Tùy chọn bảo mật nâng cao:
+##### Tùy chọn bảo mật nâng cao:
 
 Xác thực hai yếu tố (2FA): Nếu có, hãy bật 2FA thông qua ứng dụng xác thực để có thêm lớp bảo mật. Làm theo hướng dẫn trên màn hình để thiết lập và xác minh thiết bị di động của bạn.
 
@@ -70,21 +70,21 @@ Công cụ đo độ mạnh của mật khẩu: Sử dụng các chỉ báo tíc
 
 Cập nhật thường xuyên: Lên lịch cập nhật mật khẩu định kỳ và xem lại nhật ký hoạt động của tài khoản.
 
-#### Cài đặt thông báo và quyền riêng tư
+##### Cài đặt thông báo và quyền riêng tư
 
-##### Tùy chỉnh thông báo:
+###### Tùy chỉnh thông báo:
 
 Chọn nhận thông báo về các đề xuất mới, hoạt động tài khoản và thảo luận cộng đồng. Các tùy chọn thường bao gồm tin tức sản phẩm, truyền thông tiếp thị, khuyến mại và thông báo.
 
-##### Cài đặt quyền riêng tư:
+###### Cài đặt quyền riêng tư:
 
 Quản lý những ai có thể xem thông tin chi tiết và hoạt động của bạn. Xem lại cài đặt chia sẻ dữ liệu và kiểm soát cách thông tin của bạn được sử dụng cho các tính năng cộng đồng.
 
-##### Tùy chọn nâng cao:
+###### Tùy chọn nâng cao:
 
 Một số người dùng cấu hình các kích hoạt thông báo chi tiết dựa trên loại hoạt động. Kiểm tra các chủ đề cộng đồng trên Diễn đàn Evoto để biết các thiết lập tùy chỉnh do người dùng chia sẻ.
 
-#### Tôi có thể quản lý các thiết bị đã đăng nhập của mình như thế nào?
+##### Tôi có thể quản lý các thiết bị đã đăng nhập của mình như thế nào?
 
 Số lượng thiết bị bạn có thể đăng nhập cùng lúc sẽ khác nhau, tùy thuộc vào gói ảnh dịch vụ mà bạn bạn đã đăng ký. Bạn có thể xem lại những thiết bị nào có quyền truy cập vào tài khoản Evoto của bạn.
 

@@ -16,7 +16,7 @@ Evoto oferece um poderoso conjunto de ferramentas com tecnologia de IA para refi
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-15.47.50-145x300.png)
 
-### Suavização & Estilização
+#### Suavização & Estilização
 
 Essas ferramentas foram desenvolvidas para suavizar e domar o cabelo, proporcionando uma aparência mais refinada e bem estilizada.
 
@@ -24,7 +24,7 @@ Essas ferramentas foram desenvolvidas para suavizar e domar o cabelo, proporcion
 - **Remover Fios Arrepiados:**Um sub-recurso dedicado à redução de fios arrepiados ou desalinhados, especialmente na área principal do cabelo, resultando em um visual mais limpo e organizado.
 - **Realce do Brilho do Cabelo:** Adiciona um brilho natural ao cabelo, melhorando a profundidade e a dimensão por meio de ajustes suaves de luz. Ideal para realçar cabelos com aspecto brilhante ou penteados mais elaborados.
 
-### Ajustes de Cor & Tom
+#### Ajustes de Cor & Tom
 
 O Evoto oferece duas ferramentas específicas para corrigir e aprimorar a cor do cabelo.
 

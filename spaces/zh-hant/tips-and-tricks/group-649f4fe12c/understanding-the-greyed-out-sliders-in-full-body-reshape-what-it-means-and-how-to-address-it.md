@@ -14,7 +14,7 @@ tags:
 
 When using the **Full Body Reshape** feature in Evoto, you might notice that some sliders are greyed out and inaccessible. This is a common occurrence and not an indication of a malfunction. Instead, it is a protective measure designed to ensure accurate body reshaping by preventing imprecise or undesirable results.
 
-### Why Does This Happen?
+#### Why Does This Happen?
 
 Sliders become greyed out when the system has difficulty accurately recognizing certain body parts in the current image. This typically occurs for two main reasons:
 
@@ -23,7 +23,7 @@ Sliders become greyed out when the system has difficulty accurately recognizing 
 
 By disabling the sliders for these areas, the system ensures that any reshaping attempts do not lead to inaccurate or unnatural results.
 
-### What You Can Do
+#### What You Can Do
 
 If you encounter greyed-out sliders, you can take the following steps to improve the situation and contribute to our ongoing product development:
 

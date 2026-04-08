@@ -23,7 +23,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-11-at-18.00.29-768x737-1.png"
 ---
 
-### Điều chỉnh thủ công
+#### Điều chỉnh thủ công
 
 Việc điều chỉnh thủ công bằng cọ cho phép kiểm soát chính xác bằng cách sử dụng các điều chỉnh tự động bằng AI và tạo mặt nạ để chọn hoặc loại trừ các vùng không muốn chỉnh sửa.
 
@@ -32,17 +32,17 @@ Việc điều chỉnh thủ công bằng cọ cho phép kiểm soát chính xá
 - Khi bật tùy chọn này, việc nhấn nút **Trước & Sau** sẽ so sánh mặt nạ gốc với mặt nạ đã chỉnh sửa.
 - Khi tắt tùy chọn này, việc nhấn nút **Trước & Sau** sẽ so sánh hình ảnh trước và sau khi tinh chỉnh thủ công.
 
-#### Phím tắt bàn phím (với bàn phím rời)
+##### Phím tắt bàn phím (với bàn phím rời)
 
 - Giảm kích thước cọ: Nhấn phím **[**
 - Tăng kích thước cọ: Nhấn phím **]**
 - Lưu ý: Mỗi lần nhấn sẽ điều chỉnh kích thước cọ tăng hoặc giảm 10 đơn vị.
 
-#### Với Apple Pencil
+##### Với Apple Pencil
 
 Khi cả hai chế độ **Xóa** và **Thêm mặt nạ** đều được bật, bạn có thể nhấn đúp vào Apple Pencil để chuyển đổi giữa hai chế độ. Biểu tượng cọ sẽ xuất hiện ở giữa màn hình để hiển thị cọ đang được sử dụng.
 
-### Xoá tàn nhang và mụn trứng cá
+#### Xoá tàn nhang và mụn trứng cá
 
 ![](https://res.evoto.ai/wordpress/d9af99fa-12b0-440d-b318-238ff69573bd.png)
 

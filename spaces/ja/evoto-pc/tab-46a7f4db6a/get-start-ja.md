@@ -23,14 +23,14 @@ source_assets:
 
 ハードウェア 8GB以上のメモリ 64ビット、1.2GHz以上のプロセッサ 2015年以降のMAC、IntelまたはM1のプロセッサ
 
-### 推奨デバイス
+#### 推奨デバイス
 
-#### Mac
+##### Mac
 
 - **Mac mini**：32GB RAM + 1TB SSD
 - **iMac**：32GB RAM + 1TB SSD
 
-#### Windows（例）
+##### Windows（例）
 
 - **HP Envy Desktop PC** - CPU：Intel Core i9-13900KS（第13世代） - RAM：32GB - ストレージ：1TB SSD - GPU：NVIDIA GeForce RTX 4060 Ti 16GB GDDR6
 - **Lenovo Legion 5i Tower** - CPU：Intel Core i7 - RAM：32GB - ストレージ：1TB SSD - GPU：NVIDIA GeForce RTX シリーズ
@@ -59,7 +59,7 @@ Evotoのダウンロードページ **対応OSを選択** EvotoはmacOSとWindow
 
 Beta vs Stable 早速ダウンロード・インストールして、Evotoを使ってみましょう！ **Evotoアカウントの作成** ログインページから「ログイン／アカウントを作成」をクリックします。 メールアドレスを入力してアカウントを作成し、認証コードを受け取り、アカウントのパスワードを設定します。
 
-#### 新規ユーザーの場合
+##### 新規ユーザーの場合
 
 1. 「サインアップ」をクリック
 2. メールアドレスまたは電話番号で登録
@@ -67,7 +67,7 @@ Beta vs Stable 早速ダウンロード・インストールして、Evotoを使
 4. 送信された確認コードを受け取り、入力
 5. メールアドレスまたは電話番号を認証してアカウントを有効化
 
-#### すでにアカウントをお持ちの場合
+##### すでにアカウントをお持ちの場合
 
 - メールアドレスとパスワードでログイン、または
 - ワンタイムログインコードでログインが可能です。

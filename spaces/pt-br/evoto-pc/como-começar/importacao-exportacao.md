@@ -31,7 +31,7 @@ Este guia aborda a importação e exportação manual de imagens dentro do Evoto
 
 ---
 
-### Formatos Suportados
+#### Formatos Suportados
 
 O Evoto oferece suporte vários formatos de imagem, incluindo: JPEGs, TIFFs, PNGs e etc. Também suporte a maioria das imagens RAW de câmeras. Atualizamos regularmente nossa Biblioteca para garantir suporte completo a novas câmeras assim que são lançadas.
 
@@ -39,17 +39,17 @@ O Evoto oferece suporte vários formatos de imagem, incluindo: JPEGs, TIFFs, PNG
 
 ---
 
-### Número de Fotos para Importação
+#### Número de Fotos para Importação
 
 Embora o Evoto não limite o total de fotos importados em um projeto, é possível importar até 15.000 fotos por vez.
 
 ---
 
-### Importar Imagens
+#### Importar Imagens
 
 O Evoto oferece vários métodos para importar fotos individuais ou pastas inteiras, facilitando seu trabalho.
 
-#### Importação no Espaço de Biblioteca
+##### Importação no Espaço de Biblioteca
 
 O Espaço de Biblioteca fornece múltiplos pontos de entrada para criar novos projetos ou adicionar imagens a projetos existentes.
 
@@ -109,7 +109,7 @@ Para importação automatizada via pastas monitoradas, consulte nosso [guia de I
 
 ---
 
-#### Importação no Espaço deEditar
+##### Importação no Espaço deEditar
 
 **Método 1:** Clique no botão + para navegar e selecionar os arquivos que deseja importar. No Mac, isso abrirá o Finder; no Windows, o File Explorer.
 
@@ -117,7 +117,7 @@ Para importação automatizada via pastas monitoradas, consulte nosso [guia de I
 
 **Método 2:** Arrastar e Soltar: Elas serão adicionadas entre as miniaturas de imagens existentes na parte inferior da tela.
 
-#### Métodos Adicionais de Importação
+##### Métodos Adicionais de Importação
 
 O Evoto oferece opções práticas de importação fora do Evoto:
 
@@ -127,7 +127,7 @@ O Evoto oferece opções práticas de importação fora do Evoto:
 
 ---
 
-### Exportar Imagens
+#### Exportar Imagens
 
 O Evoto oferece opções completas de exportação e controles avançados para garantir que suas imagens finais atendam aos padrões desejados de qualidade e formato. Além disso, o Evoto permite a exportação de volta para catálogos do Lightroom.
 
@@ -147,7 +147,7 @@ Exibe o número de fotos selecionadas para exportação. **Exportar como Catálo
 
 ---
 
-#### Informações da Fila de Exportação
+##### Informações da Fila de Exportação
 
 Ao abrir a janela de exportação, são exibidas informações principais sobre sua fila de exportação:
 
@@ -156,7 +156,7 @@ Ao abrir a janela de exportação, são exibidas informações principais sobre 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/2-195x300.jpg)
 
-#### Predefinição de Exportação
+##### Predefinição de Exportação
 
 As predefinições de Exportação permitem salvar e gerenciar configurações para diferentes resoluções e parâmetros de saída.
 
@@ -167,7 +167,7 @@ As predefinições de Exportação permitem salvar e gerenciar configurações p
 
 ---
 
-#### Predefinição de Efeito (na Exportação)
+##### Predefinição de Efeito (na Exportação)
 
 Essa opção permite aplicar uma predefinição de efeito durante o processo de exportação — ideal para fluxos automáticos ou imagens ainda não editadas.
 
@@ -178,7 +178,7 @@ Essa opção permite aplicar uma predefinição de efeito durante o processo de 
 
 ---
 
-#### Configurações de Exportação
+##### Configurações de Exportação
 
 Defina os aspectos principais da exportação, incluindo destino e tratamento de arquivos:
 
@@ -197,7 +197,7 @@ Defina os aspectos principais da exportação, incluindo destino e tratamento de
 
 ---
 
-#### Nome de Arquivos
+##### Nome de Arquivos
 
 O Evoto oferece várias opções flexíveis para nomear arquivos exportados:
 
@@ -213,7 +213,7 @@ O Evoto oferece várias opções flexíveis para nomear arquivos exportados:
 
 ---
 
-#### Tamanho da Imagem
+##### Tamanho da Imagem
 
 Controle as dimensões e a resolução das imagens exportadas:
 
@@ -228,7 +228,7 @@ Controle as dimensões e a resolução das imagens exportadas:
 
 ---
 
-#### Configurações do Arquivo
+##### Configurações do Arquivo
 
 Escolha o formato e a qualidade da imagem exportada:
 
@@ -246,7 +246,7 @@ Escolha o formato e a qualidade da imagem exportada:
 
 ---
 
-#### Ajustes de Exportação
+##### Ajustes de Exportação
 
 Evoto inclui **configurações de nitidez de saída** otimizadas para diferentes finalidades:
 
@@ -260,7 +260,7 @@ Opções:
 
 ---
 
-#### Marca d’Água
+##### Marca d’Água
 
 Adicione uma marca d’água personalizada às suas imagens exportadas:
 
@@ -275,7 +275,7 @@ Envie uma imagem para usar como marca d’água:
 
 ---
 
-### Exportar Lightroom Catalogs (.lrcat)
+#### Exportar Lightroom Catalogs (.lrcat)
 
 Para projetos originalmente importados como um arquivo .lrcat, o Evoto permite exportar as imagens editadas e seus metadados de volta para catálogos do Lightroom, oferecendo várias opções de posicionamento de arquivos e compatibilidade. Para habilitar a exportação de catálogo, é necessário primeiro importar um projeto .lrcat para o Evoto. Atualmente, não é compatível criar um projeto .lrcat diretamente no Evoto. **Para exportar:**Selecione todas as imagens que deseja exportar para o novo arquivo **.lrcat** e, em seguida, acesse **Exportar > Exportar como arquivo .lrcat**.
 
@@ -289,11 +289,11 @@ Para projetos originalmente importados como um arquivo .lrcat, o Evoto permite e
 
 ---
 
-### Solução de Importação & Exportação
+#### Solução de Importação & Exportação
 
 Se encontrar problemas durante a importação ou exportação de imagens, veja abaixo os problemas comuns e suas soluções:
 
-#### Visualização Borrada Após Importação
+##### Visualização Borrada Após Importação
 
 Se a imagem parecer borrada após importação, normalmente é por causa de configurações de visualização, **não** por resolução real.
 
@@ -307,7 +307,7 @@ Se a imagem parecer borrada após importação, normalmente é por causa de conf
 
 > Observação: Isso afeta apenas a exibição no Evoto, não a qualidade/resolução da exportação.
 
-#### Alteração no Tamanho do Arquivo Após Exportação
+##### Alteração no Tamanho do Arquivo Após Exportação
 
 Alteração no tamanho do arquivo após exportação é normal e geralmente ocorre pelos seguintes motivos:
 
@@ -316,7 +316,7 @@ Alteração no tamanho do arquivo após exportação é normal e geralmente ocor
 
 Apesar da variação no tamanho, a qualidade e resolução configuradas para exportação serão mantidas.
 
-#### Imagem Exportada Não Encontrada na Pasta de Destino
+##### Imagem Exportada Não Encontrada na Pasta de Destino
 
 Caso a imagem exportada não apareça na pasta selecionada, o problema provavelmente está relacionado a permissões.
 
@@ -326,6 +326,6 @@ Verifique o seguinte:
 - Algumas drives externas ou pastas gerenciadas pelo sistema (ex.: pastas do sistema, drives de rede) podem restringir a gravação, permitindo apenas leitura por padrão.
 - Garanta que o Evoto tenha permissão de gravação na pasta selecionada ou escolha uma pasta com menos restrições.
 
-#### Códigos de Erro de Exportação
+##### Códigos de Erro de Exportação
 
 Se ocorrer erro durante a exportação, contate support@evoto.ai. (Por favor, anexe screenshot do código de erro exibido na Lista de Exportação.)

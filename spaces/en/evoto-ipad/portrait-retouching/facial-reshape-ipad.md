@@ -21,7 +21,7 @@ source_assets:
 Evoto’s Facial Reshape tools use AI to intelligently analyze a subject’s facial structure, enabling detailed and intuitive adjustments. Users can modify the overall face shape, as well as individual facial features like eyebrows, eyes, nose, and mouth, with fine control over each sub-feature.
 ---
 
-### Conjunction/Separate Adjustments
+#### Conjunction/Separate Adjustments
 
 Some facial features support both **linked (conjunction)** and **independent (separate)** adjustments for the left and right sides of the face. Click the **link icon** to unlock separate control, allowing precise asymmetrical refinements.
 

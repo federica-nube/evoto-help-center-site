@@ -21,7 +21,7 @@ source_assets:
 ---
 
 Tính năng Đổi bầu trời trong Evoto cho phép bạn dễ dàng thay thế bầu trời không hoàn hảo hoặc bị cháy sáng bằng một lựa chọn hấp dẫn hơn chỉ với một cú nhấp chuột. Công cụ AI mạnh mẽ này sẽ tự động nhận diện và tách riêng khu vực bầu trời, giúp những chỉnh sửa phức tạp trở nên đơn giản hơn. Lưu ý : Tính năng này chỉ hoạt động khi hệ thống phát hiện có bầu trời trong ảnh.
-### Chọn bầu trời
+#### Chọn bầu trời
 
 Chọn từ nhiều kiểu bầu trời khác nhau để hoàn thiện bức ảnh của bạn một cách hoàn hảo:
 
@@ -36,7 +36,7 @@ Chọn từ nhiều kiểu bầu trời khác nhau để hoàn thiện bức ả
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/screenshot-20250929-152841.png)
 
-### Công cụ điều chỉnh thủ công
+#### Công cụ điều chỉnh thủ công
 
 Sử dụng công cụ Bút điều chỉnh thủ công để thêm hoặc xóa hiệu ứng đổi bầu trời ở những khu vực cụ thể trong ảnh. Công cụ này giúp bạn phục hồi thủ công các vùng bị ảnh hưởng sai hoặc tinh chỉnh viền chuyển tiếp của bầu trời. Công cụ gồm hai chế độ:
 - **Cọ vẽ**– Phương pháp tiêu chuẩn để thêm hoặc bớt hiệu ứng bằng tay.
@@ -44,10 +44,10 @@ Sử dụng công cụ Bút điều chỉnh thủ công để thêm hoặc xóa 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/screenshot-20250929-153331.png)
 
-### Điều chỉnh bầu trời
+#### Điều chỉnh bầu trời
 
 Sau khi thay đổi bầu trời, hãy sử dụng các công cụ sau để tinh chỉnh diện mạo của bầu trời và hòa trộn một cách tự nhiên vào hình ảnh của bạn
-#### Điều chỉnh vị trí của bầu trời
+##### Điều chỉnh vị trí của bầu trời
 
 **Xoay dọc -**Sử dụng thanh trượt để di chuyển bầu trời được thay thế theo chiều dọc, lên hoặc xuống. **Xoay ngang -**Kéo thanh trượt để di chuyển bầu trời được thay thế theo chiều ngang, trái hoặc phải. **Lật ngang -** Lật bầu trời được thay thế theo chiều ngang. **Điều chỉnh viền -** Kéo thanh trượt để điều chỉnh các viền của bầu trời thay thế sao cho tự nhiên hơn và phù hợp với ảnh gốc.
 

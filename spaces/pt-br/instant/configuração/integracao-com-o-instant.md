@@ -27,7 +27,7 @@ Bem-vindo ao **Evoto Instant** — sua ferramenta completa de fluxo de trabalho 
 
 ---
 
-### Passo 1: Baixar e Fazer Login
+#### Passo 1: Baixar e Fazer Login
 
 Comece instalando o aplicativo **Evoto Instant** pela **App Store** ou **Google Play**.
 
@@ -47,7 +47,7 @@ As fotos enviadas são sincronizadas e compartilhadas automaticamente entre as d
 
 ---
 
-### Passo 2: Criar um Projeto
+#### Passo 2: Criar um Projeto
 
 Os projetos são a base do **Evoto Instant**. Um projeto organiza suas fotos, configurações de IA e opções de entrega em um só lugar. Você pode criar um projeto tanto pelo portal web do Evoto Instant quanto diretamente pelo aplicativo móvel.
 
@@ -65,7 +65,7 @@ Pense nos projetos como as pastas do seu evento ou cliente — tudo o que você 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.45.04-148x300.png)
 
-#### Checklist de Onboarding para Novos Usuários
+##### Checklist de Onboarding para Novos Usuários
 
 O checklist de onboarding oferece um guia claro e passo a passo para ajudar usuários iniciantes a começarem a criar seus projetos.
 

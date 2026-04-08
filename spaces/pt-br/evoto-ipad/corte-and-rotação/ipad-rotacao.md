@@ -18,7 +18,7 @@ O módulo **Rotação** no Evoto para iPad permite um controle preciso da orient
 
 ---
 
-### Opções de Rotação
+#### Opções de Rotação
 
 - **Rotação no sentido horário**
 - **Rotação no sentido anti-horário**
@@ -31,7 +31,7 @@ Você também pode usar o **controle deslizante de rotação** para ajustes fino
 
 ---
 
-### Correção Horizontal por IA
+#### Correção Horizontal por IA
 
 O Evoto para iPad inclui a ferramenta **Correção Horizontal por IA** para endireitar automaticamente as imagens.
 
@@ -41,7 +41,7 @@ O Evoto para iPad inclui a ferramenta **Correção Horizontal por IA** para endi
 
 ---
 
-### Interação entre Correção Horizontal por IA e Ferramentas de Rotação
+#### Interação entre Correção Horizontal por IA e Ferramentas de Rotação
 
 O Evoto garante uma integração perfeita entre a rotação manual e os ajustes com IA:
 

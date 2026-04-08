@@ -18,13 +18,13 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/05/Screenshot-2025-08-13-at-17.13.30-300x287.png"
 ---
 
-### Are images edited with Evoto’s AI algorithms allowed for commercial use?
+#### Are images edited with Evoto’s AI algorithms allowed for commercial use?
 
 Yes. Evoto’s AI features are not generative AI, meaning they do not create new content but only modify existing images. Therefore, edits made using Evoto are currently safe for commercial use.
 
 ---
 
-### How can I get support if I have questions while using Evoto?
+#### How can I get support if I have questions while using Evoto?
 
 Evoto offers multiple ways to get assistance and provide feedback:
 

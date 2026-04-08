@@ -19,13 +19,13 @@ Evoto AI is dedicated to providing intelligent imaging solutions for commercial 
 
 ---
 
-### Login Page
+#### Login Page
 
 Log in to your Evoto account to begin editing. If you’ve previously registered on the desktop version, you can use the same account to log in on iPad.
 
 ![](https://evoto.gitbook.io/~gitbook/image?url=https%3A%2F%2F3099291537-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FGcGHhe6Z57mAjGmYtrQ4%252Fuploads%252FVLVyCnuzYercYvsmd4wC%252FIMG_1011.PNG%3Falt%3Dmedia%26token%3D6837783d-5986-4405-b63e-fa68682a8e92&width=768&dpr=4&quality=100&sign=69e505f2&sv=2)
 
-### Fine-tuning Workspace Overview
+#### Fine-tuning Workspace Overview
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-27-at-18.58.33-300x208.png)
 

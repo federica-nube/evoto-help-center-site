@@ -14,7 +14,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/05/Snipaste_2025-08-01_16-13-08-300x282.jpg"
 ---
 
-### ¿Por qué la vista previa de mi foto se ve tan pequeña?
+#### ¿Por qué la vista previa de mi foto se ve tan pequeña?
 
 Puedes ajustar el tamaño de la vista previa siguiendo estos pasos:
 
@@ -24,7 +24,7 @@ Puedes ajustar el tamaño de la vista previa siguiendo estos pasos:
 - Ajusta la configuración de vista previa.
 - Haz clic en **Aceptar** para guardar los cambios.
 
-### He movido accidentalmente mi imagen a otro lugar, ¿cómo puedo encontrar la ruta original?
+#### He movido accidentalmente mi imagen a otro lugar, ¿cómo puedo encontrar la ruta original?
 
 Anteriormente, si el archivo de imagen faltaba (por cambio de nombre, eliminación o traslado), Evoto no permitía editarlo. Se mostraba una ventana emergente bloqueando cualquier acción, con solo la ruta y el nombre del archivo, lo que dejaba pocas opciones: localizar manualmente el archivo o eliminarlo.
 
@@ -35,11 +35,11 @@ A partir de la versión **3.5.0**, hemos mejorado esta experiencia:
 - En lugar de una ventana emergente, verás un aviso discreto en la interfaz que te permite decidir cómo proceder.
 - Puedes **reubicar imágenes faltantes**, siempre que se trate de la imagen original.
 
-### ¿Por qué no funciona el código del preajuste?
+#### ¿Por qué no funciona el código del preajuste?
 
 Si importas un código de preajuste que te ha proporcionado otra persona y esa persona lo **modifica o elimina** antes de que tú lo importes, aparecerá un mensaje indicando que el token no existe.
 
-### ¿Por qué no se muestran mis efectos de retoque durante los ajustes de color?
+#### ¿Por qué no se muestran mis efectos de retoque durante los ajustes de color?
 
 Muchos usuarios comienzan editando con “Retoque de retrato” u otros ajustes de detalle antes de pasar a los ajustes de color. Si sigues este flujo de trabajo, es posible que notes que los efectos de retoque **desaparecen temporalmente** durante la edición de color.
 

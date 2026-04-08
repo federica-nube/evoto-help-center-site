@@ -26,9 +26,9 @@ Esse recurso é especialmente útil para fotógrafos que desejam manter consist�
 
 ---
 
-### Como usar o recurso Correspondência de Cor por IA?
+#### Como usar o recurso Correspondência de Cor por IA?
 
-#### Passo 1: Acessar o painel Correspondência de Cor por IA
+##### Passo 1: Acessar o painel Correspondência de Cor por IA
 
 - **Método1:**
 
@@ -52,7 +52,7 @@ Alterne o panel de “Mostrar todos os painéis”, Correspondência de cor apar
 
 ---
 
-#### Passo 2: Definir uma Imagem de Referência
+##### Passo 2: Definir uma Imagem de Referência
 
 Existem duas maneiras de definir uma imagem de referência para a Correspondência de cores por IA:
 
@@ -68,7 +68,7 @@ Usar a visualização atual: clique em ****Criar referência**** a partir da Vis
 
 ---
 
-#### Passo 3: Aplicar as Cores da Referência
+##### Passo 3: Aplicar as Cores da Referência
 
 Após selecionar a imagem de referência:
 
@@ -78,7 +78,7 @@ Após selecionar a imagem de referência:
 
 ---
 
-#### Passo 4: Ajustar Finamente o Resultado
+##### Passo 4: Ajustar Finamente o Resultado
 
 Após aplicar a Correspondência de cor por IA, é possível ajustar o resultado em duas áreas principais clicando no ícone de caneta de refinamento:
 
@@ -108,7 +108,7 @@ Pode usar o ícone ****Vincular**** para sincronizar as alterações entre todas
 
 ---
 
-#### Passo 5: Sincronizar em Lote e Salvar como Predefinição
+##### Passo 5: Sincronizar em Lote e Salvar como Predefinição
 
 **Sincronizar em Lote**
 
@@ -132,19 +132,19 @@ Após aplicar a Correspondência de cor por IA e realizar ajustes adicionais:
 
 ---
 
-### Modo Rápido vs. Modo de Controle
+#### Modo Rápido vs. Modo de Controle
 
 O recurso Correspondência de cor por IA foi aprimorado para oferecer mais flexibilidade e controle. Você pode escolher entre Modo Rápido e Modo de Controle, dependendo da sua necessidade. Use o Modo Rápido para resultados rápidos e o Modo de Controle quando desejar visibilidade completa e ajustes finos.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/06-254x300.jpg)
 
-#### Modo Rápido
+##### Modo Rápido
 
 **Ideal para:** Resultados rápidos quando você deseja uma correspondência de cores automática e suave.
 
 **Como funcionar:** É rápido, simples e não requer ajustes adicionais.
 
-#### Modo de Controle
+##### Modo de Controle
 
 **Ideal para:** Quando você precisa de controle detalhado sobre a correspondência de cor com uma imagem de referência.
 
@@ -156,7 +156,7 @@ O recurso Correspondência de cor por IA foi aprimorado para oferecer mais flexi
 
 ---
 
-### Gerenciamento de Referências
+#### Gerenciamento de Referências
 
 O recurso Gerenciamento de Referências permite organizar imagens de Referência para **AI Color Match** por cor, estilo ou grupos personalizados, facilitando o acesso rápido e a reutilização das referências mais relevantes.
 
@@ -175,7 +175,7 @@ O recurso Gerenciamento de Referências permite organizar imagens de Referência
 
 ---
 
-### Dicas para Melhores Resultados
+#### Dicas para Melhores Resultados
 
 - Use imagens de referência com iluminação, fundo ou tema ****semelhantes****para obter resultados mais precisos.
 - Você pode usar uma foto-alvo já retocada como referência para sincronizar o estilo.
@@ -183,7 +183,7 @@ O recurso Gerenciamento de Referências permite organizar imagens de Referência
 
 **Dica: Use o **Modo Rápido** quando desejar resultados imediatos, e o **Modo de Controle** quando quiser total visibilidade e controle refinado sobre os ajustes.**
 
-#### Observação
+##### Observação
 
 - Aplicar a Correspondência de cor por IA irá limpar todos os ajustes de cor existentes e reiniciar os controles deslizantes.
 - Você pode desfazer a alteração para restaurar as configurações anteriores.

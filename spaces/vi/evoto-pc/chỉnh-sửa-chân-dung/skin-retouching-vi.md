@@ -58,7 +58,7 @@ Màu da **Mục đích**: Điều chỉnh màu da, giúp làm hài hòa tổng t
 
 Bút điều chỉnh thủ công Để kiểm soát chính xác, công cụ Bút tinh chỉnh thủ công cho phép bạn áp dụng hoặc loại bỏ hiệu ứng làm mịn ở những vùng cụ thể. Công cụ này lý tưởng cho việc: Giữ lại kết cấu tự nhiên ở những khu vực cần thiết Xử lý riêng biệt các khuyết điểm hoặc vùng da không đều Cân bằng các điều chỉnh toàn cục với các tinh chỉnh cục bộ
 
-### Mẹo bổ sung: Điều chỉnh mặt nạ cục bộ
+#### Mẹo bổ sung: Điều chỉnh mặt nạ cục bộ
 
 Để kiểm soát chính xác hơn, bạn có thể sử dụng **Điều chỉnh màu > Màu bộ phận** để tinh chỉnh thủ công tông màu da. Công cụ này cho phép chỉnh sửa màu sắc tập trung vào các khu vực cụ thể như da mặt, da cơ thể, cổ hoặc toàn bộ vùng da.
 

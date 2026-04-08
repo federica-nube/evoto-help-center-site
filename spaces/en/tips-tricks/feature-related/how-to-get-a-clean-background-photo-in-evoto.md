@@ -25,7 +25,7 @@ Below, we’ll go through the main tools step by step.
 
 ---
 
-### Step 1: Remove Distractions
+#### Step 1: Remove Distractions
 
 - Go to the **Distraction Removal** panel.
 - Turn the feature **On**.
@@ -38,7 +38,7 @@ This gives you a clutter-free starting point.
 
 ---
 
-### Step 2: Clean the Backdrop
+#### Step 2: Clean the Backdrop
 
 - Switch to the **Clean Backdrop** option and turn it **On**.
 - Use the **Background & Ground slider** to adjust the overall smoothness of your backdrop.
@@ -50,7 +50,7 @@ This tool removes small blemishes, uneven patches, or wrinkles in your backdrop,
 
 ---
 
-### Step 3: Unify Lighting
+#### Step 3: Unify Lighting
 
 - Turn on **Unify Lighting** to smooth out lighting inconsistencies across the background.
 - Adjust the two sliders:
@@ -63,7 +63,7 @@ This is particularly helpful if your studio lighting left brighter spots or shad
 
 ---
 
-### Step 4: Remove Color Banding
+#### Step 4: Remove Color Banding
 
 - Finally, enable **Color Banding Removal**.
 - This feature corrects visible bands or gradients that sometimes appear on smooth, solid backgrounds.
@@ -74,6 +74,6 @@ After this step, your background should appear completely even and clean, free o
 
 ---
 
-### Final Touch
+#### Final Touch
 
 With all four steps combined—**distraction removal, clean backdrop, unified lighting, and color banding removal**—you’ll achieve a flawless studio background that looks polished and professional. Each tool works with just a simple toggle and a few slider adjustments, so you can clean up your photo in minutes.

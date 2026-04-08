@@ -27,7 +27,7 @@ source_assets:
 
 The Blemish Removal section in Evoto allows for precise and natural corrections to a wide range of facial and body imperfections, helping you maintain the integrity and realism of the original image while enhancing overall appearance.
 
-### Freckle & Acne Removal
+#### Freckle & Acne Removal
 
 Evoto uses AI technology to remove freckles and acne, achieving smooth, polished skin without sacrificing natural texture or vibrancy.
 ![](https://res.evoto.ai/wordpress/1f70c442-42ec-4c42-82e0-c7cbb3d55c3a.png)
@@ -40,7 +40,7 @@ Evoto uses AI technology to remove freckles and acne, achieving smooth, polished
 
 ---
 
-### Face Mole
+#### Face Mole
 
 - With one click, you can remove mole spots from the face.
 - If there are moles you wish to keep, use the **Manual Tuning Pen** (mentioned above) to restore them.
@@ -49,53 +49,53 @@ Evoto uses AI technology to remove freckles and acne, achieving smooth, polished
 
 ---
 
-### Reduce Face Shine
+#### Reduce Face Shine
 
 This tool detects oily highlights on the face and minimizes them while preserving natural skin texture and depth.
 ---
 
-### Dark Circles
+#### Dark Circles
 
 The Dark Circle slider is designed to reduce pigmentation and shadows beneath the eyes, which often make subjects appear tired or stressed.
 
 How it works: Move the slider to the right to gradually lighten the under-eye area. This adjustment helps to brighten the eyes and reduce signs of fatigue, creating a more vibrant and alert expression.
 ---
 
-### Eye Bags and Lower Eyelids Protection
+#### Eye Bags and Lower Eyelids Protection
 
 - Removes puffiness or sagging under the eyes that result from loose or swollen skin.
 - The **Lower Eyelids protection** includes built-in protection for the natural puffiness of the lower eyelids, which can contribute to a youthful and expressive appearance. By default, the preservation level is set to 100, ensuring that while eye bags are reduced, the natural shape and volume of the lower eyelids remain intact. You can adjust this level as needed for your desired result.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-24-at-16.51.57-300x114.png)
 
-### Glass Glare Removal
+#### Glass Glare Removal
 
 Quickly remove glare caused by glasses using a single slider. (Note: This feature does not currently support color-tinted glasses.)
 ---
 
-### Nostril Cleanup
+#### Nostril Cleanup
 
 The Nostril Cleanup feature removes dirt, debris, and other blemishes around the nostrils and surrounding areas. Notes: Supports manual brush adjustments for precise control of the effect.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/2-5-276x300.jpg)
 
 ---
 
-### Lip Wrinkles & Flakes
+#### Lip Wrinkles & Flakes
 
 Repairs dry or cracked lips by smoothing out lines and restoring a fuller, more defined lip shape.
 ![](https://res.evoto.ai/wordpress/29d70b94-c630-4c48-8c96-3128be2773dc.png)
 
-### Double Chin
+#### Double Chin
 
 Applies a subtle liquify effect and shadow blending to minimize the appearance of a double chin while maintaining facial realism.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-24-at-16.57.40-300x179.png)
 
-### Beard Protection
+#### Beard Protection
 
 Prevents beards from being accidentally altered during blemish removal. This feature is always active when facial hair is detected.
 ![](https://res.evoto.ai/wordpress/04c2bcf8-f75b-470f-a2e5-1ce2a1bde1dd.png)
 
-### Facial Wrinkles
+#### Facial Wrinkles
 
 Evoto includes specialized sliders for different facial wrinkle zones:
 - **Forehead Wrinkle**: Smooths horizontal lines on the forehead.
@@ -111,7 +111,7 @@ Evoto includes specialized sliders for different facial wrinkle zones:
 
 ---
 
-### Body Refinement Tools
+#### Body Refinement Tools
 
 Evoto also supports advanced blemish and texture control for body areas:
 - **Body Blemish**: Removes acne, marks, or irregularities on the body.
@@ -122,7 +122,7 @@ Evoto also supports advanced blemish and texture control for body areas:
 
 ---
 
-### Tattoos with Manual Masking Tool
+#### Tattoos with Manual Masking Tool
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-24-at-17.06.22-300x74.png)
 
@@ -133,7 +133,7 @@ Evoto also supports advanced blemish and texture control for body areas:
 
 ---
 
-### Manual Tuning Pen for Blemish Removal
+#### Manual Tuning Pen for Blemish Removal
 
 The blemish removal feature comes with a Manual Tuning Pen that allows you to brush on or erase effects applied to specific areas of the photo.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-24-at-17.10.29-300x187.png)

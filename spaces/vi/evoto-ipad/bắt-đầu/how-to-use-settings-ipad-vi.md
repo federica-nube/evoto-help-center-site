@@ -15,7 +15,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/7b7a6871-338e-4530-9d84-a29774970372.png"
 ---
 
-### Xuất ảnh
+#### Xuất ảnh
 
 Khi xuất ảnh, bạn có thể chọn vị trí lưu ảnh cụ thể, cài đặt định dạng và chất lượng ảnh xuất ở trang xuất ảnh.
 

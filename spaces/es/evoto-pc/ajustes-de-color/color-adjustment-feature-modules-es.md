@@ -37,7 +37,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/6507044e-8f12-4975-adfc-3f1376be9a1d.png"
 ---
 
-### Histograma
+#### Histograma
 
 ![](https://res.evoto.ai/wordpress/f5f88a53-6c9e-4223-9c80-b74aaaa64538.png)
 
@@ -95,7 +95,7 @@ Parametric Curve La Curva Paramétrica permite el ajuste de un solo parámetro p
 
 Curva de Canal Único Mejora tu imagen con las curvas de canal único, que te permiten ajustar los canales rojo, verde y azul de forma independiente. Al realizar ajustes en las curvas de canal único, lograrás un aspecto pulido y profesional, adaptado a los canales de color específicos. Herramienta de Ajuste de Curva La herramienta de ajuste de curva, también conocida como herramienta de ajuste en la imagen para la curva, permite realizar ajustes directamente sobre la imagen. Al hacer clic en la herramienta de ajuste en la imagen, puedes dirigirte a colores específicos y realizar ajustes correspondientes, ¡sin necesidad de ajustar las curvas manualmente!
 
-### HSL
+#### HSL
 
 Para HSL hay 3 selecciones para cada color. Matiz (Hue) te indica en qué parte de la rueda de color se encuentra un color. Saturación se refiere a la intensidad o pureza de un color. Luminosidad se refiere a la claridad u oscuridad de un color. Al hacer ajustes a estos valores HSL, tienes el poder de afinar el aspecto y la sensación de tus colores, permitiendo ajustes precisos de la imagen. Evoto proporciona 8 colores diferentes para ajustar, incluyendo **Rojo, Naranja, Amarillo, Verde, Cian, Azul, Morado y Magenta.** Selector HSL
 
@@ -131,12 +131,12 @@ Las correcciones de lente se utilizan para corregir o enmendar la distorsión de
 
 **Corrección de Distorsión**: Ajusta la distorsión de barril o cojín, manteniendo las líneas rectas y reduciendo o eliminando los efectos de la distorsión de la lente. **Recorte Restringido**: Corrige imágenes mientras se mantiene un contenido o composición específicos. Puedes habilitarlo o deshabilitarlo. **Viñeteado de Lente**: Se utiliza para corregir el problema de viñeteado en la imagen y mejorar el equilibrio de brillo. Mejorará el efecto visual de la imagen al hacer que la distribución general del brillo sea más equilibrada y natural. **Punto Medio**: Trata la distorsión de perspectiva o distorsión geométrica en la imagen. Cuando el sistema identifica y coincide con precisión los datos de "Distancia Focal, Apertura y Distancia del Objeto", se activa la corrección automática de lente. **Configuración Interna -**Si la imagen contiene un perfil de lente incrustado, aunque los datos coincidan con precisión, la configuración predeterminada permanecerá desactivada y se utilizará directamente el perfil incrustado.
 
-### Corrección de Transformación
+#### Corrección de Transformación
 
 La distorsión de perspectiva puede ocurrir al disparar desde ángulos limitados, haciendo que las líneas verticales u horizontales en una imagen aparezcan inclinadas. Para solucionarlo, se ha agregado el nuevo módulo Corrección de Transformación dentro del módulo de Color , permitiéndote corregir fácilmente la distorsión de la imagen.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/b0a26eda-f0bf-48b7-9eca-a2577a74697d-438x1024.png)
 
-#### Correcciones de Transformación con IA
+##### Correcciones de Transformación con IA
 
 Al habilitarse, puedes seleccionar un modo de corrección para la corrección automática de distorsión:
 
@@ -144,7 +144,7 @@ Al habilitarse, puedes seleccionar un modo de corrección para la corrección au
 - **Modo Nivel:** Se centra únicamente en la corrección de distorsión horizontal.
 - **Modo Vertical:** Se centra únicamente en la corrección de distorsión vertical.
 
-#### Correcciones de Transformación Manual
+##### Correcciones de Transformación Manual
 
 Para un control preciso, también está disponible un conjunto de ajustes manuales:
 

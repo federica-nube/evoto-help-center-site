@@ -31,7 +31,7 @@ source_assets:
 
 Evoto for iPad supports wireless tethered shooting, providing a seamless workflow that allows you to capture, preview, and edit images in real-time during your photography sessions. This integration makes it easy to apply preset effects and monitor crucial camera settings as you shoot.
 
-### Key Benefits
+#### Key Benefits
 
 - **Wireless Connectivity: Enjoy instant image capture and transfer directly to your iPad.**
 - **Real-Time Effect Preview:**See how presets and effects will look on your images with a single click as they're captured.
@@ -39,7 +39,7 @@ Evoto for iPad supports wireless tethered shooting, providing a seamless workflo
 
 ---
 
-### How to Start Tethered Shooting on Evoto iPad
+#### How to Start Tethered Shooting on Evoto iPad
 
 1. **Open Evoto** on your iPad.
 2. Tap the **camera icon** on the toolbar located on the right side of the screen.
@@ -52,7 +52,7 @@ Evoto for iPad supports wireless tethered shooting, providing a seamless workflo
 
 ![image.png](https://res.evoto.ai/community/post/5hWiE8azXRj.png)
 
-#### Camera Detection Display
+##### Camera Detection Display
 
 Once cameras are detected, the camera list will display as follows:
 
@@ -72,11 +72,11 @@ Once a camera is successfully connected, the page will display primary image cap
 
 ---
 
-### Pre-Capture Settings
+#### Pre-Capture Settings
 
 Before starting your tethered session, you can configure several settings to optimize your workflow.
 
-#### Capture Effect
+##### Capture Effect
 
 Choose how effects are applied to newly captured images:
 
@@ -85,7 +85,7 @@ Choose how effects are applied to newly captured images:
 
 ![image.png](https://res.evoto.ai/community/post/5hWj9dADBzS.png)
 
-#### Preview Settings
+##### Preview Settings
 
 Control how image previews are displayed after each capture:
 
@@ -94,7 +94,7 @@ Control how image previews are displayed after each capture:
 
 ![image.png](https://res.evoto.ai/community/post/5hWjkCCWpdu.png)
 
-#### Import Settings: Format Filtering
+##### Import Settings: Format Filtering
 
 Wireless tethered shooting supports filtering by image format during import:
 
@@ -109,7 +109,7 @@ Wireless tethered shooting supports filtering by image format during import:
 
 **Note:** If your camera is set to capture only JPEG or only RAW, the filter options in Evoto will be disabled accordingly to match your camera's settings.
 
-#### File Naming Options
+##### File Naming Options
 
 You have five flexible ways to name your original captured files:
 
@@ -119,13 +119,13 @@ You have five flexible ways to name your original captured files:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-25-at-11.25.29-300x228.png)
 
-#### Date Format Options
+##### Date Format Options
 
 When selecting a format that includes a date, you can choose the corresponding display format. Use **Y** for year, **M** for month, and **D** for day (e.g., YYYYMMDD would display as 20241016).
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-25-at-11.27.25-300x221.png)
 
-#### Character Restrictions for Filenames
+##### Character Restrictions for Filenames
 
 You cannot use the following symbols when naming pictures: ; : ^ * < > ? |
 
@@ -133,7 +133,7 @@ If these listed symbols are used, a red warning will appear, and the invalid cha
 
 ---
 
-### Supported Camera Models & Important Notes
+#### Supported Camera Models & Important Notes
 
 To ensure smooth usage of the tethered shooting feature, please note that adjustments may be necessary on both your iPad and camera, depending on the camera manufacturer’s settings.
 

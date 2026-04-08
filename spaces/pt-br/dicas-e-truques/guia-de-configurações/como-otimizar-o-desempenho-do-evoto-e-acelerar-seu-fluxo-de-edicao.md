@@ -19,7 +19,7 @@ O Evoto oferece recursos avançados para edições fotográficas profissionais. 
 
 ---
 
-### Configurações de Velocidade de Renderização
+#### Configurações de Velocidade de Renderização
 
 O Evoto oferece várias opções para acelerar a renderização dos efeitos. Ajustar essas configurações ajuda a obter resultados mais rápidos sem comprometer a qualidade do trabalho.
 
@@ -33,7 +33,7 @@ O Evoto oferece várias opções para acelerar a renderização dos efeitos. Aju
 
 > Observação: Após alterar qualquer uma dessas configurações, reinicie o Evoto para que as mudanças tenham efeito.
 
-### Otimizar o Processamento de Retratos em Grupo
+#### Otimizar o Processamento de Retratos em Grupo
 
 O Evoto permite otimizar o processamento de efeitos para retratos em grupo, especialmente quando há 15 ou mais pessoas na imagem.
 
@@ -41,7 +41,7 @@ O Evoto permite otimizar o processamento de efeitos para retratos em grupo, espe
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.00.20-300x182.png)
 
-### Configurações de Uso de Memória
+#### Configurações de Uso de Memória
 
 Otimizar como o Evoto utiliza a memória é essencial para manter um fluxo de trabalho rápido e estável.
 
@@ -58,7 +58,7 @@ Otimizar como o Evoto utiliza a memória é essencial para manter um fluxo de tr
 
 ---
 
-### Configurações de Visualização e Miniaturas
+#### Configurações de Visualização e Miniaturas
 
 Essas configurações controlam como as imagens são exibidas dentro do Evoto, equilibrando **qualidade visual e desempenho**.
 

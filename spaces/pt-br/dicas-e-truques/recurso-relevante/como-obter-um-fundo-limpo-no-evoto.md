@@ -23,7 +23,7 @@ A seguir, vamos apresentar as principais ferramentas passo a passo.
 
 ---
 
-### Passo 1: Remover Distrações
+#### Passo 1: Remover Distrações
 
 1. Acesse o **painel de Remoção de Distrações**.
 2. Ative a função.
@@ -32,7 +32,7 @@ A seguir, vamos apresentar as principais ferramentas passo a passo.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250905142036-scaled.jpg)
 
-### Passo 2: Limpar Fundo
+#### Passo 2: Limpar Fundo
 
 Esta ferramenta remove pequenas imperfeições, manchas ou rugas no fundo, proporcionando um acabamento de estúdio profissional.
 
@@ -42,7 +42,7 @@ Esta ferramenta remove pequenas imperfeições, manchas ou rugas no fundo, propo
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250905142855-scaled.jpg)
 
-### Etapa 3: Unificar Iluminação
+#### Etapa 3: Unificar Iluminação
 
 Ative o **Unificar Iluminação** para suavizar inconsistências de iluminação no fundo.
 
@@ -53,7 +53,7 @@ Ajuste os dois sliders:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250905142956-scaled.jpg)
 
-### Etapa 4: Remoção de Bandas de Cor
+#### Etapa 4: Remoção de Bandas de Cor
 
 - Por fim, ative **Remoção de Bandas de Cor**.
 - Esta função corrige faixas ou gradientes visíveis que às vezes aparecem em fundos lisos e sólidos.

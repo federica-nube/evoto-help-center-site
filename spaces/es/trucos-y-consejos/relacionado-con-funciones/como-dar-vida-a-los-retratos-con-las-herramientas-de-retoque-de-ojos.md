@@ -23,7 +23,7 @@ La mejora de ojos es una de las formas más efectivas de dar vida y carácter a 
 
 ---
 
-### Método 1: Máscaras Locales con Ajuste de Color
+#### Método 1: Máscaras Locales con Ajuste de Color
 
 Si prefieres tener control preciso sobre partes específicas del ojo, las máscaras locales son el camino a seguir. Este método funciona bien cuando quieres apuntar solo a un área como el iris o el blanco del ojo.
 
@@ -44,7 +44,7 @@ Si prefieres tener control preciso sobre partes específicas del ojo, las másca
 
 ---
 
-### Método 2: Retoque de Retrato con la Herramienta de Ojos
+#### Método 2: Retoque de Retrato con la Herramienta de Ojos
 
 Para un flujo de trabajo más automatizado pero flexible, la **herramienta de Ojos** dedicada de Evoto bajo **Retoque de Retrato** proporciona controles deslizantes adaptados para mejorar los ojos.
 
@@ -70,7 +70,7 @@ Para un flujo de trabajo más automatizado pero flexible, la **herramienta de Oj
 
 ---
 
-### Método 3: Retoque de Ojos con Lentes de Contacto
+#### Método 3: Retoque de Ojos con Lentes de Contacto
 
 Otra forma de mejorar los ojos es aplicando **lentes de contacto de colores** a través de las herramientas de Maquillaje de Evoto. Esta opción te permite experimentar con diferentes colores de iris mientras mantienes el resultado realista.
 

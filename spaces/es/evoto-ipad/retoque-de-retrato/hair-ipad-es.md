@@ -17,7 +17,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/bc653751-8211-4a0b-b5bb-dc235183b23a.png"
 ---
 
-### Rellenar la Línea del Pelo
+#### Rellenar la Línea del Pelo
 
 Reconoce automáticamente las áreas con huecos (como la línea del pelo, las esquinas de la frente, la línea del pelo y las patillas) y rellena el pelo de manera natural. Alto Volumen del Pelo Use el deslizador para lograr un efecto de alto volumen en el pelo. Línea del Pelo Ajuste de la línea del pelo usando el deslizador. Esta es la misma función de línea del pelo en el grupo de características de Remodelado Facial y tiene los mismos valores en cada ajuste.
 

@@ -12,14 +12,14 @@ secondary_categories:
 
 Nếu bạn từng gặp khó khăn khi xử lý tóc bạc không đều trong ảnh, bạn sẽ hiểu tầm quan trọng của việc tạo màu tóc đồng nhất. Evoto cung cấp những công cụ mạnh mẽ giúp bạn nhanh chóng loại bỏ tóc bạc một cách hiệu quả, và khôi phục màu tóc đồng đều của chủ thể. Dưới đây là cách bạn có thể sử dụng các tính năng của Evoto để xử lý vấn đề này một cách hiệu quả.
 
-### Làm đen tóc bạc: Bước đầu tiên
+#### Làm đen tóc bạc: Bước đầu tiên
 
 Tính năng **Tóc đen tóc bạc** được thiết kế đặc biệt để giúp bạn loại bỏ tóc trắng hoặc tóc bạc trong khi vẫn giữ nguyên màu tóc đen tự nhiên. Công cụ này rất phù hợp cho những người có tóc đen và muốn tạo ra màu tóc đồng đều mà không làm thay đổi màu tóc đen vốn có.
 
 - **Cách sử dụng**: Bạn chỉ cần kéo thanh trượt để điều chỉnh mức độ loại bỏ tóc bạc. Công cụ này giúp bạn loại bỏ các sợi tóc bạc trong khi vẫn giữ nguyên màu tóc đen tự nhiên, đảm bảo kết quả mượt mà và tự nhiên.
 - **Mẹo**: Để đạt kết quả tốt nhất, chúng tôi khuyến nghị sử dụng tính năng này sau khi đã xử lý các sợi tóc xơ rối. Điều này giúp việc loại bỏ tóc bạc được áp dụng đồng đều trên toàn bộ vùng tóc.
 
-### Tinh chỉnh chi tiết với công cụ điều chỉnh màu tóc
+#### Tinh chỉnh chi tiết với công cụ điều chỉnh màu tóc
 
 Sau khi sử dụng tính năng **Tóc đen tóc bạc**, bạn có thể muốn tinh chỉnh thêm màu tóc để đảm bảo sự đồng đều hoàn hảo. Đây chính là lúc công cụ **Màu tóc** phát huy tác dụng.
 

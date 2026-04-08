@@ -29,7 +29,7 @@ Após a conexão ser estabelecida, um ícone de câmera conectada será exibido 
 
 ---
 
-### Conexão com fio (USB/OTG)
+#### Conexão com fio (USB/OTG)
 
 - **Celulares com entrada Type-C** (a maioria dos dispositivos Android e iPhone 15): conecte diretamente utilizando um cabo de dados Type-C.
 - **Celulares sem entrada Type-C** (dispositivos Android mais antigos e iPhone 14 ou anteriores): é necessário utilizar um adaptador OTG para habilitar a função OTG.
@@ -40,7 +40,7 @@ Após a conexão ser estabelecida, um ícone de câmera conectada será exibido 
 
 ---
 
-#### Configuração no Android
+##### Configuração no Android
 
 1. Abra um projeto no **Evoto Instant**.
 2. Uma solicitação de conexão será exibida na tela. Selecione-a e confirme.
@@ -54,7 +54,7 @@ Após a conexão ser estabelecida, um ícone de câmera conectada será exibido 
 
 ***Observação: Certifique-se de que o celular e a câmera estejam conectados à mesma rede Wi-Fi ou hotspot.*** ***Se você mudar de rede, o endereço do servidor e a porta também serão alterados, sendo necessário inserir os novos valores na câmera.*** **Passo 2: Configurar a Câmera** [FTP Connection with Nikon Cameras](/?p=17342) [FTP Connection with Sony A7IV](https://support.evoto.ai/ftp-connection-with-sony-a7iiii-instant/) [FTP Connection with Canon Cameras](https://support.evoto.ai/ftp-connections-with-canon-cameras/)
 
-### Confirmação
+#### Confirmação
 
 Se a configuração for bem-sucedida, você verá uma mensagem destacada em verde e o endereço do servidor exibido no Evoto Instant.
 

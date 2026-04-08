@@ -27,13 +27,13 @@ source_assets:
 
 **祛細褶皺** – 去除衣物上的細小褶皺，並使用滑桿調整應用的程度。 **祛粗褶皺 –**去除衣物上的大褶皺以及不均勻的明暗區域，並使用滑桿調整應用的程度。
 
-### 衣服祛瑕疵
+#### 衣服祛瑕疵
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-26-at-16.03.05-300x300.png)
 
 衣服祛瑕疵工具透過單向滑桿來控制祛除衣服上的毛球、灰塵、皮屑或其他點狀線狀的附著物等。
 
-### 衣物邊緣輪廓平滑
+#### 衣物邊緣輪廓平滑
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-26-at-16.04.45-300x300.png)
 
@@ -49,7 +49,7 @@ source_assets:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-26-at-16.06.50-300x118.png)
 
-### 手動塗抹
+#### 手動塗抹
 
 「手動塗抹」筆可以對應用區域進行精細調整，以避免過度修正。
 

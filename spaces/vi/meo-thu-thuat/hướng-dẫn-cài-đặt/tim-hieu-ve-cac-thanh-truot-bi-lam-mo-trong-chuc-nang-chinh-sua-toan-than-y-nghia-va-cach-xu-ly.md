@@ -12,7 +12,7 @@ secondary_categories:
 
 Khi sử dụng tính năng **Chỉnh sửa toàn thân** trong Evoto, bạn có thể nhận thấy một số thanh trượt điều chỉnh hình dáng cơ thể bị làm mờ và không thể sử dụng. Điều này có thể gây nhầm lẫn, nhưng thực chất đây không phải là lỗi của phần mềm. Thay vào đó, đây là một biện pháp bảo vệ nhằm đảm bảo việc chỉnh sửa hình dáng cơ thể được thực hiện chính xác và hiệu quả hơn.
 
-### Tại sao một số thanh trượt lại bị làm mờ?
+#### Tại sao một số thanh trượt lại bị làm mờ?
 
 Các thanh trượt bị mờ trong công cụ **Chỉnh sửa toàn thân**thường xuất phát từ việc hệ thống gặp khó khăn trong việc nhận diện chính xác một số bộ phận cơ thể trong ảnh hiện tại. Vấn đề này xảy ra do các nguyên nhân sau:
 
@@ -21,7 +21,7 @@ Các thanh trượt bị mờ trong công cụ **Chỉnh sửa toàn thân**thư
 
 Để tránh các chỉnh sửa sai lệch hoặc không hiệu quả, hệ thống có thể tự động vô hiệu hóa các thanh trượt liên quan đến những vùng này như một cơ chế bảo vệ. Điều này đảm bảo rằng mọi thao tác chỉnh sửa hình dáng đều không gây ra kết quả không mong muốn hoặc thiếu chính xác.
 
-### Cách xử lý
+#### Cách xử lý
 
 Nếu bạn gặp phải các thanh trượt bị làm mờ, bạn có thể thực hiện các bước sau để cải thiện tình hình:
 

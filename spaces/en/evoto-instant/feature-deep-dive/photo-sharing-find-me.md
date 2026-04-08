@@ -25,7 +25,7 @@ Once your photos are ready for delivery, they appear in the Shared stage of the 
 
 ---
 
-### Mode 1: Classic Mode(Best suited for event scenarios)
+#### Mode 1: Classic Mode(Best suited for event scenarios)
 
 - **Default Settings: Global Gallery: ON; Find Me: OFF**
 
@@ -49,7 +49,7 @@ If you want guests to view only their own photos, turn **Global Gallery** **OFF*
 
 ---
 
-### Mode 2: Participant Mode (Roster-Based)
+#### Mode 2: Participant Mode (Roster-Based)
 
 - **Individual gallery** links are automatically generated for each participant.
 - The system defaults to **Access Code** mode, but can also be switched to Public Access as needed.
@@ -58,7 +58,7 @@ If you want guests to view only their own photos, turn **Global Gallery** **OFF*
 
 ---
 
-### The “Find Me” Feature
+#### The “Find Me” Feature
 
 The **Find Me** feature helps guests quickly locate their photos within a gallery. By uploading or taking a quick reference photo, the system searches the gallery and instantly returns matching results. This saves time for guests who don’t want to scroll through hundreds of images.
 
@@ -74,7 +74,7 @@ The **Find Me** feature helps guests quickly locate their photos within a galler
 
 ---
 
-### Refreshing New Photos(Guest Perspective)
+#### Refreshing New Photos(Guest Perspective)
 
 To avoid interrupting the guest experience, new photos are added seamlessly to galleries. A red “New” tag appears on the refresh button whenever new content is available. Guests can:
 
@@ -85,7 +85,7 @@ To avoid interrupting the guest experience, new photos are added seamlessly to g
 
 ---
 
-### Sorting and Viewing Options(Guest Perspective)
+#### Sorting and Viewing Options(Guest Perspective)
 
 Guests can browse galleries with flexible controls:
 
@@ -94,7 +94,7 @@ Guests can browse galleries with flexible controls:
 
 ---
 
-### Gallery Sharing (Guest Perspective)
+#### Gallery Sharing (Guest Perspective)
 
 When guests access their gallery, they are able to **share their gallery directly to specific social apps**, including **Facebook, Twitter, and WhatsApp**. This feature allows participants to quickly and easily share their photos with friends and family, without needing to download or manually upload images.
 

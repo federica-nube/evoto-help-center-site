@@ -18,7 +18,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/479552af-236f-4d69-abc2-e9a56eab1361.png"
 ---
 
-### ¿Qué son los Preajustes?
+#### ¿Qué son los Preajustes?
 
 Los Preajustes son una colección de funciones que pueden grabarse juntas y aplicarse a nuevas imágenes con un solo clic. Si necesita procesar una gran cantidad de imágenes rápidamente y con alta calidad, los Preajustes son su herramienta ideal. Le ahorrará tiempo y hará que el tratamiento de sus imágenes sea más fácil, rápido y eficaz. Evoto distingue actualmente entre "Preajustes Recomendados" y "Mis Preajustes".
 

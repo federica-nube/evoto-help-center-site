@@ -29,13 +29,13 @@ source_assets:
 
 Evoto AI organiza el retoque de imágenes mediante un flujo de trabajo basado en proyectos. Esto facilita la gestión de las ediciones, volver a trabajos anteriores o realizar ajustes secundarios en cualquier momento. Basta con tocar un proyecto existente para volver a abrirlo.
 
-### Inicio
+#### Inicio
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/IMG_0334-1024x689.jpg)
 
-#### Proyecto
+##### Proyecto
 
-##### Creación de un Nuevo Proyecto
+###### Creación de un Nuevo Proyecto
 
 Para iniciar un nuevo proyecto, toque el botón “+” dentro del círculo amarillo en la parte inferior derecha de la pantalla. Se le pedirá que importe imágenes utilizando uno de los métodos compatibles.
 
@@ -55,7 +55,7 @@ Después de crear un proyecto:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-16.36.51-296x300.png)
 
-#### Herramientas Inteligentes de IA
+##### Herramientas Inteligentes de IA
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-16.38.44-300x126.png)
 
@@ -66,13 +66,13 @@ La sección **Herramientas Inteligentes de IA** ofrece acceso inmediato a 8 pote
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-16.39.45-300x240.png)
 
-#### Ediciones Destacadas: Preajustes para Cada Estilo
+##### Ediciones Destacadas: Preajustes para Cada Estilo
 
 **Ediciones Destacadas** es una función exclusiva del iPad en la página de inicio, diseñada para un acceso rápido y un uso fluido. Presenta una colección seleccionada de ajustes preestablecidos, cada uno con un estilo, tono y conjunto específico de ajustes de retoque.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250908144749-1024x168.jpg)
 
-##### Preajustes de Boda
+###### Preajustes de Boda
 
 Estos preajustes están diseñados para capturar la emoción y la atmósfera únicas de la fotografía de bodas.
 - **Boda – Resplandor del Bosque**:
@@ -94,7 +94,7 @@ Estos preajustes están diseñados para capturar la emoción y la atmósfera ún
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250908143003-1024x381.jpg)
 
-##### Preajustes de Lifestyle y Retrato
+###### Preajustes de Lifestyle y Retrato
 
 Estos preajustes están diseñados para estilos y ambientes específicos de retrato, ayudándote a crear un aspecto pulido y consistente.
 - **Estilo Callejero**:
@@ -128,12 +128,12 @@ Estos preajustes están diseñados para estilos y ambientes específicos de retr
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250908144246-1024x672.jpg)
 
-### Aprender
+#### Aprender
 
 Al hacer clic en la pestaña Aprender dentro del espacio de trabajo, se obtiene acceso rápido a una biblioteca de recursos en video para comenzar y a tutoriales de funciones clave. Al tocar un tutorial, se abrirá el navegador y el video se reproducirá en YouTube.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/6C635D31-A08D-494D-AD3A-7A5B2A6D97AA-1024x715.png)
 
-#### Centro de Ayuda
+##### Centro de Ayuda
 
 Se ha añadido una entrada dedicada de **Centro de Ayuda** para Evoto iPad, facilitando la búsqueda de tutoriales y artículos de ayuda.
 

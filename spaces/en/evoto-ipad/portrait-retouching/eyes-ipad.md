@@ -23,7 +23,7 @@ Unlike the Eyes section under Facial Reshape, which focuses on eye shape and pos
 
 ---
 
-### Brightness
+#### Brightness
 
 This feature intelligently adjusts the brightness of different parts of the eyes to make them appear more vivid and expressive.
 
@@ -44,21 +44,21 @@ A single slider to quickly remove glare caused by glasses.
 
 *Note: This feature currently does not support colored glasses.*
 
-### Red Vein Removal
+#### Red Vein Removal
 
 Effectively removes red veins and redness in the eyes while preserving natural highlights and shadow for a realistic look.
 
-### Red Eye Removal
+#### Red Eye Removal
 
 Use this toggle switch in the Eyes section to automatically detect and correct red-eye caused by flash photography.
 
-### Manual Tuning Pen
+#### Manual Tuning Pen
 
 For greater control, a **Manual Tuning Pen** allows users to correct over-removal or fine-tune results manually.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-25-at-17.49.54-300x231.png)
 
-### Catchlights
+#### Catchlights
 
 This feature enhances eye sparkle with professionally designed catchlight styles.
 

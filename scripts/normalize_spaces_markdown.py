@@ -179,6 +179,8 @@ def split_line_around_images(line: str) -> list[str]:
         blocks.append(tail)
 
     if len(blocks) <= 1:
+        if prefix and blocks and IMAGE_RE.fullmatch(blocks[0]):
+            return [blocks[0]]
         return [line]
 
     if prefix:

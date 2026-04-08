@@ -23,7 +23,7 @@ source_assets:
 Assim que suas fotos chegam à etapa de Compartilhamento do fluxo de trabalho, elas estão prontas para serem entregues aos convidados. O Evoto Instant torna esse processo simples, seguro e personalizável, garantindo que cada convidado possa encontrar suas fotos facilmente, enquanto você mantém controle total sobre o branding e a apresentação.
 ---
 
-### Métodos de Acesso à Galeria
+#### Métodos de Acesso à Galeria
 
 Os visitantes podem acessar tanto a Galeria Global quanto a Galeria Individual utilizando os seguintes métodos. Essas opções permitem compartilhamento com controle de privacidade, de acordo com suas necessidades:
 
@@ -32,7 +32,7 @@ Os visitantes podem acessar tanto a Galeria Global quanto a Galeria Individual u
 
 ---
 
-### Recurso “Find Me”
+#### Recurso “Find Me”
 
 O recurso**Find Me** ajuda os convidados a localizar rapidamente suas fotos dentro de uma galeria. Ao enviar ou tirar uma foto de referência rápida, o sistema busca na galeria e retorna instantaneamente os resultados correspondentes, economizando tempo para quem não quer percorrer centenas de imagens.
 
@@ -46,7 +46,7 @@ Observação: O recurso Find Me deve ser habilitado individualmente para cada pr
 
 ---
 
-### Recurso Interact (Apenas Galeria Individual)
+#### Recurso Interact (Apenas Galeria Individual)
 
 O recurso **Interact** está disponível somente na Galeria Individual. Use este recurso para gerar um link pessoal de galeria para cada convidado. Um Link Pessoal contém apenas as fotos pertencentes a um único convidado. Cada convidado recebe um link único, garantindo acesso privado e seguro às suas próprias fotos.
 

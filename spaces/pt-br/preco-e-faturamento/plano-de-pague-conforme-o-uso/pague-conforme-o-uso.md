@@ -12,7 +12,7 @@ Esta seção fornece respostas às perguntas mais comuns sobre os pacotes de cr�
 
 ---
 
-### Pacotes de Créditos e Validade
+#### Pacotes de Créditos e Validade
 
 - **Quais pacotes de créditos estão disponíveis?**A Evoto oferece quatro pacotes flexíveis de créditos Pague Conforme o Uso, projetados para atender fluxos de trabalho de qualquer tamanho, sem taxas recorrentes ou compromisso:
 
@@ -25,7 +25,7 @@ Esta seção fornece respostas às perguntas mais comuns sobre os pacotes de cr�
 
 ---
 
-### Outras Perguntas Frequentes
+#### Outras Perguntas Frequentes
 
 - **Posso transferir créditos não utilizados?**Não. Créditos não utilizados de um pacote Pague Conforme o Uso **expiram 2 anos após a compra** e não podem ser transferidos, mesmo que você mude para um plano de assinatura.
 - **Posso estender a data de validade?**Não. Créditos Pague Conforme o Uso têm **validade fixa de 2 anos** e não podem ser prorrogados em nenhuma circunstância.

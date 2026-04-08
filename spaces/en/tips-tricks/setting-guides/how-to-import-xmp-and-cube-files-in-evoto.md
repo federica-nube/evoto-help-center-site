@@ -18,11 +18,11 @@ source_assets:
 
 Color grading is a powerful tool for photographers and editors, and Evoto makes it easy to integrate industry-standard presets into your workflow. This guide will walk you through the simple process of importing .XMP and .CUBE files, allowing you to seamlessly apply your favorite color adjustments.
 
-### Why Use .XMP and .CUBE Files?
+#### Why Use .XMP and .CUBE Files?
 
 These file formats are widely used to save specific color adjustments and share them across different projects and software. Evoto's compatibility with these formats ensures you can bring your favorite presets directly into your editing process, making color transitions smoother and enhancing your overall workflow.
 
-### How to Import .XMP and .CUBE Files in Evoto
+#### How to Import .XMP and .CUBE Files in Evoto
 
 Importing these files has become a straightforward process.
 

@@ -15,7 +15,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/243657a1-63c1-4f00-8491-463b88e147c5.png"
 ---
 
-### Exportar Imágenes
+#### Exportar Imágenes
 
 Al exportar imágenes, puede elegir la ubicación de almacenamiento correspondiente y el formato de calidad de imagen en la página de exportación.
 

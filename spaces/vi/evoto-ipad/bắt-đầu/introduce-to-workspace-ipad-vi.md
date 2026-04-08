@@ -29,13 +29,13 @@ source_assets:
 ---
 
 Evoto AI quản lý việc chỉnh sửa ảnh thông qua quy trình làm việc trên các dự án. Điều này giúp bạn dễ dàng quản lý các chỉnh sửa, quay lại công việc trước đó hoặc thực hiện các điều chỉnh bổ sung bất cứ lúc nào. Chỉ cần nhấn vào một dự án hiện có để mở lại.
-### Trang chủ
+#### Trang chủ
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/IMG_0334-1024x689.jpg)
 
-#### Dự án
+##### Dự án
 
-##### Tạo dự án mới
+###### Tạo dự án mới
 
 Để tạo một dự án mới, hãy nhấn vào nút dấu “+” trong vòng tròn màu vàng ở góc bên phải màn hình. Sau khi tạo dự án, bạn sẽ có thể nhập ảnh bằng một trong các phương pháp được hỗ trợ. Evoto trên iPad hỗ trợ bốn tùy chọn nhập ảnh như sau:
 - **Tệp:** Nhập ảnh trực tiếp từ hệ thống tệp trên iPad của bạn.
@@ -51,7 +51,7 @@ Sau khi tạo một dự án:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-16.36.51-296x300.png)
 
-#### Các công cụ AI thông minh
+##### Các công cụ AI thông minh
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-16.38.44-300x126.png)
 
@@ -59,12 +59,12 @@ Phần **Công cụ AI thông minh** cung cấp quyền truy cập nhanh vào 8 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-16.39.45-300x240.png)
 
-#### Chỉnh sửa nổi bật: Cài sẵn cho mọi phong cách
+##### Chỉnh sửa nổi bật: Cài sẵn cho mọi phong cách
 
 Chỉnh sửa nổi bật là một mục cài sẵn độc quyền dành cho iPad, hiển thị trên trang chủ, được thiết kế để truy cập nhanh và sử dụng dễ dàng. Tính năng này bao gồm bộ sưu tập cài sẵn được chọn lọc kỹ lưỡng, mỗi cài sẵn mang một phong cách, tông màu và bộ chỉnh sửa riêng biệt.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250908144749-1024x168.jpg)
 
-##### Cài sẵn dành cho ảnh cưới
+###### Cài sẵn dành cho ảnh cưới
 
 Những cài sẵn này được thiết kế để nắm bắt cảm xúc và không khí đặc trưng của ảnh đám cưới. Đám cưới – Ánh Rừng: -
 - Phù hợp cho các buổi chụp ảnh cưới ngoài trời tại những địa điểm tự nhiên như bãi cỏ hoặc rừng cây.
@@ -86,7 +86,7 @@ Những cài sẵn này được thiết kế để nắm bắt cảm xúc và k
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250908143003-1024x381.jpg)
 
-##### Phong cách sống và Chân dung
+###### Phong cách sống và Chân dung
 
 Những cài sẵn này được thiết kế phù hợp với các bức ảnh thể hiện phong cách và chân dung cụ thể, giúp bạn tạo ra vẻ ngoài bóng bẩy và đồng nhất.
 - **Phong cách đường phố:**
@@ -120,14 +120,14 @@ Những cài sẵn này được thiết kế phù hợp với các bức ảnh 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250908144246-1024x672.jpg)
 
-### Tìm hiểu thêm
+#### Tìm hiểu thêm
 
 Nhấn vào tab Tìm hiểu thêm (Learn) trong không gian làm việc sẽ giúp bạn truy cập nhanh vào thư viện video hướng dẫn bắt đầu sử dụng và các bài học về những tính năng chính của Evoto.
 - Khi bạn chạm vào một bài hướng dẫn, trình duyệt sẽ được mở ra và phát video trên YouTube.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/6C635D31-A08D-494D-AD3A-7A5B2A6D97AA-1024x715.png)
 
-#### Trung tâm kiến thức
+##### Trung tâm kiến thức
 
 Một mục Trung tâm kiến thức dành riêng cho Evoto trên iPad đã được thêm vào nhằm giúp bạn dễ dàng tìm thấy các bài hướng dẫn và bài viết trợ giúp. Bạn có thể mở cửa sổ pop-up chứa các bài viết liên quan bằng cách nhấn vào biểu tượng dấu hỏi (?) nằm ở hai vị trí:
 - Góc dưới bên trái của không gian làm việc dự án.

@@ -107,7 +107,7 @@ Trung tính - Trước
 ![](https://res.evoto.ai/wordpress/579fe425-f6eb-46c0-83f9-16072bce8a41.png)
 
 Trung tính - Sau
-#### Tươi Sáng Sống Động
+##### Tươi Sáng Sống Động
 
 Đặc điểm: Đạt được tông màu tổng thể trung tính trong khi vẫn duy trì hình ảnh tươi sáng và sống động, nhân vật rõ ràng. Và với mức độ tương phản và bão hòa cao cân bằng cho bố cục tổng thể. Bối cảnh đề xuất: Phong cách cổ điển như đám cưới ngoài trời, váy cưới, chân dung, trẻ sơ sinh, v.v.
 ![](https://res.evoto.ai/wordpress/d30b30f7-535e-42c4-bb78-6cbe5af5fd54.jpg)
@@ -118,7 +118,7 @@ Tươi sáng sống động - Trước
 
 Tươi sáng sống động - Sau
 
-#### Tình Yêu Thuần Khiết
+##### Tình Yêu Thuần Khiết
 
 Đặc điểm: Phong cách tươi sáng, ít tương phản, tông màu hồng ấm áp, tràn ngập bầu không khí trong lành và lãng mạn. Bối cảnh đề xuất: Ảnh cưới ngoài trời, ảnh phong cách Vlog
 ![](https://res.evoto.ai/wordpress/3ef0163c-c734-4d5e-a695-2629607887fe.png)
@@ -129,7 +129,7 @@ Tình yêu thuần khiêt - Trước
 
 Tình yêu thuần khiết - Sau
 
-#### Tự Nhiên Thuần Khiết
+##### Tự Nhiên Thuần Khiết
 
 Đặc điểm : Sáng và có độ tương phản cao với kết cấu rõ nét, điểm sáng ấm mềm mại và tông màu lạnh ở vùng tối. Màu xanh lá cây tươi sáng và hơi lạnh. Bối cảnh đề xuất : Phù hợp nhất với các cảnh ngoài trời dưới điều kiện ánh sáng tự nhiên. Không thích hợp cho các môi trường trong nhà có ánh sáng yếu.
 ![](https://res.evoto.ai/wordpress/1a5deb50-3c48-46c2-984b-5452dcb45e42.jpg)
@@ -140,7 +140,7 @@ Tự nhiên thuần khiết - Trước
 
 Tự nhiên thuần khiết - Sau
 
-#### Rực Rỡ Ấm Áp
+##### Rực Rỡ Ấm Áp
 
 Đặc điểm : Nhấn mạnh tông màu ấm, sáng với độ tương phản và độ bão hòa cao, tạo ra hình ảnh sống động và đầy sức sống. Bối cảnh đề xuất : Sử dụng hoàn hảo cho các cảnh ngoài trời ấm áp như chân dung gia đình, ảnh tốt nghiệp hoặc đám cưới. Tránh sử dụng mẫu phong cách này trong các cảnh trong nhà có ánh sáng yếu hoặc hình ảnh có tỷ lệ tông màu đen cao.
 ![](https://res.evoto.ai/wordpress/b0807af4-e170-4c28-a972-d3d83048fc14.png)
@@ -151,7 +151,7 @@ Rực rỡ ấm áp - Trước
 
 Rực rỡ ấm áp - Sau
 
-#### Gió Mát
+##### Gió Mát
 
 Đặc điểm: Mang đến một tông màu ấm, với sắc cam-đỏ nhẹ nhàng trong hầu hết các khu vực, đồng thời làm mờ đi độ sáng của màu đỏ và xanh lam để tạo ra một vẻ đẹp tự nhiên, mềm mại. Bối cảnh đề xuất: Lý tưởng cho những bức ảnh có màu sắc tươi sáng, thuần khiết. Nên tránh sử dụng trong những cảnh có nhiều yếu tố màu đen.
 ![](https://res.evoto.ai/wordpress/41a3d96d-69cf-40bc-a589-352b69280c54.png)
@@ -162,7 +162,7 @@ Gió mát - Trước
 
 Gió mát - Sau
 
-#### Ngây Thơ Vui Tươi
+##### Ngây Thơ Vui Tươi
 
 Đặc điểm: Mang lại vẻ ngoài tươi sáng, với độ tương phản nhẹ nhàng và cảm giác nhẹ nhàng, thoáng đãng, tạo ra một không gian ấm áp và thoải mái. Bối cảnh đề xuất: Lý tưởng cho các bức ảnh trẻ sơ sinh và trẻ em, phù hợp với cả môi trường trong nhà và ngoài trời/studio.
 ![](https://res.evoto.ai/wordpress/5262e055-b5d0-466f-80c8-369c8f2d4dc4.png)
@@ -173,7 +173,7 @@ Ngây thơ vui tươi - Trước
 
 Ngây thơ vui tươi - Sau
 
-#### Tươi Sáng Đơn Giản
+##### Tươi Sáng Đơn Giản
 
 Đặc điểm: Với độ tương phản rõ ràng, phong cách tối giản và sống động để làm nổi bật tông màu. Bối cảnh đề xuất: Hoàn hảo cho các bức ảnh chân dung thời trang và ảnh cưới tối giản, áp dụng cho cả trong nhà và ngoài trời/studio.
 ![](https://res.evoto.ai/wordpress/a5c77c74-99ba-43ff-a1b5-92e4e9abb6d8.png)
@@ -184,7 +184,7 @@ Tươi sáng đơn giản - Trước
 
 Tươi sáng đơn giản - Sau
 
-#### Sắc Thái Thanh Lịch
+##### Sắc Thái Thanh Lịch
 
 Đặc điểm: Cung cấp độ phơi sáng đồng đều với độ tương phản mềm mại, giữ được chi tiết rõ ràng ở cả vùng sáng và tối, mang lại cảm giác tươi mới, tự nhiên và thanh bình. Bối cảnh đề xuất: Phù hợp cho ảnh chân dung thời trang và ảnh cưới phong cách Hàn Quốc, trong cả bối cảnh trong nhà và ngoài trời/studio.
 ![](https://res.evoto.ai/wordpress/95653dc8-dafe-4a55-ae95-3a9955f23aa9.png)
@@ -195,7 +195,7 @@ Sắc thái thanh lịch - Trước
 
 Sắc thái thanh lịch - Sau
 
-#### Xanh Olive
+##### Xanh Olive
 
 Đặc điểm: Hiệu suất ánh sáng mặt trời và xanh tuyệt vời, tông màu phim ánh sáng mặt trời cổ điển. Bối cảnh đề xuất: Trông tuyệt vời khi ở ngoài trời vào ban ngày hoặc trong môi trường trong nhà đầy màu sắc
 ![](https://res.evoto.ai/wordpress/a0d8ed19-ef85-4bd4-b681-88ad11fd2ca7.png)
@@ -206,7 +206,7 @@ Xanh olive - Trước
 
 Xanh olive - Sau
 
-#### Film Màu Lạnh
+##### Film Màu Lạnh
 
 Đặc điểm: Phong cách phim màu lạnh, tạo tông màu phim tinh tế, nhẹ nhàng. Bối cảnh đề xuất: Phù hợp với mọi thể loại ảnh chân dung và phong cảnh.
 ![](https://res.evoto.ai/wordpress/e37236a3-7826-4c0f-af4b-c11f856436cb.png)
@@ -217,7 +217,7 @@ Film màu lạnh - Trước
 
 Film màu lạnh - Sau
 
-#### Ánh Nắng Ban Mai
+##### Ánh Nắng Ban Mai
 
 Đặc điểm : Tăng cường ánh sáng tự nhiên, lý tưởng cho những cảnh tượng trang nhã và uy nghiêm. Bối cảnh đề xuất : Phù hợp cho các bức ảnh có nhiều màu sắc, giúp điều hòa các tông màu.
 ![](https://res.evoto.ai/wordpress/5bebdbb1-8a81-4427-b788-100464408a60.png)
@@ -228,7 +228,7 @@ Film màu lạnh - Sau
 
 Ánh nắng ban mai - Sau
 
-#### Tàn Dương
+##### Tàn Dương
 
 Đặc điểm : Cảm giác sáng sủa và tươi mới, với tông da hơi nghiêng về màu vàng-xanh. Bối cảnh đề xuất : Phù hợp với những hình ảnh có ánh sáng tốt và ít yếu tố phân tán, như những cánh đồng cỏ rộng lớn hoặc bãi biển.
 ![](https://res.evoto.ai/wordpress/af2fddab-dfc4-4dff-bd9d-d5c4b779d919.png)
@@ -239,7 +239,7 @@ Tàn dương - Trước
 
 Tàn dương - Sau
 
-#### Bóng Râm
+##### Bóng Râm
 
 Đặc điểm: Tạo cảm giác ấm áp nhưng vẫn giữ được vẻ tươi mới, đồng thời đặc biệt hiệu quả trong việc làm nổi bật các tông đỏ. Bối cảnh đề xuất: Phù hợp với những cảnh vật cần truyền tải sự thoải mái và ấm áp, như các cánh đồng cỏ, khung cảnh ven biển, và ảnh chân dung gia đình.
 ![](https://res.evoto.ai/wordpress/ec514330-fd39-4d7e-8359-f9dece9857ce.png)
@@ -250,7 +250,7 @@ Bóng râm - Trước
 
 Bóng râm - Sau
 
-#### Ánh Sáng Mùa Thu
+##### Ánh Sáng Mùa Thu
 
 Đặc điểm : Tông màu ấm cổ điển, với các điểm sáng mang sắc hồng nhẹ nhàng và bóng tối có chút sắc xanh retro. Tổng thể, phong cách màu sắc mang lại cảm giác ấm áp, dễ chịu. Bối cảnh đề xuất : Lý tưởng cho các cảnh có ánh sáng mặt trời, ánh sáng ấm áp trong nhà hoặc các vật thể có màu đỏ, đặc biệt phù hợp với các bức ảnh cưới trong nhà.
 ![](https://res.evoto.ai/wordpress/ccf01f9b-17aa-49ff-b631-1b3cdf4489ce.png)
@@ -261,7 +261,7 @@ Bóng râm - Sau
 
 Ánh sáng mùa thu - Sau
 
-#### Tươi Sáng Ấm Áp
+##### Tươi Sáng Ấm Áp
 
 Đặc điểm: Tông màu tổng thể ấm hơn, tạo ra kết cấu da màu đồng. Đồng thời, khung cảnh cây xanh ngoài trời cũng được chỉnh màu ấm. Bối cảnh đề xuất: Thích hợp chụp chân dung trong studio hoặc cảnh có nhiều cây xanh và ánh nắng chói chang, khiến tổng thể khung cảnh trở nên ấm áp và thoải mái.
 ![](https://res.evoto.ai/wordpress/50010fe5-f880-41ca-8824-e0d078a88ece.png)
@@ -272,7 +272,7 @@ Tươi sáng ấm áp - Trước
 
 Tươi sáng ấm áp - Sau
 
-#### Nâu Quế
+##### Nâu Quế
 
 Đặc điểm: Bằng cách tăng cường màu cam và xanh lơ và pha trộn màu sắc, tạo ra hiệu ứng hình ảnh vừa ấm áp vừa tươi mới. Bối cảnh đề xuất: Thích hợp với môi trường ngoài trời tràn ngập ánh nắng và cây xanh, đặc biệt là tiệc cưới ngoài trời.
 ![](https://res.evoto.ai/wordpress/b5564d51-653b-4a43-b5ef-3081db447baa.png)
@@ -283,7 +283,7 @@ Nâu quế - Trước
 
 Nâu quế - Sau
 
-#### Xanh Thẳm
+##### Xanh Thẳm
 
 Đặc điểm: Dựa trên tông màu lạnh và xanh lơ, nó nhấn mạnh vẻ đẹp của các yếu tố tự nhiên và phong cách yên tĩnh. Đây là phong cách bảng màu cổ điển dành cho những bộ phim có tông màu lạnh. Bối cảnh đề xuất: Tốt nhất cho những bức chân dung thể hiện cảm giác cô đơn, những bức ảnh có họa tiết trong phim hoặc phim tài liệu.
 ![](https://res.evoto.ai/wordpress/d2b25a34-fffc-4578-9c9b-78ce2565ea17.png)
@@ -294,7 +294,7 @@ Xanh thẩm - Trước
 
 Xanh thẩm - Sau
 
-#### Sang Trọng
+##### Sang Trọng
 
 Đặc điểm: Tông màu tổng thể hơi tối với độ tương phản cao, giúp phục hồi màu da tự nhiên. Bối cảnh đề xuất: Phù hợp với các cảnh quay thời trang, thương mại và chụp trong studio.
 ![](https://res.evoto.ai/wordpress/4905d704-e626-4d6f-a70a-139635f6113a.png)
@@ -305,7 +305,7 @@ Sang trọng - Trước
 
 Sang trọng - Sau
 
-#### Kích Thích Thị Giác
+##### Kích Thích Thị Giác
 
 Đặc điểm: Thông qua khả năng phân biệt màu sắc mạnh mẽ và độ tương phản màu cao, nó làm nổi bật màu sắc phóng đại của nhân vật và tạo tác động thị giác mạnh mẽ thông qua tông màu đậm. Bối cảnh đề xuất: Chủ yếu được sử dụng để chụp ảnh thương mại thời trang với màu sắc phong phú và sự kích thích thị giác mạnh mẽ.
 ![](https://res.evoto.ai/wordpress/6f7bf5b3-d770-4c6f-befe-0186efc272e1.png)
@@ -316,7 +316,7 @@ Kích thích thị giác - Trước
 
 Kích thích thị giác - Sau
 
-#### Lãng Mạn Vĩnh Cửu
+##### Lãng Mạn Vĩnh Cửu
 
 Đặc điểm : Phong cách chân dung đen trắng vượt thời gian với độ sáng cân bằng, độ tương phản hơi cao, và tăng cường độ sáng của các tông màu cam và vàng, mang lại sự linh hoạt cho nhiều bối cảnh khác nhau. Bối cảnh đề xuất : Phù hợp với hầu hết các cảnh, nhưng không lý tưởng cho các bối cảnh ánh sáng yếu hoặc có nhiều tông màu tối.
 ![](https://res.evoto.ai/wordpress/f4d860e5-b1d6-475b-945c-063b798a521e.png)

@@ -16,7 +16,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-26-at-17.26.15-300x195.png"
 ---
 
-### Rotate Tool
+#### Rotate Tool
 
 The **Rotate** tool allows you to manually or automatically adjust the rotation and orientation of your image. This includes:
 
@@ -27,7 +27,7 @@ The **Rotate** tool allows you to manually or automatically adjust the rotation 
 
 Use the **Angle Slider** to manually set the rotation degree within the supported range.
 
-### AI Correction
+#### AI Correction
 
 The **AI Correction** feature (accessed via the **Auto** button) uses AI to intelligently straighten the image horizon.
 
@@ -41,7 +41,7 @@ Every time **AI Correction** is applied, the slider resets based on the new AI-c
 
 ---
 
-### How AI Correction Interacts with Manual Adjustments
+#### How AI Correction Interacts with Manual Adjustments
 
 - **Rotation (Clockwise/Counterclockwise):** AI Correction recalculates based on the current rotated state of the image.
 - **Mirroring (Flip Horizontal/Vertical):** If mirroring is applied, AI recalculates the horizon correction accordingly.

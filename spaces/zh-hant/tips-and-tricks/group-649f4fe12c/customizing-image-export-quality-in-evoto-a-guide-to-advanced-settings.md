@@ -24,7 +24,7 @@ For more in-depth information, see our full page on [Importing & Exporting](http
 
 ---
 
-### Choosing the Right File Format
+#### Choosing the Right File Format
 
 Evoto supports multiple image formats, each with a different purpose.
 
@@ -34,7 +34,7 @@ Evoto supports multiple image formats, each with a different purpose.
 
 ---
 
-### Controlling Quality and File Size (for JPG Exports)
+#### Controlling Quality and File Size (for JPG Exports)
 
 The quality setting in Evoto is available when exporting in JPG format and allows you to balance image quality with file size.
 
@@ -49,7 +49,7 @@ The quality setting in Evoto is available when exporting in JPG format and allow
 
 ---
 
-### Adjusting Output Sharpening
+#### Adjusting Output Sharpening
 
 Evoto includes tailored **Output Sharpening Settings** to optimize your images for their final use, whether for screen display or print.
 
@@ -57,7 +57,7 @@ Evoto includes tailored **Output Sharpening Settings** to optimize your images f
 
 ---
 
-### Adjusting Resolution & Dimensions
+#### Adjusting Resolution & Dimensions
 
 When you crop or resize an image, paying close attention to resolution settings is key to maintaining clarity.
 

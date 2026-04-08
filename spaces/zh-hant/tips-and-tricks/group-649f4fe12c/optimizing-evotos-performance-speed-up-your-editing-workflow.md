@@ -20,7 +20,7 @@ source_assets:
 
 Evoto is packed with powerful features for professional-grade photo edits. To make the most of these features, especially when working on complex projects, it's important to optimize the software’s performance. By fine-tuning specific settings, you can significantly enhance rendering speed, ensuring a smoother and faster editing experience.
 
-### Rendering Speed Settings
+#### Rendering Speed Settings
 
 Evoto offers several options to accelerate the rendering of effects. Adjusting these settings can help you achieve faster results without compromising the quality of your work.
 
@@ -34,7 +34,7 @@ Evoto offers several options to accelerate the rendering of effects. Adjusting t
 
 **Important:** After making any changes to these settings, you must restart Evoto for them to take effect.
 
-### Optimizing Group Portrait Processing
+#### Optimizing Group Portrait Processing
 
 Evoto allows you to optimize effect processing for group portraits, especially for images containing 15 or more people.
 
@@ -42,7 +42,7 @@ Evoto allows you to optimize effect processing for group portraits, especially f
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.00.20-300x182.png)
 
-### Memory Usage Settings
+#### Memory Usage Settings
 
 Optimizing how Evoto uses memory is crucial for maintaining a fast and smooth workflow.
 
@@ -55,7 +55,7 @@ Optimizing how Evoto uses memory is crucial for maintaining a fast and smooth wo
 
 **Note:** A restart of Evoto is necessary for these memory settings to take effect.
 
-### Preview & Thumbnail Settings
+#### Preview & Thumbnail Settings
 
 These settings control how images are displayed within the Evoto interface, balancing visual quality with performance.
 

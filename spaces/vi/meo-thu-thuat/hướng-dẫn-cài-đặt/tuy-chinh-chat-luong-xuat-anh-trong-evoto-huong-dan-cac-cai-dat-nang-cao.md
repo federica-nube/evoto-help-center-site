@@ -12,11 +12,11 @@ secondary_categories:
 
 Khi bạn hoàn tất chỉnh sửa ảnh trong Evoto, bước cuối cùng là xuất ảnh. Evoto cung cấp các tùy chọn linh hoạt để tùy chỉnh chất lượng ảnh xuất ra, đảm bảo bạn luôn nhận được kết quả như mong muốn. Dưới đây là hướng dẫn về các **cài đặt nâng cao** có sẵn trong quá trình xuất ảnh, giúp bạn tối ưu chất lượng hình ảnh và kích thước ảnh.
 
-### Cài đặt nâng cao: Tùy chỉnh cài đặt xuất ảnh theo sở thích
+#### Cài đặt nâng cao: Tùy chỉnh cài đặt xuất ảnh theo sở thích
 
 Các **cài đặt nâng cao** của Evoto cho phép bạn kiểm soát nhiều khía cạnh khi xuất ảnh, giúp bạn tinh chỉnh định dạng, chất lượng và kích thước ảnh theo ý muốn.
 
-#### Định dạng ảnh
+##### Định dạng ảnh
 
 Evoto hỗ trợ nhiều định dạng hình ảnh khác nhau, phù hợp với từng nhu cầu cụ thể của bạn:
 
@@ -26,19 +26,19 @@ Evoto hỗ trợ nhiều định dạng hình ảnh khác nhau, phù hợp với
 
 Việc chọn định dạng phù hợp phụ thuộc vào mục đích sử dụng hình ảnh của bạn. Ví dụ, JPG rất thích hợp cho việc sử dụng trên web, trong khi TIFF được ưu tiên cho in ấn chuyên nghiệp và lưu trữ lâu dài.
 
-#### Chất lượng
+##### Chất lượng
 
 Cài đặt chất lượng trong Evoto chỉ có sẵn khi xuất ảnh ở định dạng JPG:
 
 - **Chất lượng JPG**: Bạn có thể điều chỉnh chất lượng ảnh JPG để cân bằng giữa độ sắc nét và kích thước ảnh. Cài đặt chất lượng cao hơn sẽ tạo ra ảnh lớn hơn, trong khi cài đặt thấp hơn sẽ giảm dung lượng ảnh nhưng đồng thời làm mất bớt chi tiết hình ảnh.
 
-#### Giới hạn kích thước ảnh
+##### Giới hạn kích thước ảnh
 
 Evoto cho phép bạn đặt kích thước giới hạn cho ảnh xuất ra:
 
 - **Giới hạn kích thước ảnh**: Bạn có thể nhập kích thước ảnh cụ thể, và thuật toán xuất ảnh sẽ nén ảnh sao cho ảnh có kích thước gần nhất với kích thước bạn đã chỉ định. **Lưu ý quan trọng**: Kích thước ảnh cuối cùng có thể không hoàn toàn khớp với kích thước bạn nhập do đặc tính của quá trình nén ảnh. Thuật toán sẽ cố gắng tối đa để đáp ứng yêu cầu của bạn, nhưng vẫn có giới hạn về mức độ nén mà không làm giảm chất lượng hình ảnh.
 
-#### Cài đặt chất lượng theo phần trăm
+##### Cài đặt chất lượng theo phần trăm
 
 Trong phiên bản 3.5.0, Evoto đã bổ sung cài đặt chất lượng xuất ảnh dựa trên phần trăm:
 

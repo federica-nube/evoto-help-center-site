@@ -21,7 +21,7 @@ O recurso de Substituição de Céu permite substituir um céu imperfeito ou sup
 
 ---
 
-### Seleção de Céu
+#### Seleção de Céu
 
 - **Céu Recomendado** – Escolha entre fundos de céu profissionalmente fornecidos no Evoto.
 - **Meus Cenários** – Faça upload da sua própria imagem de céu clicando em ícone ➕.
@@ -30,7 +30,7 @@ O recurso de Substituição de Céu permite substituir um céu imperfeito ou sup
 
 ---
 
-### Caneta de Ajuste Manual
+#### Caneta de Ajuste Manual
 
 Use a Ferramenta **Caneta de Ajuste Manual** para pintar ou apagar o efeito de Substituição de Céu em áreas específicas da imagem. Isso permite restaurar manualmente partes que foram afetadas incorretamente ou refinar a transição das bordas do céu.
 
@@ -43,18 +43,18 @@ A ferramenta inclui dois modos:
 
 ---
 
-### Ajustes de Céu
+#### Ajustes de Céu
 
 Depois que um novo céu é aplicado, use as ferramentas abaixo para ajustar com precisão a posição e a aparência do céu, garantindo que ele se integre de forma natural à imagem:
 
-#### Controles de Posição do Céu
+##### Controles de Posição do Céu
 
 - **Vertical** – Move a imagem do céu para cima ou para baixo.
 - **Horizontal** – Move a imagem do céu para a esquerda ou para a direita.
 - **Inverter Horizontalmente** – Inverte a imagem do céu no sentido horizontal.
 - **Transição de Borda** – Suaviza a transição entre o novo céu e a imagem original para garantir uma fusão natural.
 
-#### Controles de Aparência do Céu
+##### Controles de Aparência do Céu
 
 - **Temperatura** – Ajusta a temperatura de cor do céu (tons mais quentes ou mais frios).
 - **Saturação** – Controla a intensidade/vivacidade das cores do céu.
@@ -66,7 +66,7 @@ Depois que um novo céu é aplicado, use as ferramentas abaixo para ajustar com 
 
 ---
 
-### Ajuste de Pessoa e Cenário
+#### Ajuste de Pessoa e Cenário
 
 Equilibre os tons dos elementos do primeiro plano para combinar melhor com o novo céu:
 
@@ -82,7 +82,7 @@ Equilibre os tons dos elementos do primeiro plano para combinar melhor com o nov
 
 ---
 
-### Ajuste de Reflexão da Água
+#### Ajuste de Reflexão da Água
 
 Se for detectada água na imagem, os controles de reflexo ficam disponíveis:
 

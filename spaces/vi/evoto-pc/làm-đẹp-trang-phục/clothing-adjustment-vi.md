@@ -17,7 +17,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/z6763608789653_664263632f6172de323b9709ef31ce8c.jpg"
 ---
 
-### Loại bỏ nếp nhăn quần áo
+#### Loại bỏ nếp nhăn quần áo
 
 Tính năng Loại bỏ nếp nhăn quần áo trong Evoto cho phép bạn xóa hiệu quả các nếp nhăn trên vải, đồng thời cẩn thận giữ lại kết cấu gốc và cấu trúc ba chiều tự nhiên của trang phục. Công cụ này cung cấp các tùy chọn điều chỉnh linh hoạt, giúp giảm thiểu các nếp nhăn nhỏ mà không làm mất đi vẻ chân thực của quần áo. ***Lưu ý: Tùy chọn giới tính và độ tuổi được cung cấp để hỗ trợ điều chỉnh phù hợp hơn với từng đối tượng. Những tùy chọn này giúp mang lại kết quả tự nhiên hơn, được cá nhân hóa dựa trên đặc điểm của chủ thể.*
 
@@ -33,7 +33,7 @@ Tính năng này giúp loại bỏ xơ vải, bụi, lông thú cưng hoặc cá
 
 Người dùng có thể điều chỉnh cường độ hiệu ứng bằng cách kéo thanh trượt. Khi bật tính năng Làm phẳng viền trang phục, các mục sau sẽ tự động được kích hoạt: **Chỉnh sửa viền trang phục**: Tinh chỉnh lại các khu vực cụ thể sau khi áp dụng Làm phẳng viền trang phục. Ví dụ: Giữ lại nếp gấp tự nhiên ở các khớp gập. **Bảo vệ đạo cụ (Mặc định)**: Ngăn chặn việc làm biến dạng các vật thể nằm ở mép quần áo.
 
-### Bút điều chỉnh thủ công
+#### Bút điều chỉnh thủ công
 
 Sử dụng bút điều chỉnh thủ công để thêm hoặc xóa các hiệu ứng từ việc điều chỉnh trang phục. Điều này cho phép bạn khôi phục bất kỳ khu vực nào bị ảnh hưởng sai sau khi áp dụng chỉnh sửa.
 

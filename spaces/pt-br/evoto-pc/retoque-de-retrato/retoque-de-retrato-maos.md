@@ -17,13 +17,13 @@ O módulo de **Mãos** foca-se no refinamento da aparência das mãos, garantind
 
 ---
 
-### Mãos – Uniformizar (Dodge & Burn)
+#### Mãos – Uniformizar (Dodge & Burn)
 
 Este recurso foi desenvolvido para suavizar a aparência das mãos e reduzir a visibilidade de rugas. O slider permite uniformizar de forma sutil o tom e a textura da pele, proporcionando um aspecto mais suave e polido às mãos.
 
 ---
 
-### Remoção de Veias das Mãos
+#### Remoção de Veias das Mãos
 
 Use o slider para atenuar e reduzir a visibilidade de veias proeminentes nas mãos e antebraços, criando um tom de pele mais uniforme e com acabamento natural.
 
@@ -33,7 +33,7 @@ Use o slider para atenuar e reduzir a visibilidade de veias proeminentes nas mã
 
 ---
 
-### Modelagem de Mãos
+#### Modelagem de Mãos
 
 Ajuste a aparência das mãos usando um único controle deslizante. Afine os dedos e diminua as palmas, mantendo proporções naturais.
 

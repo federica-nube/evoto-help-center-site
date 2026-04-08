@@ -11,10 +11,10 @@ primary_category: "sem-categoria"
 O Modo Participante resolve o desafio de gerenciamento de fotos em grande volume. Ao carregar uma lista com nomes e e-mails, o sistema gera QR codes exclusivos para cada participante. Isso permite que o Agrupamento por IA organize as fotos automaticamente durante a sessão, além de gerar links de galeria e códigos de acesso exclusivos para cada participante, garantindo a privacidade e a segurança dos dados.
 ---
 
-### Configuração do Projeto & Importação da Lista de Participantes
+#### Configuração do Projeto & Importação da Lista de Participantes
 
 Para começar, é necessário definir quem será fotografado através da importação de uma lista de participantes.
-#### Criação do Projeto
+##### Criação do Projeto
 
 - Selecione o **Modo Escola** ao criar um projeto.
 - O sistema define automaticamente o **Modo Participante** com a **Proteção por Senha** ativada.
@@ -25,14 +25,14 @@ Para começar, é necessário definir quem será fotografado através da importa
 - *Caso deseje alterar as configurações de segurança (por exemplo, para **Sem Senha**), isso pode ser feito na aba **Informações Básicas**.*
 - *É possível alternar entre os modos Escola e Clássico no início, porém, uma vez que uma lista de participantes ou foto seja adicionada a um Projeto Escola, não será possível voltar atrás.*
 
-#### Importação de Dados
+##### Importação de Dados
 
 - Acesse a aba **Participantes** e faça o upload da sua lista. Utilize o modelo disponível para download no site.
 - **Formato:** Compatível com **.csv, .xls, .xlsx** (até 10MB).
 - **Requisitos:** Os campos **"Nome"** e **"E-mail"** são obrigatórios.
 - **Validação:** O sistema verifica automaticamente duplicatas e erros de formatação (por exemplo, e-mails inválidos).
 
-#### Gerenciamento da Lista
+##### Gerenciamento da Lista
 
 - É possível pesquisar nomes ou utilizar **"Re-importar"** para adicionar novos participantes à lista.
 
@@ -43,7 +43,7 @@ Para começar, é necessário definir quem será fotografado através da importa
 
 ---
 
-### Fluxo de Trabalho com QR Code
+#### Fluxo de Trabalho com QR Code
 
 O sistema gera um QR code exclusivo para cada participante, vinculando a sessão fotográfica física à galeria digital.
 
@@ -51,11 +51,11 @@ O sistema gera um QR code exclusivo para cada participante, vinculando a sessão
 - Durante a sessão, escaneie o cartão para indicar ao sistema: **"As próximas fotos pertencem a este aluno."**
 - O cartão contém o **Link exclusivo da Galeria** e o **Código de Acesso** para que os pais ou o aluno façam login posteriormente.
 
-#### Métodos de Captura e Organização
+##### Métodos de Captura e Organização
 
 Existem três formas de organizar as fotos nas pastas dos participantes. Escolha o método que melhor se adapta ao seu fluxo de trabalho no local.
 
-##### Método A: Agrupamento Automático por IA via Dispositivo Móvel
+###### Método A: Agrupamento Automático por IA via Dispositivo Móvel
 
 Este método utiliza a detecção de QR code em tempo real com conexão ao aplicativo móvel.
 
@@ -65,7 +65,7 @@ Este método utiliza a detecção de QR code em tempo real com conexão ao aplic
 - É necessária uma conexão com a internet.
 - ***Observação:** A foto contendo o QR code também é enviada para a galeria.*
 
-##### Método B: Organização Manual via Dispositivo Móvel (Somente com Conexão)
+###### Método B: Organização Manual via Dispositivo Móvel (Somente com Conexão)
 
 Também é possível fotografar sem cartões QR impressos, selecionando os nomes manualmente.
 
@@ -76,7 +76,7 @@ Também é possível fotografar sem cartões QR impressos, selecionando os nomes
 - Toque em **Concluir e Próximo** para alternar automaticamente para a próxima pessoa na lista (ou toque manualmente em outro nome para alternar).
 3. **Status:** A lista acompanha o andamento dos participantes como **Não Iniciado, Em Andamento** ou **Concluído.**
 
-##### Método C: Organização por IA via Web (Pós-Sessão)
+###### Método C: Organização por IA via Web (Pós-Sessão)
 
 Caso prefira organizar as fotos após o evento, é possível processar as imagens em lote no **Portal Web.**
 
@@ -86,7 +86,7 @@ Caso prefira organizar as fotos após o evento, é possível processar as imagen
 Tratamento de Fotos Não Organizadas: Caso um QR code esteja desfocado ou o formato da imagem não seja compatível (por exemplo, alguns arquivos RAW), as fotos aparecerão na pasta " Não Agrupadas ". Basta selecionar as fotos e movê-las manualmente para a pasta correta. Esta funcionalidade está disponível tanto no Portal Web quanto no Aplicativo Móvel .
 ---
 
-### Entrega e Privacidade
+#### Entrega e Privacidade
 
 O Modo Participante aplica padrões rigorosos de privacidade para instituições de ensino.
 

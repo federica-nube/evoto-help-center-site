@@ -22,7 +22,7 @@ Para información más detallada, consulta nuestra página completa sobre [Impor
 
 ---
 
-### Elegir el Formato de Archivo Correcto
+#### Elegir el Formato de Archivo Correcto
 
 Evoto soporta múltiples formatos de imagen, cada uno con un propósito diferente.
 
@@ -32,7 +32,7 @@ Evoto soporta múltiples formatos de imagen, cada uno con un propósito diferent
 
 ---
 
-### Controlar Calidad y Tamaño de Archivo (para Exportaciones JPG)
+#### Controlar Calidad y Tamaño de Archivo (para Exportaciones JPG)
 
 La configuración de calidad en Evoto está disponible al exportar en formato JPG y te permite equilibrar la calidad de imagen con el tamaño del archivo.
 
@@ -47,7 +47,7 @@ La configuración de calidad en Evoto está disponible al exportar en formato JP
 
 ---
 
-### Ajustar Nitidez de Salida
+#### Ajustar Nitidez de Salida
 
 Evoto incluye **Configuraciones de Nitidez de Salida** personalizadas para optimizar tus imágenes para su uso final, ya sea para visualización en pantalla o impresión.
 
@@ -55,7 +55,7 @@ Evoto incluye **Configuraciones de Nitidez de Salida** personalizadas para optim
 
 ---
 
-### Ajustar Resolución y Dimensiones
+#### Ajustar Resolución y Dimensiones
 
 Cuando recortas o redimensionas una imagen, prestar atención a la configuración de resolución es clave para mantener la claridad.
 

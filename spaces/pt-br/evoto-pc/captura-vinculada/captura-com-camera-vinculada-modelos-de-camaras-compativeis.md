@@ -12,13 +12,13 @@ migration_flags:
 
 > Observação: A lista a seguir inclui modelos de câmeras teoricamente compatíveis. Se você tiver problemas de conexão ou precisar de confirmação para sua configuração específica, entre em contato com support@evoto.ai.
 
-### Suporte Específico por Sistema Operacional
+#### Suporte Específico por Sistema Operacional
 
 O Evoto oferece suporte a diferentes modelos de câmeras dependendo do seu ****sistema operacional****. Confirme seu SO antes de consultar a lista de compatibilidade correspondente.
 
 ---
 
-### Categorias de Suporte de Câmera
+#### Categorias de Suporte de Câmera
 
 - **Suporte Prático (Praticamente Suportadas)**
 

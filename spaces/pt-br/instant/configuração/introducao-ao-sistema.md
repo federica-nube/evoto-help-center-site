@@ -23,18 +23,18 @@ Ambos são totalmente integrados, com todos os dados sincronizados na nuvem, per
 
 ---
 
-### Evoto Instant App
+#### Evoto Instant App
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.33.26-238x300.png)
 
 O aplicativo móvel funciona como seu terminal de captura e importação, conectando-se diretamente à câmera para permitir disparo conectado (tethered shooting) e uploads em tempo real.
-#### Baixar e Instalar
+##### Baixar e Instalar
 
 - Acesse a **App Store** (iOS 14.2 ou superior) ou **Google Play** (Android 9 ou superior).
 - Procure por **Evoto Instant**.
 - Baixe e instale o aplicativo.
 
-#### Login ou Cadastro
+##### Login ou Cadastro
 
 - Faça login com sua Conta Evoto usando e-mail ou número de telefone.
 - Sua Conta Evoto funciona em Evoto Desktop, Evoto iPad e Evoto Instant, e seus créditos Evoto são compartilhados entre as plataformas.

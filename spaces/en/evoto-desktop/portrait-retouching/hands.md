@@ -19,13 +19,13 @@ source_assets:
 
 Evoto’s **Hand Touch-up** module focuses on refining the appearance of hands, ensuring consistency and smoothness in portrait edits.
 
-### Hands - Even (Dodge & Burn)
+#### Hands - Even (Dodge & Burn)
 
 This feature is designed to help smooth the appearance of hands and reduce the visibility of wrinkles. This slider allows you to subtly even out skin tone and texture, giving hands a softer and more polished look.
 
 ---
 
-### Hand Vein Removal
+#### Hand Vein Removal
 
 Use the **Hand Vein** slider to soften and reduce the visibility of prominent veins on the hands and forearms, creating a more polished and even skin tone.
 
@@ -35,7 +35,7 @@ Use the **Hand Vein** slider to soften and reduce the visibility of prominent ve
 
 ---
 
-### Hand Reshape
+#### Hand Reshape
 
 Adjust the appearance of hands using a single slider. Slim fingers and shrink palms while maintaining natural proportions.
 

@@ -22,16 +22,16 @@ source_assets:
 
 Experience seamless control over your photos with Evoto Mobile’s Wired Tethered Shooting. Connect your camera directly to your device to instantly preview, edit, and manage images in real time—saving time, improving workflow efficiency, and ensuring every shot is captured exactly as intended.
 
-### Compatible Camera Models
+#### Compatible Camera Models
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/10/image-7-213x300.png)
 
-### Preparation Before Wired Tethered Shooting
+#### Preparation Before Wired Tethered Shooting
 
 - A memory card must be installed in the camera.
 - iOS version must be 15 or above.
 
-#### Choosing the Connection Cable
+##### Choosing the Connection Cable
 
 iPhone data ports include Lightning (for iPhone 14 and earlier models) and USB-C (for iPhone 15 and later models). Since Lightning cables do not natively support OTG, a Lightning-to-USB-A adapter with OTG functionality is required.
 
@@ -39,7 +39,7 @@ Camera data ports vary widely; the following list is provided for reference.
 
 ![](https://download.pixcakeai.com/ui/baklib/55ba275d37f7469d67547557db1e66a7.)
 
-#### Enabling App Permissions
+##### Enabling App Permissions
 
 After opening Evoto and creating a new project, a prompt saying **“Evoto Would Like to Access the Camera”** will appear. Simply tap **“Allow”**.
 
@@ -51,11 +51,11 @@ You also need to make sure that the “Network” permission is enabled before s
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/10/Wi-Fi-139x300.png)
 
-#### Confirming Camera Detection on iPhone
+##### Confirming Camera Detection on iPhone
 
 Open the built-in **Photos** app on your iPhone. If the connected camera device appears as shown in the image, it means the iPhone has successfully connected to the camera.
 
-#### Camera Settings
+##### Camera Settings
 
 Specific settings for different camera brands:
 
@@ -67,7 +67,7 @@ Specific settings for different camera brands:
 - [Leica Cameras](https://support.evoto.ai/leica-wired-tethered-shooting-mobile/)
 - [Olympus Cameras](https://support.evoto.ai/olympus-wired-tethered-shooting-mobile/)
 
-### Start Tethered Shooting
+#### Start Tethered Shooting
 
 If this is your first time using Evoto or you haven’t created any projects yet, select **Tethered Shooting** on the home page or tap the **Tethered** button at the bottom.
 
@@ -82,7 +82,7 @@ After a successful tethered connection, Evoto provides two options: **Auto Impor
 - **Auto Import During Shooting:** Tap the **Tethered Shooting** button, then select a project on the new page (you can create a new project or choose an existing one). All subsequent photos taken with the camera will be automatically imported into Evoto.
 - **Import Existing Photos from Camera:** Select the photos you want to import from the camera’s photo list. Then choose either **Edit Existing Project** or **Edit New Project** as needed.
 
-### Tethered Shooting Settings
+#### Tethered Shooting Settings
 
 **Tethered Shooting Interface Overview**
 

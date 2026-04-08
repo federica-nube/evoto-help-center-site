@@ -19,13 +19,13 @@ O Evoto AI organiza o retoque de imagens por meio de um fluxo de trabalho basead
 
 ---
 
-### Aba Inicial (Home)
+#### Aba Inicial (Home)
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/2-4-300x202.jpg)
 
-#### Projeto
+##### Projeto
 
-##### Criar um Novo Projeto
+###### Criar um Novo Projeto
 
 Para iniciar um novo projeto, toque no botão “+” dentro do círculo amarelo no canto inferior direito da tela. Em seguida, você será solicitado a importar imagens usando um dos métodos compatíveis.
 
@@ -40,7 +40,7 @@ O Evoto para iPad oferece quatro opções de importação de imagens:
 
 Exibe os projetos acessados mais recentemente, permitindo retomar seu trabalho de forma rápida e conveniente.
 
-##### Gerenciamento de Projetos
+###### Gerenciamento de Projetos
 
 Após criar um projeto:
 
@@ -49,7 +49,7 @@ Após criar um projeto:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/4-5-296x300.jpg)
 
-#### Ferramentas de IA Inteligentes
+##### Ferramentas de IA Inteligentes
 
 A seção **Ferramentas de IA Inteligentes** oferece acesso imediato a 8 poderosos módulos baseados em IA, projetados para otimizar seu fluxo de trabalho de edição. Ao selecionar um módulo, você pode:
 
@@ -58,13 +58,13 @@ A seção **Ferramentas de IA Inteligentes** oferece acesso imediato a 8 poderos
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/6-2-300x241.jpg)
 
-#### Edições Populares: Predefinições para Todos os Estilos
+##### Edições Populares: Predefinições para Todos os Estilos
 
 **Edições Populares** é um ponto de entrada exclusivo do iPad para predefinições, localizado na página inicial, projetado para acesso rápido e uso intuitivo. Ele apresenta uma coleção curada de predefinições, cada um com um estilo, tom e conjunto específico de ajustes de retoque.
 
 ---
 
-### Aba Aprender (Learn)
+#### Aba Aprender (Learn)
 
 Ao tocar na aba **Aprender** no espaço de trabalho, você terá acesso rápido a uma biblioteca de vídeos para iniciantes e tutoriais de recursos principais.
 
@@ -72,7 +72,7 @@ Ao tocar na aba **Aprender** no espaço de trabalho, você terá acesso rápido 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/7-2-300x209.jpg)
 
-#### Base de Conhecimento (Knowledge Base)
+##### Base de Conhecimento (Knowledge Base)
 
 Uma entrada dedicada da **Base de Conhecimento do Evoto para iPad** foi adicionada para facilitar o acesso a tutoriais e artigos de ajuda.
 

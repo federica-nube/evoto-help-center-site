@@ -12,7 +12,7 @@ secondary_categories:
 
 Evoto cung cấp các chức năng lịch sử mạnh mẽ giúp người dùng dễ dàng quản lý và tinh chỉnh các chỉnh sửa của mình. Những công cụ lịch sử này rất quan trọng để theo dõi và kiểm soát những thay đổi bạn thực hiện trong quá trình chỉnh sửa. Hiểu rõ sự khác biệt giữa Lịch sử chung, Lịch sử biến Liquify và Lịch sử công cụ phục hồi sẽ giúp bạn nâng cao hiệu quả làm việc và đảm bảo kiểm soát chính xác các chỉnh sửa của mình.
 
-### Lịch sử chung: Bản ghi chính của tất cả các chỉnh sửa
+#### Lịch sử chung: Bản ghi chính của tất cả các chỉnh sửa
 
 Bảng **Lịch sử** trong Evoto đóng vai trò như trung tâm quản lý tất cả các thao tác chỉnh sửa của bạn. Bảng này cung cấp một cái nhìn toàn diện về mọi điều chỉnh bạn đã thực hiện, được liệt kê theo thứ tự thời gian từ mới nhất đến cũ nhất. Bạn có thể dễ dàng quay lại bất kỳ bước nào bằng cách nhấp vào thao tác mong muốn trong danh sách lịch sử, giúp bạn phục hồi lại đúng điểm chỉnh sửa đó trong quá trình làm việc.
 
@@ -20,7 +20,7 @@ Ngoài việc lùi lại từng bước chỉnh sửa, bảng Lịch sử còn c
 
 Lưu ý rằng khi sử dụng các công cụ Liquify hoặc phục hồi, tất cả các chỉnh sửa thực hiện trong những công cụ này sẽ được gom gọn thành một bước duy nhất trong bảng Lịch sử chung. Điều này có nghĩa là khi bạn hoàn tác bước này, toàn bộ các thay đổi trong phiên làm việc đó sẽ bị đảo ngược, vì vậy bạn cần quản lý cẩn thận các chỉnh sửa khi làm việc với những công cụ này.
 
-### Lịch sử điều chỉnh bằng liquify và công cụ phục hồi: Theo dõi chỉnh sửa chuyên biệt
+#### Lịch sử điều chỉnh bằng liquify và công cụ phục hồi: Theo dõi chỉnh sửa chuyên biệt
 
 Trong các bảng điều khiển **Liquify** và**Công cụ phục hồi**, Evoto cung cấp các mô-đun lịch sử riêng biệt giúp người dùng theo dõi và quản lý các chỉnh sửa cụ thể liên quan đến những công cụ này. Khác với bảng Lịch sử chung, các lịch sử này chỉ giới hạn trong 10 bước gần nhất, mang đến một cái nhìn tập trung hơn về những thay đổi mới nhất.
 

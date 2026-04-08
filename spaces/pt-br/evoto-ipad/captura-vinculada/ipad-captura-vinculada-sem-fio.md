@@ -25,7 +25,7 @@ source_assets:
 
 **Evoto para iPad** oferece suporte à **captura vinculada sem fio**, proporcionando um fluxo de trabalho contínuo que permite capturar, visualizar e editar imagens em tempo real durante as sessões fotográficas. Essa integração facilita a aplicação de predefinições e o monitoramento das principais configurações da câmera enquanto você fotografa.
 
-### Principais Benefícios
+#### Principais Benefícios
 
 **Conectividade sem fio:**Aproveite a captura e a transferência instantânea de imagens diretamente para o seu iPad.
 
@@ -35,7 +35,7 @@ source_assets:
 
 ---
 
-### Como Iniciar a Captura Vinculada
+#### Como Iniciar a Captura Vinculada
 
 1. Abra o **Evoto** no seu iPad.
 2. Toque no **ícone da câmera** na barra de ferramentas à direita.
@@ -49,7 +49,7 @@ source_assets:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/9-1-300x208.jpg)
 
-#### Exibição de Detecção de Câmera
+##### Exibição de Detecção de Câmera
 
 Uma vez que as câmeras sejam detectadas, a lista de câmeras será exibida da seguinte forma:
 
@@ -71,11 +71,11 @@ Uma vez que a câmera seja conectada com sucesso, a página exibirá as funçõe
 
 ---
 
-### Configurações Pré-Captura
+#### Configurações Pré-Captura
 
 Antes de iniciar sua sessão de captura vinculada, você pode configurar diversas **definições** para otimizar seu fluxo de trabalho.
 
-#### Efeito na Captura
+##### Efeito na Captura
 
 Defina como os efeitos serão aplicados às novas imagens capturadas:
 
@@ -84,7 +84,7 @@ Defina como os efeitos serão aplicados às novas imagens capturadas:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/5-4-300x208.jpg)
 
-#### Opções de Exibição da Pré-visualização
+##### Opções de Exibição da Pré-visualização
 
 Controle como as imagens aparecem após cada captura:
 
@@ -93,7 +93,7 @@ Controle como as imagens aparecem após cada captura:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/14-300x172.jpg)
 
-#### Configurações de Importação: Filtro de Formato
+##### Configurações de Importação: Filtro de Formato
 
 A captura vinculada sem fio suporta **filtragem por formato de imagem** durante a importação:
 
@@ -109,7 +109,7 @@ A captura vinculada sem fio suporta **filtragem por formato de imagem** durante 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/16-300x192.jpg)
 
-#### Opções de Nomeação de Arquivos
+##### Opções de Nomeação de Arquivos
 
 Escolha entre 5 métodos flexíveis para nomear os arquivos originais capturados:
 
@@ -122,7 +122,7 @@ Escolha entre 5 métodos flexíveis para nomear os arquivos originais capturados
 
 ---
 
-### Modelos de Câmera Compatíveis & Observações Importantes
+#### Modelos de Câmera Compatíveis & Observações Importantes
 
 Para garantir o uso suave da função de captura vinculada, observe que ajustes podem ser necessários tanto no iPad quanto na câmera, dependendo das configurações da marca da câmera.
 
@@ -137,7 +137,7 @@ Após a conexão, você pode clicar nos links relevantes de acordo com a marca d
 
 ---
 
-### Exportação das Imagens Capturadas
+#### Exportação das Imagens Capturadas
 
 Após a sessão tethered, você pode exportar:
 
@@ -150,7 +150,7 @@ Por padrão, o Evoto utiliza o seletor de arquivos do iPadOS. Caso serviços em 
 
 ---
 
-### Solução de Problemas: Falha de Conexão
+#### Solução de Problemas: Falha de Conexão
 
 Se aparecer a mensagem **“Falha na Conexão”** ao iniciar a captura vinculada, considere as seguintes causas e soluções:
 

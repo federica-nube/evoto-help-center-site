@@ -23,7 +23,7 @@ Eye enhancement is one of the most effective ways to bring life and character to
 
 ---
 
-### Method 1: Local Masking with Color Adjustment
+#### Method 1: Local Masking with Color Adjustment
 
 If you prefer to have precise control over specific parts of the eye, local masking is the way to go. This method works well when you want to target only one area such as the iris or whites of the eye.
 1. **Select the target area**
@@ -40,7 +40,7 @@ If you prefer to have precise control over specific parts of the eye, local mask
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250910170228-scaled.jpg)
 
-### Method 2: Portrait Retouching with the Eye Tool
+#### Method 2: Portrait Retouching with the Eye Tool
 
 For a more automated yet flexible workflow, Evoto’s dedicated Eye tool under Portrait Retouching provides sliders tailored for enhancing eyes.
 1. **Start with Brightness**
@@ -61,7 +61,7 @@ For a more automated yet flexible workflow, Evoto’s dedicated Eye tool under P
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250910171639-scaled.jpg)
 
-### Method 3: Eye Retouching with Contacts
+#### Method 3: Eye Retouching with Contacts
 
 Another way to enhance the eyes is by applying **colored contacts** through Evoto’s Makeup tools. This option allows you to experiment with different iris colors while keeping the result realistic.
 

@@ -14,7 +14,7 @@ The **Menu & Support** section in Evoto Mobile provides access to your account i
 
 ---
 
-### Language Support
+#### Language Support
 
 Evoto Mobile supports **12 languages**, including the newly added Brazilian Portuguese. To change your app language:
 
@@ -24,11 +24,11 @@ Evoto Mobile supports **12 languages**, including the newly added Brazilian Port
 
 ---
 
-### Account Information
+#### Account Information
 
 View and manage your Evoto account details directly within the app. Access your profile to see your registered email, account status, and subscription information.
 
-#### Sign-In Options
+##### Sign-In Options
 
 Evoto Mobile supports multiple sign-in methods:
 
@@ -39,13 +39,13 @@ Evoto Mobile supports multiple sign-in methods:
 
 ---
 
-### Credit Balance
+#### Credit Balance
 
 Check your remaining **Credits** at any time from your account section. Credits are used when exporting edited photos. Your balance updates in real-time as you use the app.
 
 ---
 
-### My Usage Details
+#### My Usage Details
 
 Track your photo editing history and credit consumption in **My Usage Details**. This feature helps you monitor:
 
@@ -55,7 +55,7 @@ Track your photo editing history and credit consumption in **My Usage Details**.
 
 ---
 
-### Beginner's Guide
+#### Beginner's Guide
 
 New to Evoto? Access the **Beginner's Guide** for tutorials and tips to help you get started. The onboarding experience includes:
 
@@ -67,7 +67,7 @@ New to Evoto? Access the **Beginner's Guide** for tutorials and tips to help you
 
 ---
 
-### Delete Account
+#### Delete Account
 
 You can permanently delete your Evoto account directly within the mobile app. To delete your account:
 
@@ -85,7 +85,7 @@ You can permanently delete your Evoto account directly within the mobile app. To
 
 ---
 
-### About Us
+#### About Us
 
 Learn more about Evoto in the **About Us** section, including:
 
@@ -94,7 +94,7 @@ Learn more about Evoto in the **About Us** section, including:
 - **Privacy Policy:** How we handle your data
 - **Social Media Links:** Connect with Evoto on various platforms
 
-#### Region-Specific Social Links
+##### Region-Specific Social Links
 
 Evoto provides localized social media links based on your region:
 
@@ -105,11 +105,11 @@ Evoto provides localized social media links based on your region:
 
 ---
 
-### Check for Update
+#### Check for Update
 
 Stay up to date with the latest features and improvements. Use **Check for Update** to see if a new version of Evoto Mobile is available.
 
-#### Update Notifications
+##### Update Notifications
 
 When a new version is available, you may see an **upgrade prompt** when opening the app. The prompt displays:
 
@@ -119,11 +119,11 @@ When a new version is available, you may see an **upgrade prompt** when opening 
 
 ---
 
-### Provide Feedback
+#### Provide Feedback
 
 We value your input! Evoto features an enhanced feedback system to help us improve:
 
-#### Feedback Categories
+##### Feedback Categories
 
 Choose from specific feedback types for faster resolution:
 
@@ -132,7 +132,7 @@ Choose from specific feedback types for faster resolution:
 - **Performance Issue:** Report slow processing or lag
 - **Other:** General feedback and comments
 
-#### Enhanced Feedback Features
+##### Enhanced Feedback Features
 
 - **Screenshot Attachment:** Include screenshots to illustrate issues
 - **Contact Email:** Optionally provide your email for follow-up
@@ -140,22 +140,22 @@ Choose from specific feedback types for faster resolution:
 
 ---
 
-### Settings
+#### Settings
 
 Customize your Evoto Mobile experience through the Settings menu:
 
-#### Performance
+##### Performance
 
 Optimize app performance based on your device capabilities. Adjust settings to balance between processing speed and quality.
 
-#### Export
+##### Export
 
 Configure default export preferences including file format, quality settings, and output destination.
 
-#### Cache
+##### Cache
 
 Manage storage by viewing and clearing cached data. Regular cache clearing can help free up device storage and improve app performance.
 
-#### Preview
+##### Preview
 
 Adjust preview quality and display preferences to optimize your editing workflow on mobile devices.

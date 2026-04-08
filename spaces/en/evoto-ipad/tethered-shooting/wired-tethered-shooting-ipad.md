@@ -28,7 +28,7 @@ source_assets:
 
 Evoto for iPad supports **wired tethered shooting**, allowing you to capture, preview, and edit photos in real time. Connected via a direct cable, you can apply preset effects instantly and monitor full camera settings as you shoot.
 
-### Key Features
+#### Key Features
 
 - Supports **wired (USB)** tethered shooting.
 - **Plug-and-play connectivity** with automatic camera detection.
@@ -36,7 +36,7 @@ Evoto for iPad supports **wired tethered shooting**, allowing you to capture, pr
 - **Real-time effect preview** with one-click preset application.
 - **Customizable file naming** and **format filtering**.
 
-### How to Start Tethered Shooting
+#### How to Start Tethered Shooting
 
 - Open Evoto on your iPad.
 - Tap the camera icon in the right-hand toolbar.
@@ -73,7 +73,7 @@ Once connected, you will see: Live shooting and instant preview Remaining storag
 
 ---
 
-### File Naming Options
+#### File Naming Options
 
 Choose from five flexible ways to name your original captured files:
 
@@ -89,7 +89,7 @@ Choose from five flexible ways to name your original captured files:
 
 ---
 
-### Supported Camera Models
+#### Supported Camera Models
 
 For optimal compatibility, some camera brands may require setup adjustments. Refer to brand-specific guides:
 
@@ -103,7 +103,7 @@ For optimal compatibility, some camera brands may require setup adjustments. Ref
 
 ---
 
-### Exporting Captured Images
+#### Exporting Captured Images
 
 You can export your images after a tethered session:
 
@@ -114,11 +114,11 @@ By default, Evoto uses the iPadOS system file picker. If cloud services like iCl
 
 ---
 
-### Troubleshooting: Connection Issues
+#### Troubleshooting: Connection Issues
 
 If you encounter a "Connection Failed" message when attempting to start wired tethered shooting, consider the following potential causes and recommended solutions:
 
-#### Possible Causes
+##### Possible Causes
 
 - iPadOS version is outdated
 - Unsupported camera model
@@ -126,7 +126,7 @@ If you encounter a "Connection Failed" message when attempting to start wired te
 - Incompatible cable or adapter (non-OTG for wired)
 - System conflict with drivers or background apps
 
-#### Recommended Solutions
+##### Recommended Solutions
 
 - Update iPadOS to the latest version
 - Confirm that your camera model is supported

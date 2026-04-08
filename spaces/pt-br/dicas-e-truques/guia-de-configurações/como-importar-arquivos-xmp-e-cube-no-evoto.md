@@ -16,11 +16,11 @@ A correção de cor é uma ferramenta poderosa para fotógrafos e editores, e o 
 
 ---
 
-### Porque Usar Arquivos .XMP e .CUBE?
+#### Porque Usar Arquivos .XMP e .CUBE?
 
 Esses formatos são amplamente utilizados para salvar ajustes específicos de cor e compartilhá-los entre diferentes projetos e softwares. A compatibilidade do Evoto com esses formatos garante que você possa trazer suas predefinições favoritas diretamente para a edição, facilitando transições de cor mais suaves e melhorando seu fluxo de trabalho.
 
-### Como Importar Arquivos .XMP e .CUBE no Evoto
+#### Como Importar Arquivos .XMP e .CUBE no Evoto
 
 O processo de importação é simples e direto.
 

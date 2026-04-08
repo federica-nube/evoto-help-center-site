@@ -27,15 +27,15 @@ La función de Importación y Exportación Automática en Evoto optimiza tu fluj
 Esta función ayuda a automatizar tareas repetitivas, permitiéndote concentrarte en el trabajo creativo mientras Evoto se encarga del procesamiento.
 ---
 
-### Cómo configurar la Importación y Exportación Automática
+#### Cómo configurar la Importación y Exportación Automática
 
 Evoto facilita la configuración de esta función en solo unos pocos pasos.
-#### Paso 1: Crear un nuevo proyecto
+##### Paso 1: Crear un nuevo proyecto
 
 Comienza creando un nuevo proyecto. Se recomienda hacer esto desde el principio para asegurar que las imágenes se exporten automáticamente de acuerdo con los archivos de importación correspondientes dentro de un proyecto. Localiza la opción Importación y Exportación Automática y haz clic en ella para abrir la configuración.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-10.52.55-300x180.png)
 
-#### Paso 2: Habilitar la Importación Automática
+##### Paso 2: Habilitar la Importación Automática
 
 Configurar carpetas monitoreadas:
 - En la página de Vista Previa, haz clic en **carpeta monitoreada** y añade las carpetas que deseas monitorear. Puedes añadir hasta 10 carpetas, y Evoto admite subcarpetas de primer nivel ilimitadas dentro de cada una, permitiendo que múltiples flujos de trabajo se ejecuten simultáneamente.
@@ -49,7 +49,7 @@ Seleccionar tipos de archivo y preajustes:
 Iniciar la Importación Automática:
 - Una vez configurado, haz clic en **Iniciar Importación Automática** para habilitar la función. Evoto importará automáticamente solo las nuevas imágenes añadidas después de este punto; los archivos existentes en la carpeta no se importarán.
 
-#### Paso 3: Habilitar la Exportación Automática
+##### Paso 3: Habilitar la Exportación Automática
 
 Establecer la ruta de exportación:
 - Define una carpeta donde se guardarán los archivos exportados. La ruta de exportación **debe ser diferente** de la ruta de importación para evitar conflictos de archivos.

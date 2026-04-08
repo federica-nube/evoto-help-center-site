@@ -16,7 +16,7 @@ Unlike the **Eyes** tools in the *Facial Reshape* group, the **Eyes** feature gr
 
 ---
 
-### Eye Symmetry
+#### Eye Symmetry
 
 The **Eye Symmetry** feature optimizes the symmetry between the left and right eyes for a more balanced and natural appearance.
 

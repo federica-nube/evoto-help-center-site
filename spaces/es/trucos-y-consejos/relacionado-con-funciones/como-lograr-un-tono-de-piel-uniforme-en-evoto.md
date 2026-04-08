@@ -17,7 +17,7 @@ source_assets:
 
 Las potentes herramientas de retoque de piel de Evoto facilitan lograr una complexión natural y uniforme con un brillo saludable. Ubicadas en la sección de **Retoque de Piel**, estas funciones ofrecen una variedad de opciones para mejorar los tonos de piel en el rostro y el cuerpo.
 
-### Controles de unificación de complexión
+#### Controles de unificación de complexión
 
 Estos controles ajustan inteligentemente el tono de piel según donde se necesite el efecto, ayudando a crear un aspecto consistente.
 
@@ -27,7 +27,7 @@ Estos controles ajustan inteligentemente el tono de piel según donde se necesit
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.23.27-300x190.png)
 
-### Ajustes de tono de piel, luminosidad y complexión rosada
+#### Ajustes de tono de piel, luminosidad y complexión rosada
 
 Evoto proporciona dos herramientas adicionales para refinar el aspecto general de la piel, cada una con un propósito diferente.
 
@@ -51,7 +51,7 @@ Para ayudarte a elegir la herramienta correcta, aquí hay un resumen de sus dist
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.25.25-300x174.png)
 
-### Consejos adicionales para ajustes precisos
+#### Consejos adicionales para ajustes precisos
 
 Para un control más preciso, también puedes usar los ajustes de **Máscara Local** en el **Módulo de Ajustes de Color** para ajustar finamente áreas específicas.
 

@@ -17,7 +17,7 @@ source_assets:
 
 Mô-đun Tóc trong Evoto cung cấp nhiều công cụ đa dạng để tăng độ phồng, làm đầy, làm mượt kết cấu, và điều chỉnh màu sắc của tóc. Được thiết kế để khắc phục các khuyết điểm và nâng cao vẻ ngoài của tóc trong ảnh chân dung thông qua các điều chỉnh bằng AI kết hợp với điều khiển thủ công.
 
-### Làm đầy điểm hói
+#### Làm đầy điểm hói
 
 Tự động xác định những vùng tóc thưa (chẳng hạn như đường nối tóc, trán, chân tóc và tóc mai) và làm đầy tóc, giúp mang lại vẻ ngoài tóc trong dày đặn và đồng đều hơn. Điều chỉnh độ dày của tóc **Độ dày tóc đỉnh đầu (Trước đây là Nâng cao đỉnh đầu):**Tính năng "Nâng cao đỉnh đầu" giờ đây được đổi tên thành "Độ dày tóc đỉnh đầu". Sử dụng thanh trượt Độ phồng tóc đỉnh đầu đầu để đạt được hiệu ứng tóc bồng bềnh. **Độ phồng tóc hai bên:**Thanh trượt Độ phồng tóc hai bên cho phép điều chỉnh độ phồng của tóc ở hai bên đầu để tạo vẻ ngoài dày dặn hơn. Đường chân tóc Cải thiện vẻ ngoài của đường chân tóc bằng cách điều chỉnh mật độ và độ mượt mà của tóc. **Lưu ý:** Tính năng này có chức năng và các giá trị tương tự như tính năng Đường chân tóc trong nhóm tính năng Sửa dạng khuôn mặt. Loại bỏ tóc gãy Tính năng này hỗ trợ loại bỏ tóc thừa ở các khu vực khác nhau. **Khu vực nhân vật:**Chủ yếu được sử dụng để loại bỏ phần tóc con và tóc rối quanh khuôn mặt nhân vật. **Khu vực đường viền:**Chủ yếu loại bỏ phần tóc con ở phông nền hoặc bên ngoài khu vực khuôn mặt của nhân vật.
 

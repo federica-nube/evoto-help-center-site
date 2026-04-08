@@ -14,7 +14,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/12/13-300x208.jpg"
 ---
 
-### Exportar Imagens
+#### Exportar Imagens
 
 Ao exportar imagens, você pode configurar a localização de armazenamento, o formato e qualidade da imagem e o espaço de cor na página de Exportação.
 

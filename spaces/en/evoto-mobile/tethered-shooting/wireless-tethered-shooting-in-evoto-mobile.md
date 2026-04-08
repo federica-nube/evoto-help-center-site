@@ -21,18 +21,18 @@ source_assets:
 
 Experience seamless control over your photos with Evoto Mobile’s **Wireless Tethered Shooting**. Connect your camera wirelessly to your device to instantly preview, edit, and manage images in real time—enabling flexible shooting, faster workflow, and effortless collaboration while ensuring every shot is captured exactly as intended.
 
-### Compatible Camera Models
+#### Compatible Camera Models
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/10/Snipaste_2025-11-03_16-27-53-300x293.jpg)
 
 > Note: Fujifilm X-H firmware must be updated to the latest version and tethered according to the tutorial.
 
-### Preparation Before Wired Tethered Shooting
+#### Preparation Before Wired Tethered Shooting
 
 - A memory card must be installed in the camera.
 - iOS version must be 15 or above.
 
-#### Enabling App Permissions
+##### Enabling App Permissions
 
 After opening Evoto and creating a new project, a prompt saying **“Evoto Would Like to Access the Camera”** will appear. Simply tap **“Allow”**.
 
@@ -44,7 +44,7 @@ You also need to make sure that the “Network” permission is enabled before s
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/10/Wi-Fi-139x300.png)
 
-#### Camera Settings
+##### Camera Settings
 
 Specific settings for different camera brands:
 
@@ -53,7 +53,7 @@ Specific settings for different camera brands:
 - [Wireless Tethered Shooting – Nikon](https://support.evoto.ai/wireless-tethered-shooting-with-mobile-nikon/)
 - [Wireless Tethered Shooting – Fujifilm](https://support.evoto.ai/wireless-tethered-shooting-with-mobile-fuji-film/)
 
-### Start Tethered Shooting
+#### Start Tethered Shooting
 
 If this is your first time using Evoto Mobile or you haven’t created any projects yet, select **“Tethered Shooting”** on the home page or tap the **“Tether”** button at the bottom. Then, tap **“Start Camera Check”**. Once your camera is detected, its model will be displayed—simply tap **“Connect”** to pair.
 
@@ -64,7 +64,7 @@ Once the camera is successfully connected, a **“Camera Connected Successfully�
 - **Tethered Shooting:** Select a project on the new page (you can create a new project or choose an existing one). Photos taken afterward will automatically be imported into Evoto.
 - **Import Photos from Camera:** Select the photos from your camera’s photo list that you want to import. Choose **Edit Existing Project** or **Edit New Project** as needed.
 
-### Tethered Shooting Settings
+#### Tethered Shooting Settings
 
 image
 

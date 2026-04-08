@@ -17,11 +17,11 @@ source_assets:
 
 Mô-đun Làm đẹp tay của Evoto tập trung vào việc tinh chỉnh vẻ ngoài của đôi tay, đảm bảo sự đồng nhất và mượt mà trong các chỉnh sửa ảnh chân dung.
 
-### Làm mịn da tay với Dodge & Burn
+#### Làm mịn da tay với Dodge & Burn
 
 Tính năng này được thiết kế để làm mịn bề mặt da tay và giảm rõ các nếp nhăn ở vùng tay. Thanh trượt này cho phép bạn làm đều nhẹ nhàng tông màu và kết cấu da, mang lại vẻ ngoài mềm mại và chỉn chu hơn cho đôi tay.
 
-### Xóa tĩnh mạch tay
+#### Xóa tĩnh mạch tay
 
 Sử dụng thanh trượt Xóa tĩnh mạch tay để làm mềm mịn các vết gân trên tay và cẳng tay, giúp làn da trông mịn màng và đều màu hơn.
 

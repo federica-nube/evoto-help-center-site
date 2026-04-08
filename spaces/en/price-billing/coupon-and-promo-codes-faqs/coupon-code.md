@@ -13,7 +13,7 @@ secondary_categories:
 
 This section provides answers to common questions about finding and using Evoto coupon and promo codes.
 
-### Where Can I Find Evoto Coupon Codes?
+#### Where Can I Find Evoto Coupon Codes?
 
 Evoto distributes valid coupon and promo codes through official channels. To make sure you don't miss any exclusive offers, we recommend the following:
 
@@ -21,11 +21,11 @@ Evoto distributes valid coupon and promo codes through official channels. To mak
 - **Subscriber Newsletters:** We send exclusive offers directly to your registered email address.
 - **Social Media:** Follow our official social media accounts for special event promotions and partnership campaigns.
 
-### Do Promo Codes Expire?
+#### Do Promo Codes Expire?
 
 Yes, promo codes do have expiration dates. The expiration date is usually listed in the event or message where the code was provided. If no date is stated, you can try entering the code at checkout. If the code has expired, a message will appear to let you know it's no longer valid.
 
-### Are There Any Restrictions on Promotional Codes?
+#### Are There Any Restrictions on Promotional Codes?
 
 Yes, there are a few restrictions to keep in mind:
 

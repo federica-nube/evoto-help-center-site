@@ -24,7 +24,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/screenshot-20250919-172419.png"
 ---
 
-### Không gian chỉnh sửa ảnh
+#### Không gian chỉnh sửa ảnh
 
 ![](https://res.evoto.ai/wordpress/c24c1d09-788a-4720-b8fa-6d78a269df8f.png)
 

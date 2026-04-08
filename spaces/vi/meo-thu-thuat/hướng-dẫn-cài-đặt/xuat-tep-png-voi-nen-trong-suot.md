@@ -18,7 +18,7 @@ source_assets:
 
 Xuất một tệp PNG với nền trong suốt từ Evoto rất đơn giản, mặc dù "PNG" không phải là một tùy chọn có sẵn trong menu khi xuất ảnh. Bài viết này sẽ giới thiệu với bạn qua các bước cần thiết.
 
-### Các bước để xuất với nền trong suốt
+#### Các bước để xuất với nền trong suốt
 
 **1.** **Nhập ảnh của bạn:** Bắt đầu bằng cách nhập hình ảnh mà bạn muốn sử dụng vào Evoto.
 

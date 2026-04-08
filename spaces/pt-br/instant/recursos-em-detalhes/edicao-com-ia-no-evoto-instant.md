@@ -17,7 +17,7 @@ source_assets:
 O Evoto Instant com IA permite aplicar retoque de nível profissional em suas fotos de eventos — tanto automaticamente através de predefinições em todo o projeto quanto manualmente com ajustes precisos em imagens individuais. Oferece a flexibilidade necessária para aprimorar galerias inteiras em massa, mantendo o controle detalhado quando necessário.
 ---
 
-### Dois Níveis de Edição com IA
+#### Dois Níveis de Edição com IA
 
 A Edição com IA funciona em duas camadas:
 1. **Predefinições de Projetos:** Configurações globais que se aplicam a todas as fotos importadas no projetos. Ideal para uma aparência consistente em todo o evento.
@@ -36,7 +36,7 @@ A Edição com IA funciona em duas camadas:
 
 ---
 
-### Atualizando Predefinições de Projeto
+#### Atualizando Predefinições de Projeto
 
 Quando você atualiza uma predefinição de projeto, o efeito depende do status de compartilhamento das fotos:
 
@@ -48,12 +48,12 @@ Isso garante que as fotos voltadas para o cliente permaneçam estáveis, enquant
 
 ---
 
-### Predefinições Disponíveis
+#### Predefinições Disponíveis
 
 O Evoto Instant suporta tanto Predefinições Recomendadas (padrões do sistema) quanto Minhas Predefinições (criadas pelo usuário). Algumas predefinições específicas do evento estão incluídas, como aparências de Evento e Escola . As predefinições atuais estão alinhadas com os efeitos do Evoto Desktop v4.3.0 , embora os controles deslizantes de ajuste no Instant sejam intencionalmente limitados para simplificar o aprendizado e garantir edição em lote consistente.
 ---
 
-### Edição de IA de Imagem Única
+#### Edição de IA de Imagem Única
 
 Para fotos que precisam de cuidados especiais, você pode abrir o painel de **Edição de IA** de Imagem Única:
 
@@ -67,7 +67,7 @@ Para fotos que precisam de cuidados especiais, você pode abrir o painel de **Ed
 Se a imagem já foi compartilhada, as atualizações atualizarão a galeria compartilhada em tempo real após a exportação.
 ---
 
-### Quando Usar Edição de IA
+#### Quando Usar Edição de IA
 
 - **Ativar Edição de IA na Criação do Projeto** → Aplique aparências consistentes em todas as fotos conforme são importadas.
 
@@ -77,7 +77,7 @@ Se a imagem já foi compartilhada, as atualizações atualizarão a galeria comp
 
 ---
 
-### Uso de Créditos para Edição de IA
+#### Uso de Créditos para Edição de IA
 
 O Evoto Instant facilita a exploração da Edição de IA sem se preocupar com custos desnecessários.
 

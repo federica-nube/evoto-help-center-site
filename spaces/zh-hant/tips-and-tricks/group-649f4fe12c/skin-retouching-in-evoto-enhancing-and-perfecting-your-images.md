@@ -14,11 +14,11 @@ tags:
 
 Evoto’s **Skin Retouching** feature set provides advanced tools for refining skin details and achieving natural, polished results. By understanding the function of each tool, you can achieve subtle enhancements or more dramatic transformations.
 
-### The Core Smoothing Tools
+#### The Core Smoothing Tools
 
 Evoto offers a variety of tools for smoothing skin, each using different technologies to achieve a unique result.
 
-#### Dodge & Burn Techniques
+##### Dodge & Burn Techniques
 
 These tools subtly enhance the shape and depth of facial features while preserving natural highlights and shadows. It is recommended to combine them for the best results.
 
@@ -28,7 +28,7 @@ These tools subtly enhance the shape and depth of facial features while preservi
 - **Facial Contours Slider:** Accentuates the bone structure and overall shape of the face for a more sculpted look.
 - **Textured Smoothing:** A more subtle Dodge & Burn tool that refines skin tone and structure while preserving natural texture. It’s ideal for smoothing imperfections while maintaining a realistic, three-dimensional appearance.
 
-#### Frequency Separation
+##### Frequency Separation
 
 This classic skin retouching method separates the skin into high-frequency (texture) and low-frequency (tone and color) layers for fine-tuned control. This technology is the basis for several of Evoto’s skin-smoothing tools.
 
@@ -36,7 +36,7 @@ This classic skin retouching method separates the skin into high-frequency (text
 - **Body Skin Smoothing:** Applies the same frequency separation technology to the body, making it ideal for refining skin’s appearance across larger areas and ensuring consistency throughout the image.
 - **High & Low Frequency Sub-sliders:** For even more control, sub-sliders are available to let you manually enhance or soften skin texture (**High Frequency**) or control smoothness and tonal balance (**Low Frequency**). This is recommended for portraits with even exposure.
 
-### Adding and Refining Texture
+#### Adding and Refining Texture
 
 The **Skin Texture Adjustments** feature offers additional control over the skin’s texture, allowing you to add or modify texture details for a more natural and realistic finish.
 
@@ -44,7 +44,7 @@ The **Skin Texture Adjustments** feature offers additional control over the skin
 - **Texture:** Controls the visibility of skin texture. Lower values smooth texture; higher values enhance it.
 - **Clarity:** Adds or reduces sharpness in the skin texture for more or less definition.
 
-#### Skin Texture Presets
+##### Skin Texture Presets
 
 Evoto provides three skin texture presets to quickly apply different finishes:
 
@@ -52,11 +52,11 @@ Evoto provides three skin texture presets to quickly apply different finishes:
 - **Matte Preset:** Adjusts gloss, texture, and clarity to create a refined, less reflective appearance.
 - **Dewy Preset:** Increases glossiness to give the skin a radiant, luminous finish.
 
-### Advanced Color & Tone Adjustments
+#### Advanced Color & Tone Adjustments
 
 Evoto provides dedicated tools for fine-tuning skin color, tone, and radiance, each with a different purpose.
 
-#### Select Skin Tone
+##### Select Skin Tone
 
 This tool allows you to adjust and harmonize the overall skin and facial feature tones. It is ideal for color correction or creative changes.
 
@@ -65,18 +65,18 @@ This tool allows you to adjust and harmonize the overall skin and facial feature
 - **Tint:** Adjusts redness. Ideal for correcting over-red skin tones.
 - **Note:** This tool adjusts the entire skin tone while also modifying the color of facial features to maintain visual consistency. It is best used alongside **AI Unify Face/Body Complexion**.
 
-#### Skin Radiance
+##### Skin Radiance
 
 This feature brightens and enhances the glow of the skin while preserving the integrity of facial color.
 
 - **Functionality:** It increases the brightness and clarity of the skin, giving it a more luminous appearance without altering the brightness or color of key facial features.
 - **Use Case:** Best for improving dull or uneven skin tones when you want to add vibrance without disrupting the subject’s natural facial coloring.
 
-#### Rosy Complexion
+##### Rosy Complexion
 
 This tool adds or reduces redness in the skin for a healthier appearance. Use the slider in either direction to subtly increase rosiness or minimize excessive redness.
 
-### The Precision of Manual Control
+#### The Precision of Manual Control
 
 For precise control over your skin edits, Evoto offers both manual tools and targeted masks.
 

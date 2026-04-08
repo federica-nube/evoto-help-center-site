@@ -8,7 +8,7 @@ translation_group: "1245"
 primary_category: "price-billing-es"
 ---
 
-### ¿Qué planes de suscripción anual están disponibles?
+#### ¿Qué planes de suscripción anual están disponibles?
 
 Evoto ofrece cinco niveles de suscripción anual, cada uno con una cantidad específica de créditos y beneficios adicionales:
 
@@ -18,7 +18,7 @@ Evoto ofrece cinco niveles de suscripción anual, cada uno con una cantidad espe
 - **Plan Estándar** – 9.000 créditos/año
 - **Plan Estándar Plus** – 24.000 créditos/año
 
-### Función de Acumulación de Créditos
+#### Función de Acumulación de Créditos
 
 Al renovar la suscripción, los créditos no utilizados se acumulan para el siguiente año.
 
@@ -27,7 +27,7 @@ Al renovar la suscripción, los créditos no utilizados se acumulan para el sigu
 
 ???? **Ejemplo**: En el **Plan** **Básico Plus** (3.600 créditos/año), el límite de acumulación es de **18.000 créditos** (3.600 × 5).
 
-### ¿Qué es un paquete adicional (Add-on Pack)?
+#### ¿Qué es un paquete adicional (Add-on Pack)?
 
 Un paquete adicional es un conjunto extra de créditos que puede adquirirse en cualquier momento durante el período de suscripción, sin necesidad de modificar el plan actual.
 
@@ -35,34 +35,34 @@ Un paquete adicional es un conjunto extra de créditos que puede adquirirse en c
 - Basado en el nivel de suscripción actual
 - No hay límite en la cantidad de veces que se pueden adquirir
 
-### ¿Cómo consultar el precio del paquete complementario?
+#### ¿Cómo consultar el precio del paquete complementario?
 
 - Iniciar sesión en [evoto.ai](https://www.evoto.ai)
 - Ir a la página de precios
 - Hacer clic en **Paquete Adicional** para ver las opciones disponibles
 
-### Vencimiento y Renovación de Créditos
+#### Vencimiento y Renovación de Créditos
 
 **¿Caducan los créditos?**
 
 - Los créditos de suscripciones anuales **no caducan** si se renueva el plan a tiempo, ya que se acumulan automáticamente.
 - Los créditos de pago por uso son válidos por **2 años** desde la fecha de compra.
 
-### Recordatorio de Renovación
+#### Recordatorio de Renovación
 
 Evoto enviará un recordatorio antes de la fecha de renovación de la suscripción anual, para que se pueda revisar, actualizar o cancelar el plan si se desea.
 
-### Pago de Renovación
+#### Pago de Renovación
 
 El cobro se realiza **una vez al año**, en la fecha de aniversario de la compra original.
 
-### ¿Qué ocurre si no se renueva a tiempo?
+#### ¿Qué ocurre si no se renueva a tiempo?
 
 - Hay un periodo de gracia de **30 días** tras el vencimiento de la suscripción.
 - Si se renueva durante este periodo, los créditos acumulados seguirán siendo válidos.
 - Si no se renueva a tiempo, todos los créditos restantes, incluidos los acumulados, **caducarán y no podrán recuperarse**.
 
-### Cambios de Plan (Degradación de Suscripción)
+#### Cambios de Plan (Degradación de Suscripción)
 
 Es posible solicitar la bajada de plan en cualquier momento. El cambio se aplicará al comienzo del siguiente ciclo de facturación.
 
@@ -75,7 +75,7 @@ Si se está en el **Plan** **Básico Plus** (3.600 créditos/año) y se solicita
 - **No se aplicará ningún cargo inmediato**. El nuevo plan se activará en la próxima fecha de facturación.
 - Todos los créditos disponibles seguirán estando en la cuenta hasta que comience el nuevo plan.
 
-### ¿Cómo cancelar la suscripción?
+#### ¿Cómo cancelar la suscripción?
 
 Para cancelar el plan:
 

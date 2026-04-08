@@ -21,7 +21,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/392ded6d-4195-431c-b354-bf44ea64e8da.JPG"
 ---
 
-### 테더링 촬영 설정 - 후지 카메라
+#### 테더링 촬영 설정 - 후지 카메라
 
 컴퓨터 설정 확인 For Windows System For MacOS Operation System Windows 시스템의 경우, 장치 관리자로 이동하여 휴대용 장치 아래에서 카메라가 컴퓨터에 연결되었는지 확인하십시오. MacOS 시스템의 경우, 사진 앱으로 이동하여 장치 아래에서 카메라가 컴퓨터에 연결되었는지 확인하십시오.
 

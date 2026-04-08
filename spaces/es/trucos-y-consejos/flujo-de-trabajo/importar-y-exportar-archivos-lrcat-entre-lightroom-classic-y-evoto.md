@@ -17,7 +17,7 @@ Este flujo de trabajo es ideal para enviar rápidamente una sola imagen de Light
 Este flujo de trabajo es para fotógrafos que quieren aprovechar el poder de la IA de Evoto para el procesamiento por lotes o mantener la estructura de su proyecto mientras cambian entre plataformas. Es ideal para un proyecto completo o una colección de imágenes.
 ---
 
-### Flujo de trabajo 1: Integración de imagen individual
+#### Flujo de trabajo 1: Integración de imagen individual
 
 Este es el método más rápido para realizar ediciones con IA en una sola imagen.
 1. **Comienza en Lightroom Classic:** Inicia tu proceso seleccionando, organizando o realizando ediciones iniciales en tu imagen en Lightroom.
@@ -30,13 +30,13 @@ Este es el método más rápido para realizar ediciones con IA en una sola image
 
 ---
 
-### Flujo de trabajo 2: Integración completa de catálogo
+#### Flujo de trabajo 2: Integración completa de catálogo
 
 Este flujo de trabajo está diseñado para fotógrafos que desean mantener la estructura de su proyecto mientras cambian entre plataformas.
-#### Paso 1: Prepara tu catálogo en Lightroom
+##### Paso 1: Prepara tu catálogo en Lightroom
 
 Crea o abre tu archivo .lrcat existente en Lightroom Classic. Este catálogo servirá como base para importar en Evoto.
-#### Paso 2: Importa el catálogo en Evoto
+##### Paso 2: Importa el catálogo en Evoto
 
 Evoto facilita traer un catálogo completo de Lightroom a tu espacio de trabajo.
 - **Arrastrar y soltar:** Arrastra y suelta directamente el archivo .lrcat en Evoto.
@@ -51,10 +51,10 @@ Una vez importado, puedes elegir qué colecciones específicas o conjuntos filtr
 - Ajustes locales
 - Enmascaramiento avanzado
 
-#### Paso 3: Edita tus imágenes en Evoto
+##### Paso 3: Edita tus imágenes en Evoto
 
 Edita tus imágenes importadas usando el conjunto completo de herramientas de Evoto. Puedes aplicar preajustes, sincronizar ajustes en un lote y usar todas las funciones de IA.
-#### Paso 4: Exporta el catálogo desde Evoto
+##### Paso 4: Exporta el catálogo desde Evoto
 
 Cuando hayas terminado de editar, puedes exportar tus imágenes y metadatos de vuelta a un catálogo compatible con Lightroom.
 - **Para exportar:** Selecciona todas las imágenes que deseas exportar, luego ve a **Exportar > Exportar como archivo .lrcat**.
@@ -63,7 +63,7 @@ Cuando hayas terminado de editar, puedes exportar tus imágenes y metadatos de v
 - **Carpeta específica:** Crea un nuevo archivo .lrcat con las imágenes editadas y los metadatos en una ubicación elegida.
 - **Escritorio:** Mismo comportamiento que "Carpeta específica", pero guarda el nuevo archivo .lrcat directamente en tu escritorio.
 
-### Consideraciones clave
+#### Consideraciones clave
 
 - **Soporte de archivos RAW:** Evoto admite la importación de imágenes RAW a través de archivos .lrcat. Sin embargo, **las imágenes RAW no se pueden exportar**; deben convertirse a TIFF o JPG.
 - **Reemplazo de archivos no RAW:** Esta opción reemplaza las imágenes originales no RAW (JPG, TIFF, PNG) en Lightroom con las versiones editadas en Evoto. Evoto hace automáticamente una copia de seguridad de los archivos originales para permitir reediciones sin gastar créditos adicionales.

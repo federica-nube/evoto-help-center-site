@@ -22,11 +22,11 @@ source_assets:
 
 ---
 
-### Lab de IA – Remoção de Pessoas
+#### Lab de IA – Remoção de Pessoas
 
 ![](https://support.evoto.ai/wp-content/uploads/2026/02/7-213x300.jpg)
 
-#### Seleção de Passantes
+##### Seleção de Passantes
 
 - **Detecção Automática:**O sistema identifica automaticamente as áreas com passantes. Clique novamente para refazer a detecção da máscara. Após a detecção automática, é possível usar o **pincel de ajuste manual** para refinar a máscara.
 - **Ajuste Manual:**Pinte manualmente sobre as áreas com passantes para adicionar ou remover regiões da máscara. O tamanho do pincel, suavidade e opacidade podem ser ajustados.
@@ -35,17 +35,17 @@ source_assets:
 
 ---
 
-### Lab de IA – Remoção Inteligente
+#### Lab de IA – Remoção Inteligente
 
 ![](https://support.evoto.ai/wp-content/uploads/2026/02/8-156x300.jpg)
 
-#### Modo de Remoção
+##### Modo de Remoção
 
 - **Remoção Mágica:**Mais indicado para remover distrações grandes ou complexas, proporcionando resultados mais naturais. **0,5 créditos** por uso.
 - **Remoção Rápida:**Mais indicado para remover pequenas distrações, com processamento mais rápido. **0,1 créditos** por uso.
 - **Ajuste Manual:**Pinte manualmente nas áreas para adicionar ou remover regiões da máscara. O tamanho do pincel e a suavidade podem ser ajustados.
 
-#### Ferramentas de Suporte
+##### Ferramentas de Suporte
 
 - **Proteção do Assunto:**Protege os assuntos detectados ou itens associados; a pintura fica limitada às áreas fora do assunto.
 - **Otimização de Bordas:**Refina automaticamente as bordas de transição ao redor do assunto.

@@ -12,15 +12,15 @@ Esta seção responde às dúvidas mais comuns sobre preços do Evoto, tipos de 
 
 ---
 
-### Tipos de Planos e Recomendações
+#### Tipos de Planos e Recomendações
 
-#### O Evoto oferece Planos Enterprise?
+##### O Evoto oferece Planos Enterprise?
 
 Sim. O Evoto oferece **Planos Enterprise personalizados**, desenvolvidos especialmente para grandes equipes, estúdios e organizações com necessidades de edição em alto volume.
 
 - Para solicitar uma consultoria e discutir uma solução sob medida, entre em contato com nossa equipe de vendas pelo e-mail: **contactus@evoto.ai**.
 
-#### Plano Pague Conforme o Uso VS. Plano de Assinatura?
+##### Plano Pague Conforme o Uso VS. Plano de Assinatura?
 
 A escolha do plano ideal depende do volume e da regularidade do seu uso. Para mais detalhes, consulte nossa Página de Preços.
 
@@ -34,14 +34,14 @@ A escolha do plano ideal depende do volume e da regularidade do seu uso. Para ma
 - Escolha um **plano de assinatura** se você usa o Evoto regularmente e possui um fluxo de trabalho estável.
 - Escolha **Pague Conforme o Uso** se seu uso varia muito mês a mês ou se você precisa de créditos apenas para projetos pontuais.
 
-#### Posso mudar de Pague Conforme o Uso para um plano de assinatura?
+##### Posso mudar de Pague Conforme o Uso para um plano de assinatura?
 
 Sim. Você pode fazer upgrade para um plano de assinatura a qualquer momento.
 
 - A assinatura começa imediatamente após a compra.
 - Quaisquer créditos Pague Conforme o Uso não utilizados permanecem válidos por até 2 anos a partir da data de compra original e podem ser usados junto com os créditos da assinatura.
 
-#### Posso mudar de um plano de assinatura anual para Pague Conforme o Uso?
+##### Posso mudar de um plano de assinatura anual para Pague Conforme o Uso?
 
 Não enquanto sua assinatura anual estiver ativa.
 
@@ -53,19 +53,19 @@ Não enquanto sua assinatura anual estiver ativa.
 
 ---
 
-### Pagamentos e Descontos
+#### Pagamentos e Descontos
 
-#### Vocês oferecem pagamento parcelado?
+##### Vocês oferecem pagamento parcelado?
 
 Não. Atualmente, **não oferecemos opções de pagamento parcelado** para planos padrão (Pague Conforme o Uso ou assinaturas anuais).
 
 - Para Planos Enterprise, é possível discutir condições e termos de pagamento personalizados diretamente com seu Account Manager.
 
-#### Há descontos para compromissos de longo prazo?
+##### Há descontos para compromissos de longo prazo?
 
 Não. No momento, o Evoto não oferece descontos para planos de múltiplos anos. Os preços são baseados exclusivamente no plano selecionado no momento da compra.
 
-#### Existem descontos para estudantes, ONGs ou veteranos?
+##### Existem descontos para estudantes, ONGs ou veteranos?
 
 Atualmente, não oferecemos descontos especiais para estudantes, organizações sem fins lucrativos ou veteranos.
 
@@ -73,9 +73,9 @@ Atualmente, não oferecemos descontos especiais para estudantes, organizações 
 
 ---
 
-### Faturamento e Política de Reembolso
+#### Faturamento e Política de Reembolso
 
-#### O suporte ao cliente pode ajudar com questões de cobrança?
+##### O suporte ao cliente pode ajudar com questões de cobrança?
 
 Sim. Nossa equipe de suporte está disponível para ajudar com qualquer dúvida relacionada a faturamento.
 
@@ -84,7 +84,7 @@ Você pode entrar em contato por:
 - **E-mail:** support@evoto.ai
 - **Chat no aplicativo:** disponível diretamente dentro do Evoto
 
-#### Qual é a política de reembolso para créditos não utilizados?
+##### Qual é a política de reembolso para créditos não utilizados?
 
 De modo geral, não oferecemos reembolsos para créditos não utilizados, devido à natureza do licenciamento de software e do modelo baseado em créditos, salvo quando explicitamente indicado em nossos termos.
 
@@ -93,9 +93,9 @@ De modo geral, não oferecemos reembolsos para créditos não utilizados, devido
 
 ---
 
-### Solução de Problemas de Pagamento e Login
+#### Solução de Problemas de Pagamento e Login
 
-#### O que devo fazer se o pagamento falhar (Erro E-403)?
+##### O que devo fazer se o pagamento falhar (Erro E-403)?
 
 Se você encontrar o **Erro E-403** ou outro problema de pagamento, tente as seguintes etapas:
 
@@ -109,7 +109,7 @@ Se você encontrar o **Erro E-403** ou outro problema de pagamento, tente as seg
 
 Se o problema persistir, entre em contato com **support@evoto.ai**.
 
-#### O que fazer se a janela de login não carregar durante a compra?
+##### O que fazer se a janela de login não carregar durante a compra?
 
 Se o pop-up de login não carregar corretamente, tente:
 

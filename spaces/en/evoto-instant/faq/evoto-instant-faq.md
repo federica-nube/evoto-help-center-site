@@ -12,7 +12,7 @@ tags:
 
 Below you will find answers to the most common questions regarding Evoto Instant’s features, account management, and pricing.
 
-### Product & Workflow
+#### Product & Workflow
 
 **Should I set up my projects on the Web Portal or the Mobile App?** We recommend setting up all your project details—such as workflows, gallery branding, sharing methods, and payment options—via the Web Portal before your shoot. The Web Portal offers the most comprehensive settings.
 
@@ -24,7 +24,7 @@ Regarding credits: If you export an original, unedited photo from Instant and im
 
 ---
 
-### Credits, Storage & Pricing
+#### Credits, Storage & Pricing
 
 Do I get free credits when I sign up for Evoto Instant? Currently, we do not offer complimentary credits for new sign-ups. However, new Evoto Instant users do receive 6GB of free cloud storage upon registration (please note that 5GB of this storage is a limited-time offer that expires after 6 months). **Can I use my existing Evoto credits and storage in Evoto Instant?** Yes, you can. Evoto Instant and other Evoto products share the same credits and storage system. As long as you log in with your usual account credentials, you can use your Evoto credits and storage seamlessly in Instant. Please note: Free users on Instant may not have access to certain subscriber-exclusive features. For more details, please refer to the Instant Pricing Page.
 
@@ -36,7 +36,7 @@ Do I get free credits when I sign up for Evoto Instant? Currently, we do not off
 
 ---
 
-### Subscription Management
+#### Subscription Management
 
 **How do I upgrade or downgrade my subscription plan?** Evoto Instant follows the same subscription management rules as the main Evoto platform:
 

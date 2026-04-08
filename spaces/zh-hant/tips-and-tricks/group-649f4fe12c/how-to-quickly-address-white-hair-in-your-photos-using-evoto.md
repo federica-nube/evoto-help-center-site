@@ -20,7 +20,7 @@ Evoto provides a powerful suite of AI-driven tools to refine and perfect hair, h
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-15.47.50-145x300.png)
 
-### Smoothing & Styling
+#### Smoothing & Styling
 
 These tools are designed to smooth and tame hair, giving it a more refined and styled appearance.
 
@@ -28,7 +28,7 @@ These tools are designed to smooth and tame hair, giving it a more refined and s
 - **Tame Frizzy Hair:** A dedicated sub-feature that reduces messy or frizzy strands, particularly within the main hair area, for a cleaner and more refined look.
 - **Hair Shine Enhancement:** This tool adds natural-looking highlight shine to hair, improving depth and dimension through soft lighting adjustments. It is ideal for enhancing glossy or styled looks.
 
-### Color & Tone Refinements
+#### Color & Tone Refinements
 
 Evoto offers two specific tools for correcting and enhancing hair color.
 

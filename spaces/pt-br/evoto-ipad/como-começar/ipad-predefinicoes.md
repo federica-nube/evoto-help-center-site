@@ -16,7 +16,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/12/11-300x193.jpg"
 ---
 
-### Criar uma Nova Predefinição
+#### Criar uma Nova Predefinição
 
 Para criar uma nova predefinição:
 
@@ -30,7 +30,7 @@ Para criar uma nova predefinição:
 
 ---
 
-### Opções de Filtragem de Efeitos
+#### Opções de Filtragem de Efeitos
 
 Ao salvar uma **predefinição**, você pode filtrar rapidamente quais efeitos incluir:
 

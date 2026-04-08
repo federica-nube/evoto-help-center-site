@@ -18,13 +18,13 @@ source_assets:
 
 Evoto’s **Full Body Reshape** module leverages advanced AI and 3D skeleton point positioning to intelligently enhance body proportions while preserving a natural and realistic appearance. Adjustments are dynamically applied based on the subject's posture and overall composition, offering options for both subtle refinements and more dramatic reshaping.
 
-### AI Reshape
+#### AI Reshape
 
 The **AI Reshape** feature utilizes 3D skeleton point positioning combined with intelligent posture recognition to generate a natural slimming or plumping effect. This ensures that the original body shape is preserved and the adjustments maintain a realistic look.
 
 **Note:** AI Reshape may be automatically disabled for group photos to prevent interference from overlapping figures and ensure accurate application.
 
-### Smooth Physique
+#### Smooth Physique
 
 This feature refines the overall body silhouette by smoothing out unnatural protrusions on body areas (excluding clothing).
 
@@ -33,7 +33,7 @@ This feature refines the overall body silhouette by smoothing out unnatural prot
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-25-at-19.12.22-300x148.png)
 
-### Individual Body Adjustments
+#### Individual Body Adjustments
 
 Fine-tune specific aspects of the body using these individual control sliders:
 

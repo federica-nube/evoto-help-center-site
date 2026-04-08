@@ -14,7 +14,7 @@ Cuando usas la función de **Remodelación de Cuerpo Completo** en Evoto, es pos
 
 ---
 
-### ¿Por qué sucede esto?
+#### ¿Por qué sucede esto?
 
 Los controles deslizantes se desactivan cuando el sistema tiene dificultades para reconocer con precisión ciertas partes del cuerpo en la imagen actual. Esto típicamente ocurre por dos razones principales:
 
@@ -25,7 +25,7 @@ Al desactivar los controles deslizantes para estas áreas, el sistema asegura qu
 
 ---
 
-### Qué puedes hacer
+#### Qué puedes hacer
 
 Si encuentras controles deslizantes desactivados, puedes seguir los siguientes pasos para mejorar la situación y contribuir a nuestro desarrollo continuo del producto:
 

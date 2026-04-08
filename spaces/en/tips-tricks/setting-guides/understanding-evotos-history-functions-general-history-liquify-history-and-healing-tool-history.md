@@ -19,7 +19,7 @@ source_assets:
 
 Evoto’s History functions provide flexible and intuitive tools for tracking, managing, and refining your edits. These tools include the general History panel, as well as dedicated history modules for the Liquify and Healing features. Understanding how each one works will help you take full control of your editing workflow.
 
-### General History Panel
+#### General History Panel
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.11.30-146x300.png)
 
@@ -32,7 +32,7 @@ The floating **History** panel serves as the master timeline for all your edits.
 
 **Important:** Edits made using the Liquify or Healing Tool are grouped into a single line item within this panel. If you undo this step, all changes made during that session will be reverted at once.
 
-### Liquify and Healing Tool Histories
+#### Liquify and Healing Tool Histories
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.12.47-139x300.png)
 

@@ -16,20 +16,20 @@ source_assets:
 
 Às vezes, a ferramenta de remoção de manchas do Evoto faz seu trabalho um pouco demais — além das imperfeições, ela pode remover sardas naturais. Aqui está como restaurá-las em apenas alguns passos.
 
-### Passo 1: Verifique a Remoção de Imperfeições
+#### Passo 1: Verifique a Remoção de Imperfeições
 
 - Caminho: **Retoque de Retrato → Remoção de Manchas**
 - Se as sardas parecerem muito suavizadas ou removidas, tente diminuir ligeiramente o valor do slider para restaurar a aparência natural.
 
 ---
 
-### Passo 2: Use o Slider de Sardas
+#### Passo 2: Use o Slider de Sardas
 
 1. Caminho: **Retoque de Retrato → Remoção de Manchas → Sardas**
 2. Aumente o slider para restaurar sardas naturais de forma sutil.
 3. Essa ferramenta funciona bem para ajustes leves, mas às vezes não restaura todas as sardas por completo.
 
-### Passo 3: Caneta de Ajuste Manual (Controle Preciso)
+#### Passo 3: Caneta de Ajuste Manual (Controle Preciso)
 
 - Selecione a Caneta de Ajuste Manual (Manual Tuning Pen) na barra de ferramentas para restaurar sardas ou moles específicas com precisão.
 

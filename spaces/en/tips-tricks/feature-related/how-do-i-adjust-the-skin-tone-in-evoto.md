@@ -20,7 +20,7 @@ Skin tone plays a vital role in portrait editing. With Evoto, you can easily uni
 
 ---
 
-### Method 1: Skin Tone Adjustment
+#### Method 1: Skin Tone Adjustment
 
 This method allows you to fine-tune the skin’s appearance with manual control. You’ll find it under: **Portrait Retouch > Skin Tone**
 
@@ -36,7 +36,7 @@ This method allows you to fine-tune the skin’s appearance with manual control.
 
 ---
 
-### Method 2: Local Masking for Skin Adjustment
+#### Method 2: Local Masking for Skin Adjustment
 
 For more targeted edits, use **Local Masking**.
 
@@ -50,7 +50,7 @@ This method is especially useful for correcting uneven patches or enhancing spec
 
 ---
 
-### AI Unify Skin Color
+#### AI Unify Skin Color
 
 Evoto also offers AI-powered tools that make skin tone unification effortless. You’ll find them in: **Portrait Retouch > Skin Tone**
 
@@ -73,7 +73,7 @@ There are **three key sliders**:
 
 ---
 
-### Pro Tips
+#### Pro Tips
 
 - **Start subtle**: Gradually increase sliders until you find the natural balance.
 - **Compare before/after**: Toggle the preview on and off to ensure your changes look realistic.

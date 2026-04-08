@@ -12,11 +12,11 @@ O conjunto de ferramentas de Retoque de Pele do Evoto oferece recursos avançado
 
 ---
 
-### Ferramentas Principais de Suavização
+#### Ferramentas Principais de Suavização
 
 O Evoto oferece uma variedade de ferramentas para suavização da pele, cada uma utilizando tecnologias diferentes para alcançar resultados específicos.
 
-#### Técnicas de Dodge & Burn
+##### Técnicas de Dodge & Burn
 
 Essas ferramentas melhoram sutilmente a forma e a profundidade dos traços faciais, ao mesmo tempo em que preservam brilho e sombra naturais. Para melhores resultados, recomenda-se utilizá-las em conjunto.
 
@@ -26,7 +26,7 @@ Essas ferramentas melhoram sutilmente a forma e a profundidade dos traços facia
 - **Slider de Contornos Faciais:** Destaca a estrutura óssea e o formato geral do rosto, criando uma aparência mais esculpida.
 - **Suavização Texturizada:**Uma opção mais sutil baseada em Dodge & Burn, que uniformiza o tom e a estrutura da pele sem perder a textura natural. Ideal para suavizar imperfeições mantendo uma aparência realista e tridimensional.
 
-#### Separação de Frequência
+##### Separação de Frequência
 
 Este método clássico clássico de retoque de pele separa a imagem em alta frequência (textura) e baixa frequência (tom e cor), permitindo um controle mais preciso. Essa tecnologia serve de base para várias ferramentas de suavização de pele do Evoto.
 
@@ -34,7 +34,7 @@ Este método clássico clássico de retoque de pele separa a imagem em alta freq
 - **Suavização de Pele Corporal:**Aplique a mesma tecnologia de separação de frequência à pele do corpo, sendo ideal para refinar áreas maiores e garantir consistência visual em toda a imagem.
 - **Sub-sliders de Alta/Baixa frequência:** Para um controle ainda mais preciso, os sub-sliders permitem suavizar ou realçar manualmente a textura da pele (Alta Frequência) e ajustar a suavidade e o equilíbrio tonal (Baixa Frequência). Recomendado especialmente para retratos com iluminação uniforme.
 
-### Adicionar e Refinar Textura
+#### Adicionar e Refinar Textura
 
 O recurso **Textura da Pele** oferece controle adicional sobre a textura, permitindo adicionar ou ajustar detalhes para um acabamento mais natural e realista.
 
@@ -42,7 +42,7 @@ O recurso **Textura da Pele** oferece controle adicional sobre a textura, permit
 - **Textura:**Controla a visibilidade da textura da pele. Valores mais baixos suavizam a textura, enquanto valores mais altos realçam os detalhes.
 - **Claridade:**Aumenta ou reduz a nitidez da textura da pele, proporcionando mais ou menos definição conforme necessário.
 
-#### Predefinições de Textura de Pele
+##### Predefinições de Textura de Pele
 
 O Evoto oferece **3 predefinições de textura da pele** para aplicar rapidamente diferentes acabamentos:
 
@@ -54,11 +54,11 @@ O Evoto oferece **3 predefinições de textura da pele** para aplicar rapidament
 
 ---
 
-### Ajustes Avançados de Cor e Tom
+#### Ajustes Avançados de Cor e Tom
 
 O Evoto disponibiliza ferramentas dedicadas para ajustar com precisão a cor, o tom e a luminosidade da pele, cada uma com uma finalidade específica.
 
-#### Selecionar Tom de Pele
+##### Selecionar Tom de Pele
 
 Esta ferramenta permite ajustar e harmonizar o tom geral da pele e dos traços faciais. É ideal para correção de cor ou alterações criativas.
 
@@ -68,20 +68,20 @@ Esta ferramenta permite ajustar e harmonizar o tom geral da pele e dos traços f
 
 > Observação: Esta ferramenta ajusta o tom de pele completo , modificando também a cor dos traços faciais para manter consistência visual . É recomendado utilizá-la junto com Unificar Tom de Pele por IA .
 
-#### Radiância da Pele
+##### Radiância da Pele
 
 Esta função clareia e realça o brilho da pele sem alterar a integridade da cor facial.
 
 - **Funcionalidade:** Aumenta o brilho e a clareza da pele, deixando-a com uma aparência mais luminosa, sem modificar o tom ou brilho das principais características faciais.
 - **Uso recomendado:** Ideal para melhorar tons de pele apagados ou irregulares, adicionando vibrância sem comprometer a aparência natural do sujeito.
 
-#### Pele Rosada
+##### Pele Rosada
 
 Esta ferramenta adiciona ou reduz a vermelhidão da pele para um aspecto mais saudável.
 
 - Use o slider em qualquer direção para aumentar sutilmente a rosadinha ou minimizar vermelhidão excessiva.
 
-### A Precisão do Controle Manual
+#### A Precisão do Controle Manual
 
 Para um controle preciso sobre retoque de retrato, o Evoto oferece ferramentas manuais e máscaras locais.
 

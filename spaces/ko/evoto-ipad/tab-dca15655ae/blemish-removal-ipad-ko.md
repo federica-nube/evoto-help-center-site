@@ -21,7 +21,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/28059fe5-3aa4-49a4-a9a5-1807c0da9640.png"
 ---
 
-### 얼굴 잡티/여드름 제거
+#### 얼굴 잡티/여드름 제거
 
 ![](https://res.evoto.ai/wordpress/451013b9-38ac-4642-a24a-2ed6defefee6.png)
 

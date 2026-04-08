@@ -21,7 +21,7 @@ source_assets:
 
 Evoto’s Portrait Retouching Module on iPad intelligently analyzes each imported photo, automatically detecting the gender and age of individuals to assign personalized character tags. These tags enable targeted, realistic adjustments tailored to each subject.
 
-### Intelligent Character Recognition
+#### Intelligent Character Recognition
 
 Once a photo is imported, Evoto uses AI to:
 
@@ -30,7 +30,7 @@ Once a photo is imported, Evoto uses AI to:
 
 This ensures that edits are relevant and natural for each subject’s profile.
 
-### Character-Based Editing
+#### Character-Based Editing
 
 Users can apply custom retouching settings to individuals based on their character tags. Separate adjustments can be made for:
 
@@ -38,13 +38,13 @@ Users can apply custom retouching settings to individuals based on their charact
 
 This allows precise and appropriate edits without over processing or compromising natural appearance.
 
-### AI Facial Recognition
+#### AI Facial Recognition
 
 Evoto iPad now features enhanced AI facial recognition that automatically detects facial features and assigns gender and age tags to each subject in your photo. This allows you to apply different edits to different individuals and manage subjects with greater precision.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/unnamed.png)
 
-#### How to Access Face Recognition
+##### How to Access Face Recognition
 
 1. Enter the **Portrait Retouching** module.
 2. Click the **Face Recognition** button in the upper-right corner of the Control Panel.
@@ -55,7 +55,7 @@ Click outside any face box to deselect all.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/unnamed-1-1024x715.png)
 
-#### Managing Subjects
+##### Managing Subjects
 
 - **Edit Subject:** To manually adjust the AI's detection, expand the options above a selected face box to change the gender and age tags.
 - **Add Subject:** Click the **Add Face** button, then drag the recognition box to the appropriate position to add a new subject.
@@ -63,7 +63,7 @@ Click outside any face box to deselect all.
 - **Delete Subject:** You can delete a single face or multiple selected faces in a batch.
 - **Batch Sync:** After editing or deleting faces, click **Sync** to apply the same operation to all instances of that subject across the entire project.
 
-#### Understanding Individual Adjustments
+##### Understanding Individual Adjustments
 
 Evoto's facial recognition allows you to apply individual edits, but it's important to understand how those edits are saved. When switching to the Individual Tab, it activates Individual Adjustment Mode. Selecting a face will zoom into that region, indicating it’s ready for individual editing.
 
@@ -87,13 +87,13 @@ Evoto's facial recognition allows you to apply individual edits, but it's import
 
 > Note: If a face is deleted in the Face Recognition interface (Age/Gender modification), it will not show up again in the Individual Adjustment results, even after running recognition again. To bring it back, you must restore the original image from History.
 
-#### All Adjustment
+##### All Adjustment
 
 Clicking the **All Tab** opens the Linked Adjustment panel, allowing you to apply unified edits across all gender and age groups. If a specific group is deselected, it will be excluded from subsequent adjustments.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/c997f094-c973-40a9-b3e7-d4bb3ddd0dd7-1024x715.png)
 
-### Batch Synchronization
+#### Batch Synchronization
 
 Once retouching is completed for one individual or character group, Evoto supports batch synchronization to:
 
@@ -102,7 +102,7 @@ Once retouching is completed for one individual or character group, Evoto suppor
 
 This significantly enhances efficiency, especially for projects involving multiple portraits.
 
-### Realistic Results
+#### Realistic Results
 
 Evoto’s intelligent optimization ensures that all retouching:
 
@@ -110,14 +110,14 @@ Evoto’s intelligent optimization ensures that all retouching:
 - Avoids artificial or over-edited results
 - Enhances the overall visual effect while preserving realism
 
-### Key Benefits
+#### Key Benefits
 
 - Automated Character Tagging for smarter, more relevant adjustments
 - Character-Based Customization allows targeted edits per age or gender
 - Batch Processing ensures speed and consistency
 - Natural Retouching preserves authenticity and lifelike results
 
-### Module Features
+#### Module Features
 
 - [Blemish Removal](https://support.evoto.ai/blemish-removal-ipad/)
 - [Skin Retouching](https://support.evoto.ai/skin-retouching-ipad/)

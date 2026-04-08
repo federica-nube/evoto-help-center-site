@@ -11,7 +11,7 @@ primary_category: "sem-categoria"
 Antes de conectar sua câmera ao Evoto Instant , certifique-se de que todo o seu hardware esteja corretamente configurado. Este artigo apresenta os equipamentos necessários, os tipos de cabos compatíveis e as configurações básicas da câmera.
 ---
 
-### Equipamentos Necessários
+#### Equipamentos Necessários
 
 - **Câmera digital**
 - Marcas compatíveis incluem **Canon, Nikon, Sony, Fujifilm, Panasonic**, entre outras.
@@ -26,7 +26,7 @@ Antes de conectar sua câmera ao Evoto Instant , certifique-se de que todo o seu
 
 ---
 
-### Passo 1: Ativar o OTG (Somente Android)
+#### Passo 1: Ativar o OTG (Somente Android)
 
 Em dispositivos Android, o OTG (On-The-Go) precisa estar ativado para conexões com cabo.
 
@@ -38,7 +38,7 @@ Em dispositivos Android, o OTG (On-The-Go) precisa estar ativado para conexões 
 
 ---
 
-### Passo 2: Escolher o Cabo de Dados Correto
+#### Passo 2: Escolher o Cabo de Dados Correto
 
 Diferentes câmeras exigem diferentes tipos de cabos. Verifique a porta USB da sua câmera e utilize o cabo correspondente:
 
@@ -52,7 +52,7 @@ Diferentes câmeras exigem diferentes tipos de cabos. Verifique a porta USB da s
 
 ---
 
-### Passo 3: Preparar a Câmera
+#### Passo 3: Preparar a Câmera
 
 - Certifique-se de que a câmera esteja totalmente carregada ou conectada a uma fonte de energia externa.
 - **Câmeras Canon e Nikon:** formate o cartão de memória antes da conexão. Cartões com muitas imagens podem deixar a conexão mais lenta.

@@ -19,7 +19,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/d522addf-3a89-4454-8bda-e36b210f2714.png"
 ---
 
-### 단색 배경 정리
+#### 단색 배경 정리
 
 **방해물 제거**
 

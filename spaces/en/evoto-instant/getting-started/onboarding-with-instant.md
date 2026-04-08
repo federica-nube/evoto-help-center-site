@@ -28,7 +28,7 @@ Welcome to Evoto Instant — your all-in-one imaging workflow tool that takes yo
 
 ---
 
-### Step 1: Download and Log In
+#### Step 1: Download and Log In
 
 Begin by installing the **Evoto Instant**app from the **App Store** or **Google Play.**
 
@@ -48,7 +48,7 @@ Uploaded photos are synced and shared across both platforms automatically.
 
 ---
 
-### Step 2: Create a Project
+#### Step 2: Create a Project
 
 Projects are the foundation of Evoto Instant. A project organizes your photos, AI settings, and delivery options in one place. You can create a project either from the Evoto Instant web portal or directly from the mobile App.
 
@@ -66,7 +66,7 @@ Think of projects as your event or client folders — everything you capture and
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.45.04-148x300.png)
 
-#### New User Onboarding Checklist
+##### New User Onboarding Checklist
 
 The onboarding checklist provides a clear, step-by-step guide to help first-time users get started with project creation.
 
@@ -88,7 +88,7 @@ The checklist displays 4 required setup tasks:
 
 ---
 
-### Step 3: Connect Your Camera
+#### Step 3: Connect Your Camera
 
 Evoto Instant supports two tethered shooting methods:
 
@@ -106,7 +106,7 @@ Once connected, you’ll see a confirmation in the app, and your camera is ready
 
 ---
 
-### Step 4: Shoot and Let AI Do the Work
+#### Step 4: Shoot and Let AI Do the Work
 
 As soon as your camera is connected, you can begin shooting. Photos are imported directly into your active project, where AI takes over:
 
@@ -121,7 +121,7 @@ You still have the option to fine-tune individual photos, but most of the heavy 
 
 ---
 
-### Step 5: Deliver a Branded Experience
+#### Step 5: Deliver a Branded Experience
 
 Every project can be customized to reflect your brand or your client’s event:
 
@@ -134,7 +134,7 @@ These finishing touches turn your delivery from a simple gallery into a professi
 
 ---
 
-### Step 6: Share Instantly
+#### Step 6: Share Instantly
 
 With photos processed, you’re ready to deliver them. Evoto Instant makes sharing as flexible as your event requires:
 

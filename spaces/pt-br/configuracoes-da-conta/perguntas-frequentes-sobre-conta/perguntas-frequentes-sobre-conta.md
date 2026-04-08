@@ -12,7 +12,7 @@ Esta seção fornece respostas para perguntas comuns sobre sua conta Evoto, incl
 
 ---
 
-### O que é uma conta Evoto?
+#### O que é uma conta Evoto?
 
 Uma conta Evoto oferece acesso seguro à nossa plataforma avançada de edição de fotos. Com uma conta ativa, você pode:
 
@@ -23,7 +23,7 @@ Uma conta Evoto oferece acesso seguro à nossa plataforma avançada de edição 
 
 ---
 
-### Como faço para criar uma conta?
+#### Como faço para criar uma conta?
 
 Você pode **registrar facilmente uma nova conta Evoto** diretamente pelo aplicativo Evoto ou através do nosso **site oficial**.
 
@@ -51,7 +51,7 @@ Você pode **registrar facilmente uma nova conta Evoto** diretamente pelo aplica
 
 ---
 
-### Resolução de Problemas: Não Recebi o E-mail de Confirmação
+#### Resolução de Problemas: Não Recebi o E-mail de Confirmação
 
 Se você completou o processo de inscrição, mas não recebeu o e-mail de confirmação, por favor tente os seguintes passos:
 
@@ -99,7 +99,7 @@ Se nenhum dos passos acima resolver o problema, entre em contato com nossa equip
 
 ---
 
-### Se eu esquecer minha senha?
+#### Se eu esquecer minha senha?
 
 Se você esquecer a senha da sua conta Evoto, pode redefini-la facilmente pelo aplicativo ou site:
 
@@ -109,7 +109,7 @@ Se você esquecer a senha da sua conta Evoto, pode redefini-la facilmente pelo a
 
 ---
 
-### Como sair da minha conta Evoto?
+#### Como sair da minha conta Evoto?
 
 Para sair da sua conta Evoto:
 

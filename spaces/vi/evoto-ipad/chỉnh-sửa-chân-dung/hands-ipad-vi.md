@@ -15,7 +15,7 @@ source_assets:
 ---
 
 Mô-đun Làm đẹp tay của Evoto tập trung vào việc tinh chỉnh vẻ ngoài của đôi tay, đảm bảo sự đồng nhất và mượt mà trong các chỉnh sửa ảnh chân dung.
-### Xóa tĩnh mạch tay
+#### Xóa tĩnh mạch tay
 
 Sử dụng thanh trượt Xóa tĩnh mạch tay để làm mềm mịn các vết gân trên tay và cẳng tay, giúp làn da trông mịn màng và đều màu hơn. **Lưu ý:**Tính năng này có thể áp dụng cho da của cả tay và cẳng tay.
 

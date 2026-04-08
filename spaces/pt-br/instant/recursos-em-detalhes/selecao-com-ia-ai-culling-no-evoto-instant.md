@@ -28,7 +28,7 @@ source_assets:
 Classificar manualmente milhares de fotos pode levar muito tempo. A Seleção com IA no Evoto Instant automatiza essa etapa ao avaliar tanto a qualidade técnica (nitidez, exposição) quanto fatores estéticos (expressões faciais, postura). Ele identifica automaticamente problemas como piscar de olhos, desfoque, superexposição, subexposição e fotos duplicadas, permitindo que você se concentre em fotografar, enquanto o Instant cuida da parte mais trabalhosa.
 ---
 
-### Como Ativar a Seleção com IA
+#### Como Ativar a Seleção com IA
 
 - **Ao criar um novo projeto:** ative a Seleção com IA na tela de configuração inicial.
 - **Em um projeto existente:** abra o projeto e habilite a Seleção com IA na seção Workflow.
@@ -43,10 +43,10 @@ Após ativado, todas as novas fotos importadas para o projeto serão avaliadas a
 
 ---
 
-### Configurando as Regras de Seleção
+#### Configurando as Regras de Seleção
 
 Nas configurações de seleção, você pode personalizar quais regras serão aplicadas. Após fazer os ajustes, clique em Aplicar para confirmar.
-#### Regras Disponíveis
+##### Regras Disponíveis
 
 - **Olhos Fechados** – Detecta quando os sujeitos estão com os olhos fechados. Configurações avançadas incluem:
 - **Fotos Rindo (Laughing Photos):** escolha se a detecção de olhos fechados deve ser aplicada em expressões sorrindo.

@@ -23,7 +23,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/20250916180254.jpg"
 ---
 
-### ¿Qué es la Coincidencia de Color con IA?
+#### ¿Qué es la Coincidencia de Color con IA?
 
 La **Coincidencia de Color con IA** permite igualar automáticamente el tono de color y el estilo visual de una imagen con otra. Al usar una imagen de referencia, esta herramienta armoniza la exposición, la temperatura de color, el tono y los detalles locales en todo el conjunto.
 
@@ -31,9 +31,9 @@ Simplifica el proceso de edición mediante el uso de reconocimiento semántico p
 
 Esto resulta especialmente útil para fotógrafos que buscan mantener la consistencia visual en grandes lotes de fotos o en condiciones de iluminación variadas.
 
-### Cómo Usar la Coincidencia de Color con IA
+#### Cómo Usar la Coincidencia de Color con IA
 
-#### Paso 1: Acceder al Panel de Coincidencia de Color con IA
+##### Paso 1: Acceder al Panel de Coincidencia de Color con IA
 
 La opción de Coincidencia de Color con IA se encuentra dentro del panel de funciones de **Ajustes de Color**.
 
@@ -47,7 +47,7 @@ Si se muestran todos los paneles, la **Coincidencia de Color con IA** aparecerá
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/截屏2025-05-28-17.59.24-300x128.png)
 
-#### Paso 2: Establecer una Imagen de Referencia
+##### Paso 2: Establecer una Imagen de Referencia
 
 Hay dos formas de establecer una imagen de referencia para la coincidencia de color:
 
@@ -56,7 +56,7 @@ Hay dos formas de establecer una imagen de referencia para la coincidencia de co
 
 ![image.png](https://res.evoto.ai/community/post/5jJeVH97sXj.png)
 
-#### Paso 3: Aplicar los Colores de Referencia
+##### Paso 3: Aplicar los Colores de Referencia
 
 Una vez seleccionada la referencia:
 
@@ -64,11 +64,11 @@ Una vez seleccionada la referencia:
 - Elementos como la ropa, la piel y los fondos se igualarán de forma inteligente mediante reconocimiento semántico.
 - Es posible cambiar entre diferentes referencias para hacer coincidir otras imágenes según sea necesario.
 
-#### Paso 4: Ajustar el Resultado
+##### Paso 4: Ajustar el Resultado
 
 Después de aplicar la **Coincidencia de Color con IA**, se pueden afinar los resultados en dos áreas:
 
-##### Ajuste de la Imagen Completa Utilice los controles deslizantes para modificar lo siguiente:
+###### Ajuste de la Imagen Completa Utilice los controles deslizantes para modificar lo siguiente:
 
 - **Cantidad:** Controla la intensidad general de la coincidencia.
 - **Tono:** Ajusta el brillo y el contraste.
@@ -87,9 +87,9 @@ Se puede:
 - Ajustar la intensidad de tono y color por cada máscara.
 - Usar el ícono de enlace para sincronizar los cambios en todas las máscaras, o desvincularlas para realizar ajustes precisos e independientes.
 
-#### Paso 5: Aplicar en Lote o Guardar como Preajuste
+##### Paso 5: Aplicar en Lote o Guardar como Preajuste
 
-##### Sincronización por Lote
+###### Sincronización por Lote
 
 Para aplicar la misma **Coincidencia de Color con IA** en varias imágenes:
 
@@ -103,23 +103,23 @@ Para aplicar la misma **Coincidencia de Color con IA** en varias imágenes:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/截屏2025-05-28-18.27.14-270x300.png)
 
-##### Guardar como Preajuste
+###### Guardar como Preajuste
 
 Después de aplicar la **Coincidencia de Color con IA** y realizar ajustes adicionales, haga clic en **Guardar Preajuste**. Esto le permite reutilizar su estilo de color personalizado en proyectos futuros. Asegúrese de que **Ajustes de Color con IA** esté seleccionado al guardar.
 
-### Coincidencia de Color con IA: Modo Rápido vs. Modo de Control
+#### Coincidencia de Color con IA: Modo Rápido vs. Modo de Control
 
 La función de **Coincidencia de Color con IA** ha sido mejorada para ofrecerle mayor flexibilidad y control. Puede elegir entre **Modo Rápido** y **Modo de Control**, según sus necesidades.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250916180254.jpg)
 
-#### Modo Rápido
+##### Modo Rápido
 
 **Ideal para:** Obtener resultados rápidos cuando se desea una coincidencia de color automática y uniforme.
 
 **Cómo funciona:** Este modo funciona tal como se describió anteriormente. Es rápido, sencillo y no requiere ajustes adicionales.
 
-#### Modo de Control
+##### Modo de Control
 
 **Ideal para:** Cuando se necesita un control más detallado sobre la coincidencia de color usando una imagen de referencia.
 
@@ -131,7 +131,7 @@ La función de **Coincidencia de Color con IA** ha sido mejorada para ofrecerle 
 
 **Consejo:** Use **Modo Rápido** cuando necesite resultados rápidos, y **Modo de Control** cuando desee visibilidad completa y control preciso sobre los ajustes.
 
-### Consejos para Obtener los Mejores Resultados
+#### Consejos para Obtener los Mejores Resultados
 
 - Use imágenes de referencia con iluminación, fondo o sujeto similares para obtener resultados más precisos.
 - Puede usar una foto de destino ya retocada como referencia para sincronizar el estilo en todo un set de fotos.

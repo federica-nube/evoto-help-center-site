@@ -18,11 +18,11 @@ O módulo **Cabelos** do Evoto oferece uma ampla gama de ferramentas para aument
 
 ---
 
-### Linha de Divisão do Cabelo
+#### Linha de Divisão do Cabelo
 
 Detecta e preenche automaticamente áreas ralas ou com falhas, como a linha do cabelo, cantos da testa e costeletas, criando uma aparência mais densa e uniforme.
 
-### Ajustes de Volume
+#### Ajustes de Volume
 
 - **Volume do Cabelo Superior**
 
@@ -32,13 +32,13 @@ Ajusta o volume no topo da cabeça usando o slider para um efeito de cabelo mais
 
 Use o slider para aumentar o volume em ambos os lados da cabeça.
 
-### Linha do Cabelo
+#### Linha do Cabelo
 
 Refina a aparência da linha do cabelo ajustando a densidade e a suavidade.
 
 Esse é o mesmo recurso disponível no módulo de Remodelação Facial, e as alterações feitas aqui serão refletidas em ambas as seções.
 
-### Remoção de Cabelos Rebeldes
+#### Remoção de Cabelos Rebeldes
 
 Esse recurso remove fios indesejados com controle direcionado para diferentes áreas.
 
@@ -56,7 +56,7 @@ Cada área possui seu próprio slider para ajuste de intensidade.
 
 ---
 
-### Suavizar Cabelo
+#### Suavizar Cabelo
 
 Adiciona polimento e suavidade à aparência geral do cabelo, refinando luz e sombra.
 
@@ -74,13 +74,13 @@ Reduz fios desalinhados ou com frizz, especialmente na área principal do cabelo
 
 ---
 
-### Realce de Brilho do Cabelo
+#### Realce de Brilho do Cabelo
 
 Adiciona brilho de destaque ao cabelo, aumentando a profundidade e a dimensão por meio de ajustes sutis de iluminação. Ideal para realçar cabelos lisos ou penteados.
 
 ---
 
-### Escurecimento de Cabelos Brancos
+#### Escurecimento de Cabelos Brancos
 
 - **Finalidade:**
 
@@ -100,7 +100,7 @@ Para obter melhores resultados, aplique esta ferramenta **após o retoque de cab
 
 ---
 
-### Cor do Cabelo
+#### Cor do Cabelo
 
 - **Finalidade:**
 

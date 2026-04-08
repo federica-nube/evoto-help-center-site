@@ -12,7 +12,7 @@ O Evoto oferece ferramentas baseadas em IA para realçar os olhos do seu animal 
 
 ---
 
-### Brilho dos Olhos
+#### Brilho dos Olhos
 
 Aumente o brilho e realce a luminosidade natural dos olhos do seu animal de estimação. Este recurso aumenta sutilmente o brilho dos olhos, tornando-os mais vibrantes e cativantes.
 
@@ -22,7 +22,7 @@ Ajuste o controle deslizante (slider) para controlar o nível de brilho dos olho
 
 ---
 
-### Aprimoramento da Cor dos Olhos
+#### Aprimoramento da Cor dos Olhos
 
 Intensifique e enriqueça a cor natural dos olhos do seu animal de estimação. Esta ferramenta realça a cor existente dos olhos, tornando-a mais vívida e atraente.
 
@@ -32,7 +32,7 @@ Ajuste o controle deslizante para controlar a intensidade da cor.
 
 ---
 
-### Reflexos de Luz nos Olhos (Catchlights)
+#### Reflexos de Luz nos Olhos (Catchlights)
 
 Adicione reflexos de luz realistas aos olhos do seu animal de estimação. Os reflexos de luz tornam os olhos mais vivos e expressivos. Escolha uma categoria (Geral, Interno ou Externo) e selecione um estilo de reflexo a partir das predefinições disponíveis.
 

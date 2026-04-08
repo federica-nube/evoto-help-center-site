@@ -19,11 +19,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/10/de0daf85972c4ad03933db1bd8ec272e-300x49.png"
 ---
 
-### Platform Issues
+#### Platform Issues
 
 The current version of **Evoto** can run on devices with **Windows, macOS, iOS, iOS, and Android** systems, including computers, tablets, and mobile phones.
 
-#### PC Version
+##### PC Version
 
 - **macOS 14.2:** Tethered shooting is not available; please upgrade your system to use this feature.
 - **macOS 13.0 and above:** Required for tethered shooting with Panasonic, Leica, Olympus (OM System), and other supported cameras.
@@ -34,7 +34,7 @@ The current version of **Evoto** can run on devices with **Windows, macOS, iOS, 
 ![](https://support.evoto.ai/wp-content/uploads/2025/10/2-300x259.jpg)
 - **macOS 10.15:** For wired tethered shooting, you need to enable **Files and Folders → Removable Volumes** permissions.
 
-#### Mobile Version
+##### Mobile Version
 
 - **iOS/iOS 16.0 and above:** Required for tethered shooting with Panasonic, Leica, Olympus (OM System), and other supported cameras.
 - **iOS/iOS 18.0:** If you cannot open permissions and Evoto does not appear under **Files and Folders Permissions**, tethered shooting will not work; please upgrade your system.
@@ -42,7 +42,7 @@ The current version of **Evoto** can run on devices with **Windows, macOS, iOS, 
 - **Android phones:** Some devices require enabling OTG. Go to **Settings → Search → Enter “OTG” → OTG Connection** and turn it on. If no OTG option appears, your phone has OTG enabled by default.
 - **Fujifilm cameras with mobile devices:** Often the camera may be recognized incorrectly as the main device, charging the mobile device (tablet, phone, etc.). There is currently no solution for this issue.
 
-#### How to Check if Physical Connection is Successful
+##### How to Check if Physical Connection is Successful
 
 - **Windows:** Open **Device Manager** and check if the camera appears under **Portable Devices**. If visible, the physical connection is successful.
 - Some Sony cameras may install Sony control software and show **libusbk** in Device Manager. Uninstall this driver (check **Delete the driver software for this device**) and refresh Device Manager to see the camera correctly as a portable device.
@@ -53,13 +53,13 @@ The current version of **Evoto** can run on devices with **Windows, macOS, iOS, 
 - **iPhone:** Open **Photos** and check for the camera model.
 - **Android phones:** Pull down the notification bar and check if a device is connected to the phone.
 
-### Camera-Side Issues
+#### Camera-Side Issues
 
 For camera setup instructions, please refer to the corresponding help guides. This document only summarizes specific camera-related issues.
 
-#### Wired Tethering
+##### Wired Tethering
 
-##### Canon
+###### Canon
 
 **Official Canon error code explanation:**[https://cam.start.canon/zh/C003/manual/html/UG-06_Network_0210.html](https://cam.start.canon/zh/C003/manual/html/UG-06_Network_0210.html)
 
@@ -100,7 +100,7 @@ For camera setup instructions, please refer to the corresponding help guides. Th
 
 ---
 
-##### Sony
+###### Sony
 
 **Model: All**
 
@@ -133,7 +133,7 @@ For camera setup instructions, please refer to the corresponding help guides. Th
 
 ---
 
-##### Nikon
+###### Nikon
 
 **Model: All**
 
@@ -146,7 +146,7 @@ For camera setup instructions, please refer to the corresponding help guides. Th
 
 ---
 
-##### Fujifilm
+###### Fujifilm
 
 **Model:** All
 
@@ -166,7 +166,7 @@ For camera setup instructions, please refer to the corresponding help guides. Th
 
 ---
 
-##### Panasonic
+###### Panasonic
 
 **Model:** All
 
@@ -176,7 +176,7 @@ For camera setup instructions, please refer to the corresponding help guides. Th
 
 ---
 
-##### Olympus (OM System)
+###### Olympus (OM System)
 
 **Model:** All
 
@@ -184,9 +184,9 @@ For camera setup instructions, please refer to the corresponding help guides. Th
 
 **Solution:** Under development.
 
-#### Wireless Tethering
+##### Wireless Tethering
 
-##### Canon
+###### Canon
 
 **Model:** All
 
@@ -208,7 +208,7 @@ For camera setup instructions, please refer to the corresponding help guides. Th
 
 ---
 
-##### Sony
+###### Sony
 
 **Model:** All
 
@@ -225,7 +225,7 @@ For camera setup instructions, please refer to the corresponding help guides. Th
 
 ---
 
-##### Nikon
+###### Nikon
 
 **Models:** Z6II, Z7II, etc.
 
@@ -235,7 +235,7 @@ For camera setup instructions, please refer to the corresponding help guides. Th
 
 ---
 
-##### Fujifilm
+###### Fujifilm
 
 **Models:** X-T5, etc.
 

@@ -19,7 +19,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/IMG_0070.jpg"
 ---
 
-### 새 프리셋 만들기
+#### 새 프리셋 만들기
 
 새 프리셋을 만드는 방법은 다음과 같습니다.
 - 저장하려는 프리셋 효과를 만듭니다.

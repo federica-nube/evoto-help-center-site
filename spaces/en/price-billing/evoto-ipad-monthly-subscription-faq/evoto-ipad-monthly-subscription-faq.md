@@ -19,17 +19,17 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/08/20250812171320-1024x954.jpg"
 ---
 
-### General Overview
+#### General Overview
 
-#### What is the Monthly Subscription?
+##### What is the Monthly Subscription?
 
 The Monthly Subscription is a flexible plan, current available plan costs $9.99/month and includes 50 photo editing credits. It allows login on up to **two devices simultaneously**.
 
-#### Is it available for where I am?
+##### Is it available for where I am?
 
 It's available in most countries and regions via App Store. Pricing may vary slightly depending on your country. Please refer to the pricing you see in app.
 
-#### Can I still buy Add-on packs with the Monthly Subscription?
+##### Can I still buy Add-on packs with the Monthly Subscription?
 
 Yes! After subscribing, you’ll see discounted Add-on pack pricing based on the lowest-priced active plan you have. Please visit the pricing page for more detail.
 
@@ -39,9 +39,9 @@ Yes! After subscribing, you’ll see discounted Add-on pack pricing based on the
 
 ---
 
-### Compatibility and Device Limitations
+#### Compatibility and Device Limitations
 
-#### Can I subscribe on both Evoto iPad and Evoto?
+##### Can I subscribe on both Evoto iPad and Evoto?
 
 No. Subscriptions are platform-specific:
 
@@ -53,9 +53,9 @@ No. Subscriptions are platform-specific:
 
 ---
 
-### Subscription Management & Upgrade/Downgrade
+#### Subscription Management & Upgrade/Downgrade
 
-#### Can I subscribe to more than one plan on Evoto iPad?
+##### Can I subscribe to more than one plan on Evoto iPad?
 
 Yes, under certain conditions:
 
@@ -65,7 +65,7 @@ Yes, under certain conditions:
 
 - If you first purchase a **Yearly Plan**, the Monthly Plan purchase option will be **disabled** on Evoto iPad.
 
-#### Will I be charged for multiple subscriptions if I keep them?
+##### Will I be charged for multiple subscriptions if I keep them?
 
 Yes. All active subscriptions will auto-renew unless canceled. To help, we show a **pop-up reminder** if you have more than one active plan, reminding you it is possible to cancel redundant subscriptions.
 
@@ -73,40 +73,40 @@ Yes. All active subscriptions will auto-renew unless canceled. To help, we show 
 
 ---
 
-### Credit Rollover & Expiration
+#### Credit Rollover & Expiration
 
-#### Will my unused Monthly credits roll over?
+##### Will my unused Monthly credits roll over?
 
 Yes! As long as you maintain an active subscription, your unused credits will roll over—up to **5 times** the original monthly amount (i.e., max 250 credits for Monthly Plan).
 
-#### What about credits from other plans I subscribed to previously?
+##### What about credits from other plans I subscribed to previously?
 
 Credits from previous active plans will remain available, provided you maintain at least one ongoing subscription.
 
-#### Is the 5x rollover cap the same for Monthly and Yearly plans?
+##### Is the 5x rollover cap the same for Monthly and Yearly plans?
 
 Yes. Both Monthly and Yearly plans allow credit rollover up to **5x the plan's original amount**.
 
 ---
 
-### Add-on Packs
+#### Add-on Packs
 
-#### Can I buy Add-on packs with the Monthly Plan?
+##### Can I buy Add-on packs with the Monthly Plan?
 
 Yes, but currently only on **Evoto**. The iPad version doesn’t support Add-on pack purchases yet.
 
-#### How is the price of Add-on packs determined?
+##### How is the price of Add-on packs determined?
 
 The system uses the **lowest per-credit price** among your active plans to calculate Add-on pack rates.
 
 ---
 
-### Subscription Cancellation & Refunds
+#### Subscription Cancellation & Refunds
 
-#### How do I cancel my Monthly Subscription?
+##### How do I cancel my Monthly Subscription?
 
 You must cancel it through **Apple’s App Store subscription settings** if you subscribed on Evoto iPad. ???? [Apple Refund & Subscription Management](https://support.apple.com/en-sg/118223)
 
-#### Can I get a refund?
+##### Can I get a refund?
 
 Refund eligibility is determined by Apple. Please refer to their official support page above.

@@ -15,7 +15,7 @@ source_assets:
   - "https://evoto.gitbook.io/~gitbook/image?url=https%3A%2F%2F3099291537-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FGcGHhe6Z57mAjGmYtrQ4%252Fuploads%252F4awNc68F9rVj5YOttxZM%252FIMG_1034.PNG%3Falt%3Dmedia%26token%3D5c5c7185-99bc-41ad-8867-4a7927648152&width=768&dpr=4&quality=100&sign=c3738d44&sv=2"
 ---
 
-### Exporting Images
+#### Exporting Images
 
 When exporting images, you can configure the storage location, image quality format, and color space on the **Export** page.
 
@@ -33,7 +33,7 @@ When exporting images, you can configure the storage location, image quality for
 
 ---
 
-### Cache Settings
+#### Cache Settings
 
 To manage cache settings:
 

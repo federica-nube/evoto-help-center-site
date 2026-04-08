@@ -28,7 +28,7 @@ As opções disponíveis podem variar de acordo com o modo do projeto.
 
 ---
 
-### Modo 1: Modo Clássico
+#### Modo 1: Modo Clássico
 
 **Configurações Padrão**
 
@@ -62,7 +62,7 @@ Se você deseja que os convidados visualizem apenas suas próprias fotos, desati
 
 ---
 
-### Modo 2: Modo de Participantes (Baseado em Lista)
+#### Modo 2: Modo de Participantes (Baseado em Lista)
 
 - Links de galerias individuais são gerados automaticamente para cada participante.
 - O sistema utiliza, por padrão, o modo com **Código de Acesso**, mas também pode ser alterado para **Acesso Público**, conforme necessário.
@@ -71,7 +71,7 @@ Se você deseja que os convidados visualizem apenas suas próprias fotos, desati
 
 ---
 
-### Recurso “Find Me”
+#### Recurso “Find Me”
 
 O recurso**Find Me** ajuda os convidados a localizar rapidamente suas fotos dentro de uma galeria. Ao enviar ou tirar uma foto de referência rápida, o sistema busca na galeria e retorna instantaneamente os resultados correspondentes, economizando tempo para quem não quer percorrer centenas de imagens.
 
@@ -85,7 +85,7 @@ Observação: O recurso Find Me deve ser habilitado individualmente para cada pr
 
 ---
 
-### Atualização de novas fotos
+#### Atualização de novas fotos
 
 Quando novas fotos são adicionadas, elas aparecem na galeria sem interromper a experiência do usuário.
 
@@ -98,7 +98,7 @@ O convidado pode:
 
 ---
 
-### Classificação e visualização
+#### Classificação e visualização
 
 Os convidados podem navegar pela galeria com algumas opções:
 
@@ -107,7 +107,7 @@ Os convidados podem navegar pela galeria com algumas opções:
 
 ---
 
-### Compartilhamento da galeria
+#### Compartilhamento da galeria
 
 Os convidados podem compartilhar a galeria diretamente em aplicativos como Facebook, Twitter e WhatsApp, facilitando o envio das fotos para amigos e familiares sem precisar baixar e reenviar manualmente.
 

@@ -18,7 +18,7 @@ Evoto está repleto de potentes funciones para ediciones fotográficas de nivel 
 
 ---
 
-### Configuración de Velocidad de Renderizado
+#### Configuración de Velocidad de Renderizado
 
 Evoto ofrece varias opciones para acelerar el renderizado de efectos. Ajustar estas configuraciones puede ayudarte a obtener resultados más rápidos sin comprometer la calidad de tu trabajo.
 
@@ -34,7 +34,7 @@ Evoto ofrece varias opciones para acelerar el renderizado de efectos. Ajustar es
 
 ---
 
-### Optimización del Procesamiento de Retratos Grupales
+#### Optimización del Procesamiento de Retratos Grupales
 
 Evoto te permite optimizar el procesamiento de efectos para retratos grupales, especialmente para imágenes que contienen 15 o más personas.
 
@@ -44,7 +44,7 @@ Evoto te permite optimizar el procesamiento de efectos para retratos grupales, e
 
 ---
 
-### Configuración de Uso de Memoria
+#### Configuración de Uso de Memoria
 
 Optimizar cómo Evoto usa la memoria es crucial para mantener un flujo de trabajo rápido y fluido.
 
@@ -59,7 +59,7 @@ Optimizar cómo Evoto usa la memoria es crucial para mantener un flujo de trabaj
 
 ---
 
-### Configuración de Vista Previa y Miniaturas
+#### Configuración de Vista Previa y Miniaturas
 
 Estas configuraciones controlan cómo se muestran las imágenes dentro de la interfaz de Evoto, equilibrando la calidad visual con el rendimiento.
 

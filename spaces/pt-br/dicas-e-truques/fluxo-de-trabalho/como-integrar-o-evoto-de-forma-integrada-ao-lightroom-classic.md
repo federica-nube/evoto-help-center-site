@@ -24,7 +24,7 @@ Você pode integrar o Evoto ao seu fluxo de trabalho de duas formas principais, 
 
 ---
 
-### Fluxo de trabalho 1: Integração de imagem individual
+#### Fluxo de trabalho 1: Integração de imagem individual
 
 Este é o método mais rápido para realizar edições com IA em uma única imagem.
 
@@ -41,15 +41,15 @@ Este é o método mais rápido para realizar edições com IA em uma única imag
 
 ---
 
-### Fluxo de trabalho 2: Integração de catálogo completo
+#### Fluxo de trabalho 2: Integração de catálogo completo
 
 Este fluxo de trabalho é indicado para fotógrafos que desejam manter a estrutura do projeto ao alternar entre plataformas.
 
-#### Passo 1: Preparar seu catálogo no Lightroom
+##### Passo 1: Preparar seu catálogo no Lightroom
 
 Crie ou abra seu arquivo .lrcat existente no Lightroom Classic. Esse catálogo servirá como base para a importação no Evoto.
 
-#### Passo 2: Importar o catálogo para o Evoto
+##### Passo 2: Importar o catálogo para o Evoto
 
 O Evoto facilita a importação de um catálogo completo do Lightroom para o seu espaço de trabalho.
 
@@ -67,11 +67,11 @@ Após a importação, você pode escolher coleções específicas ou conjuntos f
 - Ajustes locais
 - Máscaras avançadas
 
-#### Passo 3: Editar suas imagens no Evoto
+##### Passo 3: Editar suas imagens no Evoto
 
 Edite as imagens importadas utilizando todas as ferramentas do Evoto. É possível aplicar predefinições, sincronizar ajustes em lote e usar todos os recursos de IA.
 
-#### Passo 4: Exportar o catálogo do Evoto
+##### Passo 4: Exportar o catálogo do Evoto
 
 Após finalizar a edição, exporte suas imagens e metadados de volta para um catálogo compatível com o Lightroom.
 
@@ -83,7 +83,7 @@ Após finalizar a edição, exporte suas imagens e metadados de volta para um ca
 
 ---
 
-### Considerações importantes
+#### Considerações importantes
 
 - **Suporte a arquivos RAW:** O Evoto suporta a importação de imagens RAW via arquivos .lrcat. No entanto, imagens RAW não podem ser exportadas diretamente; elas devem ser convertidas para TIFF ou JPG.
 - **Substituição de arquivos não-RAW:** Essa opção substitui as imagens não-RAW originais (JPG, TIFF, PNG) no Lightroom pelas versões editadas no Evoto. O Evoto faz backup automático dos arquivos originais para permitir re-edições sem consumir créditos adicionais.

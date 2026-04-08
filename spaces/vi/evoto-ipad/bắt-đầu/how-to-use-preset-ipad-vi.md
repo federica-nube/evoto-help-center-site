@@ -33,7 +33,7 @@ Nhóm cài sẵn **Nhóm cài sẵn** giúp bạn tổ chức các cài sẵn th
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/iPad-Preset-Groups.png)
 
-### Nhập cài sẵn
+#### Nhập cài sẵn
 
 Để nhập cài sẵn từ thiết bị khác hoặc từ người dùng khác:
 1. Nhấn vào biểu tượng **+** ở góc trên bên phải của menu **Cài sẵn.**

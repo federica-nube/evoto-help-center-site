@@ -22,7 +22,7 @@ Evoto takes a different approach. Instead of replacing or fabricating skin, it w
 
 In this tutorial, we’ll walk through how to remove eye bags and dark circles with Evoto, and how to reintroduce subtle shadows to maintain natural facial depth.
 
-### Step 1: Remove Eye Bags
+#### Step 1: Remove Eye Bags
 
 Go to: **Portrait Retouch > Blemish Removal > Eye Bags**
 
@@ -35,7 +35,7 @@ Here, you’ll find two sliders for precise control:
 
 ✨ ***Tip:****Start with moderate adjustments. Over-removing can flatten the face and make it look unnatural.*
 
-### Step 2: Tackle Dark Circles
+#### Step 2: Tackle Dark Circles
 
 Go to: **Portrait Retouch > Dark Circle Removal**
 
@@ -43,7 +43,7 @@ This slider specifically targets darker pigmentation under the eyes. Adjust unti
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250924140548-scaled.jpg)
 
-### Step 3: Restore Natural Shadows
+#### Step 3: Restore Natural Shadows
 
 Sometimes, after removing eye bags and dark circles, the under-eye area may look too bright or flat. To bring back realistic depth:
 
@@ -56,6 +56,6 @@ Go to: **Portrait Retouch > Makeup > Eye Shadow**
 
 ✨ ***Tip:****Use this step sparingly. Think of it as putting back just the right amount of definition that was lost during retouching.*
 
-### Final Thoughts
+#### Final Thoughts
 
 By combining the **Eye Bags**, **Lower Eyelids**, and **Dark Circle Removal** tools with a touch of **Eye Shadow**, Evoto allows you to remove signs of tiredness from portraits while keeping your subject’s natural character intact. Unlike other tools that risk altering a person’s appearance , Evoto’s approach works with skin tones and shadows. This provides a fast, natural, and professional result.

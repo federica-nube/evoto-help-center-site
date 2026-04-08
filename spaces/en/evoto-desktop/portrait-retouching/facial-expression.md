@@ -19,7 +19,7 @@ source_assets:
 ---
 
 Adjust subtle facial expressions to enhance mood and natural appearance in portraits. These tools are ideal for creating more inviting or polished facial expressions while maintaining realism.
-### Gummy Smile
+#### Gummy Smile
 
 Control the amount of gum exposure by adjusting the upper lip position. This is useful for reducing the appearance of a "gummy smile" or minimizing protruding teeth.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-25-at-17.19.49-300x154.png)

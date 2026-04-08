@@ -16,7 +16,7 @@ source_assets:
 ---
 
 Evoto cung cấp cho bạn nhiều phương pháp cắt ảnh khác nhau: kích thước ảnh gốc, cài đặt ảnh gốc hoặc tùy chỉnh bằng cách nhập giá trị chiều dài, chiều rộng và độ phân giải. Sau khi cắt xong, nhấp vào "OK" ở góc dưới bên phải để lưu kết quả cắt.
-### Các tuỳ chọn khi cắt ảnh
+#### Các tuỳ chọn khi cắt ảnh
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/screenshot-20250930-134307.png)
 
@@ -36,7 +36,7 @@ Evoto cung cấp cho bạn nhiều phương pháp cắt ảnh khác nhau: kích 
 
 > Lưu ý: Cài sẵn này sẽ được trong cả phần AI cắt ảnh thẻ và trong menu của mục Cài sẵn của tôi. Khi người dùng xóa cài sẵn khỏi menu Cài sẵn của tôi, nó cũng sẽ bị xóa khỏi menu AI cắt ảnh thẻ.
 
-### AI định vị
+#### AI định vị
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/screenshot-20250930-135412.png)
 
@@ -50,14 +50,14 @@ Tự động căn chỉnh người Tính năng này cho phép tự động căn 
 
 > Lưu ý: Tính năng căn chỉnh tự động cho người chỉ áp dụng cho ảnh có một người. Khi người hoặc khuôn mặt của chủ thể trong ảnh bị nghiêng quá mức, tính năng này sẽ tự động bị tắt.
 
-#### Các tuỳ chọn khu vực định vị
+##### Các tuỳ chọn khu vực định vị
 
 - **Đầu**: Bao gồm mặt và tóc
 - **Đầu + Đỉnh đầu**: Mặt + Tóc + nón hoặc các phụ kiện khác
 - **Mặt**: Phần mặt của nhân vật
 -
 
-#### Các thanh trượt điều chỉnh
+##### Các thanh trượt điều chỉnh
 
 - **Lề trên:**Điều chỉnh tỷ lệ khoảng cách giữa phần đỉnh đầu và cạnh trên của ảnh.
 - **Kích cỡ đầu:** Điều chỉnh kích thước đầu trong bức ảnh.
@@ -73,7 +73,7 @@ Lưu ý:
 - Chế độ **Cắt ảnh thẻ** mặc định ở mức **300 PPI**.
 - Các kiểu cắt khác sẽ sử dụng độ phân giải gốc của ảnh.
 
-### Lưu ý
+#### Lưu ý
 
 - Trong tính năng "AI Cắt ảnh thẻ", nếu số lượng người trong ảnh nhiều hơn một hoặc góc nghiêng của khuôn mặt lớn hơn 75 độ, chức năng này và các tùy chọn phụ của nó sẽ không khả dụng.
 - Dữ liệu cài đặt kích thước ảnh và cài đặt định vị khuôn mặt không được để trống.

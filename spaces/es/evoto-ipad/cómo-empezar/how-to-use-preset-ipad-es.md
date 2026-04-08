@@ -15,7 +15,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/9269f872-e3b1-47ba-886d-b48e4d4e5cfe.jpeg"
 ---
 
-### ¿Cómo crear un nuevo preajuste?
+#### ¿Cómo crear un nuevo preajuste?
 
 Toque el botón “Guardar Preset” en la esquina inferior derecha, edite el nombre del preset, seleccione la categoría del preset y elija los efectos que desea guardar. Luego, toque el botón “Guardar” para completar la creación del preset. **Filtrado de Efectos** Al guardar presets, se puede seleccionar rápidamente los efectos a guardar eligiendo entre las categorías “Por Defecto” y “Ajustados”. Al seleccionar “Ajustados”, se guardan los efectos del deslizador ajustados actualmente como un preset.
 

@@ -23,7 +23,7 @@ Every workflow in Evoto Instant begins with a project. A project keeps your phot
 
 ---
 
-### Option 1: Create a Project in the Web Portal
+#### Option 1: Create a Project in the Web Portal
 
 Use the web portal if you want to pre-configure project settings before your event, or if you prefer working from a desktop.
 
@@ -69,7 +69,7 @@ This will take you to the dedicated project dashboard, where you can fully custo
 
 ---
 
-### Option 2: Create a Project in the App
+#### Option 2: Create a Project in the App
 
 Use the mobile app when you’re on-site and need to start capturing right away.
 

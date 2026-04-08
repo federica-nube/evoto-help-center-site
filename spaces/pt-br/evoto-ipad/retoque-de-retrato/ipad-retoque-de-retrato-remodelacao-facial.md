@@ -17,7 +17,7 @@ As ferramentas de ****Remodela********ção********Facial**** do Evoto utilizam 
 
 ---
 
-### Ajustes Conjuntos/Separados
+#### Ajustes Conjuntos/Separados
 
 Alguns recursos faciais permitem ajustes tanto conjuntos quanto independentes (separados) para os lados esquerdo e direito do rosto. Clique em ícone Vincular para desbloquear o controle separado, possibilitando refinamentos assimétricos mais precisos.
 
@@ -25,7 +25,7 @@ Alguns recursos faciais permitem ajustes tanto conjuntos quanto independentes (s
 
 ---
 
-### Posição da Cabeça
+#### Posição da Cabeça
 
 Ajuste a orientação do rosto usando três sliders:
 
@@ -35,7 +35,7 @@ Ajuste a orientação do rosto usando três sliders:
 
 ---
 
-### Forma do Rosto
+#### Forma do Rosto
 
 Esses controles permitem remodelar o forma geral do rosto, ajustando linhas faciais e simetria.
 
@@ -59,7 +59,7 @@ Esses controles permitem remodelar o forma geral do rosto, ajustando linhas faci
 
 ---
 
-### Sobrancelhas
+#### Sobrancelhas
 
 Ajuste características das sobrancelhas para simetria e expressão.
 
@@ -71,7 +71,7 @@ Ajuste características das sobrancelhas para simetria e expressão.
 
 ---
 
-### Olhos
+#### Olhos
 
 Redefina a forma e posição dos olhos para equilíbrio e expressão.
 
@@ -87,7 +87,7 @@ Redefina a forma e posição dos olhos para equilíbrio e expressão.
 
 ---
 
-### Nariz
+#### Nariz
 
 Ajuste forma e proporções do nariz.
 
@@ -100,7 +100,7 @@ Ajuste forma e proporções do nariz.
 
 ---
 
-### Boca
+#### Boca
 
 Refine tamanho, posição e proporções dos lábios.
 
@@ -115,7 +115,7 @@ Refine tamanho, posição e proporções dos lábios.
 
 ---
 
-### Simetrizar
+#### Simetrizar
 
 Quando ativado, este recurso ajusta a simetria das sobrancelhas, olhos, nariz, boca, orelhas, formato do rosto e ombros.
 

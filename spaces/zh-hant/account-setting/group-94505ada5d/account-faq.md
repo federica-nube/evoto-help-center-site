@@ -14,7 +14,7 @@ tags:
 
 **This section provides answers to common questions about your Evoto account, including how to sign up, manage your access, and troubleshoot common issues like confirmation emails and password resets.**
 
-### What Is an Evoto Account?
+#### What Is an Evoto Account?
 
 An Evoto account grants you secure access to our powerful photo editing platform. With an active account, you can:
 
@@ -25,7 +25,7 @@ An Evoto account grants you secure access to our powerful photo editing platform
 
 ---
 
-### How Do I Sign Up for an Account?
+#### How Do I Sign Up for an Account?
 
 You can easily register for a new Evoto account directly through the Evoto app or via our official website.
 
@@ -53,7 +53,7 @@ You can easily register for a new Evoto account directly through the Evoto app o
 
 ---
 
-### Troubleshooting: Didn’t Receive the Confirmation Email?
+#### Troubleshooting: Didn’t Receive the Confirmation Email?
 
 If you've completed the signup process but haven't received your confirmation email, please try the following steps:
 
@@ -101,7 +101,7 @@ If none of the above steps resolve the issue, please contact our support team fo
 
 ---
 
-### What if I forget my password?
+#### What if I forget my password?
 
 If you forget your Evoto account password, you can easily reset it directly through the app or website:
 
@@ -111,7 +111,7 @@ If you forget your Evoto account password, you can easily reset it directly thro
 
 ---
 
-### How do I log out of my Evoto account?
+#### How do I log out of my Evoto account?
 
 To log out of your Evoto account:
 

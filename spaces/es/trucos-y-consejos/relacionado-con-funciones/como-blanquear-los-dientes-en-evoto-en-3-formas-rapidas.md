@@ -17,7 +17,7 @@ source_assets:
 
 ¿Quieres una sonrisa más brillante en tus retratos? Evoto hace que el blanqueamiento dental sea simple con diferentes herramientas. Aquí hay **tres métodos fáciles** que puedes usar:
 
-### 1. Control de Blanqueamiento Dental
+#### 1. Control de Blanqueamiento Dental
 
 El método más rápido está integrado directamente en **Retoque de Retrato > Dientes**.
 
@@ -28,7 +28,7 @@ El método más rápido está integrado directamente en **Retoque de Retrato > D
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/08/teeth-natural-scaled.jpg)
 
-### 2. Generación de Sonrisa con Efecto de Blanqueamiento
+#### 2. Generación de Sonrisa con Efecto de Blanqueamiento
 
 A veces, simplemente agregar una sonrisa más brillante ayuda a que los dientes parezcan más blancos:
 
@@ -36,7 +36,7 @@ A veces, simplemente agregar una sonrisa más brillante ayuda a que los dientes 
 - Selecciona **Generación de Sonrisa** y elige la opción **Con Dientes**.
 - Esto muestra naturalmente más dientes, y cuando se combina con el blanqueamiento, hace que los retratos destaquen. ???? Ideal para dar a los sujetos tanto una sonrisa segura como un brillo mejorado.
 
-### 3. Ajuste de Color + Máscara de Dientes
+#### 3. Ajuste de Color + Máscara de Dientes
 
 Para más control, puedes usar máscaras:
 

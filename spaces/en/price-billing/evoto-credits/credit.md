@@ -20,7 +20,7 @@ source_assets:
 
 This guide explains what Evoto credits are, how they are used, and how to manage your credit balance and device access.
 
-### What Are Credits in Evoto?
+#### What Are Credits in Evoto?
 
 **Credits** are the currency you use within Evoto to export your edited photos without watermarks. Think of 1 credit as the key to unlock 1 professionally retouched image.
 
@@ -28,7 +28,7 @@ This guide explains what Evoto credits are, how they are used, and how to manage
 
 ---
 
-### Credit Usage Rules
+#### Credit Usage Rules
 
 Understanding how credits are deducted helps you manage your balance effectively.
 
@@ -43,13 +43,13 @@ If you modify an image outside of Evoto (e.g., by resizing or rotating it using 
 
 ---
 
-### Credit Sharing & Transferability
+#### Credit Sharing & Transferability
 
 - **Between Evoto Desktop and iPad:** Yes, credits purchased on either platform are linked to your Evoto account and can be used interchangeably on both the desktop and iPad versions.
 - **Transferring to Other Accounts:** No, credits are non-transferable and remain tied to the account that purchased them.
 - **Sharing with Other Users:** No, credits are specific to your account and cannot be shared with other users.
 
-### Managing Your Credits
+#### Managing Your Credits
 
 Evoto provides easy ways to check your balance and even claim free credits.
 
@@ -68,7 +68,7 @@ You can earn up to 15 free credits by simply completing your profile:
 - Each device can only claim this reward once.
 - Please use these reward credits within 30 days after claiming them, as they may expire.
 
-### How to Check Your Credit Balance
+#### How to Check Your Credit Balance
 
 You can view your current credit balance and usage history in two ways:
 

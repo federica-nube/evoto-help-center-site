@@ -21,7 +21,7 @@ Evoto offers AI-powered tools to enhance your pet's eyes, bringing out their nat
 
 ---
 
-### Eye Lightening
+#### Eye Lightening
 
 Brighten and enhance the natural luminosity of your pet's eyes. This feature subtly increases eye brightness to make them appear more vibrant and engaging.
 
@@ -31,7 +31,7 @@ Adjust the slider to control the brightness level of your pet's eyes.
 
 > Note: You can unlock the link icon to adjust the left and right eyes separately for more precise control.
 
-### Eye Color Enhancement
+#### Eye Color Enhancement
 
 Intensify and enrich the natural color of your pet's eyes. This tool enhances the existing eye color to make it more vivid and captivating.
 
@@ -41,7 +41,7 @@ Adjust the slider to control the color intensity.
 
 ---
 
-### Catchlights
+#### Catchlights
 
 Add realistic light reflections to your pet's eyes. Catchlights create that spark of life that makes eyes appear more lively and engaging.
 

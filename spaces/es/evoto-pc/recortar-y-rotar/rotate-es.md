@@ -14,7 +14,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/a8e73485-656e-48cd-90c6-dbccb182caaa.png"
 ---
 
-### Corrección de la IA
+#### Corrección de la IA
 
 ![](https://res.evoto.ai/wordpress/a8e73485-656e-48cd-90c6-dbccb182caaa.png)
 

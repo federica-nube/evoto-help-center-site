@@ -24,7 +24,7 @@ source_assets:
 
 **Coincidencia de Color con IA** es una función inteligente que te permite transferir sin esfuerzo el tono y estilo de una imagen de referencia a tus otras fotos. Usando **reconocimiento semántico** avanzado, ajusta inteligentemente áreas específicas como la ropa, los tonos de piel y los elementos del entorno, siendo una herramienta revolucionaria para lograr un aspecto cohesivo y uniforme en todo tu proyecto.
 
-### Cómo funciona y cómo usarlo
+#### Cómo funciona y cómo usarlo
 
 Coincidencia de Color con IA simplifica el proceso de gradación de color dejando que la IA haga el trabajo pesado.
 
@@ -56,7 +56,7 @@ Puedes ver todos los estilos de color que has subido o creado en la sección **M
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-11.46.34-121x300.png)
 
-### Sincronización por lotes y guardado como preajuste
+#### Sincronización por lotes y guardado como preajuste
 
 Una vez que hayas logrado el aspecto deseado, puedes aplicarlo a otras fotos de tu proyecto o guardarlo para uso futuro.
 
@@ -84,13 +84,13 @@ Para guardar tu configuración personalizada como un preajuste reutilizable:
 2. Realiza cualquier ajuste adicional a otras configuraciones (por ejemplo, color de superposición, efectos de retrato) según sea necesario antes de guardar.
 3. Dale un nombre a tu preajuste y haz clic en **Guardar**.
 
-### Consejos prácticos para mejores resultados
+#### Consejos prácticos para mejores resultados
 
 - **Elige una referencia consistente:** Para una coincidencia más precisa, usa una imagen de referencia con una escena o estilo similar a tus fotos objetivo. Incluso puedes usar una foto objetivo retocada como referencia para mantener la consistencia al sincronizar por lotes.
 - **Aplicar Coincidencia de Color con IA borra las ediciones:** Cuando aplicas Coincidencia de Color con IA, todos los ajustes de color anteriores que hayas hecho se borrarán y los parámetros del control deslizante se restablecerán, ya que el algoritmo maneja automáticamente estos ajustes por ti. Siempre puedes usar la función **Deshacer** para restaurar tus efectos anteriores.
 - **Ajustes adicionales:** Después de aplicar Coincidencia de Color con IA, aún puedes hacer más ajustes a otras configuraciones (por ejemplo, Curvas, HSL, etc.) para obtener resultados mejorados.
 
-### Integrar Coincidencia de Color con IA en tu flujo de trabajo
+#### Integrar Coincidencia de Color con IA en tu flujo de trabajo
 
 Coincidencia de Color con IA es una herramienta potente que puede optimizar tu proceso de edición reconociendo inteligentemente objetos, ropa y tonos de piel. Aquí hay dos ejemplos de cómo puede integrarse perfectamente en diferentes flujos de trabajo:
 

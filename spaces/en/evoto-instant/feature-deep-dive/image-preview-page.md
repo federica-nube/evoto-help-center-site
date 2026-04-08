@@ -23,9 +23,9 @@ Simply tap on any photo in your project to open the preview view.
 
 ---
 
-### Key Features
+#### Key Features
 
-#### Photo Information
+##### Photo Information
 
 Located under the information icon (top right corner), this section provides:
 
@@ -43,7 +43,7 @@ Located under the information icon (top right corner), this section provides:
 
 ---
 
-#### Face Recognition
+##### Face Recognition
 
 Displays all detected faces in the selected photo.
 
@@ -56,7 +56,7 @@ Displays all detected faces in the selected photo.
 
 ---
 
-#### Effect Comparison
+##### Effect Comparison
 
 - If AI Editing has been applied, the preview defaults to the **“After”** view.
 - Long-press the photo to toggle to **“Before”** for side-by-side comparison.
@@ -68,7 +68,7 @@ Displays all detected faces in the selected photo.
 
 ---
 
-#### Image Operations
+##### Image Operations
 
 From the preview page, you can take direct actions on the photo:
 

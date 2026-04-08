@@ -36,20 +36,20 @@ source_assets:
 This guide covers the manual import and export of images within Evoto. If you are looking for information on automated workflows using hot folders, please refer to our dedicated Auto Import & Export guide .
 ---
 
-### Evoto Supported File Types
+#### Evoto Supported File Types
 
 Evoto supports a wide range of image formats, including JPEGs, TIFFs, and PNGs. We also provide robust processing for most camera RAW file types, powered by our own advanced RAW engine. We regularly update our library and make improvements to ensure perfect support for new cameras as they are released. Please note that Evoto currently does not support image files larger than 1 GB or with dimensions exceeding 12,000 x 12,000 pixels.
 ---
 
-### Number of Files Supported for Import
+#### Number of Files Supported for Import
 
 While Evoto doesn't limit the total number of photos you can import into a single project, there is a limit on the number of photos you can import at one time. You can import up to 15,000 photos per import session.
 ---
 
-### Importing Images
+#### Importing Images
 
 Evoto offers various methods to import individual files or entire folders, making it easy to bring your images into your workspace.
-#### Importing in the Library Workspace
+##### Importing in the Library Workspace
 
 The Library Workspace provides multiple entry points for starting new projects or adding to existing ones. Create New Project:
 - Start by clicking the **“Create New Project”** button from the Library Workspace.
@@ -99,7 +99,7 @@ Importing into an Existing Project:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-31-at-23.22.29-300x163.png)
 
-#### Importing in the Edit Workspace
+##### Importing in the Edit Workspace
 
 To import additional images into an open project while you are already in the Edit Workspace:
 - Click the **Plus + button** in the upper left corner of the Edit Workspace. This will open Finder (Mac) or File Explorer (Windows) to allow you to navigate to your files.
@@ -108,7 +108,7 @@ To import additional images into an open project while you are already in the Ed
 
 - Alternatively, you can **drag and drop** images directly onto the interface. They will be added among the existing image thumbnails at the bottom of the screen.
 
-#### Additional Import Methods
+##### Additional Import Methods
 
 Evoto offers convenient import options from outside the application:
 - **Right-Click in File Explorer/Finder:** Right-click on an image file and navigate to **Open With > Evoto**.
@@ -117,7 +117,7 @@ Evoto offers convenient import options from outside the application:
 
 ---
 
-### Exporting Images
+#### Exporting Images
 
 Evoto provides comprehensive export options and advanced controls, ensuring your final images meet your desired quality, format, and naming standards. Evoto allows export back into Lightroom Catalogs with multiple options for file placement and compatibility. For a detailed walkthrough of the Export Panel, check out our video tutorial. [embed]https://youtu.be/EqE5eEUC2FQ[/embed] Evoto has improved the usability of the export workflow, supporting two modes: ***Quick Export***and ***Custom Export***(Original Full Export Dialog).
 
@@ -135,7 +135,7 @@ Evoto provides comprehensive export options and advanced controls, ensuring your
 
 ---
 
-### Full Export Dialog Layout
+#### Full Export Dialog Layout
 
 - **Left Panel:** Number of photos to export and choose export presets
 - **Center:** Preview image
@@ -145,7 +145,7 @@ Evoto provides comprehensive export options and advanced controls, ensuring your
 
 ---
 
-#### Export Queue Information
+##### Export Queue Information
 
 When you open the export dialogue, you'll see key information about your export queue in the left panel:
 - **Selected Image(s): This display shows the total number of images selected for export.**
@@ -153,7 +153,7 @@ When you open the export dialogue, you'll see key information about your export 
 
 ---
 
-#### Export Presets
+##### Export Presets
 
 Export Presets allow you to save and manage configurations for various output resolutions and settings. This is ideal for quickly applying consistent export standards.
 - **Save a Preset:** To save an Export Preset, click the **+ button** > **Create Export Preset**. Name it as needed.
@@ -162,7 +162,7 @@ Export Presets allow you to save and manage configurations for various output re
 
 ---
 
-#### Effect Preset (for Export)
+##### Effect Preset (for Export)
 
 This option allows you to apply an effect preset during the export process, especially useful if images haven't been edited yet, or for automated workflows.
 - If you haven’t already edited an image, an **Effect Preset** can be applied to exported images. This is ideal for auto import & export workflows with very controlled image settings.
@@ -171,7 +171,7 @@ This option allows you to apply an effect preset during the export process, espe
 
 ---
 
-#### Export Settings
+##### Export Settings
 
 Configure the fundamental aspects of your export, including destination and file handling.
 - **Export To:** Set your desired export location on your computer or connected drive.
@@ -189,7 +189,7 @@ Configure the fundamental aspects of your export, including destination and file
 
 ---
 
-#### File Naming Methods
+##### File Naming Methods
 
 Evoto provides several flexible file naming options to organize your exports:
 - **Original Filename:** Keeps the original name of the image file.
@@ -204,7 +204,7 @@ Evoto provides several flexible file naming options to organize your exports:
 
 ---
 
-#### Image Size
+##### Image Size
 
 Control the dimensions and resolution of your exported images:
 - **Scale Type:** Scale your image exports by:
@@ -218,7 +218,7 @@ Control the dimensions and resolution of your exported images:
 
 ---
 
-#### File Settings
+##### File Settings
 
 Choose your desired image format and quality:
 - **Image Format:** Select your output format from the following:
@@ -241,7 +241,7 @@ Quality (Only available for JPG exports): -
 
 ---
 
-#### Export Adjustments
+##### Export Adjustments
 
 Evoto includes tailored Output Sharpening Settings to optimize your images for their final use, whether for screen display or print.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-01-at-14.34.14-300x278.png)
@@ -257,7 +257,7 @@ Evoto includes tailored Output Sharpening Settings to optimize your images for t
 
 ---
 
-#### Watermark
+##### Watermark
 
 Apply a custom watermark to your exported images:
 - Upload a watermark image and customize its appearance:
@@ -270,14 +270,14 @@ Apply a custom watermark to your exported images:
 
 ---
 
-### Exporting Lightroom Catalogs (.lrcat)
+#### Exporting Lightroom Catalogs (.lrcat)
 
 For projects originally imported as a .lrcat file, Evoto allows you to export your edited images and metadata back into Lightroom Catalogs, with multiple options for file placement and compatibility.
 - To enable catalog export, you must first import a .lrcat project into Evoto. Creating a .lrcat project directly in Evoto is not currently supported.
 - **To Export:** Select all images you want exported in your new .lrcat file, then go to **Export > Export as .lrcat file**.
-- ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-01-at-14.38.50-300x162.png)
+![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-01-at-14.38.50-300x162.png)
 - **Export Options:****Original .lrcat Folder:** Exports to the folder containing the original .lrcat file and adds a stack in Lightroom (treating the Evoto edit as a virtual copy).
-- ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-01-at-15.11.46-300x147.png)
+![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-01-at-15.11.46-300x147.png)
 - **Specific Folder:** Creates a new .lrcat file with the edited images and metadata in a chosen location. Lightroom will treat the edited image as a new file and apply Evoto's adjustments.
 - **Desktop:** Same behavior as "Specific Folder," but saves the new .lrcat file directly to your desktop.
 - **Handling Non-RAW Images:** When exporting edited non-RAW images back to Lightroom, you can choose to replace the original file. Evoto automatically backs up the original image to allow future adjustments or restoration.
@@ -287,10 +287,10 @@ For projects originally imported as a .lrcat file, Evoto allows you to export yo
 
 ---
 
-### Import & Export Troubleshooting
+#### Import & Export Troubleshooting
 
 If you encounter issues during the import or export process, refer to the common problems and solutions below.
-#### Blurry Image Preview After Import
+##### Blurry Image Preview After Import
 
 If your images appear blurry after being imported into Evoto, this is typically due to preview settings and is not a reflection of the image’s actual resolution.
 - Evoto supports all RAW file types and does not reduce the resolution of your original images.
@@ -301,14 +301,14 @@ To improve preview clarity:
 - Increase the preview size as needed—Evoto supports up to 4000 px, the maximum preview resolution currently available.
 - **Note:** The preview size setting affects only how the image is displayed within Evoto. It has no impact on the quality or resolution of exported images.
 
-#### File Size Changes After Export
+##### File Size Changes After Export
 
 You may notice a difference in file size after exporting an image from Evoto. This is expected behavior and is typically due to the following:
 - Evoto uses optimized image processing algorithms that can alter the internal pixel structure during editing.
 - These changes may result in smaller or larger file sizes depending on the content, export format, and settings used.
 
 Despite file size variations, the exported image will always maintain the quality and resolution specified by your export configuration.
-#### Exported Image Not Found in Destination Folder
+##### Exported Image Not Found in Destination Folder
 
 If an exported image does not appear in the selected folder, the issue is likely related to file permissions.
 - **Please check the following:**
@@ -316,6 +316,6 @@ If an exported image does not appear in the selected folder, the issue is likely
 - Some external drives or system-managed folders (e.g., system folders, network drives) may restrict write access, allowing only read access by default.
 - Ensure that Evoto has the necessary write permissions for the selected export location. Granting full write access to the target folder or choosing a different, less restricted export destination typically resolves this issue.
 
-#### Export Error Codes
+##### Export Error Codes
 
 If you encounter an error during export, please contact our support team at **support@evoto.ai**. To help us resolve the issue faster, kindly include a screenshot of the error code in your Export List.

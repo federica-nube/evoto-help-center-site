@@ -21,7 +21,7 @@ The Facial Expression tools in Evoto allow you to subtly adjust and enhance faci
 
 ---
 
-### Gummy Smile
+#### Gummy Smile
 
 This tool provides precise control over the amount of gum visible when a subject smiles by adjusting the upper lip position. It is particularly useful for reducing the appearance of a “gummy smile” or minimizing the protrusion of teeth.
 

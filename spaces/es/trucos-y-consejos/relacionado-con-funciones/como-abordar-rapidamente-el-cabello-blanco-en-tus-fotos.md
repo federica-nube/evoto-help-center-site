@@ -18,7 +18,7 @@ Evoto proporciona un potente conjunto de herramientas impulsadas por IA para ref
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-15.47.50-145x300.png)
 
-### Suavizado y Estilizado
+#### Suavizado y Estilizado
 
 Estas herramientas están diseñadas para suavizar y controlar el cabello, dándole una apariencia más refinada y estilizada.
 
@@ -26,7 +26,7 @@ Estas herramientas están diseñadas para suavizar y controlar el cabello, dánd
 - **Controlar Cabello Encrespado:** Una subfunción dedicada que reduce los mechones desordenados o encrespados, particularmente dentro del área principal del cabello, para un aspecto más limpio y refinado.
 - **Mejora del Brillo del Cabello:** Esta herramienta añade un brillo de realce natural al cabello, mejorando la profundidad y dimensión mediante ajustes suaves de iluminación. Es ideal para mejorar looks brillantes o estilizados.
 
-### Refinamientos de Color y Tono
+#### Refinamientos de Color y Tono
 
 Evoto ofrece dos herramientas específicas para corregir y mejorar el color del cabello.
 

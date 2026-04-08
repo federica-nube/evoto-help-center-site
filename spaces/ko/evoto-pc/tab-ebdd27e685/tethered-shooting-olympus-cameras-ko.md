@@ -28,7 +28,7 @@ source_assets:
   - "https://res.evoto.ai/wordpress/6d438f0f-7f3a-43d8-b69a-961ca2186b9e.png"
 ---
 
-### 컴퓨터 설정 확인
+#### 컴퓨터 설정 확인
 
 For Windows System For MacOS Operation System Windows 시스템에서는 카메라가 올바른 연결 모드로 설정되어 있는지 확인해 주세요.
 

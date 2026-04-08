@@ -14,15 +14,15 @@ This section provides answers to common questions about Evoto's pricing, plans, 
 
 ---
 
-### Plan Types & Recommendations
+#### Plan Types & Recommendations
 
-#### Does Evoto Offer Enterprise Plans?
+##### Does Evoto Offer Enterprise Plans?
 
 Yes. Evoto provides customized **Enterprise Plans** specifically tailored for large teams, studios, and organizations with high-volume editing needs.
 
 - To request a consultation and discuss a customized solution, please email our sales team at contactus@evoto.ai (as per the main pricing page, ensuring consistency).
 
-#### Should I Choose a Pay‑as‑You‑Go Plan or a Subscription Plan?
+##### Should I Choose a Pay‑as‑You‑Go Plan or a Subscription Plan?
 
 Choosing the right plan depends on your editing volume and consistency. Please check our comprehensive [Pricing Page](https://support.evoto.ai/credit/) for more information.
 
@@ -38,14 +38,14 @@ Choosing the right plan depends on your editing volume and consistency. Please c
 - Choose a **subscription plan** if you use Evoto regularly and have a consistent editing workload.
 - Choose **Pay-as-You-Go credits** if your usage varies significantly from month to month or if you only need credits for specific, infrequent projects.
 
-#### Can I Switch from a Pay‑as‑You‑Go Plan to a Subscription Plan?
+##### Can I Switch from a Pay‑as‑You‑Go Plan to a Subscription Plan?
 
 Yes. You can **upgrade to a subscription plan at any time**.
 
 - The subscription begins immediately upon purchase.
 - Any unused Pay-as-You-Go credits you currently hold remain active and valid for up to **2 years** from their original purchase date, allowing you to use them alongside your new subscription credits.
 
-#### Can I Switch from a Yearly Subscription Plan to a Pay‑as‑You‑Go Package?
+##### Can I Switch from a Yearly Subscription Plan to a Pay‑as‑You‑Go Package?
 
 Not while your annual subscription is active.
 
@@ -56,19 +56,19 @@ Not while your annual subscription is active.
 
 ---
 
-### Payments & Discounts
+#### Payments & Discounts
 
-#### Do You Offer Installment Payment Options?
+##### Do You Offer Installment Payment Options?
 
 No. Installment payment options are currently **not available** for standard plans (Pay-as-You-Go or annual subscriptions).
 
 - If you are considering an **Enterprise Plan**, you may discuss custom payment terms and options directly with your assigned Account Manager.
 
-#### Are There Discounts for Long-Term Commitments?
+##### Are There Discounts for Long-Term Commitments?
 
 No. Evoto currently does **not offer discounts** for multi-year plans. All pricing is based on the plan selected at the time of purchase.
 
-#### Are There Discounts for Students, Nonprofits, or Veterans?
+##### Are There Discounts for Students, Nonprofits, or Veterans?
 
 Not at this time. Special discounts are not currently available for students, nonprofits, or veterans.
 
@@ -76,9 +76,9 @@ Not at this time. Special discounts are not currently available for students, no
 
 ---
 
-### Billing & Refund Policy
+#### Billing & Refund Policy
 
-#### Is Customer Support Available for Billing Questions?
+##### Is Customer Support Available for Billing Questions?
 
 Yes. Our dedicated support team is available to help with any billing inquiries or questions you may have.
 
@@ -87,7 +87,7 @@ You can contact us via:
 - **Email:** support@evoto.ai
 - **In-app chat:** Available directly inside the Evoto application.
 
-#### What Is the Refund Policy for Unused Credits?
+##### What Is the Refund Policy for Unused Credits?
 
 Refunds for unused credits are **generally not provided** due to the nature of software licensing and credit-based services, unless explicitly stated otherwise in our terms.
 
@@ -96,9 +96,9 @@ Refunds for unused credits are **generally not provided** due to the nature of s
 
 ---
 
-### Troubleshooting Payment & Login Issues
+#### Troubleshooting Payment & Login Issues
 
-#### What Should I Do If My Payment Fails (Error Code E-403)?
+##### What Should I Do If My Payment Fails (Error Code E-403)?
 
 If you encounter **Error Code E-403** or experience any other payment failure during a purchase, please try the following steps:
 
@@ -112,7 +112,7 @@ If you encounter **Error Code E-403** or experience any other payment failure du
 
 If you are still having issues after trying these steps, please contact us at support@evoto.ai for further assistance.
 
-#### What Should I Do If the Login Popup Keeps Failing to Load When Making a Purchase?
+##### What Should I Do If the Login Popup Keeps Failing to Load When Making a Purchase?
 
 If the login popup fails to load or causes issues when you're trying to make a purchase, try these troubleshooting steps:
 

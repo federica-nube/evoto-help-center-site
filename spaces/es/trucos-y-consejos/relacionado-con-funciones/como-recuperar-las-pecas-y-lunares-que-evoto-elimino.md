@@ -20,7 +20,7 @@ source_assets:
 
 ---
 
-### Paso 1: Verificar la Eliminación de Imperfecciones
+#### Paso 1: Verificar la Eliminación de Imperfecciones
 
 - Abre tu retrato en **Evoto**.
 - Ve a **Retoque de Retrato → Piel → Eliminación de Imperfecciones**.
@@ -28,7 +28,7 @@ source_assets:
 
 ---
 
-### Paso 2: Usar el Control de Pecas
+#### Paso 2: Usar el Control de Pecas
 
 - Navega a **Retoque de Retrato → Piel → Pecas**.
 - Aumenta el control deslizante para recuperar algunas pecas de aspecto natural.
@@ -36,7 +36,7 @@ source_assets:
 
 ---
 
-### Paso 3: Pincel de Ajuste Manual (Control Preciso)
+#### Paso 3: Pincel de Ajuste Manual (Control Preciso)
 
 - Selecciona el **Pincel de Ajuste Manual** de la barra de herramientas.
 
@@ -55,6 +55,6 @@ source_assets:
 
 ---
 
-### Consejo Pro: El Equilibrio es Clave
+#### Consejo Pro: El Equilibrio es Clave
 
 - Usa las tres herramientas juntas—**eliminación de imperfecciones, control de pecas y pincel de ajuste manual**—para lograr un aspecto natural.

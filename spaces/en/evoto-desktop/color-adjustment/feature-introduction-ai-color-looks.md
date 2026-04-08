@@ -61,12 +61,12 @@ source_assets:
   - "https://res.evoto.ai/community/post/5mFVAxp1Lef.jpg"
 ---
 
-### What Is “AI Color Looks"?
+#### What Is “AI Color Looks"?
 
 AI Color Looks in Evoto is your effortless solution for achieving professional-grade color adjustments in just one click. Powered by advanced algorithms, this feature analyzes each photo’s unique characteristics and applies a carefully designed “Look” that enhances vibrancy, balance, and depth—without compromising the natural feel of the image. Whether you're working with a single image or a batch of photos, AI Color Looks helps you achieve polished, consistent results quickly and easily.
 ---
 
-### How It Works
+#### How It Works
 
 AI Color Looks uses intelligent processing to analyze and adapt to each image’s content. Here’s what sets it apart:
 - **Natural Adaptation:** Every photo is different. The AI evaluates lighting, tone, and subject to make tailored color enhancements that preserve your image's natural character.
@@ -79,7 +79,7 @@ AI Color Looks uses intelligent processing to analyze and adapt to each image’
 
 ---
 
-### Applying AI Color Looks
+#### Applying AI Color Looks
 
 To apply a Look: 1. Open the AI Color Looks Extension Panel.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/截屏2025-06-04-19.01.48-300x121.png)
@@ -105,7 +105,7 @@ The AI Color Looks go beyond global adjustments. The system intelligently highli
 This helps ensure the subject stands out clearly, with accurate skin tones and a natural look—even when using highly stylized Looks.
 ---
 
-### Batch Processing for a Consistent Style
+#### Batch Processing for a Consistent Style
 
 Need consistent results across multiple photos? AI Color Looks supports efficient batch processing , enabling:
 - Uniform color grading across a set of images
@@ -124,9 +124,9 @@ Traditional Looks apply adjustments globally, which can unintentionally alter sk
 This results in more accurate, subject-aware edits which is especially useful for portraits, weddings, and people-centric photography.
 ---
 
-### Available AI Color Looks
+#### Available AI Color Looks
 
-#### Neutral
+##### Neutral
 
 Characteristics: A highly versatile natural tone with a balanced, neutral color profile. Great for correcting exposure or color cast issues. Recommended For: Batch color calibration across various scenarios and environments.
 ![](https://res.evoto.ai/wordpress/cefc8066-27df-41aa-8c52-c469592c1f42.png)
@@ -139,7 +139,7 @@ Characteristics: A highly versatile natural tone with a balanced, neutral color 
 
 ---
 
-#### Vivid Light
+##### Vivid Light
 
 Characteristics: Retains a neutral tone while enhancing brightness and vividness. Characters remain transparent and lively, with high contrast and saturation. Recommended For: Outdoor weddings, wedding dresses, portraits, infant photography, and more.
 ![](https://res.evoto.ai/wordpress/c0d6843b-a83d-428a-a495-f60e66fd637a.jpg)
@@ -152,7 +152,7 @@ Vivid Light After
 
 ---
 
-#### Pure Love
+##### Pure Love
 
 Characteristics: A bright, low-contrast style with warm pinkish tones that exude romance. Recommended For: Outdoor weddings, lifestyle shoots, and vlogs.
 ![](https://res.evoto.ai/wordpress/760132b8-6b19-45fd-8b9f-5c2af3d1424e.png)
@@ -165,7 +165,7 @@ Pure Love After
 
 ---
 
-#### Clear Nature
+##### Clear Nature
 
 Characteristics: Warm tones, bright visuals, strong contrast, and vivid saturation. Recommended For: Outdoor scenes like family portraits, graduations, and weddings. Avoid dark indoor images or photos with heavy black areas.
 ![](https://www.gitbook.com/cdn-cgi/image/dpr=2,width=760,onerror=redirect,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FcRq1XbAfhFZuPGUnduTS%252Fuploads%252FBREYu2GUKpTjaJYF6zce%252Fimage.png%3Falt%3Dmedia%26token%3D73522b60-10e5-4539-b50f-9b6c64f75fb6)
@@ -178,7 +178,7 @@ Characteristics: Warm tones, bright visuals, strong contrast, and vivid saturati
 
 ---
 
-#### Vibrant Warmth
+##### Vibrant Warmth
 
 **Characteristics:** Warm, bright tones with high contrast and saturation. Produces vibrant, energetic imagery. **Recommended For:** Outdoor settings such as family portraits, graduations, and weddings. *Avoid use in dim indoor scenes or images with excessive dark tones.
 
@@ -201,7 +201,7 @@ Characteristics: Light and airy style with soft contrast. Creates a warm and gen
 
 **Bright Blossoms After**
 
-#### Bright Minimal
+##### Bright Minimal
 
 Characteristics: High contrast with a clean, minimalist tone. Offers a sharp and vibrant highlight-focused aesthetic. Recommended For: Fashion portraits and minimalist wedding shoots, both indoors and outdoors.
 ![](https://res.evoto.ai/wordpress/9a2743ea-d890-4c5b-9b37-faac51c6e142.png)
@@ -212,7 +212,7 @@ Characteristics: High contrast with a clean, minimalist tone. Offers a sharp and
 
 **Bright Minimal After**
 
-#### Elegant Shades
+##### Elegant Shades
 
 Characteristics: Soft contrast with balanced exposure, preserving details in highlights and shadows. Feels fresh and serene. Recommended For: Fashion portraits and Korean-style wedding photography.
 ![](https://res.evoto.ai/wordpress/711ef6ff-d846-4f02-ad4b-0b28f1c2b361.png)
@@ -223,7 +223,7 @@ Characteristics: Soft contrast with balanced exposure, preserving details in hig
 
 **Elegant Shades After**
 
-#### Olive Green Film
+##### Olive Green Film
 
 Characteristics: Handles sunlight and greenery well with classic film-inspired tones. Recommended For: Daylight outdoor scenes or colorful indoor environments.
 ![](https://res.evoto.ai/wordpress/46a164f2-8fd0-420a-b6c8-a0b5a4377101.png)
@@ -234,7 +234,7 @@ Characteristics: Handles sunlight and greenery well with classic film-inspired t
 
 **Olive Green Film After**
 
-#### Nile Blue Film
+##### Nile Blue Film
 
 Characteristics: Cool and soft film tones for a delicate, gentle visual style. Recommended For: Portraits and landscapes of all types
 ![](https://res.evoto.ai/wordpress/ef623907-8cc5-4fe5-a296-73678b8c976f.png)
@@ -245,7 +245,7 @@ Characteristics: Cool and soft film tones for a delicate, gentle visual style. R
 
 **Nile Blue Film After**
 
-#### Dawn Voyage
+##### Dawn Voyage
 
 Characteristics: Optimized for natural lighting, delivering elegance and balance. Recommended For: Scenes with varied colors that benefit from harmonized tones.
 ![](https://res.evoto.ai/wordpress/9f41453c-0975-4c88-bfc4-cc7d668dabe9.jpg)
@@ -256,7 +256,7 @@ Characteristics: Optimized for natural lighting, delivering elegance and balance
 
 **Dawn Voyage After**
 
-#### Ember Glow
+##### Ember Glow
 
 Characteristics: Fresh, bright imagery with a soft yellow-green skin tone. Recommended For: Open and minimally composed environments like grasslands and beaches.
 ![](https://res.evoto.ai/wordpress/95c39b91-6536-4129-8124-629f7efd5b68.jpg)
@@ -267,7 +267,7 @@ Characteristics: Fresh, bright imagery with a soft yellow-green skin tone. Recom
 
 **Ember Glow After**
 
-#### Sunshade
+##### Sunshade
 
 Characteristics: Warm yet refreshing tone with a sensitivity to red hues. Recommended For: Grasslands, beaches, and family scenes requiring a cozy mood.
 ![](https://res.evoto.ai/wordpress/06bc7bd9-6043-4442-becd-76b27fcd2828.jpg)
@@ -278,7 +278,7 @@ Characteristics: Warm yet refreshing tone with a sensitivity to red hues. Recomm
 
 **Sunshade After**
 
-#### Golden Ray
+##### Golden Ray
 
 Characteristics: A vintage warmth with pinkish highlights and green-toned shadows for a retro feel. Recommended For: Indoor weddings, warm lighting, and scenes with reds or sunlight.
 ![](https://res.evoto.ai/wordpress/d6483201-0f35-4f47-9899-267548809a0e.jpg)
@@ -289,7 +289,7 @@ Characteristics: A vintage warmth with pinkish highlights and green-toned shadow
 
 **Golden Ray After**
 
-#### Warm & Cozy
+##### Warm & Cozy
 
 Characteristics: Radiates warmth, enhances bronze skin tones, and enriches outdoor greenery. Recommended For: Portraits in studios or natural settings with sunlight and foliage.
 ![](https://res.evoto.ai/wordpress/3687e540-2625-4f9a-b947-c7f3a8456c7c.png)
@@ -300,7 +300,7 @@ Characteristics: Radiates warmth, enhances bronze skin tones, and enriches outdo
 
 **Warm & Cozy After**
 
-#### Warm Cinnamon
+##### Warm Cinnamon
 
 Characteristics: Enhances orange and cyan tones to blend warmth with freshness. Recommended For: Sunny, green outdoor settings, particularly for weddings.
 ![](https://res.evoto.ai/wordpress/022dbd26-0d96-4e23-ac08-0c2d7d9eb126.png)
@@ -311,7 +311,7 @@ Characteristics: Enhances orange and cyan tones to blend warmth with freshness. 
 
 **Warm Cinnamon After**
 
-#### Arctic Blue
+##### Arctic Blue
 
 Characteristics: Cool cyan tones that capture natural elements and evoke a serene, cinematic mood. Recommended For: Portraits expressing solitude or documentary-style storytelling.
 ![](https://res.evoto.ai/wordpress/a659366e-0fed-40f7-8e27-ac1ac7e00a5f.png)
@@ -322,7 +322,7 @@ Characteristics: Cool cyan tones that capture natural elements and evoke a seren
 
 **Arctic Blue After**
 
-#### Luxury Texture
+##### Luxury Texture
 
 Characteristics: Darker tones with strong contrast that maintain realistic skin tones. Recommended For: Commercial, fashion, and indoor studio photography.
 ![](https://res.evoto.ai/wordpress/2aabc147-083b-4cb9-8312-e1ce50904b4b.jpg)
@@ -333,7 +333,7 @@ Characteristics: Darker tones with strong contrast that maintain realistic skin 
 
 **Luxury Texture After**
 
-#### Visual Impact
+##### Visual Impact
 
 Characteristics: Strong color contrast and bold tones that emphasize exaggerated character colors for a striking look. Recommended For: Commercial fashion shoots with vibrant visuals.
 ![](https://res.evoto.ai/wordpress/c156eada-7bd1-469f-8b36-1ad434273ade.png)
@@ -344,7 +344,7 @@ Characteristics: Strong color contrast and bold tones that emphasize exaggerated
 
 **Visual Impact After**
 
-#### Timeless Romance
+##### Timeless Romance
 
 Characteristics: Bright and high-contrast with a rich texture. Combines warm highlights with cool shadows. Greens appear fresh and slightly cool. Recommended For: Outdoor scenes in natural light. Avoid using in dark indoor environments.
 ![signature edits free raws DSC04926(2).jpg](https://res.evoto.ai/community/post/5mFVBHLPD4E.jpg)

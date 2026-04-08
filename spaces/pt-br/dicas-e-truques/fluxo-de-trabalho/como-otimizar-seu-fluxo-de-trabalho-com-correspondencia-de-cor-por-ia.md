@@ -24,7 +24,7 @@ O Correspondência de Cor por IA é um recurso inteligente que permite transferi
 
 ---
 
-### Como Funciona e Como Usar
+#### Como Funciona e Como Usar
 
 O Correspondência de Cor por IA simplifica o processo de correção de cores, deixando a maior parte do trabalho pesado para a IA.
 
@@ -60,7 +60,7 @@ Após selecionar a referência, a IA do Evoto analisa os parâmetros de cor da i
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-11.46.34-121x300.png)
 
-### Sincronização em Lote & Salvando como Preset
+#### Sincronização em Lote & Salvando como Preset
 
 **Sincronização em Lote**
 
@@ -84,7 +84,7 @@ Para salvar suas configurações personalizadas como uma predefinição reutiliz
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-11.47.46-300x250.png)
 
-### Dicas Práticas para Resultados Ótimos
+#### Dicas Práticas para Resultados Ótimos
 
 - **Escolha uma referência consistente:** Para resultados mais precisos, use uma imagem de referência com cena ou estilo semelhante à das imagens alvo. Você pode até usar uma foto já retocada como referência para manter consistência em lote.
 - **Aplicar AI Color Match limpa ajustes anteriores:** Ao aplicar o Correspondência de Cor por IA, todos os ajustes de cor anteriores serão resetados, pois o algoritmo ajusta automaticamente os parâmetros. Você sempre pode usar a função Undo para restaurar efeitos anteriores.

@@ -35,7 +35,7 @@ This feature helps automate repetitive tasks, allowing you to focus on creative 
 
 ---
 
-### How to Set Up Auto Import & Export
+#### How to Set Up Auto Import & Export
 
 Evoto makes it easy to configure this feature in just a few steps.
 
@@ -83,7 +83,7 @@ Start by creating a new project. It is recommended to do this from the beginning
 - Click the **More Settings** icon to customize export settings, including:
 - **Auto Export Interval:** Allows you to set the time interval (ranging from 10 seconds to 1 hour) between auto-export actions.
 - **Image Naming, Quality, and Watermark Settings:** These are the same options as manual export.
-- ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.02.11-300x57.png)
+![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.02.11-300x57.png)
 
 **Start Auto Export:**
 

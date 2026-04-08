@@ -27,7 +27,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-11-at-18.00.29-300x288.png"
 ---
 
-### Manual Tuning Brush
+#### Manual Tuning Brush
 
 The **Manual Tuning Brush** provides pixel-level precision, allowing you to selectively include or exclude specific areas from automated AI adjustments, or to fine-tune edits with greater control.
 
@@ -40,18 +40,18 @@ This setting changes the comparison behavior of the **Before & After** button:
 - **Enabled:** Tapping the **Before & After** button compares your original mask with the modified mask, allowing you to see the brush’s impact on the mask itself.
 - **Disabled:** Tapping the **Before & After** button compares the full image before and after your manual brush adjustments, showing the overall visual change.
 
-#### Keyboard Shortcuts (with External Keyboard)
+##### Keyboard Shortcuts (with External Keyboard)
 
 - **Decrease brush size:** Press [
 - Increase brush size: Press ] Each press adjusts the brush size by 10 units.
 
-#### Apple Pencil Integration
+##### Apple Pencil Integration
 
 When both the **Erase** and **Add Masked Area** brushes are enabled, a quick double-tap on your Apple Pencil will seamlessly switch between these two brush modes. A small brush icon will briefly appear at the center of the screen to indicate the currently active brush.
 
 ---
 
-### Freckle & Acne
+#### Freckle & Acne
 
 ![](https://res.evoto.ai/wordpress/3516600a-e2d0-45bd-b6de-aadc045728a2.png)
 

@@ -21,7 +21,7 @@ source_assets:
 
 Evoto’s powerful skin retouching tools make it easy to achieve a natural, uniform complexion and a healthy glow. Located under the **Skin Retouching** section, these features offer a range of options for enhancing skin tones across the face and body.
 
-### Unify Complexion Sliders
+#### Unify Complexion Sliders
 
 These sliders intelligently adjust skin tone based on where the effect is needed, helping to create a consistent look.
 
@@ -31,7 +31,7 @@ These sliders intelligently adjust skin tone based on where the effect is needed
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.23.27-300x190.png)
 
-### Skin Tone, Radiance & Rosy Complexion Adjustments
+#### Skin Tone, Radiance & Rosy Complexion Adjustments
 
 Evoto provides two additional tools for refining the overall look and feel of the skin, each with a different purpose.
 
@@ -55,7 +55,7 @@ To help you choose the right tool, here's a summary of their core distinctions:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.25.25-300x174.png)
 
-### Additional Tips for Precise Adjustments
+#### Additional Tips for Precise Adjustments
 
 For more precise control, you can also use **Local Mask** adjustments in the **Color Adjustments Module**to fine-tune specific areas.
 

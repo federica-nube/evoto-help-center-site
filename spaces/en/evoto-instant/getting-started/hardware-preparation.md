@@ -14,7 +14,7 @@ Before connecting your camera to Evoto Instant, make sure your hardware setup is
 
 ---
 
-### Required Equipment
+#### Required Equipment
 
 - **A digital camera**
 - Supported brands include Canon, Nikon, Sony, Fujifilm, Panasonic etc.
@@ -29,7 +29,7 @@ Before connecting your camera to Evoto Instant, make sure your hardware setup is
 
 ---
 
-### Step 1: Enable OTG (Android Only)
+#### Step 1: Enable OTG (Android Only)
 
 On Android devices, OTG (On-The-Go) must be enabled for wired connections.
 
@@ -41,7 +41,7 @@ On Android devices, OTG (On-The-Go) must be enabled for wired connections.
 
 ---
 
-### Step 2: Choose the Right Data Cable
+#### Step 2: Choose the Right Data Cable
 
 Different cameras require different cable types. Match your camera’s USB port with the correct cable:
 
@@ -55,7 +55,7 @@ Different cameras require different cable types. Match your camera’s USB port 
 
 ---
 
-### Step 3: Prepare Your Camera
+#### Step 3: Prepare Your Camera
 
 - Ensure the camera is fully charged or connected to external power.
 - For **Canon and Nikon cameras**: format the memory card before connecting — a card with too many images may slow the connection.

@@ -20,7 +20,7 @@ El tono de piel juega un papel vital en la edición de retratos. Con Evoto, pued
 
 ---
 
-### Método 1: Ajuste de Tono de Piel
+#### Método 1: Ajuste de Tono de Piel
 
 Este método te permite ajustar finamente la apariencia de la piel con control manual. Lo encontrarás en: **Retoque de Retrato > Tono de Piel**
 
@@ -36,7 +36,7 @@ Este método te permite ajustar finamente la apariencia de la piel con control m
 
 ---
 
-### Método 2: Máscaras Locales para Ajuste de Piel
+#### Método 2: Máscaras Locales para Ajuste de Piel
 
 Para ediciones más específicas, usa **Máscaras Locales**.
 
@@ -50,7 +50,7 @@ Este método es especialmente útil para corregir parches desiguales o mejorar r
 
 ---
 
-### Unificar Color de Piel con IA
+#### Unificar Color de Piel con IA
 
 Evoto también ofrece herramientas impulsadas por IA que hacen que la unificación del tono de piel sea sencilla. Las encontrarás en: **Retoque de Retrato > Tono de Piel**
 
@@ -73,7 +73,7 @@ Hay **tres controles deslizantes clave**:
 
 ---
 
-### Consejos Profesionales
+#### Consejos Profesionales
 
 - **Comienza sutil**: Aumenta gradualmente los controles deslizantes hasta encontrar el equilibrio natural.
 - **Compara antes/después**: Activa y desactiva la vista previa para asegurar que tus cambios se vean realistas.

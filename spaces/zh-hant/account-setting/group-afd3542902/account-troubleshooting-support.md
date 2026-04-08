@@ -17,7 +17,7 @@ tags:
 
 This section addresses common account issues, outlines how to resolve them, and guides you on reporting bugs or providing feedback.
 
-### What should I do if I forget my password?
+#### What should I do if I forget my password?
 
 If you forget your Evoto account password, you can easily reset it directly through the app or website:
 
@@ -28,7 +28,7 @@ If problems persist after following these steps, contact support via the account
 
 ---
 
-### How can I resolve account issues or errors?
+#### How can I resolve account issues or errors?
 
 If you encounter general account issues or errors, try these troubleshooting steps:
 
@@ -41,7 +41,7 @@ If you encounter general account issues or errors, try these troubleshooting ste
 
 ---
 
-### How do I report bugs or provide account-related feedback?
+#### How do I report bugs or provide account-related feedback?
 
 Your feedback is valuable for improving Evoto. The most effective way to report bugs or get support is through our official channels.
 

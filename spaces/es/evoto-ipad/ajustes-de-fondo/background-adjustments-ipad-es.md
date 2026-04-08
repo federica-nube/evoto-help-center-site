@@ -17,7 +17,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-26-at-14.21.28-300x181.png"
 ---
 
-### Limpiar Fondo Sólido
+#### Limpiar Fondo Sólido
 
 Eliminar Distracciones Detecta y rellena automáticamente elementos no deseados, como huecos en el fondo o objetos no deseados que interfieren en el encuadre contra un fondo de estudio sólido, expandiendo inteligentemente el lienzo para asegurar un resultado sin costuras. Una vez habilitado, Evoto detectará automáticamente si la imagen tiene un fondo de color sólido y si contiene distracciones.
 

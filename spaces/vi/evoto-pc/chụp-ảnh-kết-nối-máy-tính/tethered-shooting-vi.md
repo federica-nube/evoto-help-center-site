@@ -42,15 +42,15 @@ Khi máy ảnh được kết nối thành công, một dấu chấm xanh sẽ x
 
 > Lưu ý: Hiện tại, giao diện chụp ảnh kết nối có dây chủ yếu hỗ trợ các chức năng chụp ảnh và xem trực tiếp. Mặc dù các cài đặt của máy ảnh được hiển thị trong Evoto, nhưng bạn không thể chỉnh sửa chúng trực tiếp từ ứng dụng.
 
-#### Kích hoạt máy ảnh
+##### Kích hoạt máy ảnh
 
 Sau khi đã kết nối máy ảnh thành công, bạn chỉ cần nhấp vào nút chụp (khoanh đỏ) trong giao diện Evoto để chụp ảnh trực tiếp từ máy ảnh đã kết nối của bạn.
 ![](https://res.evoto.ai/wordpress/8e377703-1d48-4843-a8bc-d3f1c5a563cd.jpg)
 
-### Cài đặt chụp ảnh kết nối
+#### Cài đặt chụp ảnh kết nối
 
 Trước khi bắt đầu buổi chụp, hãy thiết lập các cài đặt này để tối ưu hoá quy trình chụp ảnh của bạn.
-#### Bước 1: Cài đặt hiệu ứng chụp
+##### Bước 1: Cài đặt hiệu ứng chụp
 
 Nếu bạn cần áp dụng hiệu ứng cho hình ảnh của mình, bạn có thể chọn:
 - **Đồng bộ với ảnh trước:** Đồng bộ bất kỳ tính năng, hiệu ứng hay cài đặt mà bạn đã áp dụng cho ảnh trước đó với ảnh hiện tại.
@@ -58,7 +58,7 @@ Nếu bạn cần áp dụng hiệu ứng cho hình ảnh của mình, bạn có
 
 ![](https://res.evoto.ai/wordpress/24090bf8-c171-4124-98d1-8c0c3ec8c662.jpg)
 
-##### Xem ảnh trực tiếp khi chụp ảnh kết nối
+###### Xem ảnh trực tiếp khi chụp ảnh kết nối
 
 Chức năng xem ảnh trực tiếp cho phép bạn xem hình ảnh trực tiếp từ máy ảnh ngay trong Evoto khi sử dụng chế độ chụp ảnh kết nối. Tính năng này giúp bạn không cần phải đi lại để xem màn hình LCD của máy ảnh, cho phép bạn chụp và theo dõi bố cục ảnh trực tiếp ngay trong ứng dụng.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250916173351-1536x901-2.jpg)
@@ -78,13 +78,13 @@ Lưu ý quan trọng Khi bạn chuyển từ trang Tinh chỉnh sang Thư viện
 - Các nút vẫn có thể nhấp được và máy ảnh vẫn chụp bình thường.
 - **Lưu ý:** Ở trạng thái này, ảnh được chụp sẽ **không được nhập vào Evoto**, mà chỉ được lưu trong thư mục mà bạn đã thiết lập cho chụp ảnh kết nối.
 
-#### Bước 2: Bộ lọc định dạng Raw/JPEG khi chụp ảnh kết nối
+##### Bước 2: Bộ lọc định dạng Raw/JPEG khi chụp ảnh kết nối
 
 Một bộ lọc định dạng đã được thêm vào Cài đặt nhập trong chế độ chụp ảnh kết nối, cho phép người dùng lọc và nhập hình ảnh dựa trên định dạng của chúng trong quá trình chụp ảnh.
 - Cung cấp hai tùy chọn: JPEG và RAW. Mặc định, cả hai tùy chọn đều được chọn.
 - **Lưu ý:**Nếu máy ảnh của bạn được cài đặt chỉ chụp một định dạng (ví dụ: chỉ JPEG hoặc chỉ RAW), tùy chọn lọc tương ứng trong Evoto sẽ bị khóa và không thể tắt. Khi bạn di chuột qua bộ lọc bị khóa, trên màn hình sẽ hiển thị một tin nhắn để giải thích lý do tại sao bộ lọc đó bị vô hiệu hóa.
 
-#### Bước 3: Cài đặt xem trước
+##### Bước 3: Cài đặt xem trước
 
 Khi đang trong chế độ Chụp ảnh kết nối máy tính, bạn có thể chọn giữa hay chế độ xem trước khác nhau như sau:
 1. **Giữ lựa chọn hiện tại (mặc định):** Tùy chọn này sẽ giữ nguyên hình ảnh bạn đã chọn và không tự động chuyển sang hình ảnh mới nhất.
@@ -92,7 +92,7 @@ Khi đang trong chế độ Chụp ảnh kết nối máy tính, bạn có thể
 
 ![](https://res.evoto.ai/wordpress/1169fb2b-49f5-4327-8edd-a49ddfec9458.jpg)
 
-##### Cửa sổ phụ khi chụp ảnh kết nối
+###### Cửa sổ phụ khi chụp ảnh kết nối
 
 Trong quá trình chụp ảnh, hình ảnh có thể được hiển thị trên màn hình phụ. Điều này rất hữu ích để người mẫu xem lại dáng pose, giúp giao tiếp dễ dàng hơn. Trong giai đoạn chọn lọc ảnh, bạn cũng có thể duyệt và đánh dấu ảnh trên màn hình này, giúp tăng tốc quy trình làm việc.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/8ddd3b48-d80f-466c-96d9-87f3bba9fc39.png)
@@ -102,7 +102,7 @@ Cách sử dụng
 - Khi được bật, một cửa sổ hiển thị phụ sẽ mở ra.
 - Trên cửa sổ này, bạn có thể chọn và đánh dấu hình ảnh theo nhu cầu.
 
-#### Bước 4: Đặt tên tập tin
+##### Bước 4: Đặt tên tập tin
 
 Có bốn cách để đặt tên cho ảnh chụp của bạn.
 - **Tên tập tin gốc:** Sử dụng tên tệp được tạo trực tiếp từ máy ảnh của bạn.
@@ -121,7 +121,7 @@ Có bốn cách để đặt tên cho ảnh chụp của bạn.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-26-at-18.28.12-768x392-1.png)
 
 Lưu ý: Bạn vẫn cần chọn vị trí xuất tệp cho những bức ảnh đã được xử lý hậu kỳ bởi Evoto khi thực hiện xuất ảnh.
-### Chế độ kết nối máy ảnh
+#### Chế độ kết nối máy ảnh
 
 Hiện tại, Evoto sử dụng phương pháp kết nối tự động đối với tất cả các dòng máy ảnh được hỗ trợ. Người dùng không cần phải kết nối máy ảnh một cách thủ công để vào phần tính năng Chụp ảnh kết nối máy tính.
 
@@ -129,14 +129,14 @@ Hiện tại, Evoto sử dụng phương pháp kết nối tự động đối v
 - Bạn có thể nhấp vào "**Ngắt kết nối**" bất kỳ lúc nào để ngắt kết nối máy ảnh khỏi Evoto.
 - **Lưu ý**: Một số máy ảnh có thể yêu cầu người dùng chọn phương pháp kết nối trên máy ảnh (Ví dụ: PC remote, MTP, PTP) để tính năng này hoạt động đúng cách.
 
-### Cài đặt chụp ảnh kết nối máy tính
+#### Cài đặt chụp ảnh kết nối máy tính
 
-#### Cài đặt trên Evoto
+##### Cài đặt trên Evoto
 
 Ở phần Cài đặt Evoto (Preferences) -> Sở thích -> Mục Chụp ảnh kết nối máy tính, bạn có thể chọn cho phép hoặc không cho phép Evoto tự động kết nối với máy ảnh để chụp qua kết nối trực tiếp.
 ![](https://res.evoto.ai/wordpress/10b18a41-1186-4f6f-a012-e64de0b55fd9.png)
 
-#### Cài đặt máy ảnh
+##### Cài đặt máy ảnh
 
 Chúng tôi khuyến khích nên cài đặt máy ảnh của bạn thành Không tự động tắt .
 - Nếu máy ảnh của bạn tự động tắt, Evoto cũng sẽ bị ngắt kết nối với máy tính và bạn sẽ cần kết nối lại cáp USB để kích hoạt lại chế độ chụp qua kết nối trực tiếp.
@@ -152,7 +152,7 @@ Mỗi thương hiệu máy ảnh sẽ có các cài đặt máy ảnh khác nhau
 - [**Thiết lập chụp ảnh kết nối - Panasonic**](https://support.evoto.ai/vi/tethered-shooting-panasonic-vi/)
 - [**Thiết lập chụp ảnh kết nối - Leica**](https://support.evoto.ai/vi/tethered-shooting-leica-vi/)
 
-### Trường hợp bất thường và cách xử lý
+#### Trường hợp bất thường và cách xử lý
 
 **Lỗi kết nối tự động**
 
