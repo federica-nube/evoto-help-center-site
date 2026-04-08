@@ -3,7 +3,7 @@ title: "How to Master Evoto's History Functions"
 source_url: "https://support.evoto.ai/understanding-evotos-history-functions-general-history-liquify-history-and-healing-tool-history/"
 source_type: "post"
 source_id: "1736"
-language: "en"
+language: "zh-hant"
 translation_group: "1736"
 primary_category: "quick-tips"
 secondary_categories:
@@ -17,10 +17,9 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.12.47-139x300.png"
 ---
 
-wp:tadv/classic-paragraph
 Evoto’s History functions provide flexible and intuitive tools for tracking, managing, and refining your edits. These tools include the general History panel, as well as dedicated history modules for the Liquify and Healing features. Understanding how each one works will help you take full control of your editing workflow.
 
-# **General History Panel**
+### General History Panel
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.11.30-146x300.png)
 
@@ -33,7 +32,7 @@ The floating **History** panel serves as the master timeline for all your edits.
 
 **Important:** Edits made using the Liquify or Healing Tool are grouped into a single line item within this panel. If you undo this step, all changes made during that session will be reverted at once.
 
-# **Liquify and Healing Tool Histories**
+### Liquify and Healing Tool Histories
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.12.47-139x300.png)
 
@@ -49,24 +48,23 @@ Once you click **Save** within either the Liquify or Healing Tool panel, all edi
 
 This design gives you precise, session-based control when using Liquify or Healing, while also consolidating your edits for easier management in the main history view. By using both types of history together, you can work more confidently and efficiently—editing with flexibility while maintaining precise control at every stage.
 
-/wp:tadv/classic-paragraph
 evoto-7-1-global-undo-redo
-## Global Undo / Redo in Evoto 7.1
+#### Global Undo / Redo in Evoto 7.1
 
 Evoto 7.1 expands Undo / Redo support beyond simple effect-level edits, helping users recover from more types of common workflow mistakes.
 
-### Expanded support includes
+##### Expanded support includes
 
 - Effect application and synchronization
 - Labeling, filtering, and some selection-state changes
 - Virtual copy creation and deletion
 - Some delete-to-trash actions
 
-### Behavior note
+##### Behavior note
 
 - Batch actions are generally treated as one undo step.
 
-### Current limits
+##### Current limits
 
 - Switching cloud spaces does not support undo or redo.
 - Permanent deletion, file renaming, metadata pull/push updates, and culling auto-tagging are still not supported.

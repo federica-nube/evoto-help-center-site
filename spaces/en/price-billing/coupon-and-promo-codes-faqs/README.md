@@ -5,8 +5,6 @@ source_type: "generated_group"
 source_id: "price-billing/coupon-and-promo-codes-faqs/README.md"
 ---
 
-# Coupon & Promo Codes FAQs
-
 ## In This Section
 
 - [Promo Codes](price-billing/coupon-and-promo-codes-faqs/coupon-code.md)

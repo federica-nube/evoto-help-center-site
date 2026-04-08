@@ -12,10 +12,9 @@ tags:
   - "faq"
 ---
 
-wp:tadv/classic-paragraph
 **This section provides answers to common questions about your Evoto account, including how to sign up, manage your access, and troubleshoot common issues like confirmation emails and password resets.**
 
-# **What Is an Evoto Account?**
+### What Is an Evoto Account?
 
 An Evoto account grants you secure access to our powerful photo editing platform. With an active account, you can:
 
@@ -26,11 +25,11 @@ An Evoto account grants you secure access to our powerful photo editing platform
 
 ---
 
-# **How Do I Sign Up for an Account?**
+### How Do I Sign Up for an Account?
 
 You can easily register for a new Evoto account directly through the Evoto app or via our official website.
 
-#### **Signing Up via the Evoto App**
+###### Signing Up via the Evoto App
 
 1. Download and install the Evoto app from your device's app store.
 2. Open the app and locate the **Sign Up** option from the login screen.
@@ -39,7 +38,7 @@ You can easily register for a new Evoto account directly through the Evoto app o
 5. Enter the **verification code** that is sent to your registered email or phone number.
 6. Click **Log In** to complete the registration process and access your account.
 
-#### **Signing Up via the Evoto Website**
+###### Signing Up via the Evoto Website
 
 1. Go to the official Evoto website at[evoto.ai](https://evoto.ai/).
 2. Click **Sign In** (usually found in the top right corner).
@@ -54,11 +53,11 @@ You can easily register for a new Evoto account directly through the Evoto app o
 
 ---
 
-# **Troubleshooting: Didn’t Receive the Confirmation Email?**
+### Troubleshooting: Didn’t Receive the Confirmation Email?
 
 If you've completed the signup process but haven't received your confirmation email, please try the following steps:
 
-#### **1. Check Spam or Junk Folders**
+###### 1. Check Spam or Junk Folders
 
 Often, confirmation emails can be mistakenly filtered into spam or junk folders. Please check these folders for emails from any of the following senders:
 
@@ -69,11 +68,11 @@ Often, confirmation emails can be mistakenly filtered into spam or junk folders.
 
 If found, mark the email as “Not Spam” or “Not Junk” to ensure future communications are delivered to your inbox.
 
-#### **2. Add Us to Your Whitelist (Safe Sender List)**
+###### 2. Add Us to Your Whitelist (Safe Sender List)
 
 To prevent future delivery issues and ensure Evoto emails always reach your inbox, add the addresses above to your contacts or whitelist/safe sender list. Instructions for common email providers are below:
 
-##### **Gmail**
+###### Gmail
 
 1. Go to **Settings** (gear icon) → **See all settings** → **Filters and Blocked Addresses**.
 2. Click **Create a new filter**.
@@ -81,20 +80,20 @@ To prevent future delivery issues and ensure Evoto emails always reach your inbo
 4. Click **Create filter**.
 5. Check the box for **“Never send it to Spam”** and finalize the filter.
 
-##### **Outlook / Hotmail**
+###### Outlook / Hotmail
 
 1. Go to **Settings** (gear icon) → **View all Outlook settings** → **Mail** → **Junk email**.
 2. Under **Safe senders and domains**, click **+ Add** and enter each of the Evoto noreply addresses listed above individually.
 3. Click **Save**.
 
-##### **Yahoo Mail**
+###### Yahoo Mail
 
 1. Go to **Settings** (gear icon) → **More Settings** → **Filters**.
 2. Click **Add new filters**.
 3. Set rules to move emails from the listed Evoto senders to your Inbox (e.g., set “From” to contains evoto.ai and move to “Inbox”).
 4. Click **Save**.
 
-#### **Still Not Receiving the Email?**
+###### Still Not Receiving the Email?
 
 If none of the above steps resolve the issue, please contact our support team for further assistance:
 
@@ -102,7 +101,7 @@ If none of the above steps resolve the issue, please contact our support team fo
 
 ---
 
-# **What if I forget my password?**
+### What if I forget my password?
 
 If you forget your Evoto account password, you can easily reset it directly through the app or website:
 
@@ -112,12 +111,10 @@ If you forget your Evoto account password, you can easily reset it directly thro
 
 ---
 
-# **How do I log out of my Evoto account?**
+### How do I log out of my Evoto account?
 
 To log out of your Evoto account:
 
 1. Open the Evoto application.
 2. Click on your **account avatar** (usually a blue circle with your initial or profile picture) in the top right corner or sidebar.
 3. From the dropdown menu, select **'Sign Out'** or **'Log Out'**.
-
-/wp:tadv/classic-paragraph

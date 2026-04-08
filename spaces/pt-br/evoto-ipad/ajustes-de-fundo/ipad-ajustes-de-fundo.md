@@ -15,8 +15,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/%E8%83%8C%E6%99%AF3-300x184.jpg"
 ---
 
-wp:tadv/classic-paragraph
-# **Ajustes de Fundo**
+### Ajustes de Fundo
 
 O módulo **Ajustes de Fundo** oferece um conjunto de ferramentas inteligentes projetadas para realçar ou limpar fundos, especialmente em cenários de estúdio com fundos de cor sólida. Essas ferramentas ajudam a refinar a aparência do fundo, remover distrações, unificar a iluminação e melhorar a consistência visual geral.
 
@@ -28,9 +27,9 @@ O grupo de recursos Ajustes de Fundo inclui o seu próprio Ajuste Manual, que pe
 
 ---
 
-# **Refinamento de Fundo Sólido**
+### Refinamento de Fundo Sólido
 
-## **Remoção de Distrações**
+#### Remoção de Distrações
 
 Detecta e remove automaticamente elementos indesejados, como falhas ou objetos intrusivos em fundos de estúdio. A IA preenche essas áreas de forma inteligente e expande a tela para obter uma aparência uniforme
 
@@ -41,9 +40,9 @@ Detecta e remove automaticamente elementos indesejados, como falhas ou objetos i
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/%E8%83%8C%E6%99%AF1-300x196.jpg)
 
-## **Limpar Fundo**
+#### Limpar Fundo
 
-### **Fundo sólido**
+##### Fundo sólido
 
 Esse recurso identifica automaticamente fundos de cor sólida e remove imperfeições com um clique.
 
@@ -57,7 +56,7 @@ Esse recurso identifica automaticamente fundos de cor sólida e remove imperfei�
 
 > Observação: Se a IA identificar incorretamente um fundo sólido como não sólido, você pode alternar manualmente para o Modo Fundo Sólido. Atenção: Sincronizar alterações manuais em imagens com fundos não sólidos pode causar artefatos visuais.
 
-## **Unificar Iluminação**
+#### Unificar Iluminação
 
 Equilibra a iluminação de fundo em ambientes internos com cor sólida, como:
 
@@ -70,22 +69,20 @@ Ao ativar este recurso, são exibidos dois sub-sliders:
 
 - **Valor**– Melhora a consistência do fundo. (0–100)
 - **Luminosidade**– Ajusta o brilho geral do fundo:
-  - Deslize para a direita para clarear
-  - Deslize para a esquerda para escurecer
+- Deslize para a direita para clarear
+- Deslize para a esquerda para escurecer
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/%E8%83%8C%E6%99%AF3-300x184.jpg)
 
 > Dica: Para obter melhores resultados, aplique primeiro a Remoção de Distrações caso o fundo apresente falhas ou obstruções.
 
-# **Remoção de Bandas de Cor**
+### Remoção de Bandas de Cor
 
 Elimina quebras de cor, padrões de moiré, blocos de cor ou ondulações em fundos sólidos.
 
 - É ativada automaticamente quando um fundo de cor sólida é detectado.
 - Não produz efeito em fundos não sólidos.
 
-# **Aprimoramento de Fundo**
+### Aprimoramento de Fundo
 
 Melhora a **saturação** e o **contraste** do fundo por meio de ajustes de cor baseados em IA. Esse recurso aprimora sutilmente o tom geral da imagem, sem alterar a atmosfera cromática original significativamente.
-
-/wp:tadv/classic-paragraph

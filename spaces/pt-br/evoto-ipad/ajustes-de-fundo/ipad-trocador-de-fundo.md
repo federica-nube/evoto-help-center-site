@@ -14,24 +14,23 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/%E6%A8%A1%E5%BC%8F-300x160.jpg"
 ---
 
-wp:tadv/classic-paragraph
 Substitua facilmente o fundo com um clique utilizando o alterador de fundo recomendado integrado do Evoto.
 
 ---
 
-# **Caneta de Ajuste Manual**
+### Caneta de Ajuste Manual
 
 Use a Caneta de Ajuste Manual para pincelar ou apagar o efeito caso partes da imagem sejam editadas incorretamente durante a substituição do fundo.
 
 ---
 
-# **Trocador de Fundo – Recomendado**
+### Trocador de Fundo – Recomendado
 
 Substitua o fundo facilmente com um clique, usando o trocador de fundo recomendado.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/1-300x247.jpg)
 
-## **Área Preservada**
+#### Área Preservada
 
 Ao trocar o fundo, escolha quanto da imagem original deseja manter:
 
@@ -41,9 +40,9 @@ Ao trocar o fundo, escolha quanto da imagem original deseja manter:
 
 ---
 
-# **Opções de Preenchimento de Fundo**
+### Opções de Preenchimento de Fundo
 
-## **Região de Preenchimento**
+#### Região de Preenchimento
 
 Escolha como o novo fundo irá preencher o enquadramento:
 
@@ -52,7 +51,7 @@ Escolha como o novo fundo irá preencher o enquadramento:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/%E4%BD%8D%E7%BD%AE-300x128.jpg)
 
-## **Modo de Preenchimento**
+#### Modo de Preenchimento
 
 Controle como a imagem de fundo se ajusta:
 
@@ -64,7 +63,7 @@ Controle como a imagem de fundo se ajusta:
 
 ---
 
-# **Ferramentas de Ajuste de Detalhes**
+### Ferramentas de Ajuste de Detalhes
 
 Refine a aparência do novo fundo utilizando os seguintes sliders:
 
@@ -74,5 +73,3 @@ Refine a aparência do novo fundo utilizando os seguintes sliders:
 - **Posição Vertical/Horizontal** – Move o fundo (âncora padrão: centro).
 
 > Observação: “Mostrar Âncora d e Sombra” vem ativado por padrão.
-
-/wp:tadv/classic-paragraph

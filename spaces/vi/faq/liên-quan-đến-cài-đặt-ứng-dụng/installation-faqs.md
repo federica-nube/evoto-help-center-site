@@ -3,7 +3,7 @@ title: "Troubleshooting Installation & Antivirus Conflicts"
 source_url: "https://support.evoto.ai/installation-faqs/"
 source_type: "post"
 source_id: "9536"
-language: "en"
+language: "vi"
 translation_group: "6278"
 primary_category: "faq"
 tags:
@@ -11,12 +11,11 @@ tags:
   - "pc"
 ---
 
-wp:tadv/classic-paragraph
 This guide addresses common issues where Evoto might be blocked by your operating system or antivirus software, providing steps to ensure smooth installation and operation.
 
 ---
 
-# **How to fix "Evoto can’t be opened because it was not downloaded from the App Store" error on Mac?**
+### How to fix "Evoto can’t be opened because it was not downloaded from the App Store" error on Mac?
 
 This error occurs when macOS Gatekeeper, a security feature, prevents applications from opening if they are not downloaded from the App Store or identified developers.
 
@@ -34,13 +33,13 @@ To resolve this error, follow these instructions:
 
 ---
 
-# **How do I allow Evoto through Windows Antivirus?**
+### How do I allow Evoto through Windows Antivirus?
 
 Antivirus and anti-malware programs may sometimes flag or restrict Evoto-related processes, preventing the software from running smoothly. By creating an exclusion or whitelist entry, you can ensure Evoto operates without interference.
 
 **Important:** The exact steps and menu paths may vary slightly depending on your antivirus software version. It is recommended to exclude the entire Evoto installation folder (e.g., C:\Program Files\Evoto or C:\Program Files (x86)\Evoto) for comprehensive protection against conflicts.
 
-#### **Windows Defender**
+###### Windows Defender
 
 1. Open **Windows Security** (often found in the notification area or by searching in the Start menu).
 2. Select **Virus & threat protection**.
@@ -52,27 +51,27 @@ Antivirus and anti-malware programs may sometimes flag or restrict Evoto-related
 
 *For more detailed instructions, please refer to:*[*Add an exclusion to Windows Security*](https://www.google.com/search?q=https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-ad47-27b9-e67324b2ce26)
 
-#### **McAfee**
+###### McAfee
 
 1. Open your **McAfee Security software**.
 2. Navigate to **PC Security** (or similar) and then **Firewall**.
 3. Look for **"Internet Connections for Programs"** or **"Program Permissions."**
 4. **If Evoto is in the list:**
-  - Select Evoto and click **Edit** (often at the bottom of the list).
-  - Under **Access**, ensure that **Incoming and Outgoing** is selected, then change the type from **Default** to **Open to all devices**.
-  - *Note: You can also choose to Use designated ports if you know which specific ports Evoto utilizes.*
-  - Click **Save**.
+- Select Evoto and click **Edit** (often at the bottom of the list).
+- Under **Access**, ensure that **Incoming and Outgoing** is selected, then change the type from **Default** to **Open to all devices**.
+- *Note: You can also choose to Use designated ports if you know which specific ports Evoto utilizes.*
+- Click **Save**.
 5. **If Evoto isn't on the list:**
-  - Click **Add**.
-  - Click **Browse** and locate the **Evoto executable file** (e.g., Evoto.exe in the installation folder) to add it.
-  - Select Evoto and click **Open**.
-  - Under **Access**, ensure that **Incoming and outgoing** is selected, then change the type from **Default** to **Open to all devices**.
-  - Click **Save**.
+- Click **Add**.
+- Click **Browse** and locate the **Evoto executable file** (e.g., Evoto.exe in the installation folder) to add it.
+- Select Evoto and click **Open**.
+- Under **Access**, ensure that **Incoming and outgoing** is selected, then change the type from **Default** to **Open to all devices**.
+- Click **Save**.
 6. After making these changes, Evoto should now run without being blocked.
 
 *For more detailed instructions, please refer to:*[*How to exclude files from virus scans on Windows - McAfee*](https://www.google.com/search?q=https://www.mcafee.com/support/%3FarticleId%3DTS100813%26page%3Dshell%26shellPage%3Ddevice-security/firewall/firewall-rules)
 
-#### **Avast**
+###### Avast
 
 1. Open the **Avast user interface** (usually from the notification area or desktop shortcut).
 2. Go to **Settings** (gear icon).
@@ -85,7 +84,7 @@ Antivirus and anti-malware programs may sometimes flag or restrict Evoto-related
 
 *For more detailed instructions, please refer to:*[*Avast Antivirus scan exclusions*](https://support.avast.com/en-us/article/Antivirus-scan-exclusions/)
 
-#### **ESET**
+###### ESET
 
 1. Open **ESET Smart Security** or **ESET NOD32 Antivirus** (from the notification area or desktop shortcut).
 2. Press **F5** to open the **Advanced Setup** window.
@@ -97,7 +96,7 @@ Antivirus and anti-malware programs may sometimes flag or restrict Evoto-related
 
 *For more detailed instructions, please refer to:*[*Exclude an application by name from scanning in ESET Windows home products*](https://www.google.com/search?q=https://support.eset.com/en/kb2779-exclude-an-application-by-name-from-scanning-in-eset-windows-home-products)
 
-#### **Avira**
+###### Avira
 
 1. Right-click on the **Avira icon** in the notification area and temporarily **disable real-time protection**.
 2. Once Evoto is installed, re-enable Avira's real-time protection.
@@ -110,7 +109,7 @@ Antivirus and anti-malware programs may sometimes flag or restrict Evoto-related
 
 *For specific instructions tailored to your Avira product version, please consult Avira's official support documentation.*
 
-#### **Bitdefender**
+###### Bitdefender
 
 1. Open your **Bitdefender security software**.
 2. Click on the **Protection** module.
@@ -123,7 +122,7 @@ Antivirus and anti-malware programs may sometimes flag or restrict Evoto-related
 
 *For more detailed instructions, please refer to:*[*How to exclude files and folders from Bitdefender Antivirus scan*](https://www.google.com/search?q=https://www.bitdefender.com/consumer/support/article/19875/)
 
-#### **Malwarebytes**
+###### Malwarebytes
 
 1. Open **Malwarebytes**.
 2. Select **Settings** (gear icon).
@@ -133,5 +132,3 @@ Antivirus and anti-malware programs may sometimes flag or restrict Evoto-related
 6. Confirm the selection and run the program.
 
 *For more detailed instructions, please refer to:*[*Manage the Allow List in Malwarebytes for Windows v4*](https://www.google.com/search?q=https://support.malwarebytes.com/hc/en-us/articles/360038479534-Manage-the-Allow-List-in-Malwarebytes-for-Windows-v4)
-
-/wp:tadv/classic-paragraph

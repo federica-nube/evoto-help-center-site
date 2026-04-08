@@ -16,7 +16,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/screenshot-20250804-141151.png"
 ---
 
-# Tôi có thể tìm mã giảm giá Evoto ở đâu?
+### Tôi có thể tìm mã giảm giá Evoto ở đâu?
 
 Mã giảm giá Evoto được phát hành thông qua các chương trình khuyến mãi chính thức và thông báo dành cho người đăng ký.
 
@@ -29,20 +29,3 @@ Bạn có thể tìm mã giảm giá hợp lệ qua các kênh sau:
 Để không bỏ lỡ các ưu đãi độc quyền, chúng tôi khuyến khích đăng ký nhận bản tin Evoto và theo dõi blog cùng các trang mạng xã hội chính thức của chúng tôi.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/screenshot-20250804-141151.png)
-
-wp:paragraph
-/wp:paragraph
-wp:paragraph
-/wp:paragraph
-wp:paragraph
-/wp:paragraph
-wp:paragraph
-/wp:paragraph
-wp:paragraph
-/wp:paragraph
-wp:paragraph
-/wp:paragraph
-wp:paragraph
-/wp:paragraph
-wp:paragraph
-/wp:paragraph

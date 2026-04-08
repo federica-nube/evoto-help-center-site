@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-ebdd27e685/README.md"
 ---
 
-# 연결전송 촬영
-
 ## In This Section
 
 - [연결전송 촬영](evoto-pc/tab-ebdd27e685/tethered-shooting-ko.md)

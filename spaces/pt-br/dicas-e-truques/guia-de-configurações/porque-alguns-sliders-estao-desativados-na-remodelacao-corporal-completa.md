@@ -8,12 +8,11 @@ translation_group: "1745"
 primary_category: "sem-categoria"
 ---
 
-wp:tadv/classic-paragraph
 Ao usar o recurso **Remodelação Corporal Completa** no Evoto, você pode notar que alguns sliders estão desativados e inacessíveis. Isso é comum e não indica um erro. Trata-se de uma medida de proteção projetada para garantir ajustes corporais precisos, evitando resultados imprecisos ou indesejados.
 
 ---
 
-# Porque isso acontece?
+### Porque isso acontece?
 
 Os sliders ficam desativados quando o sistema tem dificuldade em reconhecer com precisão certas partes do corpo na imagem atual. Isso normalmente ocorre por dois motivos principais:
 
@@ -24,12 +23,10 @@ Ao desativar os sliders dessas áreas, o sistema garante que qualquer tentativa 
 
 ---
 
-# O que você pode fazer?
+### O que você pode fazer?
 
 Se encontrar sliders desativados, você pode seguir estas etapas para melhorar a situação e contribuir para o desenvolvimento contínuo do produto:
 
 - **Forneça uma imagem melhor:** Use imagens de alta qualidade, com as partes do corpo que deseja ajustar claramente visíveis e bem iluminadas. Uma boa composição ajuda o sistema a detectar e processar o corpo com precisão.
 - **Envie feedback:** Se você encontrar problemas recorrentes de reconhecimento de imagens para determinado tipo de corpo ou postura, envie essas imagens para nós. Esse feedback é valioso e ajuda a equipe a melhorar os algoritmos de reconhecimento corporal e a funcionalidade da **Remodelação Corporal Completa**.
 - **Mantenha-se atualizado:** Estamos continuamente otimizando nossas capacidades de reconhecimento corporal. Ao enviar feedback e usar imagens de alta qualidade, você contribui para o aprimoramento contínuo das nossas ferramentas, proporcionando uma melhor experiência para todos os usuários.
-
-/wp:tadv/classic-paragraph

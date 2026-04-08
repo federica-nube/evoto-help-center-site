@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/ajustes-de-fundo/README.md"
 ---
 
-# Ajustes de Fundo
-
 ## In This Section
 
 - [Ipad - Ajustes de Fundo](evoto-ipad/ajustes-de-fundo/ipad-ajustes-de-fundo.md)

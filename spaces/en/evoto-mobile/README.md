@@ -7,8 +7,6 @@ language: "en"
 translation_group: "7557"
 ---
 
-# Evoto Mobile
-
 ## In This Section
 
 - [How to Start](evoto-mobile/how-to-start/README.md)

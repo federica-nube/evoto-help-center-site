@@ -13,14 +13,13 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2026/01/111-236x300.jpg"
 ---
 
-wp:tadv/classic-paragraph
-# **As imagens editadas com os algoritmos de IA do Evoto podem ser usadas comercialmente?**
+### As imagens editadas com os algoritmos de IA do Evoto podem ser usadas comercialmente?
 
 **Sim.** Os recursos de IA do Evoto não são IA generativa, ou seja, eles não criam conteúdo novo, apenas modificam imagens existentes. Portanto, as edições feitas com o Evoto podem ser usadas comercialmente com segurança.
 
 ---
 
-# **Como posso obter suporte se tiver dúvidas ao usar o Evoto?**
+### Como posso obter suporte se tiver dúvidas ao usar o Evoto?
 
 O Evoto oferece várias formas de assistência e envio de feedback:
 
@@ -40,5 +39,3 @@ O Evoto oferece várias formas de assistência e envio de feedback:
 - Use o sistema de **IM** dentro do aplicativo (Atendimento ao Cliente) para contatar o suporte em tempo real.
 
 ![](https://support.evoto.ai/wp-content/uploads/2026/01/111-236x300.jpg)
-
-/wp:tadv/classic-paragraph

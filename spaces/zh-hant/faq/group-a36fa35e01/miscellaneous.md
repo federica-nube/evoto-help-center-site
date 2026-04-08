@@ -3,7 +3,7 @@ title: "Miscellaneous FAQs"
 source_url: "https://support.evoto.ai/miscellaneous/"
 source_type: "post"
 source_id: "2179"
-language: "en"
+language: "zh-hant"
 translation_group: "2179"
 primary_category: "faq"
 tags:
@@ -18,14 +18,13 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/05/Screenshot-2025-08-13-at-17.13.30-300x287.png"
 ---
 
-wp:tadv/classic-paragraph
-# **Are images edited with Evoto’s AI algorithms allowed for commercial use?**
+### Are images edited with Evoto’s AI algorithms allowed for commercial use?
 
 Yes. Evoto’s AI features are not generative AI, meaning they do not create new content but only modify existing images. Therefore, edits made using Evoto are currently safe for commercial use.
 
 ---
 
-# **How can I get support if I have questions while using Evoto?**
+### How can I get support if I have questions while using Evoto?
 
 Evoto offers multiple ways to get assistance and provide feedback:
 
@@ -45,5 +44,3 @@ Evoto offers multiple ways to get assistance and provide feedback:
 - Use the in-app Instant Messaging (IM) system to contact customer support directly for real-time assistance.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/05/Screenshot-2025-08-13-at-17.13.30-300x287.png)
-
-/wp:tadv/classic-paragraph

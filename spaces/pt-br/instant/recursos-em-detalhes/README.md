@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "instant/recursos-em-detalhes/README.md"
 ---
 
-# Recursos em Detalhes
-
 ## In This Section
 
 - [Gerenciar Seus Projetos](instant/recursos-em-detalhes/gerenciar-seus-projetos.md)

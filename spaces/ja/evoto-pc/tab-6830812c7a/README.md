@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-6830812c7a/README.md"
 ---
 
-# 色補正
-
 ## In This Section
 
 - [色補正機能](evoto-pc/tab-6830812c7a/color-adjustment-feature-modules-ja.md)

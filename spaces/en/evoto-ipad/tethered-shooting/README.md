@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tethered-shooting/README.md"
 ---
 
-# Tethered Shooting
-
 ## In This Section
 
 - [iPad - Wired Tethered Shooting](evoto-ipad/tethered-shooting/wired-tethered-shooting-ipad.md)

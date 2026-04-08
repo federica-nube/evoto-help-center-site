@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-46a7f4db6a/README.md"
 ---
 
-# はじめに
-
 ## In This Section
 
 - [Evoto AI iPad版へようこそ！](evoto-ipad/tab-46a7f4db6a/welcome-to-evoto-ai-ipad-ja.md)

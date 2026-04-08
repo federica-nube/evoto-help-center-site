@@ -7,8 +7,6 @@ language: "en"
 translation_group: "423"
 ---
 
-# Evoto iPad
-
 ## In This Section
 
 - [How to Start](evoto-ipad/how-to-start/README.md)

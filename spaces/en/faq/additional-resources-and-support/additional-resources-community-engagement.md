@@ -21,19 +21,18 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/05/Screenshot-2025-08-13-at-17.13.30-300x287.png"
 ---
 
-wp:tadv/classic-paragraph
 This guide outlines where you can find detailed documentation, connect with the user community, and reach out to the support team for assistance.
 
-# **Finding Information & Community**
+### Finding Information & Community
 
 - **Community Support:**
-  - The **Evoto user Facebook group** is an active community where you can share tips, gain insights, and get inspiration from fellow users.
-  - The [**Evoto Forum**](https://forum.evoto.ai/?sId=fdqneckb) is a space where users and developers share advanced tips, troubleshooting guides, and feature updates.
-  - **Note:** For technical support, please contact our official support channels directly rather than relying solely on community forums.
+- The **Evoto user Facebook group** is an active community where you can share tips, gain insights, and get inspiration from fellow users.
+- The [**Evoto Forum**](https://forum.evoto.ai/?sId=fdqneckb) is a space where users and developers share advanced tips, troubleshooting guides, and feature updates.
+- **Note:** For technical support, please contact our official support channels directly rather than relying solely on community forums.
 - **Official Updates:**
-  - The [**Evoto Blog**](https://blog.evoto.ai/) is regularly updated with news, new feature releases, and deep-dive articles on account management and security.
+- The [**Evoto Blog**](https://blog.evoto.ai/) is regularly updated with news, new feature releases, and deep-dive articles on account management and security.
 
-# **If I can’t get my questions answered by the community, how do I contact support?**
+### If I can’t get my questions answered by the community, how do I contact support?
 
 Evoto offers multiple ways to get assistance and provide feedback:
 
@@ -53,5 +52,3 @@ Evoto offers multiple ways to get assistance and provide feedback:
 - Use the in-app Instant Messaging (IM) system to contact customer support directly for real-time assistance.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/05/Screenshot-2025-08-13-at-17.13.30-300x287.png)
-
-/wp:tadv/classic-paragraph

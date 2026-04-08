@@ -7,8 +7,6 @@ language: "ja"
 translation_group: "6543"
 ---
 
-# エヴォト・インスタント
-
 ## In This Section
 
 - [Getting Started](instant/getting-started-010b85ad56/README.md)

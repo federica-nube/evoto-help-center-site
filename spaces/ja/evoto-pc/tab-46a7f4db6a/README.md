@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-46a7f4db6a/README.md"
 ---
 
-# はじめに
-
 ## In This Section
 
 - [Evotoを始めてみよう](evoto-pc/tab-46a7f4db6a/get-start-ja.md)

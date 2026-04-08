@@ -7,8 +7,6 @@ language: "pt-br"
 translation_group: "6543"
 ---
 
-# Evoto Instantâneo
-
 ## In This Section
 
 - [Configuração](instant/configuração/README.md)

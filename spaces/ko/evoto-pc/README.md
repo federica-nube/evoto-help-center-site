@@ -7,8 +7,6 @@ language: "ko"
 translation_group: "453"
 ---
 
-# Evoto PC
-
 ## In This Section
 
 - [시작하기 가이드](evoto-pc/tab-ed40d7ef2f/README.md)

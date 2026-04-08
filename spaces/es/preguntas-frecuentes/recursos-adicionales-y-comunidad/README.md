@@ -5,8 +5,6 @@ source_type: "generated_group"
 source_id: "preguntas-frecuentes/recursos-adicionales-y-comunidad/README.md"
 ---
 
-# Recursos Adicionales y Comunidad
-
 ## In This Section
 
 - [Recursos Adicionales y Participación en la Comunidad](preguntas-frecuentes/recursos-adicionales-y-comunidad/recursos-adicionales-y-participacion-en-la-comunidad.md)

@@ -12,10 +12,9 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/12/Screenshot-2025-12-17-at-09.44.51.png"
 ---
 
-wp:tadv/classic-paragraph
 Evoto cung cấp công cụ AI mạnh mẽ giúp chỉnh sửa ảnh thú cưng của bạn toàn diện. Tính năng **Tinh chỉnh cơ thể thú cưng** giúp bạn có được các bức ảnh chuyên nghiệp, nhanh chóng bằng cách tự động xóa bỏ các chi tiết gây nhiễu và tinh chỉnh ngoại hình của thú cưng.
 
-# Xóa dây dắt thú cưng
+### Xóa dây dắt thú cưng
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/Screenshot-2025-12-17-at-09.44.51.png)
 
@@ -31,7 +30,7 @@ Công cụ này sẽ tạo ra một tệp mới định dạng **.tsq** và tiê
 - Được tối ưu cho dây dắt thú cưng.
 - Đối với vòng cổ hoặc dây yếm, vui lòng sử dụng công cụ khắc phục để chỉnh sửa thủ công.
 
-# **Xóa lông thừa**
+### Xóa lông thừa
 
 Tự động làm sạch ảnh thú cưng bằng cách loại bỏ những sợi lông tơ, lông xù gây rối. Tính năng này nhanh chóng phát hiện và hạn chế các sợi lông thừa có tần số cao, đồng thời vẫn giữ được kết cấu tự nhiên của bộ lông thú cưng.
 
@@ -41,7 +40,3 @@ Tự động làm sạch ảnh thú cưng bằng cách loại bỏ những sợi
 - **100**: Loại bỏ lông xơ rối ở mức tối đa
 
 **Lưu ý:**Bạn có thể sử dụng cọ chỉnh sửa thủ công để điều chỉnh vùng áp dụng hiệu ứng, giúp kiểm soát chính xác hơn.
-
-/wp:tadv/classic-paragraph
-wp:tadv/classic-paragraph /
-wp:tadv/classic-paragraph /

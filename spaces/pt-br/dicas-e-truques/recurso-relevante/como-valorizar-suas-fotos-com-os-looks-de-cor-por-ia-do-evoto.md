@@ -8,12 +8,11 @@ translation_group: "1755"
 primary_category: "sem-categoria"
 ---
 
-wp:tadv/classic-paragraph
 O recurso inovador Looks de Cor por IA do Evoto foi desenvolvido para melhorar suas fotos com ajustes de cor personalizados, tudo com apenas um clique. Essa ferramenta avançada de IA adapta-se inteligentemente aos elementos específicos de cada imagem, garantindo que o “Look” selecionado se harmonize perfeitamente com a essência original da foto.
 
 ---
 
-# Alcançar Resultados Desejados com Apenas um Click
+### Alcançar Resultados Desejados com Apenas um Click
 
 Com recurso de Looks de Cor por IA, aplicar os efeitos perfeitos da foto não é difíceis. Basta um clique para aplicar o Look desejado, e o algoritmo movido por IA ajusta automaticamente as configurações de cor da foto. Você pode então utilizar o slider de Intensidade para controlar com precisão a força do efeito.
 
@@ -22,7 +21,7 @@ Com recurso de Looks de Cor por IA, aplicar os efeitos perfeitos da foto não é
 
 ---
 
-# Ajustes Inteligentes Personalizados para Sua Foto
+### Ajustes Inteligentes Personalizados para Sua Foto
 
 O Looks de Cor por IA vai além dos ajustes básicos de cor, buscando equilibrar as cores de forma ideal enquanto preserva as qualidades originais da imagem.
 
@@ -31,10 +30,6 @@ O Looks de Cor por IA vai além dos ajustes básicos de cor, buscando equilibrar
 
 ---
 
-# Processamento em Lote Eficiente para Estilo Consistente
+### Processamento em Lote Eficiente para Estilo Consistente
 
 Quando se trabalha com várias fotos que precisam de um Look uniforme, o Looks de Cor por IA oferece uma solução eficiente. É possível realizar processamento em lote rápido, aplicando ajustes de cor consistentes em várias imagens com mínimo esforço. Isso economiza tempo e garante que cada foto mantenha suas características únicas, enquanto adota o estilo de Look desejado.
-
-/wp:tadv/classic-paragraph
-wp:paragraph
-/wp:paragraph

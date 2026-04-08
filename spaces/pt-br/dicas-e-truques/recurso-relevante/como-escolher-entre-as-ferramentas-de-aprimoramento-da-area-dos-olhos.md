@@ -12,28 +12,27 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2026/01/6-1-147x300.jpg"
 ---
 
-wp:tadv/classic-paragraph
 A Seção de **Remoção de Manchas** no Evoto oferece um conjunto poderoso de ferramentas para correções precisas e naturais de diversas imperfeições faciais e corporais. Essas funcionalidades são projetadas para melhorar a aparência geral do sujeito, mantendo cuidadosamente a integridade e o realismo da imagem original.
 
 ---
 
-# Aprimoramentos da Área dos Olhos
+### Aprimoramentos da Área dos Olhos
 
 Evoto disponibiliza **dois sliders específicos** para melhorar a região dos olhos, ajudando a criar um olhar mais descansado e saudável, corrigindo problemas comuns sob os olhos.
 
 ![](https://support.evoto.ai/wp-content/uploads/2026/01/6-1-147x300.jpg)
 
-# Slider Olheiras
+### Slider Olheiras
 
 O slider de **olheiras** foi desenvolvido para reduzir a pigmentação e as sombras sob os olhos, que muitas vezes deixam o sujeito com aparência cansada ou estressada.
 
 - **Como funciona:** Basta arrastar o slider para a direita para clarear gradualmente a região sob os olhos. Esse ajuste ilumina o olhar e reduz sinais de fadiga, criando uma expressão mais vibrante e desperta.
 
-# Slider Bolsas dos Olhos
+### Slider Bolsas dos Olhos
 
 - O slider de **bolsas dos olhos** atua na remoção do inchaço ou flacidez que surge devido à pele solta ou distendida, ajudando a restaurar uma estrutura facial mais suave e descansada.
 
-# **Proteção dos Pálpebras Inferiores**
+### Proteção dos Pálpebras Inferiores
 
 Este slider possui proteção incorporada para a leveza natural das pálpebras inferiores, que contribui para um aspecto jovem e expressivo.
 
@@ -42,5 +41,3 @@ Este slider possui proteção incorporada para a leveza natural das pálpebras i
 ---
 
 Ao utilizar essas ferramentas, você obtém controle preciso sobre a aparência da área dos olhos, podendo corrigir uma ampla variedade de imperfeições comuns e alcançar um resultado natural.
-
-/wp:tadv/classic-paragraph

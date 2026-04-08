@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "trucos-y-consejos/flujo-de-trabajo/README.md"
 ---
 
-# Flujo de Trabajo
-
 ## In This Section
 
 - [Cómo integrar perfectamente Evoto con Lightroom Classic](trucos-y-consejos/flujo-de-trabajo/importar-y-exportar-archivos-lrcat-entre-lightroom-classic-y-evoto.md)

@@ -18,8 +18,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/image-22-300x261.png"
 ---
 
-wp:tadv/classic-paragraph
-# ¿Cómo se puede descargar una factura tras realizar una compra?
+### ¿Cómo se puede descargar una factura tras realizar una compra?
 
 - Iniciar sesión en el [sitio web de Evoto](https://www.evoto.ai/es_Es).
 
@@ -34,7 +33,7 @@ wp:tadv/classic-paragraph
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-25-300x95.png)
 
-# ¿Cómo se puede editar la información que aparece en la factura?
+### ¿Cómo se puede editar la información que aparece en la factura?
 
 Para editar la información de la factura:
 
@@ -48,11 +47,11 @@ A continuación, se podrá actualizar la siguiente información que aparecerá e
 
 > Es importante asegurarse de actualizar estos datos antes de descargar la factura.
 
-# ¿Qué hacer si no se encuentra la factura?
+### ¿Qué hacer si no se encuentra la factura?
 
 En caso de no encontrar la factura, se recomienda contactar con el equipo de soporte a través del correo electrónico: **support@evoto.ai**.
 
-# ¿Cómo añadir un número de IVA al comprar créditos?
+### ¿Cómo añadir un número de IVA al comprar créditos?
 
 Para añadir un número de IVA durante el proceso de compra:
 
@@ -70,12 +69,10 @@ Para añadir un número de IVA durante el proceso de compra:
 
 Una vez añadido, el descuento correspondiente al IVA aparecerá en el resumen del pago en la parte derecha.
 
-# ¿Se puede editar o actualizar el número de IVA después de la compra?
+### ¿Se puede editar o actualizar el número de IVA después de la compra?
 
 Lamentablemente, no es posible editar el número de IVA una vez realizada la compra.
 
-# ¿Qué ocurre si se olvida añadir el número de IVA al finalizar la compra?
+### ¿Qué ocurre si se olvida añadir el número de IVA al finalizar la compra?
 
 En ese caso, se debe contactar con el equipo de soporte a través del correo **support@evoto.ai** para recibir asistencia.
-
-/wp:tadv/classic-paragraph

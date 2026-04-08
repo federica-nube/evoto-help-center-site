@@ -16,8 +16,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/12/11-300x193.jpg"
 ---
 
-wp:tadv/classic-paragraph
-# **Criar uma Nova Predefinição**
+### Criar uma Nova Predefinição
 
 Para criar uma nova predefinição:
 
@@ -31,7 +30,7 @@ Para criar uma nova predefinição:
 
 ---
 
-# **Opções de Filtragem de Efeitos**
+### Opções de Filtragem de Efeitos
 
 Ao salvar uma **predefinição**, você pode filtrar rapidamente quais efeitos incluir:
 
@@ -42,6 +41,10 @@ Isso permite um controle preciso sobre o que cada predefinição contém.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/9-300x225.jpg)
 
-**Gerenciar Suas Predefinições** **Compartilhar, Renomear ou Excluir:** Toque e segure qualquer predefinição para exibir as opções de Compartilhar, Renomear ou Excluir a predefinição. **Recursos Adicionais:** **Importar Predefinições** **Compartilhar Predefinições** **Filtrar Predefinições** **Exibir Tags de Tipo** (por exemplo, identificar predefinições por categoria ou tipo de efeito) **Grupos de Predefinições** Os Grupos de Predefinições ajudam a organizar suas predefinições por tipo de sessão, condições de iluminação ou estilo de edição. Para criar um novo grupo: Toque no ícone **+** no canto superior direito do menu de Predefinições. Selecione **Criar Novo Grupo**. Ao salvar uma nova predefinição, você pode escolher em qual grupo salvá-la para melhor organização. ![](https://support.evoto.ai/wp-content/uploads/2025/12/10-300x194.jpg) **Importar Predefinições** Para importar predefinições de outro dispositivo ou usuário: Toque no ícone **+** no canto superior direito do menu de Predefinições. Selecione **Importar Predefinição(ões)**. Insira o **token da predefinição** fornecido, e a predefinição será adicionada à sua lista **Minhas Predefinições**. ![](https://support.evoto.ai/wp-content/uploads/2025/12/11-300x193.jpg)
+**Gerenciar Suas Predefinições** **Compartilhar, Renomear ou Excluir:** Toque e segure qualquer predefinição para exibir as opções de Compartilhar, Renomear ou Excluir a predefinição. **Recursos Adicionais:** **Importar Predefinições** **Compartilhar Predefinições** **Filtrar Predefinições** **Exibir Tags de Tipo** (por exemplo, identificar predefinições por categoria ou tipo de efeito) **Grupos de Predefinições** Os Grupos de Predefinições ajudam a organizar suas predefinições por tipo de sessão, condições de iluminação ou estilo de edição. Para criar um novo grupo: Toque no ícone **+** no canto superior direito do menu de Predefinições. Selecione **Criar Novo Grupo**. Ao salvar uma nova predefinição, você pode escolher em qual grupo salvá-la para melhor organização.
 
-/wp:tadv/classic-paragraph
+![](https://support.evoto.ai/wp-content/uploads/2025/12/10-300x194.jpg)
+
+**Importar Predefinições** Para importar predefinições de outro dispositivo ou usuário: Toque no ícone **+** no canto superior direito do menu de Predefinições. Selecione **Importar Predefinição(ões)**. Insira o **token da predefinição** fornecido, e a predefinição será adicionada à sua lista **Minhas Predefinições**.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/12/11-300x193.jpg)

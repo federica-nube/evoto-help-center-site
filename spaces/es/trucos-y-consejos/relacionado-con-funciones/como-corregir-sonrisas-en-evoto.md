@@ -19,12 +19,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/10/20251009151121-scaled.jpg"
 ---
 
-wp:tadv/classic-paragraph
 No todos los retratos capturan la sonrisa perfecta, pero con Evoto puedes ajustar y mejorar fácilmente las expresiones para lograr resultados naturales y favorecedores. Este tutorial te guiará sobre cómo corregir sonrisas usando las herramientas de **Gestión de Expresión Facial**, **Blanqueamiento Dental** y **Remodelación Facial** de Evoto.
 
 ---
 
-# Paso 1: Gestiona las Expresiones con Evoto
+### Paso 1: Gestiona las Expresiones con Evoto
 
 Ve a **Retrato > Expresión Facial** para encontrar las herramientas de ajuste de sonrisa. Aquí verás tres controles deslizantes diseñados para controlar qué tan natural o expresiva aparece la sonrisa.
 
@@ -44,7 +43,7 @@ Ve a **Retrato > Expresión Facial** para encontrar las herramientas de ajuste d
 
 ---
 
-# Paso 2: Ilumina la Sonrisa con Blanqueamiento Dental
+### Paso 2: Ilumina la Sonrisa con Blanqueamiento Dental
 
 Una sonrisa no solo depende de la expresión; también brilla más con dientes de aspecto saludable. Evoto incluye una opción de **Blanqueamiento Dental** en las herramientas de Retrato. Con un ajuste rápido, puedes eliminar manchas o tonos amarillos y crear un brillo equilibrado y natural.
 
@@ -52,7 +51,7 @@ Una sonrisa no solo depende de la expresión; también brilla más con dientes d
 
 ---
 
-# Paso 3: Refina el Rostro con Remodelación Facial
+### Paso 3: Refina el Rostro con Remodelación Facial
 
 Después de ajustar la sonrisa, es posible que desees afinar otras características faciales para lograr equilibrio. Ve a **Retrato > Remodelación Facial**.
 
@@ -72,7 +71,7 @@ Aquí hay algunos controles clave que complementan la edición de sonrisas:
 
 ---
 
-# Mejores Prácticas
+### Mejores Prácticas
 
 - **Trabaja Gradualmente**: Los ajustes pequeños a menudo se ven más naturales que los cambios extremos.
 - **Revisa en Múltiples Fotos**: Si estás editando un conjunto (como retratos corporativos), usa la configuración por lotes para mantener consistencia.
@@ -80,8 +79,6 @@ Aquí hay algunos controles clave que complementan la edición de sonrisas:
 
 ---
 
-# Conclusión
+### Conclusión
 
 Con Evoto, corregir sonrisas es rápido, natural y flexible. Ya sea que necesites mejorar una sonrisa sutil, blanquear los dientes o ajustar las características circundantes, las herramientas de **Gestión de Expresión**, **Blanqueamiento Dental** y **Remodelación Facial** te dan todo lo que necesitas para resaltar las mejores sonrisas en tus retratos.
-
-/wp:tadv/classic-paragraph

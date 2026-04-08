@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "meo-thu-thuat/liên-quan-đến-các-tính-năng/README.md"
 ---
 
-# Liên quan đến các tính năng
-
 ## In This Section
 
 - [Cách đạt được tông màu da đồng đều trong evoto](meo-thu-thuat/liên-quan-đến-các-tính-năng/cach-dat-duoc-tong-mau-da-dong-deu-trong-evoto.md)

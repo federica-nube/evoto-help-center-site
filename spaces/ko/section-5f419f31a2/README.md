@@ -7,8 +7,6 @@ language: "ko"
 translation_group: "930"
 ---
 
-# 기업 고객 지원
-
 ## In This Section
 
 - [제목](section-5f419f31a2/group-078b3a1b0a/README.md)

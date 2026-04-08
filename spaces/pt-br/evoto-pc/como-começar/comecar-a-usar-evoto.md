@@ -15,7 +15,6 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/6-1-300x161.jpg"
 ---
 
-wp:tadv/classic-paragraph
 Bem-vindo ao Evoto, um dos editores de fotos com IA mais avançados do mundo!
 
 Nosso objetivo é oferecer aos fotógrafos ferramentas de edição rápidas e inteligentes que eliminam tarefas repetitivas — para que você possa focar na criatividade e no que realmente pretende fazer.
@@ -26,14 +25,14 @@ Vamos começar!
 
 ---
 
-# **Requisitos do Sistema**
+### Requisitos do Sistema
 
-## **Sistema Operacional**
+#### Sistema Operacional
 
 - Windows 7 (x64), Windows 10 (x64), Windows 11 (x64)
 - macOS 10.13 ou superior
 
-## **Hardware**
+#### Hardware
 
 - Mínimo de 8 GB de RAM
 - Processador de 64 bits (x64), 1.2 GHz ou superior
@@ -112,7 +111,7 @@ Para obter as especificações e disponibilidade mais recentes, consulte o site 
 
 ---
 
-# **Baixar e Instalar o Evoto**
+### Baixar e Instalar o Evoto
 
 Para fazer o download do Evoto, acesse a [Página Oficial de Download do Evoto](https://www.evoto.ai/pt/download).
 
@@ -124,7 +123,7 @@ Selecione a versão compatível com o seu dispositivo.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/2-3-300x170.jpg)
 
-## **Versão Beta vs. Versão Estável**
+#### Versão Beta vs. Versão Estável
 
 Você encontrará duas opções de download:
 
@@ -142,7 +141,7 @@ Depois de fazer o download, siga as instruções do seu sistema para concluir a 
 
 ---
 
-## **Criar Sua Conta Evoto**
+#### Criar Sua Conta Evoto
 
 Depois de instalar o Evoto, abra o aplicativo e acesse a tela Entrar (Sign In).
 
@@ -175,5 +174,3 @@ Faça login usando:
 Agora está pronto para explorar todo o poder de edição com IA do Evoto.
 
 Faça login e dê início à sua jornada criativa!
-
-/wp:tadv/classic-paragraph

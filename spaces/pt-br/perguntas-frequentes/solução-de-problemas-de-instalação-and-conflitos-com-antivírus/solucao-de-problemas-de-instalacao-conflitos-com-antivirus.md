@@ -8,12 +8,11 @@ translation_group: "6278"
 primary_category: "sem-categoria"
 ---
 
-wp:tadv/classic-paragraph
 Este guia aborda problemas comuns em que o Evoto pode ser bloqueado pelo sistema operacional ou por softwares antivírus, fornecendo instruções para garantir uma instalação e operação sem problemas.
 
 ---
 
-# Como corrigir o erro “O Evoto não pode ser aberto porque não foi baixado da App Store” no Mac?
+### Como corrigir o erro “O Evoto não pode ser aberto porque não foi baixado da App Store” no Mac?
 
 Esse erro ocorre quando o **Gatekeeper do macOS**, um recurso de segurança, impede a abertura de aplicativos que não foram baixados da App Store ou de desenvolvedores identificados.
 
@@ -31,7 +30,7 @@ Esse erro ocorre quando o **Gatekeeper do macOS**, um recurso de segurança, imp
 
 ---
 
-# **Como permitir o Evoto no antivírus do Windows?**
+### Como permitir o Evoto no antivírus do Windows?
 
 Programas antivírus e anti-malware podem, ocasionalmente, bloquear processos relacionados ao Evoto, impedindo seu funcionamento adequado. Ao criar uma exceção (whitelist), você garante que o Evoto funcione sem interferências.
 
@@ -57,18 +56,18 @@ Para mais detalhes, consulte: [*Add an exclusion to Windows Security*](https://w
 4. **Se o Evoto estiver listado:**
 
 -
-  - Selecione o Evoto e clique em **Editar**.
-  - Em **Acesso**, selecione **Entrada e Saída** (**Incoming and Outgoing**) e altere o tipo de **Padrão** para **Abrir para todos os dispositivos**.
-  - Clique em **Salvar**.
+- Selecione o Evoto e clique em **Editar**.
+- Em **Acesso**, selecione **Entrada e Saída** (**Incoming and Outgoing**) e altere o tipo de **Padrão** para **Abrir para todos os dispositivos**.
+- Clique em **Salvar**.
 
 5.**Se o Evoto não estiver listado:**
 
 -
-  - Clique em **Adicionar**.
-  - Clique em **Procurar** e localize o arquivo `Evoto.exe` (Evoto executable file).
-  - Selecione-o e clique em **Abrir**.
-  - Configure **Entrada e Saída (Incoming and outgoing)**como **Abrir para todos os dispositivos**.
-  - Clique em **Salvar**.
+- Clique em **Adicionar**.
+- Clique em **Procurar** e localize o arquivo `Evoto.exe` (Evoto executable file).
+- Selecione-o e clique em **Abrir**.
+- Configure **Entrada e Saída (Incoming and outgoing)**como **Abrir para todos os dispositivos**.
+- Clique em **Salvar**.
 
 Para mais detalhes, consulte: [*How to exclude files from virus scans on Windows - McAfee*](https://www.google.com/search?q=https://www.mcafee.com/support/%3FarticleId%3DTS100813%26page%3Dshell%26shellPage%3Ddevice-security/firewall/firewall-rules)
 
@@ -129,7 +128,3 @@ Para mais detalhes, consulte: [*How to exclude files and folders from Bitdefende
 6. Confirme a exclusão.
 
 Para mais detalhes, consulte: [*Manage the Allow List in Malwarebytes for Windows v4*](https://www.google.com/search?q=https://support.malwarebytes.com/hc/en-us/articles/360038479534-Manage-the-Allow-List-in-Malwarebytes-for-Windows-v4).
-
-/wp:tadv/classic-paragraph
-wp:paragraph
-/wp:paragraph

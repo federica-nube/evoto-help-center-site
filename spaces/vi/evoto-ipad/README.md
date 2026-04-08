@@ -7,8 +7,6 @@ language: "vi"
 translation_group: "423"
 ---
 
-# Evoto iPad
-
 ## In This Section
 
 - [Bắt đầu](evoto-ipad/bắt-đầu/README.md)

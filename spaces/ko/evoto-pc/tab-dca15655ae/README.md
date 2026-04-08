@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-dca15655ae/README.md"
 ---
 
-# 인물 보정
-
 ## In This Section
 
 - [인물 사진 보정 모듈](evoto-pc/tab-dca15655ae/portrait-retouching-feature-module-ko.md)

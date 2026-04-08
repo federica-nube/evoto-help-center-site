@@ -56,16 +56,15 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/b37daa65-e2dc-4d21-96f9-cd4694c389f6-300x124.png"
 ---
 
-wp:tadv/classic-paragraph
 Evoto's workspace is divided into five main sections to help streamline your workflow and enhance productivity:
 
 [video width="1284" height="720" mp4="https://support.evoto.ai/wp-content/uploads/2025/04/004-Library-Workspace-REV1-compressed.mp4"][/video]
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250424140038-1-300x131.jpg)
 
-# 1. Navigation Section (Top)
+### 1. Navigation Section (Top)
 
-## **Toolbar Buttons**
+#### Toolbar Buttons
 
 - **General Buttons**: Includes options for Export, Export History, Profile, and Purchase.
 
@@ -79,7 +78,7 @@ Evoto's workspace is divided into five main sections to help streamline your wor
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-08-at-20.51.14-300x45.png)
 
-## **Project Search**
+#### Project Search
 
 You can search through projects directly within the Library’s Projects panel using the Search Tool or the following Keyboard Shortcuts:
 
@@ -90,7 +89,7 @@ You can search through projects directly within the Library’s Projects panel u
 
 ---
 
-# **2. Management Section (Left)**
+### 2. Management Section (Left)
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250917154317.jpg)
 
@@ -106,7 +105,7 @@ Includes:
 
 ---
 
-# **3. Gallery Section (Bottom)**
+### 3. Gallery Section (Bottom)
 
 Displays image thumbnails with tools to tag, filter, sort, and view images:
 
@@ -115,8 +114,10 @@ Displays image thumbnails with tools to tag, filter, sort, and view images:
 - **Filtering**: Filter by star rating, color label, flag, edit status, export status, format, aspect ratio, file name, camera, and camera lense. Use the right side of the filmstrip to apply quick marks.
 - **Sorting**: Sort by capture time, edit time, rating, file type, size, or name.
 - **Filter Modes**
-  - **Detail View:** Displays the number of images for each rating, flag, and color label.
-  - **Quick View:** Provides a simplified view for faster browsing. ![](https://support.evoto.ai/wp-content/uploads/2025/04/filter-modes--300x200.jpg)
+- **Detail View:** Displays the number of images for each rating, flag, and color label.
+- **Quick View:** Provides a simplified view for faster browsing.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/filter-modes--300x200.jpg)
 
 - **View Modes**: Choose zoom level and view modes: Single, Comparison, or Reference View.
 
@@ -124,17 +125,17 @@ Displays image thumbnails with tools to tag, filter, sort, and view images:
 
 ---
 
-# 4. Quick Access Section (Right)
+### 4. Quick Access Section (Right)
 
 Displays culling tools, presets, synchronization options, and metadata:
 
-## **Culling**
+#### Culling
 
 Culling Feature is available in the Library panel, support manual and AI-powered Culling. Check more details in [Culling & Organization](https://support.evoto.ai/ai-culling/).
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250917172715.jpg)
 
-## **Presets and Sync**
+#### Presets and Sync
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-08-at-21.01.27-288x300.png)
 
@@ -152,7 +153,7 @@ Culling Feature is available in the Library panel, support manual and AI-powered
 - Clothing & Accessories Adjustment
 - Crop & Rotate
 
-## **Metadata Panel**
+#### Metadata Panel
 
 A Metadata module can be found in the right-hand side of the Library dashboard. This allows users to view, edit, and update image metadata directly within Evoto.
 
@@ -164,15 +165,15 @@ A Metadata module can be found in the right-hand side of the Library dashboard. 
 - Folder Refresh：Updating a folder allows Evoto to synchronize with modifications made in other applications, including:
 
 -
-  - Metadata Updates：Rating systems (stars, flags, color labels)；EXIF and IPTC information
-  - New Photos (automatically imported using Sync Folder)
-  - Missing Photos (automatically removed)
+- Metadata Updates：Rating systems (stars, flags, color labels)；EXIF and IPTC information
+- New Photos (automatically imported using Sync Folder)
+- Missing Photos (automatically removed)
 
 *The right panel can be resized to adjust the workspace layout according to user preference.*
 
 ---
 
-# 5. Image Display Area (Center)
+### 5. Image Display Area (Center)
 
 - **Initial Setup**: If no projects exist, you’ll be prompted to create one.
 
@@ -184,7 +185,7 @@ A Metadata module can be found in the right-hand side of the Library dashboard. 
 
 ---
 
-# **Importing Images**
+### Importing Images
 
 There are a few ways to import images:
 
@@ -206,15 +207,15 @@ There are a few ways to import images:
 
 ---
 
-# **Organizing Projects with Groups in Evoto**
+### Organizing Projects with Groups in Evoto
 
 The **Groups** feature in Evoto helps you keep your projects organized within the Library. By grouping projects together, you can manage a large number of projects more efficiently and maintain a cleaner workspace.
 
-## **Accessing Groups**
+#### Accessing Groups
 
 In the **Library** panel, under the **Projects** tab, you can create and manage groups. Groups act as folders for your projects, allowing you to organize them based on clients, sessions, themes, or any workflow that fits your needs.
 
-## **Creating a Group**
+#### Creating a Group
 
 1. Go to the **Projects** tab in the Library.
 2. Click the **+** button.
@@ -224,7 +225,7 @@ In the **Library** panel, under the **Projects** tab, you can create and manage 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250916212105-scaled.jpg)
 
-## **Adding Projects to a Group**
+#### Adding Projects to a Group
 
 You can assign a new project to a group when it is created.
 
@@ -235,7 +236,7 @@ You can assign a new project to a group when it is created.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250916212324-scaled.jpg)
 
-## **Managing Groups**
+#### Managing Groups
 
 You can manage your groups by right-clicking on a group (or clicking the **⋮** menu on the group tab) to access a menu of management options.
 
@@ -245,15 +246,15 @@ You can manage your groups by right-clicking on a group (or clicking the **⋮**
 - **Expand All Groups:** Expand all project groups in the list.
 - **Delete:** Remove the group. This action does not delete the projects contained within the group.
 
-## **Reorganizing Groups**
+#### Reorganizing Groups
 
 You can easily reorder your groups to suit your workflow. Simply **drag and drop** a group tab to reposition it within the list.
 
 ---
 
-# **File Management**
+### File Management
 
-## **Related Folders**
+#### Related Folders
 
 Folders only display images associated with the selected project.
 
@@ -268,11 +269,11 @@ Folders only display images associated with the selected project.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-08-at-21.26.25-300x121.png)
 
 - **Delete Options:**
-  - **Delete from Evoto**: Removes from the project, including items in Trash. Other projects are unaffected.
-  - **Delete from Disk**: Removes the folder and marks any shared images as missing in other projects. *(Require writing&deleting access to disk)*
-  - ***Note****: Lost folders can be recovered using the Restore function.*
+- **Delete from Evoto**: Removes from the project, including items in Trash. Other projects are unaffected.
+- **Delete from Disk**: Removes the folder and marks any shared images as missing in other projects. *(Require writing&deleting access to disk)*
+- ***Note****: Lost folders can be recovered using the Restore function.*
 
-### **Folder Refresh**
+##### Folder Refresh
 
 Refreshing a folder synchronizes Evoto with any changes made outside the app. This includes:
 
@@ -281,7 +282,7 @@ Refreshing a folder synchronizes Evoto with any changes made outside the app. Th
 
 ---
 
-## **Collections**
+#### Collections
 
 The **Collections** feature in Evoto allows you to group and organize photos from multiple projects without duplicating the original files. This is especially useful when you need to gather specific images for editing, reviewing, or exporting without altering their original project structure.
 
@@ -301,7 +302,9 @@ You can create a new collection using the "+" Button:
 **Adding Images to a Collection**
 
 - **Drag and Drop Method:** Drag images from a project and drop them into a collection.
-- **Include on Creation:** When creating a new collection, select the option to add chosen images directly. ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250916221422-scaled.jpg)
+- **Include on Creation:** When creating a new collection, select the option to add chosen images directly.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/20250916221422-scaled.jpg)
 
 **Sorting Collections**
 
@@ -318,7 +321,7 @@ This ensures that collections are not just organizational tools but also functio
 
 ---
 
-# **View Modes**
+### View Modes
 
 **Quick view shortcuts:**
 
@@ -327,9 +330,13 @@ This ensures that collections are not just organizational tools but also functio
 - **L** – Large Image Mode (supports zooming in/out)
 - **N** – Survey Mode
 
-## ****Grid View (G)****
+#### Grid View (G)
 
-****![](https://support.evoto.ai/wp-content/uploads/2025/04/a8921393-759a-4930-be3a-92560963c944-300x178.png)****
+*
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/a8921393-759a-4930-be3a-92560963c944-300x178.png)
+
+*
 
 **Available Options:**
 
@@ -338,11 +345,13 @@ This ensures that collections are not just organizational tools but also functio
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-13.58.09-300x174.png)
 
-## **Loupe View (L)**
+#### Loupe View (L)
 
-Loupe View provides a way to view a single image at a time, allowing for zooming and detailed inspection.**![](https://support.evoto.ai/wp-content/uploads/2025/04/1ae445dd-c522-45d0-afb7-5ff97fd79eff-300x178.png)**
+Loupe View provides a way to view a single image at a time, allowing for zooming and detailed inspection.
 
-## **Survey View (N)**
+![](https://support.evoto.ai/wp-content/uploads/2025/04/1ae445dd-c522-45d0-afb7-5ff97fd79eff-300x178.png)
+
+#### Survey View (N)
 
 Survey Mode allows for viewing up to 12 images at a time in a side-by-side comparison view.
 
@@ -357,7 +366,7 @@ Survey Mode allows for viewing up to 12 images at a time in a side-by-side compa
 
 ---
 
-# **Canvas Color**
+### Canvas Color
 
 - The Canvas Background color can be changed by right-clicking in the Center Area and selecting the color. This option is available in *Loupe, Survey, and Edit Views*
 - The *Grid View* uses the default canvas color and cannot be changed.
@@ -367,54 +376,54 @@ Survey Mode allows for viewing up to 12 images at a time in a side-by-side compa
 
 ---
 
-# **Image Selection and Navigation**
+### Image Selection and Navigation
 
 - **Single Image**: Click to select.
 - **Multi-Select**:
-  - Shift+Click: Select a range.
-  - Command+Click: Select individual images.
+- Shift+Click: Select a range.
+- Command+Click: Select individual images.
 
 Switch navigation shortcuts:
 
 - **Loupe View (L)**:
-  - ← / ↑ = Previous image
-  - → / ↓ = Next image
+- ← / ↑ = Previous image
+- → / ↓ = Next image
 - **Grid View (G)**:
-  - ← / → = Navigate columns
-  - ↑ / ↓ = Navigate rows
+- ← / → = Navigate columns
+- ↑ / ↓ = Navigate rows
 
 If you press ↑ or ↓ outside the selection range, your selection will be cleared.
 
 ---
 
-# **Image Labeling**
+### Image Labeling
 
 Evoto provides several ways to label, pick, or rate your images. Below are the options with corresponding keyboard shortcuts.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-15.18.49-300x127.png)
 
 - **Color Labels:**
-  - Red - 6
-  - Yellow - 7
-  - Green - 8
-  - Blue - 9
-  - Note: Repeating the same key removes the color label
+- Red - 6
+- Yellow - 7
+- Green - 8
+- Blue - 9
+- Note: Repeating the same key removes the color label
 - **Flag Labels:**
-  - Picked - P
-  - Rejected - X
-  - Remove Flag - U
+- Picked - P
+- Rejected - X
+- Remove Flag - U
 - **Star Ratings:**
-  - ⭐️ - 1
-  - ⭐️⭐️ - 2
-  - ⭐️⭐️⭐️ - 3
-  - ⭐️⭐️⭐️⭐️ - 4
-  - ⭐️⭐️⭐️⭐️⭐️ - 5
-  - Remove ⭐️ Rating - 0 (Zero)
+- ⭐️ - 1
+- ⭐️⭐️ - 2
+- ⭐️⭐️⭐️ - 3
+- ⭐️⭐️⭐️⭐️ - 4
+- ⭐️⭐️⭐️⭐️⭐️ - 5
+- Remove ⭐️ Rating - 0 (Zero)
 - **Batch Labeling:**Labels can be applied to multiple images at once in Grid View only
 
 ---
 
-# **Filtering Images**
+### Filtering Images
 
 You can open or close the filter menu with the keyboard shortcut (**\**).
 
@@ -429,18 +438,18 @@ You can open or close the filter menu with the keyboard shortcut (**\**).
 - Export Status
 - Format (File Type)
 - File Orientation
-  - Landscape
-  - Portrait
-  - Square
+- Landscape
+- Portrait
+- Square
 - File Name (Search Function)
 - Camera
 - Camera Lenses
 
 ---
 
-# **Moving and Copying Images**
+### Moving and Copying Images
 
-## **Moving**
+#### Moving
 
 Actions that change file paths:
 
@@ -457,15 +466,15 @@ Actions that change file paths:
 - Interrupting a bulk move may result in partial success.
 - Permissions, storage space, and file status may affect the operation.
 
-## **Copying**
+#### Copying
 
 Dragging images between projects will copy them, including current effects. Once an image is copied to another project, it can be edited in one without affecting the other.
 
-***![](https://support.evoto.ai/wp-content/uploads/2025/04/bf7c4d55-6c06-483f-b41a-51c170e89424-300x179.png)***
+![](https://support.evoto.ai/wp-content/uploads/2025/04/bf7c4d55-6c06-483f-b41a-51c170e89424-300x179.png)
 
 ---
 
-# **Image Right-Click Options**
+### Image Right-Click Options
 
 Right-clicking an image in *Grid View* will bring up a variety of options. These include:
 
@@ -477,14 +486,14 @@ Right-clicking an image in *Grid View* will bring up a variety of options. These
 - **Set labels or ratings**
 - **Provide feedback -**Use this if you've encountered an issue or unexpected edit result and would like to provide feedback to our technical team.
 - **Delete**
-  - Move to Evoto Bin: Moves the image to the bin within Evoto and can be restored.
-  - Delete from Disk: Will move the file to your computer's trash bin
+- Move to Evoto Bin: Moves the image to the bin within Evoto and can be restored.
+- Delete from Disk: Will move the file to your computer's trash bin
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/9deb976f-448a-4b4f-910e-e6b8ebe4bfe2-300x182.png)
 
 ---
 
-# **Virtual Copy**
+### Virtual Copy
 
 Virtual copies allow users to create multiple independent adjustment versions based on the same underlying image data. Users can preview and compare multiple images side by side on the same page, efficiently evaluate differences, and quickly export the best results.
 
@@ -499,38 +508,26 @@ Virtual copies allow users to create multiple independent adjustment versions ba
 
 - Inherits metadata and tags from the original image, but does not include editing history.
 - Displayed in the grid view of Library workspace as “Copy 1”, “Copy 2”, etc.
-- Remains grouped with the original image for sorting, filtering, and folder movement. (Virtual copies cannot be copied or moved independently.) ![](https://support.evoto.ai/wp-content/uploads/2025/04/copy-300x86.jpg)
+- Remains grouped with the original image for sorting, filtering, and folder movement. (Virtual copies cannot be copied or moved independently.)
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/copy-300x86.jpg)
 - Deleting the original image also deletes its virtual copies; restoring the original image restores all its copies.
 - AI Culling analyzes only the original image; results are synchronized to all virtual copies.
 - During export, virtual copies are considered the same as the original image and are not charged twice.
 
 ---
 
-# Special Cases FAQ
+### Special Cases FAQ
 
-## **Non-Movable File Locations**
+#### Non-Movable File Locations
 
 Folders located in system-protected paths cannot be moved within Evoto. These restrictions help maintain system stability and prevent file access errors.
 
 **The following folders cannot be used as move destinations:**
 
-<table style="border-collapse: collapse; width: 100%; height: 453px;">
-<tbody>
-<tr style="height: 22px;">
-<td style="width: 50%; height: 22px; text-align: left;">Windows</td>
-<td style="width: 50%; height: 22px; text-align: left;">MacOs</td>
-</tr>
-<tr style="height: 431px;">
-<td style="width: 50%; height: 431px; text-align: left;">
-<p>C:\Users\&lt;username&gt;\Desktop</p>
-<p>C:\Users\&lt;username&gt;\Document<br/><br/>C:\Users\&lt;username&gt;\Download<br/><br/>C:\Windows C:\Program Files<br/><br/>C:\Users&lt;username&gt;\AppData<br/><br/>C:\Users&lt;username&gt;\Favorites<br/><br/>C:\Windows\System32<br/><br/>C:\Windows\Temp<br/><br/>C:\ProgramData<br/><br/>C:\Users&lt;username&gt;\Saved Games<br/><br/>C:\Program Files (x86)<br/><br/>C:$Recycle.Bin<br/><br/>C:\Recovery<br/><br/>C:$WINDOWS.~BT or C:$WINDOWS.~WS<br/><br/>C:\System Volume Information</p>
-</td>
-<td style="width: 50%; height: 431px; text-align: left;">/Users/&lt;username&gt;/Desktop<br/><br/>/Users/&lt;username&gt;/Documents<br/><br/>/Users/&lt;username&gt;/Downloads<br/><br/>/System<br/><br/>/Applications<br/><br/>/Library<br/><br/>/bin, /sbin, /usr<br/><br/>/private<br/><br/>/Volumes</td>
-</tr>
-</tbody>
-</table>
+<table style="border-collapse: collapse; width: 100%; height: 453px;"> <tbody> <tr style="height: 22px;"> <td style="width: 50%; height: 22px; text-align: left;">Windows</td> <td style="width: 50%; height: 22px; text-align: left;">MacOs</td> </tr> <tr style="height: 431px;"> <td style="width: 50%; height: 431px; text-align: left;"> <p>C:\Users\&lt;username&gt;\Desktop</p> <p>C:\Users\&lt;username&gt;\Document<br/><br/>C:\Users\&lt;username&gt;\Download<br/><br/>C:\Windows C:\Program Files<br/><br/>C:\Users&lt;username&gt;\AppData<br/><br/>C:\Users&lt;username&gt;\Favorites<br/><br/>C:\Windows\System32<br/><br/>C:\Windows\Temp<br/><br/>C:\ProgramData<br/><br/>C:\Users&lt;username&gt;\Saved Games<br/><br/>C:\Program Files (x86)<br/><br/>C:$Recycle.Bin<br/><br/>C:\Recovery<br/><br/>C:$WINDOWS.~BT or C:$WINDOWS.~WS<br/><br/>C:\System Volume Information</p> </td> <td style="width: 50%; height: 431px; text-align: left;">/Users/&lt;username&gt;/Desktop<br/><br/>/Users/&lt;username&gt;/Documents<br/><br/>/Users/&lt;username&gt;/Downloads<br/><br/>/System<br/><br/>/Applications<br/><br/>/Library<br/><br/>/bin, /sbin, /usr<br/><br/>/private<br/><br/>/Volumes</td> </tr> </tbody> </table>
 
-## **Missing Source Files**
+#### Missing Source Files
 
 - Files were deleted or moved
 - DNGs without original RAW files
@@ -541,29 +538,27 @@ If some files are missing during a move, the valid ones will still transfer. The
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/5cf03036-8008-43b9-909a-9f5e6ae5fe58-300x118.png)
 
-## **Permission Issues**
+#### Permission Issues
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/bed39869-6d7e-4b45-97eb-1a401e2425a9-300x35.png)
 
 - Destination is read-only (e.g., external drives, cloud folders)
 - Evoto cannot write to synced folders like iCloud or Dropbox
 
-## **Storage Limitations**
+#### Storage Limitations
 
 - Not enough space in the destination location
 
-## **Folder Nesting Conflict**
+#### Folder Nesting Conflict
 
 - Cannot drag a folder into its parent or subfolder
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/d13d7a6d-f3da-4d69-9fed-16c6585121e8-300x214.png)
 
-## **Duplicate Folder/File Names**
+#### Duplicate Folder/File Names
 
 - Duplicate names block the move
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/b37daa65-e2dc-4d21-96f9-cd4694c389f6-300x124.png)
 
 - Non-conflicting files will move; no alert is shown for skipped files
-
-/wp:tadv/classic-paragraph

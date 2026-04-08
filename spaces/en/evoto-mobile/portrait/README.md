@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-mobile/portrait/README.md"
 ---
 
-# Portrait
-
 ## In This Section
 
 - [AI Facial Recognition](evoto-mobile/portrait/ai-facial-recognition.md)

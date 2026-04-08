@@ -14,6 +14,8 @@ source_assets:
   - "https://res.evoto.ai/community/post/5iXvjFY75qQ.png"
 ---
 
-# **手の甲の血管**
+### 手の甲の血管
 
-手の補正モジュールが追加され、手の甲の血管を除去・薄くできるスライダーが搭載されました。 ***注意：手の甲の血管を除去する機能は、手の甲以外に前腕にも適用できます。*** ![image.png](https://res.evoto.ai/community/post/5iXvjFY75qQ.png)
+手の補正モジュールが追加され、手の甲の血管を除去・薄くできるスライダーが搭載されました。 ***注意：手の甲の血管を除去する機能は、手の甲以外に前腕にも適用できます。***
+
+![image.png](https://res.evoto.ai/community/post/5iXvjFY75qQ.png)

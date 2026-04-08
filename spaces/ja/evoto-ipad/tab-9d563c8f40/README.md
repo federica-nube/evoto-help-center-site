@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-9d563c8f40/README.md"
 ---
 
-# 美顔補正
-
 ## In This Section
 
 - [肌補正](evoto-ipad/tab-9d563c8f40/blemish-removal-ipad-ja.md)

@@ -13,35 +13,34 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/makeup-149x300.jpg"
 ---
 
-wp:tadv/classic-paragraph
 A IA do Evoto detecta automaticamente o rosto e as áreas relevantes para a aplicação de maquiagem. O recurso **Maquiagem** permite realçar a maquiagem existente ou aplicar novos estilos quando não há maquiagem, oferecendo controle refinado em várias zonas faciais.
 
-**![](https://support.evoto.ai/wp-content/uploads/2025/04/makeup1-167x300.jpg)**
+![](https://support.evoto.ai/wp-content/uploads/2025/04/makeup1-167x300.jpg)
 
 ---
 
-# **Realce**
+### Realce
 
 Adiciona brilho a áreas-chave do rosto para criar uma aparência mais dimensional e luminosa. Use o slider para ajustar a intensidade.
 
-# **Contorno**
+### Contorno
 
 Intensifica sombras e estrutura para definir os traços faciais. Ajuste o slider para aumentar ou suavizar o contorno, criando um visual esculpido.
 
 ---
 
-# **Ajustes Detalhados de Maquiagem**
+### Ajustes Detalhados de Maquiagem
 
 Esses recursos permitem controle preciso sobre a maquiagem original das sobrancelhas, olhos e lábios. Todos os ajustes suportam personalização simétrica ou independente (esquerda/direita), quando aplicável.
 
-## **Maquiagem das Sobrancelhas**
+#### Maquiagem das Sobrancelhas
 
 Realce ou reduza a maquiagem original das sobrancelhas.
 
 - Deslize para a esquerda para reduzir a intensidade da maquiagem.
 - Deslize para a direita para intensificar a maquiagem das sobrancelhas.
 
-## **Maquiagem dos Olhos**
+#### Maquiagem dos Olhos
 
 Aprimore e destaque a aparência da maquiagem dos olhos.
 
@@ -52,7 +51,7 @@ Inclui quatro sub-sliders para ajustes detalhados:
 - **Brilho** – Ajusta a luminosidade geral da maquiagem dos olhos.
 - **Dimensionalidade** – Realça o efeito 3D, tornando os olhos mais destacados.
 
-## **Maquiagem dos Lábios**
+#### Maquiagem dos Lábios
 
 Ajusta a intensidade e aparência do batom.
 
@@ -65,17 +64,17 @@ Inclui quatro sub-sliders para refinamento:
 
 ---
 
-# **Looks de Maquiagem**
+### Looks de Maquiagem
 
 O Evoto oferece uma ampla variedade de looks de maquiagem predefinidos. Você pode escolher substituir ou realçar a maquiagem original. Cada predefinição inclui um **slider de Valor** para ajustar a intensidade da aplicação.
 
-## **Suíte de Maquiagem**
+#### Suíte de Maquiagem
 
 Uma coleção com 22 looks de maquiagem predefinidos, incluindo 3 desenvolvidos para retratos masculinos e 2 para crianças.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/makeup-149x300.jpg)
 
-# **Componentes Individuais de Maquiagem**
+### Componentes Individuais de Maquiagem
 
 Cada componente pode ser aplicado e ajustado de forma independente. Muitos suportam personalização simétrica ou independente (esquerda/direita).
 
@@ -94,5 +93,3 @@ Cada componente pode ser aplicado e ajustado de forma independente. Muitos supor
 - ****Batom****– 15 cores disponíveis. É possível também ajustar a Textura após selecionar uma cor.
 - ****Contorno**** – 6 estilos diferentes de contorno disponíveis para modelar e definir o rosto.
 - ****Decorações Faciais**** – Atualmente, o Evoto oferece 6 opções de decoração facial, todas no estilo sardas.
-
-/wp:tadv/classic-paragraph

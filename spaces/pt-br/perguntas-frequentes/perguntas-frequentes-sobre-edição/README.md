@@ -5,8 +5,6 @@ source_type: "generated_group"
 source_id: "perguntas-frequentes/perguntas-frequentes-sobre-edição/README.md"
 ---
 
-# Perguntas Frequentes sobre Edição
-
 ## In This Section
 
 - [Perguntas Frequentes sobre Edição](perguntas-frequentes/perguntas-frequentes-sobre-edição/perguntas-frequentes-sobre-edicao.md)

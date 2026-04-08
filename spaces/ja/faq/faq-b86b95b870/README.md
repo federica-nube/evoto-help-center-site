@@ -5,8 +5,6 @@ source_type: "generated_group"
 source_id: "faq/faq-b86b95b870/README.md"
 ---
 
-# その他のFAQ
-
 ## In This Section
 
 - [その他のFAQ](faq/faq-b86b95b870/miscellaneous.md)

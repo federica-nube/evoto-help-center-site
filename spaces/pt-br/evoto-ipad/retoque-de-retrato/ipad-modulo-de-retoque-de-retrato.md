@@ -8,12 +8,11 @@ translation_group: "1829"
 primary_category: "sem-categoria"
 ---
 
-wp:tadv/classic-paragraph
 O módulo de retoque de retrato do Evoto no iPad analisa inteligentemente cada foto importada, detectando automaticamente o gênero e a idade dos indivíduos para atribuir tags de personagem personalizadas. Essas tags permitem ajustes direcionados e realistas, adaptados a cada sujeito.
 
 ---
 
-# **Reconhecimento Inteligente de Personagem**
+### Reconhecimento Inteligente de Personagem
 
 Após a importação de uma foto, o Evoto utiliza IA para:
 
@@ -24,7 +23,7 @@ Isso garante que as edições sejam relevantes e naturais para o perfil de cada 
 
 ---
 
-# **Edição Baseada em Personagem**
+### Edição Baseada em Personagem
 
 Os usuários podem aplicar ajustes de retoque personalizados a cada indivíduos de acordo com suas tags de personagem. Ajustes separados podem ser feitos para:
 
@@ -34,11 +33,11 @@ Isso permite edições precisas e apropriadas sem exagerar ou comprometer a apar
 
 ---
 
-# **Reconhecimento Facial por IA**
+### Reconhecimento Facial por IA
 
 O Evoto no iPad agora conta com reconhecimento facial avançado por IA, que detecta automaticamente características faciais e atribui tags de gênero e idade a cada sujeito da foto. Isso possibilita aplicar diferentes edições a diferentes indivíduos e gerenciar os sujeitos com maior precisão.
 
-## **Como Acessar o Reconhecimento Facial**
+#### Como Acessar o Reconhecimento Facial
 
 1. Entre no módulo **Retoque de Retratos**.
 2. Clique no botão **Reconhecimento Facial** no canto superior direito do Painel de Controles.
@@ -47,7 +46,7 @@ O Evoto no iPad agora conta com reconhecimento facial avançado por IA, que dete
 
 Clique fora de qualquer caixa de rosto para desmarcar todos.
 
-## **Gerenciar os Indivíduos**
+#### Gerenciar os Indivíduos
 
 - ****Editar Indivíduo:****Para ajustar manualmente a detecção por IA, expanda as opções acima de uma caixa de rosto selecionada para alterar as tags de gênero e idade.
 - ****Adicionar Indivíduo:****Clique no botão ****Adicionar Rosto****e arraste a caixa de reconhecimento para a posição correta, adicionando um novo sujeito.
@@ -59,7 +58,7 @@ Clique fora de qualquer caixa de rosto para desmarcar todos.
 
 ---
 
-## **Ajustes Individuais**
+#### Ajustes Individuais
 
 O reconhecimento facial do Evoto permite aplicar edições individuais, mas é importante entender como essas edições são salvas.
 
@@ -79,14 +78,14 @@ O botão ****Mostrar Contorno de Rosto**** está ativado por padrão. Desativá-
 
 > Observação: Se um rosto for excluído na interface de Reconhecimento Facial (modificação de idade/gênero), ele não aparecerá novamente nos resultados de Ajuste Individual, mesmo após aplicar o reconhecimento novamente. Para recuperá-lo, é necessário restaurar a imagem original pelo Histórico.
 
-## **Ajustes Vinculados**
+#### Ajustes Vinculados
 
 - Clicar na aba ****Todos****abre o painel de Ajustes Vinculados, permitindo aplicar edições unificadas a todos os grupos de idade e gênero.
 - Se um grupo específico estiver desmarcado, ele será excluído dos ajustes subsequentes.
 
 ---
 
-# **Sincronizar em Lote**
+### Sincronizar em Lote
 
 Após concluir o retoque de um indivíduo ou grupo de personagens, o Evoto permite a sincronização em lote para:
 
@@ -97,7 +96,7 @@ Isso aumenta significativamente a eficiência, especialmente em projetos com mú
 
 ---
 
-# **Principais Benefícios**
+### Principais Benefícios
 
 - **Tags de Personagem Automáticas:** ajustes mais inteligentes e relevantes
 - **Customização por Personagem:** permite edições direcionadas por idade ou gênero
@@ -106,7 +105,7 @@ Isso aumenta significativamente a eficiência, especialmente em projetos com mú
 
 ---
 
-# **Recursos do Módulo de Retoque de Retrato**
+### Recursos do Módulo de Retoque de Retrato
 
 - Remoção de Imperfeições
 - Retoque de Pele
@@ -120,5 +119,3 @@ Isso aumenta significativamente a eficiência, especialmente em projetos com mú
 - Remodelação Corporal Completa
 
 > Observação: Alguns recursos listados estão disponíveis apenas no Evoto Desktop.
-
-/wp:tadv/classic-paragraph

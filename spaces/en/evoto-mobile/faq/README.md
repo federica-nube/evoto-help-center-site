@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-mobile/faq/README.md"
 ---
 
-# FAQ
-
 ## In This Section
 
 - [Color](evoto-mobile/faq/color-adjustments-module.md)

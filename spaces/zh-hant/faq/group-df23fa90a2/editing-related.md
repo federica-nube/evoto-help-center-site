@@ -3,7 +3,7 @@ title: "Edit FAQs"
 source_url: "https://support.evoto.ai/editing-related/"
 source_type: "post"
 source_id: "2173"
-language: "en"
+language: "zh-hant"
 translation_group: "2173"
 primary_category: "faq"
 tags:
@@ -24,12 +24,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/05/截屏2025-05-23-14.02.06-1-271x300.png"
 ---
 
-wp:tadv/classic-paragraph
 This section provides answers to common questions about the editing process in Evoto, including how to manage previews, troubleshoot missing files, and understand preset behavior.
 
 ---
 
-# **Why is the preview size of my photo so small?**
+### Why is the preview size of my photo so small?
 
 The default preview size is automatically set to optimize performance, but you can adjust it to a higher resolution. This change only affects how the image is displayed, not the final export quality.
 
@@ -59,13 +58,13 @@ To change your preview size:
 
 ---
 
-# **Why is the preset token not working?**
+### Why is the preset token not working?
 
 When you import a preset token that was shared by another user, the system may show that the token does not exist if the original owner of that preset has updated or deleted it before you had a chance to import it. Preset tokens are linked to the specific state of a preset when the token was generated.
 
 ---
 
-# **Why don't my retouching effects show during Color Adjustments?**
+### Why don't my retouching effects show during Color Adjustments?
 
 This is a common question, and your edits have not been lost—this is a viewing preference setting. If you begin with **Portrait Retouching** or other detail adjustments and then move to the **Color Adjustments** module, your retouching effects may temporarily disappear.
 
@@ -75,14 +74,12 @@ This is a common question, and your edits have not been lost—this is a viewing
 
 - **Recommendation:** While there’s no mandatory editing sequence, we recommend you conduct color adjustments first and then do the base retouching. This workflow typically prevents effect conflicts and provides a better foundation for your detailed edits.
 
-# Delete photo from disk doesn't delete it from disk?
+### Delete photo from disk doesn't delete it from disk?
 
 This is likely due to access not granted:
 
 - Open **System Settings** (or **System Preferences** if on macOS Monterey or earlier).
 - Go to **Privacy & Security**.
 - In the sidebar, look at:
-  - **Files and Folders**
-  - **Full Disk Access**
-
-/wp:tadv/classic-paragraph
+- **Files and Folders**
+- **Full Disk Access**

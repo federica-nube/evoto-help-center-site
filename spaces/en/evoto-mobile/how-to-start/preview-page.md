@@ -14,7 +14,7 @@ The **Preview Page** in Evoto Mobile is where you view and edit your photos. Thi
 
 ---
 
-# Preview Zoom
+### Preview Zoom
 
 Zoom in and out of your photos for detailed editing or an overview of your work. Use **pinch gestures** on your screen to:
 
@@ -24,18 +24,18 @@ Zoom in and out of your photos for detailed editing or an overview of your work.
 
 ---
 
-# Star Rating
+### Star Rating
 
 Organize your photos by assigning **star ratings** (1-5 stars). This helps you quickly identify your best shots and prioritize which images to edit first.
 
-## How to Rate Photos
+#### How to Rate Photos
 
 1. Open the photo in Preview
 2. Tap the **star icon** in the toolbar
 3. Select your desired star rating (1-5 stars)
 4. Tap again to clear the rating if needed
 
-## Using Star Ratings for Filtering
+#### Using Star Ratings for Filtering
 
 After rating your photos, you can use the **Sort & Filter** feature to:
 
@@ -45,7 +45,7 @@ After rating your photos, you can use the **Sort & Filter** feature to:
 
 ---
 
-# Undo & Redo
+### Undo & Redo
 
 Made a mistake or want to try a different approach? Evoto Mobile 2.0 features enhanced **Undo** and **Redo** functionality:
 
@@ -57,7 +57,7 @@ This allows you to experiment freely without worrying about losing your work.
 
 ---
 
-# History
+### History
 
 View your complete editing history for each photo. The **History** panel in Evoto Mobile 2.0 shows all adjustments you have made, allowing you to:
 
@@ -68,7 +68,7 @@ View your complete editing history for each photo. The **History** panel in Evot
 
 ---
 
-# Sync
+### Sync
 
 Apply your edits from one photo to multiple images with the **Sync** feature. This is perfect for batch editing photos taken in similar conditions. To sync edits:
 
@@ -78,17 +78,17 @@ Apply your edits from one photo to multiple images with the **Sync** feature. Th
 
 ---
 
-# Sort & Filter
+### Sort & Filter
 
 Evoto Mobile 2.0 introduces powerful **Sort & Filter** capabilities to help you manage large photo collections efficiently.
 
-## Filter Options
+#### Filter Options
 
 - **By Star Rating:** Show photos with specific ratings (1-5 stars)
 - **By Edit Status:** Filter edited vs. unedited photos
 - **By Export Status:** Show exported or unexported images
 
-## Sort Options
+#### Sort Options
 
 - **By Name:** Alphabetical ordering (A-Z or Z-A)
 - **By Date:** Sort by capture or import date
@@ -96,7 +96,7 @@ Evoto Mobile 2.0 introduces powerful **Sort & Filter** capabilities to help you 
 
 ---
 
-# Photo Selection & Organization
+### Photo Selection & Organization
 
 Efficiently manage multiple photos with these selection tools:
 
@@ -106,13 +106,13 @@ Efficiently manage multiple photos with these selection tools:
 
 ---
 
-# Import Images
+### Import Images
 
 Add more photos to your project directly from the Preview Page. Tap the import option to bring in additional images from your device's photo library or files without leaving your current editing session.
 
 ---
 
-# Before & After Comparison
+### Before & After Comparison
 
 Compare your edited photo with the original to see your progress. Evoto Mobile offers two ways to view before and after:
 
@@ -123,11 +123,11 @@ This feature helps you evaluate your edits and ensure you achieve the desired re
 
 ---
 
-# Submit Feedback
+### Submit Feedback
 
 Encounter an issue or have a suggestion while editing? Use **Submit Feedback** directly from the Preview Page to report problems or share your ideas with the Evoto team.
 
-## Enhanced Feedback in 2.0
+#### Enhanced Feedback in 2.0
 
 - **Categorized Feedback:** Choose from Bug Report, Feature Request, Performance Issue, or Other
 - **Screenshot Attachment:** Include screenshots to illustrate issues
@@ -135,7 +135,7 @@ Encounter an issue or have a suggestion while editing? Use **Submit Feedback** d
 
 ---
 
-# Tips for Efficient Editing
+### Tips for Efficient Editing
 
 - Use **star ratings** to mark your favorite shots before editing
 - Use **Sort & Filter** to focus on specific groups of photos

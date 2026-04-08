@@ -7,8 +7,6 @@ language: "vi"
 translation_group: "939"
 ---
 
-# Mẹo & Thủ thuật
-
 ## In This Section
 
 - [Qui trình chỉnh sửa ảnh](meo-thu-thuat/qui-trình-chỉnh-sửa-ảnh/README.md)

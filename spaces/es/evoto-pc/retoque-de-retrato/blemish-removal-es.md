@@ -24,7 +24,7 @@ source_assets:
 
 La sección **Eliminación de Imperfecciones** en Evoto permite realizar correcciones precisas y naturales de una amplia gama de imperfecciones faciales y corporales, ayudándote a mantener la integridad y el realismo de la imagen original mientras mejoras su apariencia general.
 
-# Eliminación de Pecas y Acné
+### Eliminación de Pecas y Acné
 
 Evoto utiliza tecnología de IA para eliminar pecas y acné, logrando una piel suave y pulida sin sacrificar la textura natural ni la vitalidad.
 
@@ -32,14 +32,14 @@ Evoto utiliza tecnología de IA para eliminar pecas y acné, logrando una piel s
 
 - Mueve el deslizador o ingresa un valor para controlar la intensidad del efecto.
 - Las pecas y el acné se tratan por separado para un control más preciso.
-  - **Pecas:** Ajusta las pecas en el rostro utilizando el deslizador dedicado.
-  - **Acné:** Usa el deslizador de acné para eliminar manchas o brotes.
+- **Pecas:** Ajusta las pecas en el rostro utilizando el deslizador dedicado.
+- **Acné:** Usa el deslizador de acné para eliminar manchas o brotes.
 
 Los deslizadores individuales de **Pecas y Acné** estarán disponibles únicamente después de activar el interruptor principal de la función.
 
 ---
 
-# Lunar Facial
+### Lunar Facial
 
 Con un solo clic, puedes eliminar los lunares del rostro. Si hay lunares que deseas conservar, utiliza el **Lápiz de Ajuste Manual** (mencionado anteriormente) para restaurarlos.
 
@@ -47,12 +47,12 @@ Con un solo clic, puedes eliminar los lunares del rostro. Si hay lunares que des
 
 ---
 
-# Reducir Brillo Facial
+### Reducir Brillo Facial
 
 Esta herramienta detecta los brillos grasos en el rostro y los minimiza mientras preserva la textura y profundidad natural de la piel.
 ---
 
-# Ojeras
+### Ojeras
 
 El deslizador de **Ojeras** está diseñado para reducir la pigmentación y las sombras debajo de los ojos, que a menudo hacen que los sujetos parezcan cansados o estresados.
 
@@ -60,7 +60,7 @@ El deslizador de **Ojeras** está diseñado para reducir la pigmentación y las 
 
 ---
 
-# Bolsas de los Ojos y Protección del Párpado Inferior
+### Bolsas de los Ojos y Protección del Párpado Inferior
 
 - Elimina la hinchazón o flacidez bajo los ojos que resulta de la piel suelta o inflamada.
 - La protección del **párpado inferior** incluye protección incorporada para la hinchazón natural de los párpados inferiores, lo que contribuye a una apariencia juvenil y expresiva.
@@ -77,20 +77,22 @@ Elimina rápidamente los reflejos causados por las gafas usando un solo deslizad
 
 ---
 
-# Arrugas y Descamación de Labios
+### Arrugas y Descamación de Labios
 
 Repara labios secos o agrietados alisar las líneas y restaurar una forma de labios más llena y definida.
 ![](https://res.evoto.ai/wordpress/29d70b94-c630-4c48-8c96-3128be2773dc.png)
 
-# Papada
+### Papada
 
 Aplica un sutil efecto de licuado y mezcla de sombras para minimizar la apariencia de la papada, manteniendo el realismo facial.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-24-at-16.57.40-300x179.png)
 
-Protección de Barba Evita que la barba se altere accidentalmente durante la eliminación de imperfecciones. Esta función siempre está activa cuando se detecta vello facial. ![](https://res.evoto.ai/wordpress/04c2bcf8-f75b-470f-a2e5-1ce2a1bde1dd.png)
+Protección de Barba Evita que la barba se altere accidentalmente durante la eliminación de imperfecciones. Esta función siempre está activa cuando se detecta vello facial.
 
-# Arrugas Faciales
+![](https://res.evoto.ai/wordpress/04c2bcf8-f75b-470f-a2e5-1ce2a1bde1dd.png)
+
+### Arrugas Faciales
 
 Evoto incluye deslizadores especializados para diferentes zonas de arrugas faciales:
 
@@ -107,7 +109,7 @@ Evoto incluye deslizadores especializados para diferentes zonas de arrugas facia
 
 ---
 
-# Herramientas de Refinamiento Corporal
+### Herramientas de Refinamiento Corporal
 
 Evoto también admite control avanzado de imperfecciones y textura en áreas del cuerpo:
 
@@ -116,11 +118,11 @@ Evoto también admite control avanzado de imperfecciones y textura en áreas del
 - **Arrugas en el Cuello:** Suaviza líneas y pliegues en el cuello.
 - **Retoque de Axilas:** Elimina grasa visible en las axilas y suaviza el área.
 - **Estrías en el Abdomen:** Diseñado para mujeres, este deslizador elimina las estrías alrededor del abdomen.
-  - Incluye un subdeslizador **Línea de Embarazo** para ajustes precisos de la **línea nigra**.
+- Incluye un subdeslizador **Línea de Embarazo** para ajustes precisos de la **línea nigra**.
 
 ---
 
-# **Tatuajes con la Herramienta de Máscara Manual**
+### Tatuajes con la Herramienta de Máscara Manual
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-24-at-17.06.22-300x74.png)
 
@@ -131,11 +133,9 @@ Evoto también admite control avanzado de imperfecciones y textura en áreas del
 
 ---
 
-# Ajuste Manual para Eliminación de Imperfecciones
+### Ajuste Manual para Eliminación de Imperfecciones
 
-La función de eliminación de imperfecciones incluye un
-Lápiz de Ajuste Manual
-que permite pintar o borrar los efectos aplicados a áreas específicas de la foto.
+La función de eliminación de imperfecciones incluye un Lápiz de Ajuste Manual que permite pintar o borrar los efectos aplicados a áreas específicas de la foto.
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-24-at-17.10.29-300x187.png)
 
 - Úsalo para ajustar finamente o revertir mejoras automáticas.

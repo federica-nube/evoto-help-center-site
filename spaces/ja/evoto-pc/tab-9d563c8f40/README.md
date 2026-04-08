@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-9d563c8f40/README.md"
 ---
 
-# 美顔補正
-
 ## In This Section
 
 - [美顔補正機能](evoto-pc/tab-9d563c8f40/portrait-retouching-feature-module-ja.md)

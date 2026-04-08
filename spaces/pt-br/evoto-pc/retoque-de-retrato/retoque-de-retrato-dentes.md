@@ -12,14 +12,13 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/牙齿-229x300.jpg"
 ---
 
-wp:tadv/classic-paragraph
 O módulo **Dentes** foi desenvolvido para realçar a aparência dos dentes em retratos, oferecendo ferramentas para clarear, corrigir e refinar detalhes dentários a fim de obter um sorriso mais limpo e polido. Esses recursos são especialmente úteis para corrigir problemas estéticos comuns, como manchas, desalinhamentos e aparelhos dentários visíveis.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/牙齿-229x300.jpg)
 
 ---
 
-# **Remover Imperfeições Dentárias**
+### Remover Imperfeições Dentárias
 
 Remove automaticamente imperfeições, como aparelhos, manchas ou espaços, preservando a textura natural dos dentes.
 
@@ -31,7 +30,7 @@ Remove automaticamente imperfeições, como aparelhos, manchas ou espaços, pres
 
 ---
 
-# **Clareamento dos Dentes**
+### Clareamento dos Dentes
 
 Ilumina e realça a cor dos dentes. Ao habilitar esta função, dois sub-sliders são ativados:
 
@@ -40,7 +39,7 @@ Ilumina e realça a cor dos dentes. Ao habilitar esta função, dois sub-sliders
 
 ---
 
-# **Alinhamento dos Dentes**
+### Alinhamento dos Dentes
 
 Corrige dentes tortos ou desalinhados para um sorriso mais reto e simétrico.
 
@@ -51,10 +50,8 @@ Corrige dentes tortos ou desalinhados para um sorriso mais reto e simétrico.
 
 ---
 
-# **Dentes Perfeitos (Pretty Teeth)**
+### Dentes Perfeitos (Pretty Teeth)
 
 Para imperfeições mais extensas (ex.: dentes irregulares, uso de aparelho ou ausência de dentes), esta ferramenta gera um conjunto de dentes completo e naturalmente modelado com apenas um clique.
 
 - Ideal para criar dentes uniformes e bem alinhados, com necessidade mínima de ajustes manuais.
-
-/wp:tadv/classic-paragraph

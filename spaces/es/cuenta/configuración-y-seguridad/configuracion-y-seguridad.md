@@ -10,8 +10,7 @@ tags:
   - "cuenta"
 ---
 
-wp:tadv/classic-paragraph
-# ¿Cómo accedo a la configuración de mi cuenta?
+### ¿Cómo accedo a la configuración de mi cuenta?
 
 Puedes acceder a la configuración de tu cuenta tanto desde la aplicación de escritorio o iPad de Evoto como desde el sitio web oficial de Evoto.
 
@@ -41,7 +40,7 @@ Puedes acceder a la configuración de tu cuenta tanto desde la aplicación de es
 - Preferencias de notificaciones por correo electrónico
 - Idioma y configuración de zona horaria
 
-# ¿Cómo cambio mi contraseña?
+### ¿Cómo cambio mi contraseña?
 
 Puedes actualizar tu contraseña desde la app o desde el sitio web oficial.
 
@@ -59,7 +58,7 @@ Puedes actualizar tu contraseña desde la app o desde el sitio web oficial.
 - Crea una nueva contraseña utilizando una combinación de letras, números y símbolos.
 - Guarda los cambios.
 
-# ¿Cómo cambio mi dirección de correo electrónico?
+### ¿Cómo cambio mi dirección de correo electrónico?
 
 **Pasos:**
 
@@ -78,7 +77,7 @@ Puedes actualizar tu contraseña desde la app o desde el sitio web oficial.
 - **Autenticación en dos pasos (2FA):** Si está disponible, activa la 2FA mediante una app de autenticación para mayor protección.
 - **Indicadores de seguridad de contraseña:** Sigue las indicaciones en pantalla para crear contraseñas seguras.
 
-# ¿Qué ajustes de notificaciones y privacidad están disponibles?
+### ¿Qué ajustes de notificaciones y privacidad están disponibles?
 
 **Configuración de notificaciones:**
 
@@ -89,7 +88,7 @@ Personaliza las alertas que deseas recibir, incluyendo:
 - Promociones
 - Notificaciones del sistema
 
-# **¿Cómo gestiono los dispositivos en los que tengo sesión iniciada?**
+### ¿Cómo gestiono los dispositivos en los que tengo sesión iniciada?
 
 Tu plan activo determina cuántos dispositivos pueden tener la sesión iniciada al mismo tiempo.
 
@@ -100,8 +99,6 @@ Tu plan activo determina cuántos dispositivos pueden tener la sesión iniciada 
 - Haz clic en **Eliminar** junto al dispositivo que quieras cerrar sesión.
 - Podrás iniciar sesión nuevamente en ese dispositivo cuando lo necesites.
 
-# **¿Necesitas más ayuda?**
+### ¿Necesitas más ayuda?
 
 Si tienes algún problema relacionado con tu cuenta, no dudes en ponerte en contacto con nosotros en **support@evoto.ai**. Nuestro equipo estará encantado de ayudarte.
-
-/wp:tadv/classic-paragraph

@@ -20,20 +20,18 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/10/Wi-Fi-139x300.png"
 ---
 
-wp:tadv/classic-paragraph /
-wp:tadv/classic-paragraph
 Experience seamless control over your photos with Evoto Mobile’s Wired Tethered Shooting. Connect your camera directly to your device to instantly preview, edit, and manage images in real time—saving time, improving workflow efficiency, and ensuring every shot is captured exactly as intended.
 
-# Compatible Camera Models
+### Compatible Camera Models
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/10/image-7-213x300.png)
 
-# Preparation Before Wired Tethered Shooting
+### Preparation Before Wired Tethered Shooting
 
 - A memory card must be installed in the camera.
 - iOS version must be 15 or above.
 
-## Choosing the Connection Cable
+#### Choosing the Connection Cable
 
 iPhone data ports include Lightning (for iPhone 14 and earlier models) and USB-C (for iPhone 15 and later models). Since Lightning cables do not natively support OTG, a Lightning-to-USB-A adapter with OTG functionality is required.
 
@@ -41,7 +39,7 @@ Camera data ports vary widely; the following list is provided for reference.
 
 ![](https://download.pixcakeai.com/ui/baklib/55ba275d37f7469d67547557db1e66a7.)
 
-## Enabling App Permissions
+#### Enabling App Permissions
 
 After opening Evoto and creating a new project, a prompt saying **“Evoto Would Like to Access the Camera”** will appear. Simply tap **“Allow”**.
 
@@ -53,11 +51,11 @@ You also need to make sure that the “Network” permission is enabled before s
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/10/Wi-Fi-139x300.png)
 
-## Confirming Camera Detection on iPhone
+#### Confirming Camera Detection on iPhone
 
 Open the built-in **Photos** app on your iPhone. If the connected camera device appears as shown in the image, it means the iPhone has successfully connected to the camera.
 
-## Camera Settings
+#### Camera Settings
 
 Specific settings for different camera brands:
 
@@ -69,7 +67,7 @@ Specific settings for different camera brands:
 - [Leica Cameras](https://support.evoto.ai/leica-wired-tethered-shooting-mobile/)
 - [Olympus Cameras](https://support.evoto.ai/olympus-wired-tethered-shooting-mobile/)
 
-# Start Tethered Shooting
+### Start Tethered Shooting
 
 If this is your first time using Evoto or you haven’t created any projects yet, select **Tethered Shooting** on the home page or tap the **Tethered** button at the bottom.
 
@@ -84,29 +82,27 @@ After a successful tethered connection, Evoto provides two options: **Auto Impor
 - **Auto Import During Shooting:** Tap the **Tethered Shooting** button, then select a project on the new page (you can create a new project or choose an existing one). All subsequent photos taken with the camera will be automatically imported into Evoto.
 - **Import Existing Photos from Camera:** Select the photos you want to import from the camera’s photo list. Then choose either **Edit Existing Project** or **Edit New Project** as needed.
 
-# Tethered Shooting Settings
+### Tethered Shooting Settings
 
 **Tethered Shooting Interface Overview**
 
 1. **Back:** Return to the previous menu.
 2. **Undo/Redo:** Undo or redo a step. You can also tap **History** to jump to any previous operation. Additionally, you can reset photo adjustments via the dropdown menu with options: **Reset All Effects**, **Reset Portrait Effects**, and **Reset Color Effects**.
 3. **More Functions:** Includes: **View All Project Photos**, **History**, **Reset Effects**, **Sync to Others**, **Import Photos**, **Tethered Shooting**, **Report Issue**, and **Delete Current Photo**.
-  - **View All Project Photos:** See all photos in the current project. Supports **Import More Photos**, **Delete Photos**, **Batch Sync**, **Export**, **Filter**, and **Sort**.
-  - **History:** View all operations performed on the current photo and jump to any step.
-  - **Sync to Others:** Apply the current photo’s edits to other photos.
-  - **Import Photos:** Import additional photos from your album into the project.
-  - **Tethered Shooting:** Enter the tethered shooting interface.
-  - **Report Issue:** Upload error logs or abnormal information.
-  - **Delete Current Photo:** Permanently delete the current photo (cannot be undone).
+- **View All Project Photos:** See all photos in the current project. Supports **Import More Photos**, **Delete Photos**, **Batch Sync**, **Export**, **Filter**, and **Sort**.
+- **History:** View all operations performed on the current photo and jump to any step.
+- **Sync to Others:** Apply the current photo’s edits to other photos.
+- **Import Photos:** Import additional photos from your album into the project.
+- **Tethered Shooting:** Enter the tethered shooting interface.
+- **Report Issue:** Upload error logs or abnormal information.
+- **Delete Current Photo:** Permanently delete the current photo (cannot be undone).
 4. **Export:** Export selected photos.
 5. **Sync to Others:** Apply the current photo’s edits to other photos.
 6. **Exit:** Exit the **Tethered Shooting** page.
 7. **Next Photo Effect:** Offers three options for new photos: **Sync Previous Photo Effect**, **Apply Preset**, or **No Effect**. If **Apply Preset** is selected, you can choose from official recommended presets or your own presets; subsequent photos will automatically apply this preset.
 8. **Preview Settings:** Two options: **Latest Captured Photo** or **Keep Current Selection**.
-  - **Latest Captured Photo:** Preview automatically shows the newest photo taken.
-  - **Keep Current Selection:** Preview stays on the currently selected photo and does not change with new captures.
+- **Latest Captured Photo:** Preview automatically shows the newest photo taken.
+- **Keep Current Selection:** Preview stays on the currently selected photo and does not change with new captures.
 9. **Imported Photo Format:** Depends on the camera’s saved format settings:
-  - If the camera saves both RAW and JPEG, the default import format is **JPEG Only**, with options to select **RAW & JPEG** or **RAW Only**.
-  - If the camera saves only RAW or only JPEG, the default import format matches the camera setting, and the other options are disabled.
-
-/wp:tadv/classic-paragraph
+- If the camera saves both RAW and JPEG, the default import format is **JPEG Only**, with options to select **RAW & JPEG** or **RAW Only**.
+- If the camera saves only RAW or only JPEG, the default import format matches the camera setting, and the other options are disabled.

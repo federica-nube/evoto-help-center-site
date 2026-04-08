@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/background-adjustments/README.md"
 ---
 
-# Background Adjustments
-
 ## In This Section
 
 - [iPad Background Adjustments](evoto-ipad/background-adjustments/background-adjustments-ipad.md)

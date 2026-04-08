@@ -14,8 +14,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/12/5-2-300x228.jpg"
 ---
 
-wp:tadv/classic-paragraph
-# **Como Alterar o Idioma**
+### Como Alterar o Idioma
 
 Para alterar o idioma utilizado no Evoto para iPad:
 
@@ -29,5 +28,3 @@ Para alterar o idioma utilizado no Evoto para iPad:
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/5-2-300x228.jpg)
 
 > Observação: Para visualizar todas as opções de idioma disponíveis para o Evoto nas configurações do sistema, é necessário ter pelo menos dois idiomas adicionados na lista de idiomas do iPad. Se houver apenas um idioma disponível, será necessário adicionar outro para desbloquear todas as opções de idioma do Evoto.
-
-/wp:tadv/classic-paragraph

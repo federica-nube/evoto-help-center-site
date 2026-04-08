@@ -7,8 +7,6 @@ language: "vi"
 translation_group: "453"
 ---
 
-# Evoto PC
-
 ## In This Section
 
 - [Bắt đầu](evoto-pc/bắt-đầu/README.md)

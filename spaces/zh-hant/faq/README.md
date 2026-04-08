@@ -7,8 +7,6 @@ language: "zh-hant"
 translation_group: "935"
 ---
 
-# 常見問題
-
 ## In This Section
 
 - [編輯相關](faq/group-df23fa90a2/README.md)

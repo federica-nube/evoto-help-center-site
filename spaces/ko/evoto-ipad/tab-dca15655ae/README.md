@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-dca15655ae/README.md"
 ---
 
-# 인물 보정
-
 ## In This Section
 
 - [스킨 디펙트 리무버](evoto-ipad/tab-dca15655ae/blemish-removal-ipad-ko.md)

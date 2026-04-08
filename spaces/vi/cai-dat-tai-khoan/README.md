@@ -7,8 +7,6 @@ language: "vi"
 translation_group: "910"
 ---
 
-# Cài đặt tài khoản
-
 ## In This Section
 
 - [Các câu hỏi thường gặp về tài khoản Evoto](cai-dat-tai-khoan/các-câu-hỏi-thường-gặp-về-tài-khoản-evoto/README.md)

@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/portrait-retouching/README.md"
 ---
 
-# Portrait Retouching
-
 ## In This Section
 
 - [iPad Portrait Retouching Module](evoto-ipad/portrait-retouching/portrait-retouching-ipad.md)

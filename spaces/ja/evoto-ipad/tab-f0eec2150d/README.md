@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-f0eec2150d/README.md"
 ---
 
-# テザー撮影
-
 ## In This Section
 
 - [有線テザー撮影](evoto-ipad/tab-f0eec2150d/wired-tethered-shooting-ipad-ja.md)

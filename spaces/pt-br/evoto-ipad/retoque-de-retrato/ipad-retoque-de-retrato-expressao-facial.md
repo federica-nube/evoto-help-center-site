@@ -12,14 +12,13 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/12/1-1-211x300.jpg"
 ---
 
-wp:tadv/classic-paragraph
 Ajuste **expressões faciais** sutis para realçar o humor e a aparência natural em retratos. Essas ferramentas são ideais para criar expressões faciais mais refinadas, mantendo o realismo.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/1-1-211x300.jpg)
 
 ---
 
-# **Sorriso Gengival**
+### Sorriso Gengival
 
 Controle a quantidade de gengiva exposta ajustando a posição do lábio superior. Isso é útil para reduzir a aparência de um “sorriso gengival” ou minimizar dentes projetados.
 
@@ -27,7 +26,7 @@ Controle a quantidade de gengiva exposta ajustando a posição do lábio superio
 
 ---
 
-# **Sorriso Suave**
+### Sorriso Suave
 
 Realce os cantos da boca para introduzir um sorriso sutil.
 
@@ -35,11 +34,9 @@ Realce os cantos da boca para introduzir um sorriso sutil.
 
 ---
 
-# **Geração de Sorrisos**
+### Geração de Sorrisos
 
 Gere um sorriso de aparência natural que se adapta ao rosto em tempo real.
 
 - Oferece 5 níveis de intensidade, variando de um leve sorriso até uma risada ampla.
 - Foca na área da boca e ajusta os cantos para criar variações expressivas.
-
-/wp:tadv/classic-paragraph

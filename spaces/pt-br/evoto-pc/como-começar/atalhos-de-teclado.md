@@ -13,9 +13,6 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/9-300x249.jpg"
 ---
 
-wp:tadv/classic-paragraph
-# **Atalhos de Teclado**
-
 Para acessar rapidamente a lista completa de atalhos de teclado disponíveis no Evoto:
 
 1. Clique em ícone ❓ (Ponto de Interrogação) localizado no canto inferior direito da interface para abrir o menu do Centro de Suporte ao Cliente.
@@ -26,5 +23,3 @@ Para acessar rapidamente a lista completa de atalhos de teclado disponíveis no 
 Esses atalhos foram projetados para acelerar o fluxo de trabalho e ajudar a editar de forma mais eficiente.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/9-300x249.jpg)
-
-/wp:tadv/classic-paragraph

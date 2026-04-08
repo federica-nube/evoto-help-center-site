@@ -36,14 +36,13 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/1da2038a-d5e1-443c-afab-56c76c7c1287-272x300.png"
 ---
 
-wp:tadv/classic-paragraph
 O módulo **Ajustes de Cor** no Evoto para iPad permite controle preciso e criativo sobre a tonalidade e as cores da imagem. Você pode abrir ou fechar o painel de Ajustes de Cor tocando no ícone correspondente.
 
 ![](https://evoto.gitbook.io/~gitbook/image?url=https%3A%2F%2F3099291537-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FGcGHhe6Z57mAjGmYtrQ4%252Fuploads%252F9bi9WH8nyoU5Y51jcf9h%252Fimage.png%3Falt%3Dmedia%26token%3De0e8b12d-c1e1-4bc1-b829-ab1cf734e7ae&width=768&dpr=4&quality=100&sign=f37aea16&sv=2)
 
 ---
 
-# **Histograma**
+### Histograma
 
 O **histograma** representa visualmente a distribuição de brilho da imagem:
 
@@ -64,7 +63,7 @@ Ao analisar o histograma, você pode determinar se sua imagem contém detalhes s
 
 ---
 
-# Looks de Cor por IA
+### Looks de Cor por IA
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/iPad-AI-Color-Looks.png)
 
@@ -74,7 +73,7 @@ Ao analisar o histograma, você pode determinar se sua imagem contém detalhes s
 
 ---
 
-# **Correspondência de Cor por IA**
+### Correspondência de Cor por IA
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-16.55.27-300x293.png)
 
@@ -82,7 +81,7 @@ O **Correspondência de Cor por IA** é um recurso poderoso que permite transfer
 
 Um diferencial importante de **Correspondência de Cor por IA**é sua capacidade de reconhecimento semântico. Isso significa que ele consegue identificar e ajustar precisamente elementos específicos, como tons de pele, cor de cabelo, roupas e características do ambiente (como céus ou iluminação interna), garantindo um visual mais natural e coerente em todas as suas imagens.
 
-## **Estilos de Referência**
+#### Estilos de Referência
 
 O Evoto oferece duas categorias para gerenciar suas referências de **Correspondência de Cor por IA**:
 
@@ -91,7 +90,7 @@ O Evoto oferece duas categorias para gerenciar suas referências de **Correspond
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-16.56.39-300x260.png)
 
-## **Gerenciar Amostras de Referência Personalizadas**
+#### Gerenciar Amostras de Referência Personalizadas
 
 Após aplicar qualquer amostra de referência personalizada, você pode pressionar e segurar a imagem para acessar opções adicionais:
 
@@ -108,7 +107,7 @@ Após aplicar qualquer amostra de referência personalizada, você pode pression
 
 ---
 
-# **Máscaras**
+### Máscaras
 
 O recurso **Máscaras** separa os ajustes entre **Pessoa** e **Fundo**:
 
@@ -118,20 +117,20 @@ O recurso **Máscaras** separa os ajustes entre **Pessoa** e **Fundo**:
 
 - Quando você começa a fazer ajustes, a **máscara vermelha desaparece**.
 - Um **ícone de olho** aparece ao lado da aba da máscara:
-  - **Desativar:** Oculta o efeito
-  - **Qualquer ajuste de controle deslizante:** Reativa o efeito
+- **Desativar:** Oculta o efeito
+- **Qualquer ajuste de controle deslizante:** Reativa o efeito
 
 Os **ajustes de cor locais** incluem:
 
 -
-  - **Básico**
-  - **Curvas** — exceto **Curvas Paramétricas**
-  - **HSL**
-  - **Gradação de Cor**
+- **Básico**
+- **Curvas** — exceto **Curvas Paramétricas**
+- **HSL**
+- **Gradação de Cor**
 
 ---
 
-# **Ajustes de Cor em Tempo Real**
+### Ajustes de Cor em Tempo Real
 
 Este recurso é focado na **edição de cores em tempo real**, ocultando temporariamente efeitos não relacionados à cor para melhorar o desempenho.
 
@@ -143,7 +142,7 @@ Este recurso é focado na **edição de cores em tempo real**, ocultando tempora
 
 ---
 
-# **Filtros**
+### Filtros
 
 O **Evoto para iPad** oferece uma ampla seleção de **filtros**, organizados em categorias para maior flexibilidade criativa. Cada filtro inclui um **controle deslizante** para ajustar a intensidade.
 
@@ -177,11 +176,11 @@ O **Evoto para iPad** oferece uma ampla seleção de **filtros**, organizados em
 
 ---
 
-# Ajustes Básicos
+### Ajustes Básicos
 
 Inclui controles essenciais de cor e tonalidade:
 
-## **Balanço de Branco**
+#### Balanço de Branco
 
 Ajusta a cor da iluminação para garantir brancos neutros:
 
@@ -190,7 +189,7 @@ Ajusta a cor da iluminação para garantir brancos neutros:
 
 ![](https://evoto.gitbook.io/~gitbook/image?url=https%3A%2F%2F3099291537-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FGcGHhe6Z57mAjGmYtrQ4%252Fuploads%252Fm0sY2VN7gnL6j1su2bH2%252Fimage.png%3Falt%3Dmedia%26token%3Dad5d90da-baf4-43f7-8bde-96c651a27632&width=768&dpr=4&quality=100&sign=427fe3e7&sv=2)
 
-## **Predefinições (Presets)**
+#### Predefinições (Presets)
 
 - Luz do Dia (Daylight)
 - Nublado (Cloudy)
@@ -208,7 +207,7 @@ Ajusta a cor da iluminação para garantir brancos neutros:
 
 ---
 
-# **Tonalidade**
+### Tonalidade
 
 Controle o brilho, contraste e profundidade da sua imagem:
 
@@ -221,22 +220,22 @@ Controle o brilho, contraste e profundidade da sua imagem:
 - **Pretos**— Afeta os pixels mais escuros
 - **Clareza**— Aumenta o detalhe fino ou suaviza a imagem
 - **Redução de Neblina (Dehaze)** — Reduz névoa atmosférica, fumaça ou dispersão de luz
-  - *Observação: o efeito Dehaze é propositalmente forte. Recomenda-se evitar valores muito altos no controle deslizante para manter um resultado equilibrado e natural.*
+- *Observação: o efeito Dehaze é propositalmente forte. Recomenda-se evitar valores muito altos no controle deslizante para manter um resultado equilibrado e natural.*
 - **Vibrância** — Realça tons apagados sem super saturar
 - **Saturação** — Controla a intensidade geral das cores
 
 ---
 
-# Curvas
+### Curvas
 
 Modifique os valores tonais com precisão avançada.
 
-## **Tipos de Curvas**
+#### Tipos de Curvas
 
 - **Curva Paramétrica** — Dividida em sombras, escuros, claros e realces; controlada através de controles deslizantes
 - **Curva RGB / Curva Luma / Canais R/G/B** — Adicione até 16 pontos de controle para ajustes precisos
 
-## **Ferramenta de Ajuste na Imagem (On-image Adjustment Tool)**
+#### Ferramenta de Ajuste na Imagem (On-image Adjustment Tool)
 
 - Toque na imagem para adicionar e ajustar pontos de controle
 - Linhas tracejadas — Visualizam a faixa de ajuste
@@ -248,7 +247,7 @@ Modifique os valores tonais com precisão avançada.
 
 ---
 
-# **HSL (Matiz, Saturação, Luminosidade)**
+### HSL (Matiz, Saturação, Luminosidade)
 
 O painel de ajustes de cor HSL permite refinar faixas de cores específicas da sua imagem modificando três propriedades principais:
 
@@ -262,7 +261,7 @@ Ajustando os controles HSL, você pode obter refinamento sutil das cores ou efei
 
 ---
 
-# **Gradação de Cor**
+### Gradação de Cor
 
 Aplique gradação de cor criativa utilizando quatro rodas de cores.
 
@@ -283,16 +282,16 @@ Para Sombras, Meios-tons e Realces, dois controles adicionais estão disponívei
 - **Mesclagem:** Controla a sobreposição entre faixas tonais (0–100, padrão: 50)
 - **Equilíbrio:** Ajusta o peso entre sombras e realces (-100 a +100, padrão: 0)
 
-### **Integração com Teclado**
+##### Integração com Teclado
 
 - Mantenha **Shift** pressionado para mostrar uma linha auxiliar e ajustar a saturação com precisão na roda de cores.
 - Pressione longamente o ícone da Roda de Cor para reiniciar uma roda individual ou todos os ajustes de uma vez.
 
 ---
 
-# Detalhe
+### Detalhe
 
-## **Nitidez (Sharpen)**
+#### Nitidez (Sharpen)
 
 A ferramenta Nitidez melhora a clareza e definição da sua imagem, enfatizando bordas e detalhes finos.
 
@@ -304,7 +303,7 @@ Use esses controles juntos para ajustar a nitidez da imagem sem gerar artefatos 
 
 ![](https://evoto.gitbook.io/~gitbook/image?url=https%3A%2F%2F3099291537-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FGcGHhe6Z57mAjGmYtrQ4%252Fuploads%252FdTRARme2ZUV6jxFsdSpe%252Fimage.png%3Falt%3Dmedia%26token%3D4284d724-2897-4d61-922e-64d13ce14130&width=768&dpr=4&quality=100&sign=8b68fc5a&sv=2)
 
-## **Redução de Ruído**
+#### Redução de Ruído
 
 A ferramenta **Redução de Ruído** ajuda a limpar sua imagem, minimizando o ruído visual, especialmente em fotos com pouca luz ou alto ISO, resultando em uma aparência mais suave e natural.
 
@@ -316,7 +315,7 @@ Essas configurações trabalham juntas para equilibrar a remoção de ruído ind
 
 ![](https://evoto.gitbook.io/~gitbook/image?url=https%3A%2F%2F3099291537-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FGcGHhe6Z57mAjGmYtrQ4%252Fuploads%252FLVDcihmyKKELitjaQcje%252Fimage.png%3Falt%3Dmedia%26token%3Df8f20b54-07de-44e0-aa04-413e2c547df2&width=768&dpr=4&quality=100&sign=aeee23b8&sv=2)
 
-## **Redução de Ruído de Cor**
+#### Redução de Ruído de Cor
 
 A Redução de Ruído de Cor ajuda a eliminar manchas de cor indesejadas (também conhecidas como ruído cromático), resultando em uma imagem mais limpa e visualmente agradável.
 
@@ -330,7 +329,7 @@ Ajustar esses controles permite equilibrar uma renderização de cor limpa com a
 
 ---
 
-# **Granulação**
+### Granulação
 
 Adicione uma textura de granulação estilística às suas fotos para um visual inspirado em filmes ou artístico. A granulação pode melhorar o clima e o caráter da imagem, especialmente em retratos ou fotografias em preto e branco.
 
@@ -348,11 +347,11 @@ Essas ferramentas oferecem controle total para personalizar o efeito de granula�
 
 ---
 
-# **Correções de Lente**
+### Correções de Lente
 
 Corrija distorções de imagem com base em perfis de câmera e lente.
 
-## **Correção Automática – para arquivos RAW**
+#### Correção Automática – para arquivos RAW
 
 O Evoto inclui ferramentas avançadas de **Correção de Lente**, especificamente otimizadas para arquivos RAW. Este recurso é ativado automaticamente por padrão se o sistema detectar e corresponder com precisão os três parâmetros principais do seu arquivo RAW: distância focal, abertura e distância do sujeito.
 
@@ -362,7 +361,7 @@ O Evoto inclui ferramentas avançadas de **Correção de Lente**, especificament
 
 ---
 
-## **Ajuste Manual**
+#### Ajuste Manual
 
 - **Correção de Distorção:** Ajusta distorções de barril ou almofada para manter linhas retas e preservar a perspectiva correta.
 - **Restringir Corte:** Garante que a imagem permaneça cortada adequadamente durante a correção de distorção. Isso ajuda a preservar a composição original sem deixar bordas vazias. Esta opção pode ser ativada ou desativada conforme necessário.
@@ -373,22 +372,18 @@ O Evoto inclui ferramentas avançadas de **Correção de Lente**, especificament
 
 ---
 
-# **Calibração de Cor**
+### Calibração de Cor
 
 A ferramenta **Calibração de Cor** permite ajustar a Matiz e a Saturação dos três canais de cor primários (Vermelho, Verde e Azul) para obter imagens mais precisas e naturais.
 
 - **Vermelho Primário**
-  - **Matiz:** Desloca os tons vermelhos para laranja ou magenta
-  - **Saturação:** Ajusta a vivacidade dos vermelhos
+- **Matiz:** Desloca os tons vermelhos para laranja ou magenta
+- **Saturação:** Ajusta a vivacidade dos vermelhos
 - **Verde Primário**
-  - **Matiz:** Desloca os tons verdes para amarelo ou ciano
-  - **Saturação:** Controla a intensidade dos verdes
+- **Matiz:** Desloca os tons verdes para amarelo ou ciano
+- **Saturação:** Controla a intensidade dos verdes
 - **Azul Primário**
-  - **Matiz:** Desloca os tons azuis para ciano ou roxo
-  - **Saturação:** Ajusta a intensidade dos azuis
+- **Matiz:** Desloca os tons azuis para ciano ou roxo
+- **Saturação:** Ajusta a intensidade dos azuis
 
 Esses ajustes ajudam a corrigir desvios indesejados de cor e melhorar a precisão tonal geral, especialmente em tons de pele, fotografia de produtos e cenas naturais.
-
-/wp:tadv/classic-paragraph
-wp:paragraph
-/wp:paragraph

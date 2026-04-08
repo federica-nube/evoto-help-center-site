@@ -7,8 +7,6 @@ language: "es"
 translation_group: "910"
 ---
 
-# Cuenta
-
 ## In This Section
 
 - [Preguntas Frecuentes](cuenta/preguntas-frecuentes/README.md)

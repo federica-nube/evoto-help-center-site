@@ -25,39 +25,22 @@ source_assets:
   - "https://help.evoto.ai/~gitbook/image?url=https%3A%2F%2F2970798312-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F9XghnFYmwxM9PPDFe9AG%252Fuploads%252FilPm1uscvNYRUpRwuVPX%252Fimage.png%3Falt%3Dmedia%26token%3D5b208d25-d7ce-4a57-972f-bb56942fa666&width=768&dpr=4&quality=100&sign=e713702e&sv=2"
 ---
 
-wp:paragraph
 本指南涵蓋如何在 Evoto 中手動匯入和匯出影像。如果您正在尋找使用熱資料夾的自動化工作流程信息，請參閱我們的 [自動導入和導出指南](https://support.evoto.ai/auto-import-export/)。
 
-/wp:paragraph
-wp:heading {"level":1}
-# ****匯入****
+### 匯入
 
-/wp:heading
-wp:heading {"align":"left"}
-## **Evoto 支援的文件類型**
+#### Evoto 支援的文件類型
 
-/wp:heading
-wp:paragraph
 Evoto 支援 JPEG、TIFF 和 PNG 格式，並支援處理大多數相機 RAW 檔案類型。 Evoto RAW 處理基於我們自主研發的強大 RAW 引擎。我們會定期更新庫並進行改進，以完美支援新相機。請注意，Evoto 目前不支援大於 1 GB 且像素大於 12000*12000 的映像檔。
 
-/wp:paragraph
-wp:heading
-## **支援導入的檔案數量**
+#### 支援導入的檔案數量
 
-/wp:heading
-wp:paragraph
 Evoto 不限制每個項目匯入的照片數量，但限制一次可以匯入的照片數量。
 
-/wp:paragraph
-wp:paragraph
 每次最多可匯入 15,000 張照片。
 
-/wp:paragraph
-wp:heading
-## **導入 Lightroom 目錄 (.lrcat)**
+#### 導入 Lightroom 目錄 (.lrcat)
 
-/wp:heading
-wp:tadv/classic-paragraph
 Evoto 支援匯入 Lightroom Catalog (.lrcat) 文件，實現 Evoto 與 Lightroom 之間的無縫同步，從而實現更快的編輯和渲染。
 
 **a如何導入 *.lrcat* 文件**
@@ -66,12 +49,8 @@ Evoto 支援匯入 Lightroom Catalog (.lrcat) 文件，實現 Evoto 與 Lightroo
 - 或者，建立一個新專案並選擇.lrcat 檔案。
 - 匯入後，您可以選擇將目錄中的哪些集合或篩選集匯入 Evoto。
 
-/wp:tadv/classic-paragraph
-wp:image {"id":4870,"width":"556px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"}
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/lrcat-import.png)
 
-/wp:image
-wp:tadv/classic-paragraph
 **項目識別：**
 
 - 基於 .lrcat 檔案的項目在項目清單中有明顯標記
@@ -82,34 +61,20 @@ wp:tadv/classic-paragraph
 
 - **匯入原始影像：**僅當 .lrcat 檔案中引用的原始影像儲存在外部磁碟機上時才啟用此功能。
 
-/wp:tadv/classic-paragraph
-wp:separator
 ---
 
-/wp:separator
-wp:heading
-## **支援的導入方法**
+#### 支援的導入方法
 
-/wp:heading
-wp:tadv/classic-paragraph
 - **在檔案總管中右鍵點選：**快速匯入支援的影像格式。
 - **拖放**：將圖像拖曳到 Evoto 應用程式圖示上（不支援 Windows 工作列拖放）。
 - **從其他軟體右鍵：**將影像從 Lightroom 或其他編輯器直接傳送到 Evoto。
 
-/wp:tadv/classic-paragraph
-wp:separator
 ---
 
-/wp:separator
-wp:heading {"level":1}
-# **出口**
+### 出口
 
-/wp:heading
-wp:heading
-## **匯出 Lightroom 目錄**
+#### 匯出 Lightroom 目錄
 
-/wp:heading
-wp:tadv/classic-paragraph
 從您的 .lrcat 專案中，按一下「*匯出*」按鈕下拉式選單，然後選擇「*匯出為 lrcat 檔案*」。請確保在使用此選項之前選擇了所有必要的圖像。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/lrcat-export-300x189.png)
@@ -117,11 +82,11 @@ wp:tadv/classic-paragraph
 **導出至：**
 
 - **原始** .**lrcat** **資料夾**
-  - 匯出到包含原始 .lrcat 檔案的資料夾並在 Lightroom 中新增堆疊。
+- 匯出到包含原始 .lrcat 檔案的資料夾並在 Lightroom 中新增堆疊。
 - **特定資料夾**
-  - 建立一個新的 .lrcat 包含已編輯影像和元資料的檔案。 Lightroom 會將已編輯的影像視為新文件，並套用 Evoto 的調整功能。
+- 建立一個新的 .lrcat 包含已編輯影像和元資料的檔案。 Lightroom 會將已編輯的影像視為新文件，並套用 Evoto 的調整功能。
 - **桌面**
-  - 與上述行為相同，但將新的 **.lrcat 檔案儲存到桌面**。
+- 與上述行為相同，但將新的 **.lrcat 檔案儲存到桌面**。
 
 選擇後，您將在 *Export to* location （匯出到位置） 設定下看到兩個附加選項：
 
@@ -134,66 +99,38 @@ wp:tadv/classic-paragraph
 
 - 到您的原始 Lightroom 目錄，覆蓋它
 - 作為自訂位置中的新 .lrcat
-  - *這使得它以後很容易與原始目錄合併。*
+- *這使得它以後很容易與原始目錄合併。*
 
 ***注：****僅當原始專案以 .lrcat 格式導入時，匯出為 .lrcat 檔才可作為一個選項*
 
-/wp:tadv/classic-paragraph
-wp:separator
 ---
 
-/wp:separator
-wp:heading
-## **自訂導出設定**
+#### 自訂導出設定
 
-/wp:heading
-wp:image {"id":4809,"sizeSlug":"large","linkDestination":"none"}
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/export-settings-copy-1024x529.jpg)
 
-/wp:image
-wp:heading
-## **導出號碼**
+#### 導出號碼
 
-/wp:heading
-wp:paragraph
 這表示待導出影像總數（第一個數字）乘以導出次數（第二個數字），該次數基於所選的導出預設數量。如果未選擇任何預設，則匯出次數預設為 1。 「*未編輯*」表示匯出佇列中未套用編輯的影像數量。
 
-/wp:paragraph
-wp:separator {"className":"is-style-default"}
 ---
 
-/wp:separator
-wp:heading
-## **導出預設**
+#### 導出預設
 
-/wp:heading
-wp:tadv/classic-paragraph
 您可以在這裡保存和管理各種解析度的匯出配置。保存收藏夾以便快速存取。您可以同時選擇並套用多個預設，Evoto 將為每個預設匯出單獨的版本。
 
-/wp:tadv/classic-paragraph
-wp:separator
 ---
 
-/wp:separator
-wp:heading
-## **效果預設**
+#### 效果預設
 
-/wp:heading
-wp:tadv/classic-paragraph
 如果您尚未編輯過影像，則可以將效果預設套用於匯出的影像。這對於需要嚴格控制影像設定的自動匯入和匯出工作流程非常理想。如果影像已編輯，系統將在此部分預設使用「目前效果」。
 
 *注意：即使您已套用編輯，也可以套用其他預設，並且 Evoto 將為每種選取的樣式產生單獨的版本*
 
-/wp:tadv/classic-paragraph
-wp:separator
 ---
 
-/wp:separator
-wp:heading
-## **匯出設定**
+#### 匯出設定
 
-/wp:heading
-wp:tadv/classic-paragraph
 選擇儲存匯出影像的位置：
 
 - **匯出至：**設定匯出檔案位置
@@ -202,16 +139,10 @@ wp:tadv/classic-paragraph
 
 **自動建立子資料夾：自動為匯出的檔案建立命名資料夾。**
 
-/wp:tadv/classic-paragraph
-wp:separator
 ---
 
-/wp:separator
-wp:heading
-## **文件命名方法**
+#### 文件命名方法
 
-/wp:heading
-wp:tadv/classic-paragraph
 Evoto提供了幾種文件命名方法：
 
 1. **原始檔名**：保留原始名稱。
@@ -224,17 +155,11 @@ Evoto提供了幾種文件命名方法：
 8. **原始檔案名稱 - 預設名稱 - 匯出預設**：在原始檔案名稱末端新增效果預設的名稱（編輯期間套用）和匯出預設的名稱（匯出視窗中套用的解析度預設）
 9. **原始檔案名稱 - 預設名稱 - 自訂文字**：在原始檔案名稱末尾新增效果預設的名稱（編輯期間套用）和自訂文本
 
-/wp:tadv/classic-paragraph
-wp:separator
 ---
 
-/wp:separator
-wp:heading
-## **影像尺寸**
+#### 影像尺寸
 
-/wp:heading
-wp:tadv/classic-paragraph
-#### **秤類型**
+###### 秤類型
 
 透過以下方式縮放影像導出：
 
@@ -251,71 +176,48 @@ wp:tadv/classic-paragraph
 - 像素/英吋
 - 像素/厘米
 
-/wp:tadv/classic-paragraph
-wp:separator
 ---
 
-/wp:separator
-wp:heading
-## **文件設定**
+#### 文件設定
 
-/wp:heading
-wp:image {"id":2618}
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/截屏2025-05-27-17.07.50-300x201.png)
 
-/wp:image
-wp:tadv/classic-paragraph
-### **圖片格式：**
+##### 圖片格式：
 
 - **原始格式**
 - **JPG**：（8 位）
 - **TIFF**：（8 位元或 16 位元）
 
-### **品質:**
+##### 品質:
 
 - *僅適用於 JPG 匯出。*
 - 限製檔案大小：
-  - 輸入目標尺寸，Evoto 將盡可能將影像壓縮到該值。
+- 輸入目標尺寸，Evoto 將盡可能將影像壓縮到該值。
 - 百分比：
--
-  -
-    - 選擇：低、中、高或最佳，或使用滑桿進行調整
+- -
+- 選擇：低、中、高或最佳，或使用滑桿進行調整
 
-/wp:tadv/classic-paragraph
-wp:image {"id":2624}
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/截屏2025-05-27-17.09.12-300x162.png)
 
-/wp:image
-wp:separator
 ---
 
-/wp:separator
-wp:heading
-## **出口調整**
+#### 出口調整
 
-/wp:heading
-wp:tadv/classic-paragraph
 Evoto 包括針對螢幕和列印的客製化輸出銳利化設置
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Export-Adjustments-300x183.png)
 
 - **選項：**
-  - 對於螢幕：
-    - 低/標準/高
-  - 對於列印：
-    - 低/標準/高
-  - 無銳化（預設）
+- 對於螢幕：
+- 低/標準/高
+- 對於列印：
+- 低/標準/高
+- 無銳化（預設）
 
-/wp:tadv/classic-paragraph
-wp:separator
 ---
 
-/wp:separator
-wp:heading
-## **水印**
+#### 水印
 
-/wp:heading
-wp:tadv/classic-paragraph
 Evoto 提供上傳自訂浮水印並調整其的選項：
 
 - 旋轉
@@ -325,17 +227,11 @@ Evoto 提供上傳自訂浮水印並調整其的選項：
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Watermark-209x300.png)
 
-/wp:tadv/classic-paragraph
-wp:separator
 ---
 
-/wp:separator
-wp:heading {"level":1}
-# **導入和匯出疑難排解**
+### 導入和匯出疑難排解
 
-/wp:heading
-wp:tadv/classic-paragraph
-### **導入後影像預覽模糊**
+##### 導入後影像預覽模糊
 
 如果您的影像在匯入 Evoto 後顯得模糊，這可能是由於預覽設定造成的，而不是影像實際解析度的反映。
 
@@ -349,7 +245,7 @@ wp:tadv/classic-paragraph
 
 ***注意事項：** 預覽尺寸設定僅影響影像在 Evoto 中的顯示方式，不會影響匯出影像的品質或解析度。*
 
-### **匯出後文件大小發生變化**
+##### 匯出後文件大小發生變化
 
 從 Evoto 匯出圖片後，您可能會注意到檔案大小有所差異。這是正常現象，通常是由於以下原因造成的：
 
@@ -358,7 +254,7 @@ wp:tadv/classic-paragraph
 
 儘管檔案大小有所不同，匯出的影像仍將保持匯出配置指定的品質。
 
-### **目標資料夾中未找到匯出的影像**
+##### 目標資料夾中未找到匯出的影像
 
 如果匯出的映像未出現在所選資料夾中，則問題可能與檔案權限有關。
 
@@ -370,7 +266,7 @@ wp:tadv/classic-paragraph
 
 ***注意**：授予對目標資料夾的完全寫入權限或選擇其他匯出目標通常可以解決此問題。*
 
-### **關於匯出設定品質的一些注意事項**
+##### 關於匯出設定品質的一些注意事項
 
 當您將影像匯出為 JPG 或預設格式時，您可以透過兩種方式選擇品質：
 
@@ -386,20 +282,14 @@ wp:tadv/classic-paragraph
 
 ![](https://help.evoto.ai/~gitbook/image?url=https%3A%2F%2F2970798312-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F9XghnFYmwxM9PPDFe9AG%252Fuploads%252FeOJqhpkys6B31RLaz3QN%252Fimage.png%3Falt%3Dmedia%26token%3Db12a3691-507f-415c-b3bd-c840cbb06acc&width=768&dpr=4&quality=100&sign=d19615d6&sv=2)
 
-### **保留圖像的原始標題/描述**
+##### 保留圖像的原始標題/描述
 
-如果您想保留圖像的原始標題或描述，您可以在 Evoto-->首選項-->導出-->圖像標題/描述-->顯示原始資訊中進行設定。 ![](https://help.evoto.ai/~gitbook/image?url=https%3A%2F%2F2970798312-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F9XghnFYmwxM9PPDFe9AG%252Fuploads%252FilPm1uscvNYRUpRwuVPX%252Fimage.png%3Falt%3Dmedia%26token%3D5b208d25-d7ce-4a57-972f-bb56942fa666&width=768&dpr=4&quality=100&sign=e713702e&sv=2)
+如果您想保留圖像的原始標題或描述，您可以在 Evoto-->首選項-->導出-->圖像標題/描述-->顯示原始資訊中進行設定。
 
-/wp:tadv/classic-paragraph
-wp:separator
+![](https://help.evoto.ai/~gitbook/image?url=https%3A%2F%2F2970798312-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F9XghnFYmwxM9PPDFe9AG%252Fuploads%252FilPm1uscvNYRUpRwuVPX%252Fimage.png%3Falt%3Dmedia%26token%3D5b208d25-d7ce-4a57-972f-bb56942fa666&width=768&dpr=4&quality=100&sign=e713702e&sv=2)
+
 ---
 
-/wp:separator
-wp:heading
-## **匯出錯誤程式碼**
+#### 匯出錯誤程式碼
 
-/wp:heading
-wp:paragraph
 有關匯出過程中錯誤消息的更多資訊，請參閱我們的[匯出錯誤代碼](https://support.evoto.ai/error-codes-in-exporting-images/)清單
-
-/wp:paragraph

@@ -21,7 +21,7 @@ Basta tocar em qualquer foto do seu projeto para abrir a vista de visualização
 
 ---
 
-# **Informações da Foto**
+### Informações da Foto
 
 Localizada sob o ícone de informação (canto superior direito), esta secção disponibiliza:
 
@@ -29,17 +29,17 @@ Localizada sob o ícone de informação (canto superior direito), esta secção 
 - **Dimensões da Foto e Tamanho do Arquivo**
 - **Hora de Captura**
 - **Estado de Edição** — indica o fluxo de trabalho de edição atual aplicado:
-  - **Não Editada:** A imagem não foi processada.
-  - **Editada Manualmente:** A imagem foi retocada manualmente de forma individual.
-  - **Editada Automaticamente:** A imagem foi processada automaticamente com predefinições ao nível do projeto.
-  - **Editada Manualmente (Original):** A imagem foi restaurada manualmente ao seu estado original.
+- **Não Editada:** A imagem não foi processada.
+- **Editada Manualmente:** A imagem foi retocada manualmente de forma individual.
+- **Editada Automaticamente:** A imagem foi processada automaticamente com predefinições ao nível do projeto.
+- **Editada Manualmente (Original):** A imagem foi restaurada manualmente ao seu estado original.
 - Aqui encontrará também **Ajuda e Feedback**, onde pode submeter feedback sobre uma foto, caso necessário.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-12-at-15.35.11-151x300.png)
 
 ---
 
-# **Reconhecimento Facial**
+### Reconhecimento Facial
 
 Apresenta todos os rostos detetados na foto selecionada.
 
@@ -52,18 +52,17 @@ Apresenta todos os rostos detetados na foto selecionada.
 
 ---
 
-# **Comparação com Efeitos**
+### Comparação com Efeitos
 
 - Se a Edição por IA tiver sido aplicada, a visualização será exibida por padrão no estado **“Depois”**.
 - Toque longo na foto para alternar para **“Antes”** e comparar lado a lado.
 - Se nenhuma edição tiver sido aplicada, a visualização será exibida por padrão no estado **“Antes”**.
 
-Nota:
-Por razões de desempenho, as imagens de visualização são apresentadas com
-uma resolução de 1080px
-.
+Nota: Por razões de desempenho, as imagens de visualização são apresentadas com uma resolução de 1080px .
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-12-at-15.48.52-300x110.png)
 
 ---
 
-**Operações de Imagem** A partir da página de visualização, pode executar ações diretas sobre a foto: **Eliminar** – Remove a foto do seu projeto. **Fixar no Topo** – Coloca a foto no topo da Galeria Global e das Galerias Pessoais correspondentes, garantindo que as imagens mais importantes sejam destacadas. **Alterar Estado de Processamento** – Ajuste se a foto deve ser **Enviadas**, **Exportada** ou **Partilhada**. **Edição por IA (Foto Individual)** – Aplica retoques manuais de IA a esta foto específica. ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-12-at-15.50.47-300x102.png)
+**Operações de Imagem** A partir da página de visualização, pode executar ações diretas sobre a foto: **Eliminar** – Remove a foto do seu projeto. **Fixar no Topo** – Coloca a foto no topo da Galeria Global e das Galerias Pessoais correspondentes, garantindo que as imagens mais importantes sejam destacadas. **Alterar Estado de Processamento** – Ajuste se a foto deve ser **Enviadas**, **Exportada** ou **Partilhada**. **Edição por IA (Foto Individual)** – Aplica retoques manuais de IA a esta foto específica.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-12-at-15.50.47-300x102.png)

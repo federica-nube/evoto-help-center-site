@@ -7,8 +7,6 @@ language: "zh-hant"
 translation_group: "423"
 ---
 
-# Evoto iPad 版
-
 ## In This Section
 
 - [開始](evoto-ipad/tab-a95bf2fed6/README.md)

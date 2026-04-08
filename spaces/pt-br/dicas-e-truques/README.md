@@ -7,8 +7,6 @@ language: "pt-br"
 translation_group: "939"
 ---
 
-# Dicas
-
 ## In This Section
 
 - [Fluxo de Trabalho](dicas-e-truques/fluxo-de-trabalho/README.md)

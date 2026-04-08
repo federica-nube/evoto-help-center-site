@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "trucos-y-consejos/relacionado-con-funciones/README.md"
 ---
 
-# Relacionado con Funciones
-
 ## In This Section
 
 - [Cómo lograr un tono de piel uniforme en Evoto](trucos-y-consejos/relacionado-con-funciones/como-lograr-un-tono-de-piel-uniforme-en-evoto.md)

@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-instant/getting-started/README.md"
 ---
 
-# Getting Started
-
 ## In This Section
 
 - [Onboarding with Instant](evoto-instant/getting-started/onboarding-with-instant.md)

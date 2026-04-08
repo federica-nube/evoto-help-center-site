@@ -23,10 +23,9 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/12/17-300x245.jpg"
 ---
 
-wp:tadv/classic-paragraph
 **Evoto para iPad** oferece suporte à **captura vinculada sem fio**, proporcionando um fluxo de trabalho contínuo que permite capturar, visualizar e editar imagens em tempo real durante as sessões fotográficas. Essa integração facilita a aplicação de predefinições e o monitoramento das principais configurações da câmera enquanto você fotografa.
 
-# **Principais Benefícios**
+### Principais Benefícios
 
 **Conectividade sem fio:**Aproveite a captura e a transferência instantânea de imagens diretamente para o seu iPad.
 
@@ -36,7 +35,7 @@ wp:tadv/classic-paragraph
 
 ---
 
-# Como Iniciar a Captura Vinculada
+### Como Iniciar a Captura Vinculada
 
 1. Abra o **Evoto** no seu iPad.
 2. Toque no **ícone da câmera** na barra de ferramentas à direita.
@@ -46,11 +45,11 @@ wp:tadv/classic-paragraph
 3. O Evoto entrará na interface de Captura Vinculada e iniciará automaticamente a detecção da câmera.
 
 -
-  - Caso toque em **Cancelar Detecção**, selecione **Iniciar Detecção** para tentar novamente.
+- Caso toque em **Cancelar Detecção**, selecione **Iniciar Detecção** para tentar novamente.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/9-1-300x208.jpg)
 
-## **Exibição de Detecção de Câmera**
+#### Exibição de Detecção de Câmera
 
 Uma vez que as câmeras sejam detectadas, a lista de câmeras será exibida da seguinte forma:
 
@@ -72,11 +71,11 @@ Uma vez que a câmera seja conectada com sucesso, a página exibirá as funçõe
 
 ---
 
-# **Configurações Pré-Captura**
+### Configurações Pré-Captura
 
 Antes de iniciar sua sessão de captura vinculada, você pode configurar diversas **definições** para otimizar seu fluxo de trabalho.
 
-## **Efeito na Captura**
+#### Efeito na Captura
 
 Defina como os efeitos serão aplicados às novas imagens capturadas:
 
@@ -85,7 +84,7 @@ Defina como os efeitos serão aplicados às novas imagens capturadas:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/5-4-300x208.jpg)
 
-## **Opções de Exibição da Pré-visualização**
+#### Opções de Exibição da Pré-visualização
 
 Controle como as imagens aparecem após cada captura:
 
@@ -94,7 +93,7 @@ Controle como as imagens aparecem após cada captura:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/14-300x172.jpg)
 
-## **Configurações de Importação: Filtro de Formato**
+#### Configurações de Importação: Filtro de Formato
 
 A captura vinculada sem fio suporta **filtragem por formato de imagem** durante a importação:
 
@@ -110,76 +109,20 @@ A captura vinculada sem fio suporta **filtragem por formato de imagem** durante 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/16-300x192.jpg)
 
-## **Opções de Nomeação de Arquivos**
+#### Opções de Nomeação de Arquivos
 
 Escolha entre 5 métodos flexíveis para nomear os arquivos originais capturados:
 
-<table border="1">
-<tbody>
-<tr style="height: 59px;">
-<td style="width: 31.9469%; height: 59px;">
-<p><span style="font-size: 16px;"><b>Format</b></span></p>
-</td>
-<td style="width: 67.3451%; height: 59px;">
-<p><span style="font-size: 16px;"><b>Description</b></span></p>
-</td>
-</tr>
-<tr style="height: 103px;">
-<td style="width: 31.9469%; height: 103px;">
-<p><span style="font-weight: 400; font-size: 16px;">Custom Filename – Sequence</span></p>
-</td>
-<td style="width: 67.3451%; height: 103px;">
-<p><span style="font-weight: 400; font-size: 16px;">Adds a sequential number to a custom prefix.</span></p>
-<p><span style="font-size: 16px;"><span style="font-weight: 400;">e.g., </span><span style="font-weight: 400;">Evoto_001</span><span style="font-weight: 400;">, </span><span style="font-weight: 400;">Evoto_002</span></span></p>
-</td>
-</tr>
-<tr style="height: 103px;">
-<td style="width: 31.9469%; height: 103px;">
-<p><span style="font-weight: 400; font-size: 16px;">Custom Filename – Original Filename</span></p>
-</td>
-<td style="width: 67.3451%; height: 103px;">
-<p><span style="font-weight: 400; font-size: 16px;">Custom prefix + original file name</span></p>
-<p><span style="font-size: 16px;">e.g., <span style="font-weight: 400;">MyShoot_IMG_1234.JPG</span></span></p>
-</td>
-</tr>
-<tr style="height: 103px;">
-<td style="width: 31.9469%; height: 103px;">
-<p><span style="font-weight: 400; font-size: 16px;">Capture Date – Sequence</span></p>
-</td>
-<td style="width: 67.3451%; height: 103px;">
-<p><span style="font-weight: 400; font-size: 16px;">Uses the capture date followed by a sequential number.</span></p>
-<p><span style="font-size: 16px;"><span style="font-weight: 400;">e.g., </span><span style="font-weight: 400;">20240506_001</span><span style="font-weight: 400;">, </span><span style="font-weight: 400;">20240506_002</span></span></p>
-</td>
-</tr>
-<tr style="height: 103px;">
-<td style="width: 31.9469%; height: 103px;">
-<p><span style="font-weight: 400; font-size: 16px;">Capture Date – Original Filename</span></p>
-</td>
-<td style="width: 67.3451%; height: 103px;">
-<p><span style="font-weight: 400; font-size: 16px;">Includes date + original name</span></p>
-<p><span style="font-size: 16px;">e.g., <span style="font-weight: 400;">20240506_IMG_1234.JPG</span></span></p>
-</td>
-</tr>
-<tr style="height: 102px;">
-<td style="width: 31.9469%; height: 102px;">
-<p><span style="font-weight: 400; font-size: 16px;">Original Filename (default)</span></p>
-</td>
-<td style="width: 67.3451%; height: 102px;">
-<p><span style="font-weight: 400; font-size: 16px;">Uses name generated directly by the camera</span></p>
-<p>e.g., <span style="font-weight: 400; font-size: 16px;">IMG_1234.JPG</span></p>
-</td>
-</tr>
-</tbody>
-</table>
+<table border="1"> <tbody> <tr style="height: 59px;"> <td style="width: 31.9469%; height: 59px;"> <p><span style="font-size: 16px;"><b>Format</b></span></p> </td> <td style="width: 67.3451%; height: 59px;"> <p><span style="font-size: 16px;"><b>Description</b></span></p> </td> </tr> <tr style="height: 103px;"> <td style="width: 31.9469%; height: 103px;"> <p><span style="font-weight: 400; font-size: 16px;">Custom Filename – Sequence</span></p> </td> <td style="width: 67.3451%; height: 103px;"> <p><span style="font-weight: 400; font-size: 16px;">Adds a sequential number to a custom prefix.</span></p> <p><span style="font-size: 16px;"><span style="font-weight: 400;">e.g., </span><span style="font-weight: 400;">Evoto_001</span><span style="font-weight: 400;">, </span><span style="font-weight: 400;">Evoto_002</span></span></p> </td> </tr> <tr style="height: 103px;"> <td style="width: 31.9469%; height: 103px;"> <p><span style="font-weight: 400; font-size: 16px;">Custom Filename – Original Filename</span></p> </td> <td style="width: 67.3451%; height: 103px;"> <p><span style="font-weight: 400; font-size: 16px;">Custom prefix + original file name</span></p> <p><span style="font-size: 16px;">e.g., <span style="font-weight: 400;">MyShoot_IMG_1234.JPG</span></span></p> </td> </tr> <tr style="height: 103px;"> <td style="width: 31.9469%; height: 103px;"> <p><span style="font-weight: 400; font-size: 16px;">Capture Date – Sequence</span></p> </td> <td style="width: 67.3451%; height: 103px;"> <p><span style="font-weight: 400; font-size: 16px;">Uses the capture date followed by a sequential number.</span></p> <p><span style="font-size: 16px;"><span style="font-weight: 400;">e.g., </span><span style="font-weight: 400;">20240506_001</span><span style="font-weight: 400;">, </span><span style="font-weight: 400;">20240506_002</span></span></p> </td> </tr> <tr style="height: 103px;"> <td style="width: 31.9469%; height: 103px;"> <p><span style="font-weight: 400; font-size: 16px;">Capture Date – Original Filename</span></p> </td> <td style="width: 67.3451%; height: 103px;"> <p><span style="font-weight: 400; font-size: 16px;">Includes date + original name</span></p> <p><span style="font-size: 16px;">e.g., <span style="font-weight: 400;">20240506_IMG_1234.JPG</span></span></p> </td> </tr> <tr style="height: 102px;"> <td style="width: 31.9469%; height: 102px;"> <p><span style="font-weight: 400; font-size: 16px;">Original Filename (default)</span></p> </td> <td style="width: 67.3451%; height: 102px;"> <p><span style="font-weight: 400; font-size: 16px;">Uses name generated directly by the camera</span></p> <p>e.g., <span style="font-weight: 400; font-size: 16px;">IMG_1234.JPG</span></p> </td> </tr> </tbody> </table>
 
-**![](https://support.evoto.ai/wp-content/uploads/2025/12/17-300x245.jpg)**
+![](https://support.evoto.ai/wp-content/uploads/2025/12/17-300x245.jpg)
 
 - **Formatos de data disponíveis** YYYYMMDD, YYYYMM, MMDD
 - **Caracteres não permitidos** **; : ^ * < > ? |.**Caracteres inválidos serão removidos automaticamente, e um aviso em vermelho será exibido até que sejam corrigidos.
 
 ---
 
-# **Modelos de Câmera Compatíveis & Observações Importantes**
+### Modelos de Câmera Compatíveis & Observações Importantes
 
 Para garantir o uso suave da função de captura vinculada, observe que ajustes podem ser necessários tanto no iPad quanto na câmera, dependendo das configurações da marca da câmera.
 
@@ -194,7 +137,7 @@ Após a conexão, você pode clicar nos links relevantes de acordo com a marca d
 
 ---
 
-# Exportação das Imagens Capturadas
+### Exportação das Imagens Capturadas
 
 Após a sessão tethered, você pode exportar:
 
@@ -207,7 +150,7 @@ Por padrão, o Evoto utiliza o seletor de arquivos do iPadOS. Caso serviços em 
 
 ---
 
-# **Solução de Problemas: Falha de Conexão**
+### Solução de Problemas: Falha de Conexão
 
 Se aparecer a mensagem **“Falha na Conexão”** ao iniciar a captura vinculada, considere as seguintes causas e soluções:
 
@@ -235,5 +178,3 @@ Se aparecer a mensagem **“Falha na Conexão”** ao iniciar a captura vinculad
 
 - **E-mail:** support@evoto.ai
 - **Suporte no app:** disponível no painel de Ajuda
-
-/wp:tadv/classic-paragraph

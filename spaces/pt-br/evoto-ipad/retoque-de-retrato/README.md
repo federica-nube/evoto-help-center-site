@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/retoque-de-retrato/README.md"
 ---
 
-# Retoque de Retrato
-
 ## In This Section
 
 - [Ipad - Módulo de Retoque de Retrato](evoto-ipad/retoque-de-retrato/ipad-modulo-de-retoque-de-retrato.md)

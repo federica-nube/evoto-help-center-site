@@ -7,8 +7,6 @@ language: "ja"
 translation_group: "930"
 ---
 
-# 法人向けサポート
-
 ## In This Section
 
 - [タイトル](section-d6a1667f24/group-47b4753f22/README.md)

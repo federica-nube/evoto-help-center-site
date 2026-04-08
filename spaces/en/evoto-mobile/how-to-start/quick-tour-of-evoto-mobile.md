@@ -21,7 +21,6 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/11/Frame-2147224478-230x300.png"
 ---
 
-wp:tadv/classic-paragraph
 Welcome to Evoto Mobile!
 
 Experience the perfect blend of professional photography and AI-powered editing. Evoto Mobile supports camera tethering for seamless shooting anywhere, anytime. With a full suite of professional retouching tools, you can refine skin tones, adjust colors, and perfect your images effortlessly.
@@ -30,7 +29,7 @@ Professional photography, reimagined for mobile.
 
 > Note: Evoto Mobile supports iOS 15 and above only.
 
-# Main Page Overview
+### Main Page Overview
 
 **No project created yet**
 
@@ -55,7 +54,7 @@ Professional photography, reimagined for mobile.
 1. Tap any photo to open that specific project.
 2. Tap **All** to view the complete project page.
 
-# Project Page Overview
+### Project Page Overview
 
 **No Project Created image**
 
@@ -75,7 +74,7 @@ Images View
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/10/Frame-2147224476-246x300.png)
 
-## Project View
+#### Project View
 
 1. **View Switch:** Switch to **Photo View**.
 2. **Create New Project:** Enter the project name in the popup window, then choose **Import Photos** or **Tethered Shooting**. **Import Photos:** Select photos from your phone gallery to import. **Tethered Shooting:** Import photos directly via tethered shooting to create a new project.
@@ -84,7 +83,7 @@ Images View
 5. **Last Edited Time:** When the project is not empty, all projects are displayed in descending order based on the last edited time.
 6. **Project List:** All projects are displayed in a **2-projects-per-row** layout.
 
-# Tethered Shooting Page
+### Tethered Shooting Page
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/11/Frame-2147224477-1-146x300.png)
 
@@ -93,7 +92,7 @@ The **Tethered Shooting Home** displays: camera connection status, a tethered sh
 - Camera and network permissions must be granted before tethered shooting.
 - Only **one camera** can be connected at a time.
 
-# Retouch Page Overview
+### Retouch Page Overview
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/11/Frame-2147224478-230x300.png)
 
@@ -106,5 +105,3 @@ The **Tethered Shooting Home** displays: camera connection status, a tethered sh
 7. **Thumbnail Area:** Displays all photos in the project as thumbnails; supports horizontal swiping to browse.
 8. **Library:** Shows all photos in the project; supports **Import**, **Sync**, **Export**, and **Delete** operations.
 9. **Feature Modules:** Provides access to features like **Preset**, **Color**, and **Portrait** adjustments.
-
-/wp:tadv/classic-paragraph

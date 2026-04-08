@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/captura-vinculada/README.md"
 ---
 
-# Captura Vinculada
-
 ## In This Section
 
 - [Captura com Câmera Vinculada - Modelos de Câmaras Compatíveis](evoto-pc/captura-vinculada/captura-com-camera-vinculada-modelos-de-camaras-compativeis.md)

@@ -7,8 +7,6 @@ language: "zh-hant"
 translation_group: "453"
 ---
 
-# Evoto 電腦
-
 ## In This Section
 
 - [入門](evoto-pc/tab-df874ccbf6/README.md)

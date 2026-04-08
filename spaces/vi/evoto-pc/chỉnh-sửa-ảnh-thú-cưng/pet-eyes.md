@@ -13,12 +13,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/12/Screenshot-2025-12-18-at-17.14.57.png"
 ---
 
-wp:tadv/classic-paragraph
 Evoto cung cấp các công cụ AI giúp chỉnh sửa đôi mắt của thú cưng, làm nổi bật vẻ đẹp tự nhiên và biểu cảm chỉ với vài thao tác điều chỉnh.
 
 ---
 
-# Làm sáng mắt
+### Làm sáng mắt
 
 Làm sáng và tăng cường độ rạng rỡ tự nhiên cho đôi mắt thú cưng. Tính năng này giúp tăng độ sáng của mắt một cách tinh tế, giúp mắt trông sống động và cuốn hút hơn.
 
@@ -28,7 +27,7 @@ Làm sáng và tăng cường độ rạng rỡ tự nhiên cho đôi mắt thú
 
 **Lưu ý:** Bạn có thể mở khóa biểu tượng liên kết để chỉnh riêng mắt trái và mắt phải, giúp kiểm soát chính xác hơn.
 
-# Tăng cường màu mắt
+### Tăng cường màu mắt
 
 Làm đậm và làm giàu màu sắc tự nhiên của mắt thú cưng. Công cụ này tăng cường màu mắt hiện có, giúp màu sắc trở nên rực rỡ và bắt mắt hơn.
 
@@ -36,7 +35,7 @@ Làm đậm và làm giàu màu sắc tự nhiên của mắt thú cưng. Công 
 
 **Lưu ý:** Bạn có thể mở khóa biểu tượng liên kết để chỉnh riêng mắt trái và mắt phải, giúp kiểm soát chính xác hơn.
 
-# Điểm sáng trong mắt
+### Điểm sáng trong mắt
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/Screenshot-2025-12-18-at-17.14.57.png)
 
@@ -55,5 +54,3 @@ Chọn danh mục (**Thông dụng, Studio, Ngoài trời**) và lựa chọn ki
 - **Lật ngang** – lật ngang hiệu ứng điểm sáng cho mắt được chọn.
 
 **Lưu ý:** Bạn có thể mở khóa biểu tượng liên kết để chỉnh riêng mắt trái và mắt phải, giúp kiểm soát chính xác hơn.
-
-/wp:tadv/classic-paragraph

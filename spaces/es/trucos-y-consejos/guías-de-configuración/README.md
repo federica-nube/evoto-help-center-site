@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "trucos-y-consejos/guías-de-configuración/README.md"
 ---
 
-# Guías de Configuración
-
 ## In This Section
 
 - [Cómo personalizar la calidad de exportación de imagen en Evoto](trucos-y-consejos/guías-de-configuración/como-personalizar-la-calidad-de-exportacion-de-imagen-en-evoto.md)

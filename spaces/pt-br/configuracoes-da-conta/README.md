@@ -7,8 +7,6 @@ language: "pt-br"
 translation_group: "910"
 ---
 
-# Configurações da conta
-
 ## In This Section
 
 - [Perguntas Frequentes sobre Conta](configuracoes-da-conta/perguntas-frequentes-sobre-conta/README.md)

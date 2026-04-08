@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/como-começar/README.md"
 ---
 
-# Como Começar
-
 ## In This Section
 
 - [Começar a Usar Evoto](evoto-pc/como-começar/comecar-a-usar-evoto.md)

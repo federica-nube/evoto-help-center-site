@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-instant/feature-deep-dive/README.md"
 ---
 
-# Feature Deep Dive
-
 ## In This Section
 
 - [Manage Your Projects](evoto-instant/feature-deep-dive/manage-your-projects.md)

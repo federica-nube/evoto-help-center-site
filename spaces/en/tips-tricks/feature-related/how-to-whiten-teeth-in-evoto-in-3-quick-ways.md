@@ -17,10 +17,9 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/08/mask-scaled.jpg"
 ---
 
-wp:tadv/classic-paragraph
 Want a brighter smile in your portraits? Evoto makes teeth whitening simple with a few different tools. Here are **three easy methods** you can use:
 
-# **1. Teeth Whitening Slider**
+### 1. Teeth Whitening Slider
 
 The fastest method is built right into **Portrait Retouch > Teeth**.
 
@@ -31,7 +30,7 @@ The fastest method is built right into **Portrait Retouch > Teeth**.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/08/teeth-natural-scaled.jpg)
 
-# **2. Smile Generation with Whitening Effect**
+### 2. Smile Generation with Whitening Effect
 
 Sometimes, just adding a brighter smile helps the teeth appear whiter:
 
@@ -39,7 +38,7 @@ Sometimes, just adding a brighter smile helps the teeth appear whiter:
 - Select **Smile Generation** and choose the **Toothy** option.
 - This naturally shows more teeth, and when combined with whitening, makes portraits pop. ???? Ideal for giving subjects both a confident smile and enhanced brightness.
 
-# **3. Color Adjustment + Teeth Masking**
+### 3. Color Adjustment + Teeth Masking
 
 For more control, you can use masking:
 
@@ -51,5 +50,3 @@ For more control, you can use masking:
 - Adjust **Brightness** and fine-tune the **Color sliders** for a natural look. ???? Great if you want to control the overall tone and whiteness more manually.
 
 ✨ With these three methods, you can quickly bring out radiant, natural-looking smiles in any portrait. Whether you want one-click whitening or total control, Evoto has you covered.
-
-/wp:tadv/classic-paragraph

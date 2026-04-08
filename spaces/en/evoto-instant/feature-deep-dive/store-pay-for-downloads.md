@@ -36,16 +36,15 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/12/6-3-300x131.jpg"
 ---
 
-wp:tadv/classic-paragraph
 Learn how to monetize your galleries by setting up paid downloads. This guide covers everything from store configuration to the client checkout experience.
 
-# Setting Up Your Store
+### Setting Up Your Store
 
 To begin selling, navigate to the Store tab in the left-hand panel to access the Pricing Configuration Console.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/4-7-119x300.jpg)
 
-# **Connect Your Stripe Account**
+### Connect Your Stripe Account
 
 Before you can receive payments, you must link your Stripe account with Evoto Instant.
 
@@ -54,32 +53,33 @@ Before you can receive payments, you must link your Stripe account with Evoto In
 
 ---
 
-# **Configure Photo Pricing Models**
+### Configure Photo Pricing Models
 
 Set your own pricing strategy to control profit margins and tailor your sales approach to different business needs. Evoto Instant currently offers **3 photo pricing models**, allowing you to flexibly monetize your galleries based on your workflow and customer preferences. This guide covers everything from store configuration to the client checkout experience.
 
-## **1. Paid per Photo**
+#### 1. Paid per Photo
 
 - Set a fixed price per photo download.
 - **Price range:** $0.50 – $200 USD per photo.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/1-7-300x161.jpg)
 
-/wp:tadv/classic-paragraph
-wp:details
 Clients Purchase Experience
-wp:tadv/classic-paragraph
+
 We’ve designed the checkout process to be fast and friction-less for your clients.
 
-- **Selection:** Clients browse the gallery and add their favorite images to the cart. ![](https://support.evoto.ai/wp-content/uploads/2025/12/43c2a32e-2c80-4622-bf46-a448aaa38292-1024x950.png)
-- **Payment:** At checkout, providing an **email address is mandatory** to ensure delivery. ![](https://support.evoto.ai/wp-content/uploads/2025/12/6fc0931b-5916-49e8-b608-f83ea765bc2a-1-1024x512.png)
-- **Redirection:** Once payment is confirmed, Evoto Instant automatically redirects the client to a dedicated **Delivery Page**. ![](https://support.evoto.ai/wp-content/uploads/2025/12/20251218101153-1024x570.jpg)
+- **Selection:** Clients browse the gallery and add their favorite images to the cart.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/12/43c2a32e-2c80-4622-bf46-a448aaa38292-1024x950.png)
+- **Payment:** At checkout, providing an **email address is mandatory** to ensure delivery.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/12/6fc0931b-5916-49e8-b608-f83ea765bc2a-1-1024x512.png)
+- **Redirection:** Once payment is confirmed, Evoto Instant automatically redirects the client to a dedicated **Delivery Page**.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/12/20251218101153-1024x570.jpg)
 - **Flexible Downloads:** Clients can choose to download images **individually** or as a convenient **ZIP file**.
 
-/wp:tadv/classic-paragraph
-/wp:details
-wp:tadv/classic-paragraph
-## **2. Free Downloads + Paid**
+#### 2. Free Downloads + Paid
 
 Offer a certain number of free downloads for your photos, and charge for downloads beyond that.
 
@@ -88,10 +88,8 @@ Offer a certain number of free downloads for your photos, and charge for downloa
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/2-6-300x185.jpg)
 
-/wp:tadv/classic-paragraph
-wp:details
 Clients Purchase Experience
-wp:tadv/classic-paragraph
+
 **Step 1: Gallery Access** Upon opening the Gallery Link, a top banner clearly displays the number of free photos available and the per-photo price for any additional downloads.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/20-1-300x188.jpg)
@@ -110,10 +108,7 @@ Clicking "Checkout" triggers a login prompt. Users can authenticate via Email Ve
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/24-300x176.jpg)
 
-/wp:tadv/classic-paragraph
-/wp:details
-wp:tadv/classic-paragraph
-## **3. Paid Gallery Access**
+#### 3. Paid Gallery Access
 
 Allow users to unlock the entire gallery with a one-time payment.
 
@@ -121,10 +116,8 @@ Allow users to unlock the entire gallery with a one-time payment.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/3-6-300x181.jpg)
 
-/wp:tadv/classic-paragraph
-wp:details
 Clients Purchase Experience
-wp:tadv/classic-paragraph
+
 **Step 1: Access & Login** Opens the Gallery Link and clicks "View Gallery," which triggers a mandatory login prompt. Once logged in, they are automatically redirected to the Unlock Gallery page.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/26-300x170.jpg)
@@ -137,43 +130,42 @@ wp:tadv/classic-paragraph
 
 **Step 3: Payment & Download** Upon successful payment, all photos are instantly available for **High-Res Download**. A confirmation email containing the order details and download link is sent automatically.
 
-![](https://support.evoto.ai/wp-content/uploads/2025/12/29-300x240.jpg) ![](https://support.evoto.ai/wp-content/uploads/2025/12/30-300x195.jpg)
+![](https://support.evoto.ai/wp-content/uploads/2025/12/29-300x240.jpg)
 
-/wp:tadv/classic-paragraph
-/wp:details
-wp:tadv/classic-paragraph
+![](https://support.evoto.ai/wp-content/uploads/2025/12/30-300x195.jpg)
+
 > Currency & Tax: Transactions are currently limited to USD . Please note that all prices set are tax-inclusive .
 
 ---
 
-# **Watermark Protection**
+### Watermark Protection
 
 Protect your work before it's purchased.
 
 - **Default Setting:** Previews are protected by a standard "For preview only" watermark.
 - **Custom Watermark:** You can upload your own **PNG image** to replace the default.
-  - *Note: Detailed adjustments for watermark size, spacing, or opacity are not available at this time.*
+- *Note: Detailed adjustments for watermark size, spacing, or opacity are not available at this time.*
 
 ---
 
-# **File Delivery & Access**
+### File Delivery & Access
 
 - **Packaging Time:** Small orders are usually ready **within seconds**. Larger orders may take a moment to process.
 - **Email Notification:** Once the files are ready, the client receives an automated email containing:
-  - A **secure delivery link**.
-  - A **4-digit Extraction Code** required to access and download the files.
+- A **secure delivery link**.
+- A **4-digit Extraction Code** required to access and download the files.
 - **Preview Status:** In the gallery view, purchased images will still show a watermark for security, but the **downloaded files will be high-resolution and watermark-free**.
 
 > Notes: File Retention: Purchased files are stored and available for download for 7 days after the order is completed. Project Deletion: If you delete a project or specific images from your management page, they will also be removed from the client's gallery and delivery access.
 
 ---
 
-# Manage Your Earnings
+### Manage Your Earnings
 
 - For a limited time, enjoy **0% platform commission**. Additionally, **we are covering the standard payment processing fees**, ensuring you keep the maximum amount from every sale.
-  - **Availability:** Currently, the payment system is available exclusively to **U.S.-based photographers**.
+- **Availability:** Currently, the payment system is available exclusively to **U.S.-based photographers**.
 
-## **Withdrawing Funds**
+#### Withdrawing Funds
 
 Click **Withdraw** in your dashboard to access your Stripe payout portal. You can choose your preferred payout schedule:
 
@@ -182,7 +174,7 @@ Click **Withdraw** in your dashboard to access your Stripe payout portal. You ca
 
 ---
 
-# **Tracking Your Sales Performance —— Analytics**
+### Tracking Your Sales Performance —— Analytics
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/6-3-300x131.jpg)
 
@@ -193,5 +185,3 @@ You can monitor your sales performance in the **Analytics** section:
 - **Average Order Value (AOV):** Understand your clients' average spending habits.
 
 **Revenue Breakdown by Source:** View how much revenue comes from each sales type.
-
-/wp:tadv/classic-paragraph

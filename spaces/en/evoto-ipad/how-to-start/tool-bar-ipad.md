@@ -23,19 +23,21 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/iPad-History.png"
 ---
 
-# **iPad Tool Bar**
+### iPad Tool Bar
 
-The iPad Tool Bar in Evoto offers a range of advanced editing functions such as **Liquify**, **Healing**, **Undo/Redo**, and **History**, all optimized for a touch interface and Apple Pencil compatibility. ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-08-at-17.43.14-159x300.png)
+The iPad Tool Bar in Evoto offers a range of advanced editing functions such as **Liquify**, **Healing**, **Undo/Redo**, and **History**, all optimized for a touch interface and Apple Pencil compatibility.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-08-at-17.43.14-159x300.png)
 
 ---
 
-# **Liquify Tool**
+### Liquify Tool
 
 The **Liquify Tool** provides intuitive brush-based distortion effects. Default brush settings are optimized for iPad. Custom settings are saved per device. You can switch between different retouching tabs during Liquify editing without interrupting your workflow.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/iPad-Liquify.png)
 
-## **Main Liquify Brushes**
+#### Main Liquify Brushes
 
 - **Forward Warp Tool** Pushes, stretches, shrinks, or expands parts of the image as you drag. Useful for reshaping features or adjusting proportions.
 - **Smooth Tool** Softens detailed or uneven areas to create a more polished, even surface. Ideal for refining skin or fabric textures.
@@ -46,7 +48,7 @@ The **Liquify Tool** provides intuitive brush-based distortion effects. Default 
 
 ---
 
-## **Liquify Aid Tools**
+#### Liquify Aid Tools
 
 - **Reconstruct Tool** Gradually reverses distortions applied with other Liquify tools, restoring the image to its original state in specific areas.
 - **Freeze Mask Tool** Protects specific areas from being affected by Liquify adjustments. Use the brush to paint a mask over parts of the image you want to remain unchanged.
@@ -54,7 +56,7 @@ The **Liquify Tool** provides intuitive brush-based distortion effects. Default 
 
 ---
 
-## **Brush Adjustments**
+#### Brush Adjustments
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/ff70c6f3-7e23-4740-b16f-d0b47c81fbd2-300x242.png)
 
@@ -67,7 +69,7 @@ Each Liquify tool includes adjustable sliders to fine-tune the effect:
 
 ---
 
-## **Pin Edge**
+#### Pin Edge
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/2d477a32-4136-4613-8c22-834d9a661430-300x146.png)
 
@@ -75,34 +77,40 @@ The Pin Edge feature helps protect the outer edges of your image during Liquify 
 
 ---
 
-## **Show Mask**
+#### Show Mask
 
 Toggle the visibility of the Freeze Mask overlay. When off, masked areas will not be displayed, but the protection still applies.
 
 ---
 
-## **Navigation Note**
+#### Navigation Note
 
 You can export or return to the **Project Page** while in the Liquify tool. A prompt will appear, confirming that liquify changes will be preserved.
 
-***![](https://support.evoto.ai/wp-content/uploads/2025/04/4f60bcde-61c8-4109-b053-665e7a1bb078-300x109.png) ![](https://support.evoto.ai/wp-content/uploads/2025/04/1daba678-c712-4be2-a780-1182d27f53d7-300x115.png)***
+***
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/4f60bcde-61c8-4109-b053-665e7a1bb078-300x109.png)
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/1daba678-c712-4be2-a780-1182d27f53d7-300x115.png)
+
+***
 
 ---
 
-# **Shortcuts and Gestures**
+### Shortcuts and Gestures
 
-## **Shortcuts (with external keyboard)**
+#### Shortcuts (with external keyboard)
 
 - **Option (⌥)** – Toggle between rotation and Push Left direction.
 
-## **Apple Pencil (2nd/3rd gen)**
+#### Apple Pencil (2nd/3rd gen)
 
 - **Double-tap** – Switches between the last two brushes used.
-  - If no brush switch history exists, it toggles between:
-    - First tap: **Reconstruct Tool**
-    - Second tap: **Forward Warp Tool**
+- If no brush switch history exists, it toggles between:
+- First tap: **Reconstruct Tool**
+- Second tap: **Forward Warp Tool**
 
-## **Touch Gestures**
+#### Touch Gestures
 
 - **Two-finger tap** – Undo (continuous tap supported).
 - **Three-finger tap** – Redo (continuous tap supported).
@@ -114,7 +122,7 @@ You can export or return to the **Project Page** while in the Liquify tool. A pr
 
 ---
 
-# **Healing Tool**
+### Healing Tool
 
 The Healing Tool is located at the bottom of feature modules and allows for seamless corrections across various editing tabs.
 
@@ -128,7 +136,7 @@ The Healing Tool is located at the bottom of feature modules and allows for seam
 
 ---
 
-## **Undo & Redo**
+#### Undo & Redo
 
 Buttons are located at the top-left corner of the interface.
 
@@ -136,18 +144,18 @@ Buttons are located at the top-left corner of the interface.
 
 - **Undo:** Command (⌘) + Z
 - **Redo:** Command (⌘) + Shift + Z
-  - On Windows keyboards: Win + Z
+- On Windows keyboards: Win + Z
 
 ---
 
-# **History**
+### History
 
 A History Panel is available at the bottom of the right-side toolbar.
 
 - Select any step in the list to revert to that point in editing.
 - If effects were applied before exiting the app, reopening will preserve your edits and offer two options:
-  - Snapshot of Last Modified Image
-  - Original Image
+- Snapshot of Last Modified Image
+- Original Image
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/iPad-History.png)
 

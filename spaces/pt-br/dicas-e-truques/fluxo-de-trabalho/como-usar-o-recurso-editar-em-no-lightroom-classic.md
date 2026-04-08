@@ -15,9 +15,6 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-10.47.52-243x300.png"
 ---
 
-wp:tadv/classic-paragraph
-# **Como Usar o Recurso “Editar em” no Lightroom Classic**
-
 Este guia explica como usar o recurso **“Editar em”** para enviar rapidamente uma imagem do Lightroom Classic para o Evoto para retoques avançados e, em seguida, trazê-la de volta ao seu catálogo do Lightroom.
 
 ---
@@ -44,5 +41,3 @@ Este guia explica como usar o recurso **“Editar em”** para enviar rapidament
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-10.47.52-243x300.png)
 
 Este método é ideal para uma edição rápida de ida e volta, permitindo que você utilize as poderosas ferramentas de IA do Evoto em imagens individuais sem interromper o seu fluxo de trabalho no Lightroom.
-
-/wp:tadv/classic-paragraph

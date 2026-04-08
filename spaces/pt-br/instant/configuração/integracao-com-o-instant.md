@@ -27,7 +27,7 @@ Bem-vindo ao **Evoto Instant** — sua ferramenta completa de fluxo de trabalho 
 
 ---
 
-# Passo 1: Baixar e Fazer Login
+### Passo 1: Baixar e Fazer Login
 
 Comece instalando o aplicativo **Evoto Instant** pela **App Store** ou **Google Play**.
 
@@ -41,11 +41,13 @@ Você também pode acessar pelo [portal web do Evoto Instant](https://workspace.
 
 As fotos enviadas são sincronizadas e compartilhadas automaticamente entre as duas plataformas.
 
-![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.33.26-238x300.png) ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.35.02-300x138.png)
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.33.26-238x300.png)
+
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.35.02-300x138.png)
 
 ---
 
-# **Passo 2: Criar um Projeto**
+### Passo 2: Criar um Projeto
 
 Os projetos são a base do **Evoto Instant**. Um projeto organiza suas fotos, configurações de IA e opções de entrega em um só lugar. Você pode criar um projeto tanto pelo portal web do Evoto Instant quanto diretamente pelo aplicativo móvel.
 
@@ -59,9 +61,11 @@ Ao criar um novo projeto, você pode:
 
 Pense nos projetos como as pastas do seu evento ou cliente — tudo o que você captura e compartilha passa por eles.
 
-![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.38.51-147x300.png) ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.45.04-148x300.png)
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.38.51-147x300.png)
 
-## **Checklist de Onboarding para Novos Usuários**
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.45.04-148x300.png)
+
+#### Checklist de Onboarding para Novos Usuários
 
 O checklist de onboarding oferece um guia claro e passo a passo para ajudar usuários iniciantes a começarem a criar seus projetos.
 
@@ -80,6 +84,26 @@ O checklist exibe **4**tarefas obrigatórias de configuração:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/12-300x260.jpg)
 
-**Passo 3: Conectar sua Câmera** O **Evoto Instant** oferece suporte a dois métodos de disparo conectado (tethered shooting): **Conexão com Fio (USB/OTG)** Compatível com a maioria dos telefones Android, iPhone 15 e modelos anteriores de iPhone com adaptadores OTG. Ideal para transferências rápidas e estáveis durante sessões externas. **Conexão Sem Fio via FTP** Compatível com câmeras que suportam transferência FTP (por exemplo, linha Nikon Z, modelos profissionais da Sony e Canon). Conecte a câmera e o telefone à mesma rede Wi-Fi ou hotspot. Configure o endereço do servidor FTP, porta e credenciais exibidos no Evoto Instant. Após a conexão, você verá uma confirmação no aplicativo e sua câmera estará pronta para enviar fotos diretamente para o projeto. ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.51.47-631x1024.png) **Passo 4: Fotografar e Deixar a IA Fazer o Trabalho**
+**Passo 3: Conectar sua Câmera** O **Evoto Instant** oferece suporte a dois métodos de disparo conectado (tethered shooting): **Conexão com Fio (USB/OTG)** Compatível com a maioria dos telefones Android, iPhone 15 e modelos anteriores de iPhone com adaptadores OTG. Ideal para transferências rápidas e estáveis durante sessões externas. **Conexão Sem Fio via FTP** Compatível com câmeras que suportam transferência FTP (por exemplo, linha Nikon Z, modelos profissionais da Sony e Canon). Conecte a câmera e o telefone à mesma rede Wi-Fi ou hotspot. Configure o endereço do servidor FTP, porta e credenciais exibidos no Evoto Instant. Após a conexão, você verá uma confirmação no aplicativo e sua câmera estará pronta para enviar fotos diretamente para o projeto.
 
-Assim que sua câmera estiver conectada, você pode começar a fotografar. As fotos são importadas diretamente para o projeto ativo, onde a IA assume o processo: **AI Culling** filtra fotos com olhos fechados, desfoque, exposição inadequada ou duplicadas, deixando apenas as melhores imagens. **AI Editing** aplica presets profissionais de retoque, equilíbrio de tom de pele, ajustes de cor e muito mais — automaticamente ou com consistência em todo o projeto. Você ainda pode ajustar fotos individuais manualmente, mas a maior parte do trabalho é feita automaticamente em segundo plano. ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.59.55-151x300.png) ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-18.00.50-150x300.png) **Passo 5: Entregar uma Experiência com Sua Marca** Cada projeto pode ser personalizado para refletir sua marca ou o evento do seu cliente: Adicione até cinco marcas d’água por projeto. Crie banners personalizados e layouts de galeria que combinem com o estilo do evento. Esses toques finais transformam sua entrega de uma simples galeria em uma vitrine profissional. ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-18.05.01-714x1024.png) **Passo 6: Compartilhar Instantaneamente** Com as fotos processadas, é hora de entregá-las. O Evoto Instant torna o compartilhamento tão flexível quanto o seu evento exige: **Link Global** — Compartilhe todas as fotos do evento por meio de uma única galeria aberta. **Links Pessoais (Reconhecimento Facial)** — Com o consentimento dos convidados, as fotos são agrupadas por rosto, e cada pessoa recebe um link privado para sua própria galeria. **Opções de Entrega** — Envie links por QR code, SMS ou e-mail. Você também pode utilizar galerias protegidas por senha para maior segurança. **Recurso “Find Me”** — Os convidados podem enviar uma selfie ou tirar uma foto no local para encontrar instantaneamente suas imagens na galeria global. Isso garante que cada participante receba suas fotos de forma rápida, privada e da maneira mais conveniente para ele. ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-18.11.24-252x300.png) ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-18.12.05-237x300.png) No **Evoto Instant**, todo o fluxo de trabalho de imagem — **Fotografar → Selecionar → Editar → Compartilhar** — acontece em apenas alguns segundos. Ao combinar disparo conectado, sincronização em nuvem, automação com IA e compartilhamento instantâneo, o Evoto Instant economiza seu tempo enquanto eleva a experiência dos convidados. Esta visão geral é o seu ponto de partida. Explore os guias a seguir para se aprofundar em cada etapa do fluxo de trabalho, desde a configuração de hardware até funcionalidades avançadas de IA.
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.51.47-631x1024.png)
+
+**Passo 4: Fotografar e Deixar a IA Fazer o Trabalho**
+
+Assim que sua câmera estiver conectada, você pode começar a fotografar. As fotos são importadas diretamente para o projeto ativo, onde a IA assume o processo: **AI Culling** filtra fotos com olhos fechados, desfoque, exposição inadequada ou duplicadas, deixando apenas as melhores imagens. **AI Editing** aplica presets profissionais de retoque, equilíbrio de tom de pele, ajustes de cor e muito mais — automaticamente ou com consistência em todo o projeto. Você ainda pode ajustar fotos individuais manualmente, mas a maior parte do trabalho é feita automaticamente em segundo plano.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-17.59.55-151x300.png)
+
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-18.00.50-150x300.png)
+
+**Passo 5: Entregar uma Experiência com Sua Marca** Cada projeto pode ser personalizado para refletir sua marca ou o evento do seu cliente: Adicione até cinco marcas d’água por projeto. Crie banners personalizados e layouts de galeria que combinem com o estilo do evento. Esses toques finais transformam sua entrega de uma simples galeria em uma vitrine profissional.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-18.05.01-714x1024.png)
+
+**Passo 6: Compartilhar Instantaneamente** Com as fotos processadas, é hora de entregá-las. O Evoto Instant torna o compartilhamento tão flexível quanto o seu evento exige: **Link Global** — Compartilhe todas as fotos do evento por meio de uma única galeria aberta. **Links Pessoais (Reconhecimento Facial)** — Com o consentimento dos convidados, as fotos são agrupadas por rosto, e cada pessoa recebe um link privado para sua própria galeria. **Opções de Entrega** — Envie links por QR code, SMS ou e-mail. Você também pode utilizar galerias protegidas por senha para maior segurança. **Recurso “Find Me”** — Os convidados podem enviar uma selfie ou tirar uma foto no local para encontrar instantaneamente suas imagens na galeria global. Isso garante que cada participante receba suas fotos de forma rápida, privada e da maneira mais conveniente para ele.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-18.11.24-252x300.png)
+
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-10-at-18.12.05-237x300.png)
+
+No **Evoto Instant**, todo o fluxo de trabalho de imagem — **Fotografar → Selecionar → Editar → Compartilhar** — acontece em apenas alguns segundos. Ao combinar disparo conectado, sincronização em nuvem, automação com IA e compartilhamento instantâneo, o Evoto Instant economiza seu tempo enquanto eleva a experiência dos convidados. Esta visão geral é o seu ponto de partida. Explore os guias a seguir para se aprofundar em cada etapa do fluxo de trabalho, desde a configuração de hardware até funcionalidades avançadas de IA.

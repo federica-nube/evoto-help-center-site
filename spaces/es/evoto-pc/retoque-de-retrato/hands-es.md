@@ -19,11 +19,11 @@ source_assets:
 
 El módulo **Retoque de Manos** de Evoto se centra en refinar la apariencia de las manos, asegurando consistencia y suavidad en las ediciones de retratos.
 
-# Igualar con Aclarar y Oscurecer
+### Igualar con Aclarar y Oscurecer
 
 Esta función está diseñada para suavizar la apariencia de las manos y reducir la visibilidad de las arrugas. El control deslizante permite igualar de manera sutil el tono y la textura de la piel, otorgando a las manos un aspecto más suave y pulido.
 
-# Eliminación de Venas en la Mano
+### Eliminación de Venas en la Mano
 
 Utilice el control deslizante **Venas en Manos** para suavizar y reducir la visibilidad de venas prominentes en las manos y los antebrazos, creando un tono de piel más uniforme y pulido.
 
@@ -33,7 +33,7 @@ Utilice el control deslizante **Venas en Manos** para suavizar y reducir la visi
 
 ---
 
-# Remodelación de Manos
+### Remodelación de Manos
 
 **Nuevo en 6.2:** Ajusta la apariencia de las manos usando un único control deslizante. Adelgaza los dedos y reduce el tamaño de las palmas manteniendo proporciones naturales.
 

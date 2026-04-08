@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-ed40d7ef2f/README.md"
 ---
 
-# 시작하기 가이드
-
 ## In This Section
 
 - [시작하기](evoto-pc/tab-ed40d7ef2f/get-start-ko.md)

@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-524a782309/README.md"
 ---
 
-# 색감 보정
-
 ## In This Section
 
 - [색감 보정 모듈](evoto-pc/tab-524a782309/color-adjustment-feature-modules-ko.md)

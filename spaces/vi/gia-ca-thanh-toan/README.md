@@ -7,8 +7,6 @@ language: "vi"
 translation_group: "909"
 ---
 
-# Giá cả & Thanh toán
-
 ## In This Section
 
 - [Ảnh Evoto](gia-ca-thanh-toan/ảnh-evoto/README.md)

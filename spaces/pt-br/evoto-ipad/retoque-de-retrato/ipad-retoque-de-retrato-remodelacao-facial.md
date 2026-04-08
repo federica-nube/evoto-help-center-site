@@ -13,12 +13,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/对称-300x149.jpg"
 ---
 
-wp:tadv/classic-paragraph
 As ferramentas de ****Remodela********ção********Facial**** do Evoto utilizam IA para analisar de forma inteligente a estrutura facial do sujeito, permitindo ajustes detalhados e intuitivos. Você pode modificar tanto o formato geral do rosto quanto recursos faciais individuais, como sobrancelhas, olhos, nariz e boca.
 
 ---
 
-# **Ajustes Conjuntos/Separados**
+### Ajustes Conjuntos/Separados
 
 Alguns recursos faciais permitem ajustes tanto conjuntos quanto independentes (separados) para os lados esquerdo e direito do rosto. Clique em ícone Vincular para desbloquear o controle separado, possibilitando refinamentos assimétricos mais precisos.
 
@@ -26,7 +25,7 @@ Alguns recursos faciais permitem ajustes tanto conjuntos quanto independentes (s
 
 ---
 
-# **Posição da Cabeça**
+### Posição da Cabeça
 
 Ajuste a orientação do rosto usando três sliders:
 
@@ -36,7 +35,7 @@ Ajuste a orientação do rosto usando três sliders:
 
 ---
 
-# **Forma do Rosto**
+### Forma do Rosto
 
 Esses controles permitem remodelar o forma geral do rosto, ajustando linhas faciais e simetria.
 
@@ -60,7 +59,7 @@ Esses controles permitem remodelar o forma geral do rosto, ajustando linhas faci
 
 ---
 
-# **Sobrancelhas**
+### Sobrancelhas
 
 Ajuste características das sobrancelhas para simetria e expressão.
 
@@ -72,7 +71,7 @@ Ajuste características das sobrancelhas para simetria e expressão.
 
 ---
 
-# **Olhos**
+### Olhos
 
 Redefina a forma e posição dos olhos para equilíbrio e expressão.
 
@@ -88,7 +87,7 @@ Redefina a forma e posição dos olhos para equilíbrio e expressão.
 
 ---
 
-# **Nariz**
+### Nariz
 
 Ajuste forma e proporções do nariz.
 
@@ -101,7 +100,7 @@ Ajuste forma e proporções do nariz.
 
 ---
 
-# **Boca**
+### Boca
 
 Refine tamanho, posição e proporções dos lábios.
 
@@ -116,7 +115,7 @@ Refine tamanho, posição e proporções dos lábios.
 
 ---
 
-# **Simetrizar**
+### Simetrizar
 
 Quando ativado, este recurso ajusta a simetria das sobrancelhas, olhos, nariz, boca, orelhas, formato do rosto e ombros.
 
@@ -126,5 +125,3 @@ Os sliders (0–100) permitem definir o nível de simetria facial e da parte sup
 
 - **Simetria Facial:** Ajusta a simetria dos traços faciais.
 - **Simetria da Parte Superior do Corpo:** Corrige desalinhamentos dos ombros ou parte superior do corpo.
-
-/wp:tadv/classic-paragraph

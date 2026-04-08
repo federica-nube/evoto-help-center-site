@@ -20,12 +20,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-11.47.46-300x250.png"
 ---
 
-wp:tadv/classic-paragraph
 O Correspondência de Cor por IA é um recurso inteligente que permite transferir rapidamente o tom e o estilo de uma imagem de referência para suas outras fotos. Com reconhecimento semântico avançado, ele ajusta automaticamente áreas específicas como roupas, tons de pele e elementos do ambiente, oferecendo um resultado coeso e uniforme em todo o seu projeto.
 
 ---
 
-# Como Funciona e Como Usar
+### Como Funciona e Como Usar
 
 O Correspondência de Cor por IA simplifica o processo de correção de cores, deixando a maior parte do trabalho pesado para a IA.
 
@@ -35,7 +34,9 @@ O Correspondência de Cor por IA simplifica o processo de correção de cores, d
 
 **2. Selecionar uma Imagem de Referência:**
 
-- Clique no ícone para fazer upload da sua própria imagem de referência.![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-15.58.31-300x154.png)
+- Clique no ícone para fazer upload da sua própria imagem de referência.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-15.58.31-300x154.png)
 - Alternativamente, você pode usar a imagem atualmente em visualização como referência.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-11.31.14-300x140.png)
@@ -59,7 +60,7 @@ Após selecionar a referência, a IA do Evoto analisa os parâmetros de cor da i
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-11.46.34-121x300.png)
 
-# Sincronização em Lote & Salvando como Preset
+### Sincronização em Lote & Salvando como Preset
 
 **Sincronização em Lote**
 
@@ -83,10 +84,8 @@ Para salvar suas configurações personalizadas como uma predefinição reutiliz
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-11.47.46-300x250.png)
 
-# Dicas Práticas para Resultados Ótimos
+### Dicas Práticas para Resultados Ótimos
 
 - **Escolha uma referência consistente:** Para resultados mais precisos, use uma imagem de referência com cena ou estilo semelhante à das imagens alvo. Você pode até usar uma foto já retocada como referência para manter consistência em lote.
 - **Aplicar AI Color Match limpa ajustes anteriores:** Ao aplicar o Correspondência de Cor por IA, todos os ajustes de cor anteriores serão resetados, pois o algoritmo ajusta automaticamente os parâmetros. Você sempre pode usar a função Undo para restaurar efeitos anteriores.
 - **Ajustes adicionais:** Depois de aplicar Correspondência de Cor por IA, ainda é possível modificar outras configurações (como Curves, HSL etc.) para resultados mais refinados.
-
-/wp:tadv/classic-paragraph

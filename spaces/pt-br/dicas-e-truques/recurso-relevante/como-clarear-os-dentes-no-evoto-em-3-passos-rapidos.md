@@ -13,10 +13,9 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/08/mask-scaled.jpg"
 ---
 
-wp:tadv/classic-paragraph
 Quer um sorriso mais brilhante nos seus retratos? O Evoto facilita o clareamento de dentes com diferentes ferramentas. Aqui estão três métodos rápidos que você pode usar:
 
-# **Método 1: Slider de Clareamento de Dentes**
+### Método 1: Slider de Clareamento de Dentes
 
 O método mais rápido está em: **Retoque de Retrato > Dentes**
 
@@ -29,7 +28,7 @@ O método mais rápido está em: **Retoque de Retrato > Dentes**
 
 ---
 
-# **Método 2: Geração de Sorriso com Efeito de Clareamento**
+### Método 2: Geração de Sorriso com Efeito de Clareamento
 
 Às vezes, apenas adicionar um sorriso mais evidente ajuda a mostrar dentes mais brancos:
 
@@ -40,7 +39,7 @@ O método mais rápido está em: **Retoque de Retrato > Dentes**
 
 ---
 
-# **Método 3: Ajustes de Cor + Máscaras de Dentes**
+### Método 3: Ajustes de Cor + Máscaras de Dentes
 
 Para maior controle sobre o tom e clareamento:
 
@@ -55,5 +54,3 @@ Para maior controle sobre o tom e clareamento:
 ---
 
 Com esses três métodos, você pode destacar rapidamente sorrisos radiante e naturais em qualquer retrato. Seja com clareamento rápido ou controle total, o Evoto oferece todas as ferramentas que você precisa.
-
-/wp:tadv/classic-paragraph

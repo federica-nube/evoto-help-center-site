@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "instant/configuração/README.md"
 ---
 
-# Configuração
-
 ## In This Section
 
 - [Integração com o Instant](instant/configuração/integracao-com-o-instant.md)

@@ -19,7 +19,6 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-11-at-18.25.44-156x300.png"
 ---
 
-wp:tadv/classic-paragraph
 Once you’ve created a project, Evoto Instant automatically organizes your photo flow into a step-by-step process, displayed in the Workspace Dashboard. This visual workflow shows exactly where your photos are and how many are currently in each step.
 
 The complete photo processing workflow includes five steps: **Imported → Uploaded → AI Edited → Exported → Shared**.
@@ -30,7 +29,7 @@ The complete photo processing workflow includes five steps: **Imported → Uploa
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-11-at-18.07.33-300x167.png)
 
-# **Imported**
+### Imported
 
 Photos first appear in the Imported stage after they are transferred to your phone. Evoto currently supports three import methods:
 
@@ -42,7 +41,7 @@ At this stage, the files exist only on your device and are queued for upload to 
 
 ---
 
-# **Uploaded**
+### Uploaded
 
 When photos move into the Uploaded stage, it means they’ve successfully reached the cloud. You can decide whether this happens manually—choosing which files to send—or automatically.
 
@@ -52,7 +51,7 @@ If automatic upload is enabled together with AI Culling, only photos that pass t
 
 ---
 
-# **AI Edited**
+### AI Edited
 
 ***(visible only if AI Editing is enabled)***
 
@@ -60,11 +59,13 @@ The AI Edited stage appears once uploaded photos are processed by Evoto’s reto
 
 During live shooting, previews of these edits appear in real time and are completely free to view. Credits are only deducted when you decide to export a photo.
 
-![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-11-at-18.17.53-149x300.png) ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-11-at-18.18.14-148x300.png)
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-11-at-18.17.53-149x300.png)
+
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-11-at-18.18.14-148x300.png)
 
 ---
 
-# **Exported**
+### Exported
 
 ***(visible only if AI Editing is enabled)***
 
@@ -76,7 +77,7 @@ Export can be handled manually—allowing you to preview edits before confirming
 
 ---
 
-# **Shared**
+### Shared
 
 The final step of the workflow is Shared**.** This reflects the number of photos that have been successfully delivered to client-facing galleries.
 
@@ -91,5 +92,3 @@ Each guest receives their own link, which can be shared via QR code, SMS, or ema
 The Processing Workflow is built to make complex photo pipelines simple and transparent.
 
 Whether you’re running a quick live event or managing a larger production, the dashboard shows you exactly where your photos are at every moment—imported, uploaded, edited, exported, or already in your clients’ hands.
-
-/wp:tadv/classic-paragraph

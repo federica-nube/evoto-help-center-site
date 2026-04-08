@@ -15,6 +15,10 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/image-58.png"
 ---
 
-# 手の補正
+**手の甲の血管** 手の甲の血管を除去・薄くできます。 注意：手の甲の血管を除去する機能は、手の甲以外に前腕にも適用できます。
 
-**手の甲の血管** 手の甲の血管を除去・薄くできます。 注意：手の甲の血管を除去する機能は、手の甲以外に前腕にも適用できます。 ![image.png](https://res.evoto.ai/community/post/5iXvjFY75qQ.png) 手のリシェイプ **6.2で新登場：** 単一のスライダーを使用して手の外観を調整できます。自然な比率を維持しながら、指を細くし、手のひらを小さくします。 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-58.png)
+![image.png](https://res.evoto.ai/community/post/5iXvjFY75qQ.png)
+
+手のリシェイプ **6.2で新登場：** 単一のスライダーを使用して手の外観を調整できます。自然な比率を維持しながら、指を細くし、手のひらを小さくします。
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/image-58.png)

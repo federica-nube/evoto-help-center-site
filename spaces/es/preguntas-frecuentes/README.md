@@ -7,8 +7,6 @@ language: "es"
 translation_group: "935"
 ---
 
-# Preguntas Frecuentes
-
 ## In This Section
 
 - [Relacionado con Edición](preguntas-frecuentes/relacionado-con-edición/README.md)

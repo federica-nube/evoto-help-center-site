@@ -8,12 +8,11 @@ translation_group: "1574"
 primary_category: "sem-categoria"
 ---
 
-wp:tadv/classic-paragraph
 Esta seção fornece respostas às perguntas mais comuns sobre como encontrar e usar cupons e códigos promocionais do Evoto.
 
 ---
 
-# **Onde posso encontrar os códigos de cupom do Evoto?**
+### Onde posso encontrar os códigos de cupom do Evoto?
 
 O Evoto distribui cupons e códigos promocionais válidos através de canais oficiais. Para não perder nenhuma oferta exclusiva, recomendamos:
 
@@ -21,11 +20,11 @@ O Evoto distribui cupons e códigos promocionais válidos através de canais ofi
 - **Newsletters para Assinantes:** Enviamos ofertas exclusivas diretamente para o seu endereço de e-mail cadastrado.
 - **Redes Sociais:** Siga nossas contas oficiais para promoções de eventos especiais e campanhas em parceria.
 
-# **Os códigos promocionais expiram?**
+### Os códigos promocionais expiram?
 
 **Sim**, os códigos promocionais possuem datas de validade. A data de expiração geralmente é informada no evento ou mensagem onde o código foi fornecido. Se nenhuma data estiver informada, você pode tentar inserir o código no momento do checkout. Se o código estiver expirado, uma mensagem aparecerá informando que ele não é mais válido.
 
-# **Existem restrições para os códigos promocionais?**
+### Existem restrições para os códigos promocionais?
 
 **Sim**, algumas restrições devem ser observadas:
 
@@ -35,7 +34,3 @@ O Evoto distribui cupons e códigos promocionais válidos através de canais ofi
 - **Data de validade:** Os códigos promocionais possuem datas de expiração, normalmente informadas junto ao código.
 
 Se o seu código não estiver funcionando ou se você não tiver certeza do motivo, entre em contato conosco pelo e-mail support@evoto.ai para obter assistência.
-
-/wp:tadv/classic-paragraph
-wp:paragraph
-/wp:paragraph

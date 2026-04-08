@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "meo-thu-thuat/qui-trình-chỉnh-sửa-ảnh/README.md"
 ---
 
-# Qui trình chỉnh sửa ảnh
-
 ## In This Section
 
 - [Tích hợp giữa Evoto và Lightroom Classic](meo-thu-thuat/qui-trình-chỉnh-sửa-ảnh/tich-hop-giua-evoto-va-lightroom-classic.md)

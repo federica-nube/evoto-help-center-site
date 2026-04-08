@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/chỉnh-sửa-chân-dung/README.md"
 ---
 
-# Chỉnh sửa chân dung
-
 ## In This Section
 
 - [Chỉnh sửa chân dung](evoto-pc/chỉnh-sửa-chân-dung/portrait-retouching-feature-module-vi.md)

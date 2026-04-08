@@ -15,12 +15,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.26.33-300x257.png"
 ---
 
-wp:tadv/classic-paragraph
 As poderosas ferramentas de retoque de pele do Evoto facilitam a obtenção de um tom de pele natural, uniforme e com brilho saudável. Localizadas na seção Retoque de Retrato, esses recursos oferecem diversas opções para aprimorar o tom de pele tanto no rosto quanto no corpo.
 
 ---
 
-# Sliders de Unificação do Tom de Pele
+### Sliders de Unificação do Tom de Pele
 
 Os sliders ajustam inteligentemente o tom de pele conforme a área de aplicação, ajudando a criar um resultado consistente e harmonioso.
 
@@ -32,21 +31,21 @@ Os sliders ajustam inteligentemente o tom de pele conforme a área de aplicaçã
 
 ---
 
-# Ajustes de Tom de Pele, Radiância e Pele Rosada
+### Ajustes de Tom de Pele, Radiância e Pele Rosada
 
 Evoto oferece duas ferramentas adicionais para refinar aparência geral da pele, cada uma com um propósito específico.
 
 ![](https://support.evoto.ai/wp-content/uploads/2026/01/2-2-300x282.jpg)
 
-## **Alteração do Tom de Pele (Selecionar tom de pele)**
+#### Alteração do Tom de Pele (Selecionar tom de pele)
 
 Esta funcionalidade permite ajustar o tom geral da pele na imagem. São disponíveis 8 tons diferentes, que podem ser selecionados e ajustados com um slider. Ideal para situações em que é necessário modificar o tom da pele e harmonizá-lo com os traços faciais, garantindo uma aparência consistente.
 
-## **Radiância da Pele**
+#### Radiância da Pele
 
 Focado em melhorar a luminosidade e clareza da pele, este recurso faz a pele parecer mais radiante e saudável. O slider realça a radiância da pele sem alterar a cor ou o brilho dos traços faciais, preservando as cores naturais do rosto.
 
-## **Pele Rosada**
+#### Pele Rosada
 
 Permite acrescentar ou reduzir a vermelhidão da pele para uma aparência mais saudável. Use o slider para aumentar ou diminuir sutilmente o tom rosado, equilibrando a coloração da pele e conferindo um aspecto mais vibrante ou natural.
 
@@ -56,7 +55,7 @@ Para ajudá-lo a escolher a ferramenta mais adequada, aqui está um resumo das p
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.25.25-300x174.png)
 
-# **Dicas Adicionais para Ajustes Precisos**
+### Dicas Adicionais para Ajustes Precisos
 
 Para obter um controle mais preciso, você também pode utilizar os ajustes de Máscara Local no Módulo de Ajustes de Cor para refinar áreas específicas da imagem.
 
@@ -66,5 +65,3 @@ Para obter um controle mais preciso, você também pode utilizar os ajustes de M
 2. **Ajustes de Cor** Dentro da Máscara Local, você pode aplicar ajustes de cor básicos na área selecionada para obter um tom de pele mais uniforme. Isso oferece flexibilidade para trabalhar em uma pessoa, várias pessoas ou apenas uma parte específica do corpo.
 
 Ao combinar os sliders de IA com a precisão dos ajustes da Máscara Local, você garante que os sujeitos tenham um tom de pele natural e uniforme, elevando a qualidade geral das suas fotos.
-
-/wp:tadv/classic-paragraph

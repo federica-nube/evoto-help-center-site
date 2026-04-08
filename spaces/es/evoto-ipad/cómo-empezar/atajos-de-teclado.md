@@ -10,9 +10,6 @@ tags:
   - "ipad-es"
 ---
 
-wp:tadv/classic-paragraph
-# Atajos de Teclado
-
 Se han agregado nuevos atajos de navegación para mejorar la eficiencia en tu flujo de trabajo (con teclado conectado):
 
 - ← / ↑ : Ir a la imagen anterior.
@@ -20,5 +17,3 @@ Se han agregado nuevos atajos de navegación para mejorar la eficiencia en tu fl
 - Mantener presionadas las flechas: Navegación continua.
 - Comando + Flecha: Saltar a la primera o última imagen.
 - Ctrl + Flecha: Salto de página, moviéndose ±10 imágenes a la vez.
-
-/wp:tadv/classic-paragraph

@@ -16,7 +16,6 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.02.11-300x57.png"
 ---
 
-wp:tadv/classic-paragraph
 O recurso **Importação & Exportação Automáticas** do Evoto agiliza seu fluxo de trabalho ao monitorar pastas designadas em busca de novas imagens, aplicar automaticamente uma predefinição selecionada e exportar os resultados editados. Esse recurso poderoso é ideal para processamento de grandes volumes de imagens e funciona perfeitamente com sessões de tethered shooting (captura vinculada).
 
 Visão Geral
@@ -32,7 +31,7 @@ Esse recurso automatiza tarefas repetitivas, permitindo que você foque no traba
 
 ---
 
-# Como Configurar a Importação & Exportação Automáticas
+### Como Configurar a Importação & Exportação Automáticas
 
 O Evoto facilita a configuração desse recurso em apenas alguns passos.
 
@@ -86,7 +85,3 @@ Clique no ícone **Mais Configurações** para personalizar as opções de expor
 **Iniciar a Exportação Automática**
 
 Depois de configurar todas as opções de exportação, clique em **Iniciar Exportação Automática**para ativar o recurso.
-
-/wp:tadv/classic-paragraph
-wp:paragraph
-/wp:paragraph

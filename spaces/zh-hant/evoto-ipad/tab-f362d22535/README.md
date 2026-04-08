@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-f362d22535/README.md"
 ---
 
-# 人像美化
-
 ## In This Section
 
 - [祛瑕疵](evoto-ipad/tab-f362d22535/blemish-removal-ipad-zh-hant.md)

@@ -5,8 +5,6 @@ source_type: "generated_group"
 source_id: "perguntas-frequentes/recursos-adicionais-and-suporte/README.md"
 ---
 
-# Recursos Adicionais & Suporte
-
 ## In This Section
 
 - [Recursos Adicionais & Suporte](perguntas-frequentes/recursos-adicionais-and-suporte/recursos-adicionais-suporte.md)

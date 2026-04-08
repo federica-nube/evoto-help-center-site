@@ -5,8 +5,6 @@ source_type: "generated_group"
 source_id: "faq/group-a36fa35e01/README.md"
 ---
 
-# 使用相關
-
 ## In This Section
 
 - [Miscellaneous FAQs](faq/group-a36fa35e01/miscellaneous.md)

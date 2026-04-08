@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/corte-and-rotação/README.md"
 ---
 
-# Corte & Rotação
-
 ## In This Section
 
 - [Ipad - Corte](evoto-ipad/corte-and-rotação/ipad-corte.md)

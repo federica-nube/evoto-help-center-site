@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "instant/tab-4debda003a/README.md"
 ---
 
-# 빠른 시작
-
 ## In This Section
 
 - [인스턴트 온보딩](instant/tab-4debda003a/article-2a38afd704.md)

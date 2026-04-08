@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "section-fae94dab23/feature-related-4bdd814f91/README.md"
 ---
 
-# Feature Related
-
 ## In This Section
 
 - [How to Achieve Uniform Skin Tone and Radiance in Evoto](section-fae94dab23/feature-related-4bdd814f91/how-to-achieve-uniform-skin-tone-in-evoto.md)

@@ -7,8 +7,6 @@ language: "pt-br"
 translation_group: "935"
 ---
 
-# PERGUNTAS FREQUENTES
-
 ## In This Section
 
 - [Solução de Problemas de Instalação & Conflitos com Antivírus](perguntas-frequentes/solução-de-problemas-de-instalação-and-conflitos-com-antivírus/README.md)

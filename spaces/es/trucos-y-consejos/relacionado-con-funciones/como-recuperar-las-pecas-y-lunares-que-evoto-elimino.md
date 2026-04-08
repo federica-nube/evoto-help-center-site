@@ -16,12 +16,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/08/20250827160326-scaled.jpg"
 ---
 
-wp:tadv/classic-paragraph
 *A veces la eliminación de imperfecciones de Evoto hace su trabajo demasiado bien—junto con las imperfecciones, también puede eliminar las pecas naturales. Aquí te mostramos cómo recuperarlas en solo unos pasos.*
 
 ---
 
-# Paso 1: Verificar la Eliminación de Imperfecciones
+### Paso 1: Verificar la Eliminación de Imperfecciones
 
 - Abre tu retrato en **Evoto**.
 - Ve a **Retoque de Retrato → Piel → Eliminación de Imperfecciones**.
@@ -29,7 +28,7 @@ wp:tadv/classic-paragraph
 
 ---
 
-# Paso 2: Usar el Control de Pecas
+### Paso 2: Usar el Control de Pecas
 
 - Navega a **Retoque de Retrato → Piel → Pecas**.
 - Aumenta el control deslizante para recuperar algunas pecas de aspecto natural.
@@ -37,7 +36,7 @@ wp:tadv/classic-paragraph
 
 ---
 
-# Paso 3: Pincel de Ajuste Manual (Control Preciso)
+### Paso 3: Pincel de Ajuste Manual (Control Preciso)
 
 - Selecciona el **Pincel de Ajuste Manual** de la barra de herramientas.
 
@@ -50,14 +49,12 @@ wp:tadv/classic-paragraph
 ![](https://support.evoto.ai/wp-content/uploads/2025/08/20250827160326-scaled.jpg)
 
 - Piensa en ello como ajustar una máscara:
-  - **Agregar áreas** → las pecas vuelven.
-  - **Restar áreas** → la eliminación de imperfecciones permanece aplicada.
+- **Agregar áreas** → las pecas vuelven.
+- **Restar áreas** → la eliminación de imperfecciones permanece aplicada.
 - Acércate para un control fino, especialmente alrededor de la nariz y las mejillas donde las pecas son más comunes.
 
 ---
 
-# Consejo Pro: El Equilibrio es Clave
+### Consejo Pro: El Equilibrio es Clave
 
 - Usa las tres herramientas juntas—**eliminación de imperfecciones, control de pecas y pincel de ajuste manual**—para lograr un aspecto natural.
-
-/wp:tadv/classic-paragraph

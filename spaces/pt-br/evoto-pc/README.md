@@ -7,8 +7,6 @@ language: "pt-br"
 translation_group: "453"
 ---
 
-# Evoto PC
-
 ## In This Section
 
 - [Como Começar](evoto-pc/como-começar/README.md)

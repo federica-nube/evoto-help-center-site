@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-6c50c45767/README.md"
 ---
 
-# 衣物美化
-
 ## In This Section
 
 - [衣物美化](evoto-ipad/tab-6c50c45767/clothing-adjustment-ipad-zh-hant.md)

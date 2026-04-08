@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/điều-chỉnh-phông-nền/README.md"
 ---
 
-# Điều chỉnh phông nền
-
 ## In This Section
 
 - [iPad - Điều chỉnh phông nền](evoto-ipad/điều-chỉnh-phông-nền/background-adjustments-ipad-vi.md)

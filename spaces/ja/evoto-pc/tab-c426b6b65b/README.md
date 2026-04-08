@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-c426b6b65b/README.md"
 ---
 
-# 背景補正
-
 ## In This Section
 
 - [背景補正](evoto-pc/tab-c426b6b65b/background-adjustments-ja.md)

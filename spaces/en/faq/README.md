@@ -7,8 +7,6 @@ language: "en"
 translation_group: "935"
 ---
 
-# FAQ
-
 ## In This Section
 
 - [Installation FAQs](faq/installation-faqs/README.md)

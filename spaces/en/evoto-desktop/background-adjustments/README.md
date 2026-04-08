@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-desktop/background-adjustments/README.md"
 ---
 
-# Background Adjustments
-
 ## In This Section
 
 - [Background Adjustments Module - Background Adjustments](evoto-desktop/background-adjustments/background-adjustments.md)

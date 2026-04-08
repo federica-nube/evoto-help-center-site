@@ -12,8 +12,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/rotate-2-300x197.jpg"
 ---
 
-wp:tadv/classic-paragraph
-# Ferramenta de **Rotação**
+### Ferramenta de Rotação
 
 A Ferramenta de **Rotação** permite ajustar manualmente ou automaticamente a rotação e orientação da sua imagem. Isso inclui:
 
@@ -24,7 +23,7 @@ A Ferramenta de **Rotação** permite ajustar manualmente ou automaticamente a r
 
 Use o slider de ângulo para definir manualmente o grau de rotação dentro do intervalo suportado.
 
-# **Correção por IA**
+### Correção por IA
 
 O recurso ****Correção por IA**** (acessado pelo botão ****Auto****) utiliza inteligência artificial para endireitar automaticamente o horizonte da imagem.
 
@@ -38,13 +37,9 @@ Sempre que a ****Correção por IA**** é aplicada, o slider é redefinido com b
 
 ---
 
-## **Como a Correção por IA Interage com os Ajustes Manuais**
+#### Como a Correção por IA Interage com os Ajustes Manuais
 
 - **Rotação (Horário/Anti-horário):** a Correção por IA recalcula com base no estado atual de rotação da imagem.
 - **Espelhamento (Inverter Horizontal/Vertical):** se o espelhamento for aplicado, a IA recalcula a correção do horizonte de acordo.
 
 *Para aplicar apenas a correção de rotação por IA sem sincronizar as configurações de recorte, certifique-se de que somente a opção **Girar** esteja marcada no painel de sincronização.*
-
-/wp:tadv/classic-paragraph
-wp:paragraph
-/wp:paragraph

@@ -16,12 +16,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-12-at-15.08.20-300x247.png"
 ---
 
-wp:tadv/classic-paragraph
 Evoto Instant’s AI Editing helps you apply professional-grade retouching to your event photos—either automatically through project-wide presets or manually with fine-tuned single-image adjustments. It gives you the flexibility to enhance entire galleries in bulk while still allowing detailed control when needed.
 
 ---
 
-# **Two Levels of AI Editing**
+### Two Levels of AI Editing
 
 AI Editing operates on two layers:
 
@@ -33,11 +32,15 @@ AI Editing operates on two layers:
 - If both are applied, **single-image edits always take priority** over project presets.
 - Once a photo has been individually edited, it no longer follows future project preset updates—unless you **roll it back to project effects**.
 
-![](https://support.evoto.ai/wp-content/uploads/2025/09/IMG_4515.PNG-139x300.jpg) ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-12-at-14.47.09-146x300.png) ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-12-at-15.08.20-300x247.png)
+![](https://support.evoto.ai/wp-content/uploads/2025/09/IMG_4515.PNG-139x300.jpg)
+
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-12-at-14.47.09-146x300.png)
+
+![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-12-at-15.08.20-300x247.png)
 
 ---
 
-# **Updating Project Presets**
+### Updating Project Presets
 
 When you update a project preset, the effect depends on the sharing status of the photos:
 
@@ -49,7 +52,7 @@ This ensures that client-facing photos remain stable while you still have flexib
 
 ---
 
-# **Available Presets**
+### Available Presets
 
 - Evoto Instant supports both **Recommended Presets** (system defaults) and **My Presets** (user-created).
 - Some event-specific presets are included, such as **Event** and **School** looks.
@@ -57,7 +60,7 @@ This ensures that client-facing photos remain stable while you still have flexib
 
 ---
 
-# **Single-Image AI Editing**
+### Single-Image AI Editing
 
 For photos that need extra care, you can open the **Single-Image AI Editing panel**:
 
@@ -72,7 +75,7 @@ If the image has already been shared, updates will refresh the shared gallery in
 
 ---
 
-# **When to Use AI Editing**
+### When to Use AI Editing
 
 - **Enable AI Editing at Project Creation** → Apply consistent looks across all photos as they import.
 - **Disable at Project Creation, Enable Later** → Photos can still be processed retroactively.
@@ -80,7 +83,7 @@ If the image has already been shared, updates will refresh the shared gallery in
 
 ---
 
-# **Credit Usage for AI Editing**
+### Credit Usage for AI Editing
 
 Evoto Instant makes it easy to explore AI Editing without worrying about unnecessary costs.
 
@@ -92,5 +95,3 @@ This means you can experiment freely with presets or single-image adjustments, a
 ---
 
 AI Editing in Evoto Instant balances efficiency and control. You can let presets handle the bulk of the work, while still fine-tuning standout shots individually. With previews free to view and credits only deducted on export, AI Editing lets you experiment confidently and deliver polished, professional galleries to your clients.
-
-/wp:tadv/classic-paragraph

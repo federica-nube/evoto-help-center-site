@@ -14,7 +14,11 @@ source_assets:
   - "https://res.evoto.ai/wordpress/81e18dad-e7ac-4fb3-9b99-687f96fe6f67.png"
 ---
 
-Các công cụ điều chỉnh biểu cảm khuôn mặt trong Evoto cho phép bạn tinh chỉnh và nâng cao biểu cảm một cách nhẹ nhàng trong ảnh chân dung. Những công cụ này được thiết kế để làm nổi bật cảm xúc và vẻ tự nhiên trên gương mặt, giúp tạo ra biểu cảm cuốn hút hoặc chỉn chu hơn mà vẫn giữ được độ chân thực và giúp ảnh trông tự nhiên hơn. ![](https://res.evoto.ai/wordpress/81e18dad-e7ac-4fb3-9b99-687f96fe6f67.png) Điều chỉnh lộ nướu
+Các công cụ điều chỉnh biểu cảm khuôn mặt trong Evoto cho phép bạn tinh chỉnh và nâng cao biểu cảm một cách nhẹ nhàng trong ảnh chân dung. Những công cụ này được thiết kế để làm nổi bật cảm xúc và vẻ tự nhiên trên gương mặt, giúp tạo ra biểu cảm cuốn hút hoặc chỉn chu hơn mà vẫn giữ được độ chân thực và giúp ảnh trông tự nhiên hơn.
+
+![](https://res.evoto.ai/wordpress/81e18dad-e7ac-4fb3-9b99-687f96fe6f67.png)
+
+Điều chỉnh lộ nướu
 
 Công cụ này cho phép kiểm soát chính xác mức độ nướu lộ ra khi người trong ảnh cười, bằng cách điều chỉnh vị trí môi trên. Tính năng đặc biệt hữu ích trong việc giảm hiện tượng “cười hở lợi” hoặc hạn chế răng bị lộ quá nhiều.
 - Hai bên trái và phải của môi trên có thể được điều chỉnh độc lập, giúp bạn tinh chỉnh từng bên một cách chính xác và tự nhiên hơn.

@@ -15,10 +15,9 @@ tags:
   - "troubleshoot"
 ---
 
-wp:tadv/classic-paragraph
 This section addresses common account issues, outlines how to resolve them, and guides you on reporting bugs or providing feedback.
 
-# **What should I do if I forget my password?**
+### What should I do if I forget my password?
 
 If you forget your Evoto account password, you can easily reset it directly through the app or website:
 
@@ -29,20 +28,20 @@ If problems persist after following these steps, contact support via the account
 
 ---
 
-# **How can I resolve account issues or errors?**
+### How can I resolve account issues or errors?
 
 If you encounter general account issues or errors, try these troubleshooting steps:
 
 - **General Troubleshooting:**
-  - Clear your browser cache or try accessing Evoto using a different web browser.
-  - Check for service status updates on the main Evoto site or blog, as widespread issues may be announced there.
-  - Look for similar issues discussed on the Evoto Forum, where community moderators and experienced users often share solutions and workarounds.
+- Clear your browser cache or try accessing Evoto using a different web browser.
+- Check for service status updates on the main Evoto site or blog, as widespread issues may be announced there.
+- Look for similar issues discussed on the Evoto Forum, where community moderators and experienced users often share solutions and workarounds.
 - **Deep Dive Troubleshooting:**
-  - Some advanced users report issues related to API connectivity or external integrations. For insights on resolving these more technical issues, look for technical posts and bug reports on the Evoto Forum, or contact support@evoto.ai.
+- Some advanced users report issues related to API connectivity or external integrations. For insights on resolving these more technical issues, look for technical posts and bug reports on the Evoto Forum, or contact support@evoto.ai.
 
 ---
 
-# **How do I report bugs or provide account-related feedback?**
+### How do I report bugs or provide account-related feedback?
 
 Your feedback is valuable for improving Evoto. The most effective way to report bugs or get support is through our official channels.
 
@@ -50,5 +49,3 @@ Your feedback is valuable for improving Evoto. The most effective way to report 
 - Alternatively, you can right-click an image and go to **“Provide Feedback.”** Enter the information in the pop-up box to send feedback to our team.
 - You can also post your issue on the **Evoto Forum**, where fellow users actively respond.
 - Always follow any guidelines mentioned on the **Evoto Blog** regarding bug reporting procedures, as this helps our team efficiently address your concerns.
-
-/wp:tadv/classic-paragraph

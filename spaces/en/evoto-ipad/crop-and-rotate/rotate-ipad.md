@@ -16,14 +16,13 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/iPad-Rotate.png"
 ---
 
-wp:tadv/classic-paragraph
 The Rotate module in Evoto for iPad allows precise control over image orientation, including rotation and mirroring, with optional AI-powered alignment.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/iPad-Rotate.png)
 
 ---
 
-# **Rotate Options**
+### Rotate Options
 
 Evoto for iPad supports the following orientation tools:
 
@@ -38,7 +37,7 @@ You can also use the rotation slider to make fine adjustments to image alignment
 
 ---
 
-# **AI Horizontal Correction**
+### AI Horizontal Correction
 
 Evoto for iPad includes an **AI Horizontal Correction** tool to automatically straighten images.
 
@@ -48,15 +47,13 @@ Evoto for iPad includes an **AI Horizontal Correction** tool to automatically st
 
 ---
 
-# **Interaction Between AI Horizontal Correction and Rotation Tools**
+### Interaction Between AI Horizontal Correction and Rotation Tools
 
 Evoto ensures seamless integration between manual rotation and AI adjustments:
 
 - **Manual Rotation**
-  - Adjusts the image’s horizon based on the rotation direction you choose.
+- Adjusts the image’s horizon based on the rotation direction you choose.
 - **Clockwise/Counterclockwise Rotation with AI**
-  - When you apply AI Horizontal Correction after rotating the image, the AI intelligently recalculates the horizon based on the rotated orientation.
+- When you apply AI Horizontal Correction after rotating the image, the AI intelligently recalculates the horizon based on the rotated orientation.
 - **Mirroring and AI Correction**
-  - After performing a horizontal or vertical flip, the AI Horizontal Correction feature will recalculate and apply correction based on the new image orientation.
-
-/wp:tadv/classic-paragraph
+- After performing a horizontal or vertical flip, the AI Horizontal Correction feature will recalculate and apply correction based on the new image orientation.

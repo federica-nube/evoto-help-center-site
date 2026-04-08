@@ -7,8 +7,6 @@ language: "es"
 translation_group: "909"
 ---
 
-# Precios y Facturación
-
 ## In This Section
 
 - [Créditos](precios-facturacion/créditos/README.md)

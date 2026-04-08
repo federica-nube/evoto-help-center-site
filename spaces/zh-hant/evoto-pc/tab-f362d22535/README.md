@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-f362d22535/README.md"
 ---
 
-# 人像美化
-
 ## In This Section
 
 - [AI 人臉識別](evoto-pc/tab-f362d22535/ai-46a4e943ec.md)

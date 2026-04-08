@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "dicas-e-truques/fluxo-de-trabalho/README.md"
 ---
 
-# Fluxo de Trabalho
-
 ## In This Section
 
 - [Como integrar o Evoto de forma integrada ao Lightroom Classic](dicas-e-truques/fluxo-de-trabalho/como-integrar-o-evoto-de-forma-integrada-ao-lightroom-classic.md)

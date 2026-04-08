@@ -18,12 +18,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-06-26-at-14.45.45-300x175.png"
 ---
 
-wp:tadv/classic-paragraph
 Easily replace the background in one click using Evoto’s built-in recommended backdrop changer.
 
 ---
 
-# **Manual Tuning Pen**
+### Manual Tuning Pen
 
 Use the **Manual Tuning Pen** to brush in or erase the effect if parts of the picture are mistakenly edited during background replacement.
 
@@ -31,13 +30,13 @@ Use the **Manual Tuning Pen** to brush in or erase the effect if parts of the pi
 
 ---
 
-# **Backdrop Changer - Recommended**
+### Backdrop Changer - Recommended
 
 Easily replace the background in one click using Evoto’s built-in recommended backdrop changer.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20251021183226.jpg)
 
-# **Background Replacement with Selective Preservation**
+### Background Replacement with Selective Preservation
 
 When replacing a background, you can now select how much of the original scene to preserve:
 
@@ -45,16 +44,16 @@ When replacing a background, you can now select how much of the original scene t
 - **Subject and Related Objects** – Retains the subject and connected or relevant items
 - **Subject + Related Objects + Non-Connected Objects** – Retains all important elements, including unrelated but prominent objects
 
-# **Background Fill Options**
+### Background Fill Options
 
-## **Fill Region**
+#### Fill Region
 
 When adjusting backgrounds within the Background module, you can choose how the new background fills the frame:
 
 - **Original Image:** The new background fills based on the full dimensions of your original, uncropped image, including any content outside the current crop.
 - **Cropped Image:** The new background fills only the visible portion of your image, precisely matching your current crop.
 
-## **Fill Mode**
+#### Fill Mode
 
 Control how the background image fits:
 
@@ -66,7 +65,7 @@ Control how the background image fits:
 
 ---
 
-# **Details Adjustment Tools**
+### Details Adjustment Tools
 
 Refine how the new background appears with the following sliders:
 
@@ -76,5 +75,3 @@ Refine how the new background appears with the following sliders:
 - **Vertical/Horizontal Position** – Moves the background (default anchor: center).
 
 **Note:** “Show Shadow Anchor” is enabled by default.
-
-/wp:tadv/classic-paragraph

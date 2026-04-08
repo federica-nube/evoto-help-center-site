@@ -7,8 +7,6 @@ language: "ja"
 translation_group: "453"
 ---
 
-# Evoto PC
-
 ## In This Section
 
 - [はじめに](evoto-pc/tab-46a7f4db6a/README.md)

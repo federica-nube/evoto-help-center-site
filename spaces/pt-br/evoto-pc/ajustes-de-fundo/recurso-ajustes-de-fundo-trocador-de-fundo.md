@@ -20,12 +20,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/手动调整阴影-222x300.jpg"
 ---
 
-wp:tadv/classic-paragraph
 O **Trocador de Fundo** permite substituir e ajustar fundos em fotos de retrato de forma contínua e realista. Ele oferece controles avançados para substituição de fundo, ajustes detalhados, preservação seletiva e renderização realista de sombras.
 
 ---
 
-# **Caneta de Ajuste Manual**
+### Caneta de Ajuste Manual
 
 Use a Caneta de Ajuste Manual para pincelar ou apagar o efeito caso partes da imagem sejam editadas incorretamente durante a substituição do fundo.
 
@@ -33,15 +32,15 @@ Use a Caneta de Ajuste Manual para pincelar ou apagar o efeito caso partes da im
 
 ---
 
-# **Modos de Trocador de Fundo**
+### Modos de Trocador de Fundo
 
-## **Trocador de Fundo – Recomendado**
+#### Trocador de Fundo – Recomendado
 
 Substitua o fundo facilmente com um clique, usando o trocador de fundo recomendado.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/推荐-300x280.jpg)
 
-## **Trocador de Fundo – Meus Fundos**
+#### Trocador de Fundo – Meus Fundos
 
 Carregue fundos personalizados clicando em ícone ➕.
 
@@ -52,7 +51,7 @@ Carregue fundos personalizados clicando em ícone ➕.
 
 ---
 
-## Alterador de Fundo – Cor Sólida Personalizada
+#### Alterador de Fundo – Cor Sólida Personalizada
 
 O recurso Alterador de Fundo agora permite que os usuários substituam o fundo por **uma cor definida pelo usuário**.
 
@@ -77,7 +76,7 @@ Os modos de mistura do fundo permitem preservar a textura original do fundo enqu
 
 ---
 
-## **Área Preservada**
+#### Área Preservada
 
 Ao trocar o fundo, escolha quanto da imagem original deseja manter:
 
@@ -85,7 +84,7 @@ Ao trocar o fundo, escolha quanto da imagem original deseja manter:
 - **Sujeito e Objetos Relacionados** – Mantém o sujeito e itens associados diretamente (ex.: acessórios).
 - **Sujeito + Relacionados + Objetos Não Conectados** – Mantém tudo acima, além de objetos próximos que não estejam conectados diretamente.
 
-## **Região de Preenchimento**
+#### Região de Preenchimento
 
 Escolha como o novo fundo irá preencher o enquadramento:
 
@@ -104,7 +103,7 @@ Controle como a imagem de fundo se ajusta:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/模式-300x160.jpg)
 
-## **Ferramentas de Ajuste de Detalhes**
+#### Ferramentas de Ajuste de Detalhes
 
 Refine a aparência do novo fundo utilizando os seguintes sliders:
 
@@ -113,15 +112,15 @@ Refine a aparência do novo fundo utilizando os seguintes sliders:
 - **Tamanho** – Redimensiona o fundo (0 a 100; padrão: 0).
 - **Posição Vertical/Horizontal** – Move o fundo (âncora padrão: centro).
 
-## **Remover vazamento de cor**
+#### Remover vazamento de cor
 
 O recurso Remover vazamento de cor ajuda a eliminar reflexos indesejados de cor provenientes do fundo quando você substitui o fundo em uma imagem. É possível reduzir ou eliminar a luz do fundo original que se refletiu no sujeito com o recurso Remover vazamento de cor, garantindo um resultado mais limpo e natural.
 
 ---
 
-# **Sombras**
+### Sombras
 
-## **Reter Sombras por IA**
+#### Reter Sombras por IA
 
 Preserva as sombras originais do sujeito para efeitos de iluminação mais realistas.
 
@@ -132,7 +131,7 @@ Preserva as sombras originais do sujeito para efeitos de iluminação mais reali
 - Ambientes com fundo de cor sólida
 - Cenas simples com fundo não sólido
 
-## **Adicionar Sombra**
+#### Adicionar Sombra
 
 Quando o Trocador de Fundo está ativado, você pode adicionar sombras realistas utilizando um dos três predefinidos:
 
@@ -142,12 +141,12 @@ Quando o Trocador de Fundo está ativado, você pode adicionar sombras realistas
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/加阴影-300x278.jpg)
 
-### Ferramenta Caneta de Ajuste Manual
+##### Ferramenta Caneta de Ajuste Manual
 
 - Com o recurso “Reter Sombras por IA” ativado, clique o ícone da Caneta de Ajuste Manual ativa o Ajuste Manual.
 - Com “Adicionar Sombra” ativado, clique o ícone da Caneta de Ajuste Manual ajusta a posição da sombra adicionada.
 
-### Ajustar Sombras com Precisão
+##### Ajustar Sombras com Precisão
 
 Use os sliders para personalizar os efeitos de sombra:
 
@@ -158,7 +157,7 @@ Use os sliders para personalizar os efeitos de sombra:
 
 ---
 
-## **Modos de Mesclagem**
+#### Modos de Mesclagem
 
 Controle como as sombras interagem com o plano de fundo:
 
@@ -170,7 +169,7 @@ Controle como as sombras interagem com o plano de fundo:
 
 > Observação: N ão funciona em fundos brancos.
 
-## **Ajustes de Posição da Sombra (Ajuste Manual)**
+#### Ajustes de Posição da Sombra (Ajuste Manual)
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/手动调整阴影-222x300.jpg)
 
@@ -179,7 +178,7 @@ Controle como as sombras interagem com o plano de fundo:
 - **Distância da sombra** – ajusta o comprimento e o ângulo horizontal da sombra (0–180°)
 - **Ângulo da sombra** – ajusta o comprimento e o ângulo vertical da sombra (0–180°)
 
-### **Controles de Arraste da Sombra na Tela**
+##### Controles de Arraste da Sombra na Tela
 
 **Observação: os Controles de Arraste na Tela são acessados clicando em ícone da Caneta de Ajuste Manual****no painel de Sombras.**
 
@@ -188,5 +187,3 @@ Controle como as sombras interagem com o plano de fundo:
 - Mostrar Âncora de Sombra – exibe a âncora da sombra; arraste para reposicionar
 
 > Observação: “Mostrar Âncora d e Sombra” vem ativado por padrão.
-
-/wp:tadv/classic-paragraph

@@ -13,9 +13,8 @@ tags:
 ---
 
 Adjust subtle facial expressions to enhance mood and natural appearance in portraits. These tools are ideal for creating more inviting or polished facial expressions while maintaining realism.
-# Facial Expression
 
-## Gummy Smile
+#### Gummy Smile
 
 Control the amount of gum exposure by adjusting the upper lip position. This is useful for reducing the appearance of a "gummy smile" or minimizing protruding teeth.
 - The left and right sides of the upper lip can be adjusted independently for more precise correction.

@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-6830812c7a/README.md"
 ---
 
-# 色補正
-
 ## In This Section
 
 - [色補正](evoto-ipad/tab-6830812c7a/color-adjustment-ipad-ja.md)

@@ -8,12 +8,11 @@ translation_group: "2126"
 primary_category: "sem-categoria"
 ---
 
-wp:tadv/classic-paragraph
 Este guia fornece instruções completas sobre como acessar e gerenciar as configurações da sua conta Evoto, incluindo informações pessoais, recursos de segurança, preferências de notificação e dispositivos conectados.
 
 ---
 
-# **Como acessar as configurações da minha conta?**
+### Como acessar as configurações da minha conta?
 
 Você pode acessar as configurações da sua conta de forma prática tanto pelo aplicativo Evoto (desktop/iPad) quanto pelo site oficial da Evoto.
 
@@ -45,7 +44,7 @@ Você pode acessar as configurações da sua conta de forma prática tanto pelo 
 
 ---
 
-# **Como alterar minha senha?**
+### Como alterar minha senha?
 
 Você pode atualizar sua senha tanto pelo aplicativo Evoto quanto pelo site oficial.
 
@@ -65,7 +64,7 @@ Você pode atualizar sua senha tanto pelo aplicativo Evoto quanto pelo site ofic
 
 ---
 
-# **Como alterar meu endereço de e-mail?**
+### Como alterar meu endereço de e-mail?
 
 Você pode atualizar o endereço de e-mail vinculado à sua conta Evoto por meio do site oficial.
 
@@ -81,7 +80,7 @@ Você pode atualizar o endereço de e-mail vinculado à sua conta Evoto por meio
 
 ---
 
-# **Quais recursos de segurança estão disponíveis?**
+### Quais recursos de segurança estão disponíveis?
 
 A Evoto oferece diversos recursos de segurança para ajudar a proteger sua conta:
 
@@ -91,19 +90,19 @@ A Evoto oferece diversos recursos de segurança para ajudar a proteger sua conta
 
 ---
 
-# **Quais configurações de notificações e privacidade estão disponíveis?**
+### Quais configurações de notificações e privacidade estão disponíveis?
 
 Você tem controle sobre as comunicações que recebe e alguns aspectos dos seus dados.
 
-#### **Configurações de Notificação:**
+###### Configurações de Notificação:
 
 - Personalize quais alertas deseja receber, incluindo:
-  - Atualizações de produtos
-  - Promoções de marketing
-  - Atividades da conta
-  - Mensagens da comunidade
+- Atualizações de produtos
+- Promoções de marketing
+- Atividades da conta
+- Mensagens da comunidade
 
-#### **Configurações de Privacidade:**
+###### Configurações de Privacidade:
 
 - Controle a visibilidade do seu perfil e atividades.
 - Gerencie preferências de compartilhamento de dados para recursos de comunidade e feedback.
@@ -112,7 +111,7 @@ Você tem controle sobre as comunicações que recebe e alguns aspectos dos seus
 
 - Alguns usuários ajustam finamente os gatilhos de notificação utilizando dicas compartilhadas pela comunidade. Visite o [Fórum Evoto](https://forum.evoto.ai/) para exemplos e sugestões.
 
-# **Como gerenciar meus dispositivos conectados?**
+### Como gerenciar meus dispositivos conectados?
 
 O seu plano ativo determina o número de dispositivos que podem estar conectados simultaneamente.
 
@@ -125,8 +124,6 @@ O seu plano ativo determina o número de dispositivos que podem estar conectados
 
 ---
 
-# **Ainda precisa de ajuda?**
+### Ainda precisa de ajuda?
 
 Se ainda encontrar qualquer problema relacionado à conta, entre em contato conosco pelo e-mail support@evoto.ai. Nossa equipe terá prazer em ajudá-lo.
-
-/wp:tadv/classic-paragraph

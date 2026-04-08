@@ -7,8 +7,6 @@ language: "ja"
 translation_group: "935"
 ---
 
-# FAQ
-
 ## In This Section
 
 - [インストールに関するFAQ](faq/faq-d730f71c2c/README.md)

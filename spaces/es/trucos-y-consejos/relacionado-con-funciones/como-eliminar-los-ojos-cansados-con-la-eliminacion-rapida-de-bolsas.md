@@ -16,14 +16,13 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/09/20250924141127-scaled.jpg"
 ---
 
-wp:tadv/classic-paragraph
 Las bolsas de los ojos y las ojeras son algunos de los desafíos más comunes en el retoque de retratos. Pueden hacer que incluso una foto bien tomada se vea cansada o menos pulida. Tradicionalmente, los editores pasaban mucho tiempo clonando, sanando y mezclando debajo de los ojos para suavizar la piel. Aunque algunas herramientas modernas ofrecen eliminación automática basada en IA, los resultados no siempre son confiables. Pueden sobre-suavizar, borrar detalles o incluso alterar la apariencia del sujeto.
 
 Evoto adopta un enfoque diferente. En lugar de reemplazar o fabricar piel, trabaja ajustando inteligentemente las sombras y los tonos de piel alrededor del área de los ojos. Este método preserva todos los detalles y texturas naturales, dándote un resultado limpio y realista sin distorsión.
 
 En este tutorial, explicaremos cómo eliminar las bolsas de los ojos y las ojeras con Evoto, y cómo reintroducir sombras sutiles para mantener la profundidad facial natural.
 
-# Paso 1: Eliminar las Bolsas de los Ojos
+### Paso 1: Eliminar las Bolsas de los Ojos
 
 Ve a: **Retoque de Retrato > Eliminación de Imperfecciones > Bolsas de Ojos**
 
@@ -36,7 +35,7 @@ Aquí encontrarás dos controles deslizantes para un control preciso:
 
 ✨ ***Consejo:****Comienza con ajustes moderados. Eliminar demasiado puede aplanar el rostro y hacerlo parecer poco natural.*
 
-# Paso 2: Abordar las Ojeras
+### Paso 2: Abordar las Ojeras
 
 Ve a: **Retoque de Retrato > Eliminación de Ojeras**
 
@@ -44,7 +43,7 @@ Este control deslizante apunta específicamente a la pigmentación más oscura d
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250924140548-scaled.jpg)
 
-# Paso 3: Restaurar las Sombras Naturales
+### Paso 3: Restaurar las Sombras Naturales
 
 A veces, después de eliminar las bolsas de ojos y las ojeras, el área debajo del ojo puede verse demasiado brillante o plana. Para recuperar profundidad realista:
 
@@ -57,8 +56,6 @@ Ve a: **Retoque de Retrato > Maquillaje > Sombra de Ojos**
 
 ✨ ***Consejo:****Usa este paso con moderación. Piensa en ello como devolver solo la cantidad correcta de definición que se perdió durante el retoque.*
 
-# Reflexiones Finales
+### Reflexiones Finales
 
 Al combinar las herramientas de **Bolsas de Ojos**, **Párpados Inferiores** y **Eliminación de Ojeras** con un toque de **Sombra de Ojos**, Evoto te permite eliminar los signos de cansancio de los retratos mientras mantienes intacto el carácter natural de tu sujeto. A diferencia de otras herramientas que corren el riesgo de alterar la apariencia de una persona, el enfoque de Evoto trabaja con los tonos de piel y las sombras. Esto proporciona un resultado rápido, natural y profesional.
-
-/wp:tadv/classic-paragraph

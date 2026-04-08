@@ -7,8 +7,6 @@ language: "ko"
 translation_group: "6543"
 ---
 
-# Evoto 인스턴트
-
 ## In This Section
 
 - [빠른 시작](instant/tab-4debda003a/README.md)

@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/and-8cc99b0802/README.md"
 ---
 
-# 크롭 & 회전
-
 ## In This Section
 
 - [크롭](evoto-ipad/and-8cc99b0802/crop-ipad-ko.md)

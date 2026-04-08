@@ -18,19 +18,17 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-073502-1024x859.png"
 ---
 
-# Evotoのチケットについて
-
-## **Evotoにおけるチケットとは？**
+#### Evotoにおけるチケットとは？
 
 チケットは、Evotoで編集した写真を**透かしなしで書き出すために使用される単位**です。
 
 **1チケット = 編集済み写真1枚の書き出し**
 
-## **チケットの使用ルール**
+#### チケットの使用ルール
 
 - 元の未編集画像を書き出す場合、**チケットは消費されません**。
 - **1枚の編集済み写真につき1チケットを消費**します。
-  - 同じデバイスでインポートした写真であれば、何度書き出しても消費は1回のみです。
+- 同じデバイスでインポートした写真であれば、何度書き出しても消費は1回のみです。
 - **別のデバイスで同じ写真をインポートした場合**、Evotoは新しいファイルとして扱うため、書き出し時に再度チケットが消費されます。
 
 ***注意:***
@@ -39,15 +37,13 @@ source_assets:
 
 *その結果、編集結果が正確でなくなったり、書き出し時に追加でチケットを消費する可能性があります。*
 
-wp:block {"ref":1220} /
-## **Evoto PC版とiPad版のチケットは共通ですか？**
+#### Evoto PC版とiPad版のチケットは共通ですか？
 
 **はい。**
 
 どちらのプラットフォームで購入したチケットも、同じEvotoアカウントに紐づき、デスクトップ版とiPad版の両方で共通利用可能です。
 
-wp:block {"ref":1220} /
-## **15枚の無料チケットを受け取る方法**
+#### 15枚の無料チケットを受け取る方法
 
 プロフィールを完成させることで、最大15枚の無料チケットを獲得できます。
 
@@ -55,44 +51,30 @@ wp:block {"ref":1220} /
 2. **「あなたについて教えてください」**を選択
 3. フォームに記入して送信すると、自動的にチケットが付与されます
 
-wp:quote {"className":"is-style-default","style":{"color":{"background":"#f8f5a6"},"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"},"margin":{"right":"0","left":"0"},"blockGap":"0"},"border":{"radius":"50px"}}}
 > 注意事項: 1台のデバイスにつき、無料チケットの受け取りは1回のみです。 受け取り後30日以内にご利用ください。
 
-/wp:quote
-wp:image {"id":10701,"sizeSlug":"large","linkDestination":"none"}
 ![](https://support.evoto.ai/wp-content/uploads/2025/08/image-1024x639.png)
 
-/wp:image
-wp:block {"ref":1220} /
-## **チケット残数を確認する方法**
+#### チケット残数を確認する方法
 
-### **方法1：Evotoアプリ内**
+##### 方法1：Evotoアプリ内
 
 1. 右上の **アカウントアイコン** → **チケット**
 2. 残りのチケット数と総使用枚数を確認できます
 
-wp:uagb/container {"block_id":"08ee7919","variationSelected":true,"isBlockRootParent":true}
-wp:uagb/image {"block_id":"f5555fb6","url":"https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070628-1024x598.png","urlTablet":"https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070628.png","urlMobile":"https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070628.png","align":"center","id":1223,"linkDestination":"none","title":"View your remaining credits and total credits used","width":1024,"widthTablet":1024,"height":598,"heightTablet":601,"naturalWidth":1024,"naturalHeight":601,"sizeSlug":"large","sizeSlugTablet":"large","sizeSlugMobile":"large"} ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070628-1024x598.png) /wp:uagb/image
+![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070628-1024x598.png)
 
-/wp:uagb/container
-### **方法2：Evoto公式サイトにて確認**
+##### 方法2：Evoto公式サイトにて確認
 
 - [evoto.ai/jp](https://evoto.ai/jp)にログイン
 
-wp:uagb/container {"block_id":"c8f431fe","variationSelected":true,"isBlockRootParent":true}
-wp:uagb/image {"block_id":"805e9392","url":"https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070806-1024x517.png","urlTablet":"https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070806.png","urlMobile":"https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070806.png","align":"center","id":1228,"linkDestination":"none","title":"Sign in at evoto.ai","width":1024,"widthTablet":1024,"height":517,"heightTablet":601,"naturalWidth":1024,"naturalHeight":601,"sizeSlug":"large","sizeSlugTablet":"large","sizeSlugMobile":"large"} ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070806-1024x517.png) /wp:uagb/image
+![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070806-1024x517.png)
 
-/wp:uagb/container
-wp:paragraph
 使用量や請求料金にて、残りのチケット数を確認可能です。
 
-/wp:paragraph
-wp:uagb/container {"block_id":"d8f2aefe","variationSelected":true,"isBlockRootParent":true}
-wp:uagb/image {"block_id":"151f9a3f","url":"https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-071714-1024x656.png","urlTablet":"https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-071714.png","urlMobile":"https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-071714.png","align":"center","id":1227,"linkDestination":"none","title":"My billing and usage","width":1024,"widthTablet":1024,"height":656,"heightTablet":601,"naturalWidth":1024,"naturalHeight":601,"sizeSlug":"large","sizeSlugTablet":"large","sizeSlugMobile":"large"} ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-071714-1024x656.png) /wp:uagb/image
+![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-071714-1024x656.png)
 
-/wp:uagb/container
-wp:block {"ref":1220} /
-## **チケットの有効期限について**
+#### チケットの有効期限について
 
 チケットには、購入したパッケージに応じた**有効期限**があります。
 
@@ -104,18 +86,15 @@ wp:block {"ref":1220} /
 - **使用中のプラン**：残チケットのある有効パッケージ。期限も表示されます。
 - **無効なパッケージ**：使用済みまたは期限切れパッケージ。過去のパッケージはここで確認できます。
 
-wp:uagb/container {"block_id":"fff65fb0","variationSelected":true,"isBlockRootParent":true}
-wp:uagb/image {"block_id":"494dc3ff","url":"https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-073502-1024x859.png","urlTablet":"https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-073502.png","urlMobile":"https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-073502.png","align":"center","id":1226,"linkDestination":"none","title":"Available Packages \u0026 Invalid Packages","width":1024,"widthTablet":1024,"height":859,"heightTablet":601,"naturalWidth":1024,"naturalHeight":601,"sizeSlug":"large","sizeSlugTablet":"large","sizeSlugMobile":"large"} ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-073502-1024x859.png) /wp:uagb/image
+![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-073502-1024x859.png)
 
-/wp:uagb/container
-wp:block {"ref":1220} /
-## **複数のチケットパッケージがある場合の消費ルール**
+#### 複数のチケットパッケージがある場合の消費ルール
 
 複数のチケットパッケージやプランを保有している場合、**最も早く期限切れになるパッケージから優先して消費**されます。
 
 ---
 
-## **チケットを別アカウントに移行できますか？**
+#### チケットを別アカウントに移行できますか？
 
 **いいえ。**
 
@@ -123,7 +102,7 @@ wp:block {"ref":1220} /
 
 ---
 
-## **チケットを他のユーザーと共有できますか？**
+#### チケットを他のユーザーと共有できますか？
 
 **いいえ。**
 
@@ -131,7 +110,7 @@ wp:block {"ref":1220} /
 
 ---
 
-## **デバイス利用制限**
+#### デバイス利用制限
 
 - **2年チケットプラン**：最大2台のデバイスでログイン可能
 - **年間定期購入プラン**：利用可能台数は契約プランにより異なります

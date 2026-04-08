@@ -16,12 +16,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/09/11-2-300x157.jpg"
 ---
 
-wp:tadv/classic-paragraph
 Projects are the foundation of Evoto Instant. They sync seamlessly between the Evoto Instant App and the Web Portal. This guide explains how projects are managed, what information is displayed, and how you can edit or customize project settings.
 
 ---
 
-# **Where Projects Are Managed**
+### Where Projects Are Managed
 
 Projects can be created and managed in both the**Evoto Instant App**and the [**Web Portal**](https://workspace.instant.evoto.ai/).
 
@@ -30,7 +29,7 @@ Projects can be created and managed in both the**Evoto Instant App**and the [**W
 
 ---
 
-# **Viewing Projects on the Homepage**
+### Viewing Projects on the Homepage
 
 On the homepage, all created projects are displayed in a list. Each project entry includes:
 
@@ -42,7 +41,7 @@ Projects are sorted by creation time, with the newest projects appearing at the 
 
 ---
 
-# **Project Actions**
+### Project Actions
 
 Each project card has a **three-dot**menu that allows you to perform the following actions:
 
@@ -64,7 +63,7 @@ Each project card has a **three-dot**menu that allows you to perform the followi
 
 ---
 
-# **Editing Project Details**
+### Editing Project Details
 
 If you want to change project settings, you can edit details after a project has been created.
 
@@ -86,8 +85,8 @@ Open the project, and you’ll find the Settings in the left-hand sidebar.
 
 - Set Project Dates and Description
 - Choose Shooting Mode
-  - Event Project Type: Defaults to Classic Mode
-  - School Project Type: Defaults to Participant List Mode
+- Event Project Type: Defaults to Classic Mode
+- School Project Type: Defaults to Participant List Mode
 - Configure Gallery Sharing Settings
 
 **2.Gallery Branding:**
@@ -103,5 +102,3 @@ Note: (**Gallery branding is available on the Basic plan and above).*
 **4. Monetization:** Customize your pricing strategy to maintain full control over your profit margins and adapt to different business scenarios. Evoto Instant supports three photo pricing models, giving you the flexibility to monetize your galleries based on your workflow and customer needs.
 
 **5. Analytics:** Track your sales performance in the Analytics section, where key business metrics such as total sales, total orders, and average order value are displayed.
-
-/wp:tadv/classic-paragraph

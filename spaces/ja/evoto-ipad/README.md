@@ -7,8 +7,6 @@ language: "ja"
 translation_group: "423"
 ---
 
-# Evoto iPad
-
 ## In This Section
 
 - [はじめに](evoto-ipad/tab-46a7f4db6a/README.md)

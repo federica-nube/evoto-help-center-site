@@ -20,16 +20,15 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/5-1-300x237.jpg"
 ---
 
-wp:tadv/classic-paragraph
 O **Correspondência de Cor por IA** permite igualar automaticamente o tom de cor e o estilo visual de uma imagem a outra. Usando uma imagem de referência, essa ferramenta harmoniza exposição, temperatura de cor, tons e detalhes locais em todo o conjunto de imagens. Ela simplifica o processo de edição por meio de reconhecimento semântico, ajustando de forma inteligente tons de pele, cor do cabelo, roupas e até elementos ambientais, como céu e iluminação interna.
 
 Esse recurso é especialmente útil para fotógrafos que desejam manter consistência visual em grandes lotes de fotos ou em condições variadas de iluminação.
 
 ---
 
-# **Como usar o recurso Correspondência de Cor por IA?**
+### Como usar o recurso Correspondência de Cor por IA?
 
-## **Passo 1: Acessar o painel Correspondência de Cor por IA**
+#### Passo 1: Acessar o painel Correspondência de Cor por IA
 
 - **Método1:**
 
@@ -53,7 +52,7 @@ Alterne o panel de “Mostrar todos os painéis”, Correspondência de cor apar
 
 ---
 
-## **Passo 2: Definir uma Imagem de Referência**
+#### Passo 2: Definir uma Imagem de Referência
 
 Existem duas maneiras de definir uma imagem de referência para a Correspondência de cores por IA:
 
@@ -69,7 +68,7 @@ Usar a visualização atual: clique em ****Criar referência**** a partir da Vis
 
 ---
 
-## **Passo 3: Aplicar as Cores da Referência**
+#### Passo 3: Aplicar as Cores da Referência
 
 Após selecionar a imagem de referência:
 
@@ -79,7 +78,7 @@ Após selecionar a imagem de referência:
 
 ---
 
-## **Passo 4: Ajustar Finamente o Resultado**
+#### Passo 4: Ajustar Finamente o Resultado
 
 Após aplicar a Correspondência de cor por IA, é possível ajustar o resultado em duas áreas principais clicando no ícone de caneta de refinamento:
 
@@ -109,7 +108,7 @@ Pode usar o ícone ****Vincular**** para sincronizar as alterações entre todas
 
 ---
 
-## **Passo 5: Sincronizar em Lote e Salvar como Predefinição**
+#### Passo 5: Sincronizar em Lote e Salvar como Predefinição
 
 **Sincronizar em Lote**
 
@@ -133,19 +132,19 @@ Após aplicar a Correspondência de cor por IA e realizar ajustes adicionais:
 
 ---
 
-# **Modo Rápido vs. Modo de Controle**
+### Modo Rápido vs. Modo de Controle
 
 O recurso Correspondência de cor por IA foi aprimorado para oferecer mais flexibilidade e controle. Você pode escolher entre Modo Rápido e Modo de Controle, dependendo da sua necessidade. Use o Modo Rápido para resultados rápidos e o Modo de Controle quando desejar visibilidade completa e ajustes finos.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/06-254x300.jpg)
 
-## **Modo Rápido**
+#### Modo Rápido
 
 **Ideal para:** Resultados rápidos quando você deseja uma correspondência de cores automática e suave.
 
 **Como funcionar:** É rápido, simples e não requer ajustes adicionais.
 
-## **Modo de Controle**
+#### Modo de Controle
 
 **Ideal para:** Quando você precisa de controle detalhado sobre a correspondência de cor com uma imagem de referência.
 
@@ -157,7 +156,7 @@ O recurso Correspondência de cor por IA foi aprimorado para oferecer mais flexi
 
 ---
 
-# Gerenciamento de Referências
+### Gerenciamento de Referências
 
 O recurso Gerenciamento de Referências permite organizar imagens de Referência para **AI Color Match** por cor, estilo ou grupos personalizados, facilitando o acesso rápido e a reutilização das referências mais relevantes.
 
@@ -170,11 +169,13 @@ O recurso Gerenciamento de Referências permite organizar imagens de Referência
 - **Painel Esquerdo:**Exibe os grupos de referências criados pelo usuário. Permite criar, renomear, excluir e reordenar manualmente os grupos.
 - **Painel Direito:**Exibe todas as referências dentro do grupo selecionado. Permite upload em lote, mover, renomear e excluir referências.
 
-**Observações** O grupo **Não Agrupadas** sempre aparece no topo e não pode ser reordenado. Novas referências ou referências importadas são adicionadas automaticamente ao grupo Não Agrupadas por padrão. ![](https://support.evoto.ai/wp-content/uploads/2025/04/5-1-300x237.jpg)
+**Observações** O grupo **Não Agrupadas** sempre aparece no topo e não pode ser reordenado. Novas referências ou referências importadas são adicionadas automaticamente ao grupo Não Agrupadas por padrão.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/5-1-300x237.jpg)
 
 ---
 
-# **Dicas para Melhores Resultados**
+### Dicas para Melhores Resultados
 
 - Use imagens de referência com iluminação, fundo ou tema ****semelhantes****para obter resultados mais precisos.
 - Você pode usar uma foto-alvo já retocada como referência para sincronizar o estilo.
@@ -182,12 +183,8 @@ O recurso Gerenciamento de Referências permite organizar imagens de Referência
 
 **Dica: Use o **Modo Rápido** quando desejar resultados imediatos, e o **Modo de Controle** quando quiser total visibilidade e controle refinado sobre os ajustes.**
 
-## **Observação**
+#### Observação
 
 - Aplicar a Correspondência de cor por IA irá limpar todos os ajustes de cor existentes e reiniciar os controles deslizantes.
 - Você pode desfazer a alteração para restaurar as configurações anteriores.
 - Ajustes adicionais de cor ainda podem ser aplicados após usar a Correspondência de cor por IA.
-
-/wp:tadv/classic-paragraph
-wp:paragraph
-/wp:paragraph

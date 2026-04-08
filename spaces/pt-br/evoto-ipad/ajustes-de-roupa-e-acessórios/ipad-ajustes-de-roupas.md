@@ -16,8 +16,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/%E8%A1%A3%E6%9C%8D%E6%89%8B%E5%8A%A8-202x300.jpg"
 ---
 
-wp:tadv/classic-paragraph
-# **Desamassar Roupa**
+### Desamassar Roupa
 
 Use o controle deslizante (slider) para remover rugas do vestuário e restaurar a textura original do tecido. O efeito permite um ajuste flexível para preservar a estrutura tridimensional natural da roupa, ao mesmo tempo em que minimiza os vincos finos.
 
@@ -25,7 +24,7 @@ Use o controle deslizante (slider) para remover rugas do vestuário e restaurar 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/4-300x242.jpg)
 
-## **Sub-sliders**
+#### Sub-sliders
 
 Essas opções só ficam disponíveis depois que Remover Rugas da Roupa for ativado.
 
@@ -34,7 +33,7 @@ Essas opções só ficam disponíveis depois que Remover Rugas da Roupa for ativ
 
 ---
 
-# **Remover Manchas de Roupa**
+### Remover Manchas de Roupa
 
 Essa ferramenta remove fiapos, poeira e outros pequenos detritos da roupa usando um único slider para controlar a intensidade.
 
@@ -42,7 +41,7 @@ Essa ferramenta remove fiapos, poeira e outros pequenos detritos da roupa usando
 
 ---
 
-# **Suavizar Borda da Roupa**
+### Suavizar Borda da Roupa
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/%E8%A1%A3%E6%9C%8D2-300x140.jpg)
 
@@ -58,10 +57,8 @@ Ativa automaticamente:
 
 ---
 
-# **Caneta de Ajuste Manual para Retoques em Roupas**
+### Caneta de Ajuste Manual para Retoques em Roupas
 
 Use a **Caneta de Ajuste Manual** para pincelar ou apagar os efeitos dos ajustes de Roupas e Acessórios. Isso permite restaurar qualquer área afetada por engano após aplicar o retoque.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/%E8%A1%A3%E6%9C%8D%E6%89%8B%E5%8A%A8-202x300.jpg)
-
-/wp:tadv/classic-paragraph

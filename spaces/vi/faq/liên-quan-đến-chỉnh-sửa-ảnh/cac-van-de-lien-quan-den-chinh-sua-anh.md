@@ -24,8 +24,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/05/%E6%88%AA%E5%B1%8F2025-05-23-14.02.06-1-271x300.png"
 ---
 
-wp:tadv/classic-paragraph {"translatedWithWPMLTM":"1"}
-# Tại sao kích thước ảnh ở chế độ xem trước quá nhỏ?
+### Tại sao kích thước ảnh ở chế độ xem trước quá nhỏ?
 
 Bạn có thể điều chỉnh kích thước ảnh xem trước bằng các bước sau:
 
@@ -53,11 +52,11 @@ Chúng tôi hiện hỗ trợ người dùng định vị lại các hình ảnh
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-4-1024x444.png)
 
-# Tại sao mã cài sẵn không hoạt động?
+### Tại sao mã cài sẵn không hoạt động?
 
 Khi bạn nhập Mã cài sẵn được cung cấp bởi người khác, nếu người sở hữu cài sẵn đó thay đổi (cập nhật) hoặc xóa cài sẵn đã chia sẻ trước khi bạn kịp nhập cài sẵn đó, hệ thống sẽ hiển thị rằng mã cài sẵn của bạn không tồn tại.
 
-# Tại sao các hiệu ứng chỉnh sửa da của tôi không hiển thị khi điều chỉnh màu sắc?
+### Tại sao các hiệu ứng chỉnh sửa da của tôi không hiển thị khi điều chỉnh màu sắc?
 
 Nhiều người dùng bắt đầu chỉnh sửa với "Chỉnh sửa chân dung" hoặc các điều chỉnh chi tiết khác trước khi chuyển sang phần "Điều chỉnh màu sắc". Nếu bạn làm theo quy trình này, bạn có thể nhận thấy rằng các hiệu ứng chỉnh sửa tạm thời biến mất trong khi đang chỉnh màu.
 
@@ -74,5 +73,3 @@ Các chỉnh sửa của bạn vẫn được giữ nguyên — đây chỉ là 
 
 ```
 ```
-
-/wp:tadv/classic-paragraph

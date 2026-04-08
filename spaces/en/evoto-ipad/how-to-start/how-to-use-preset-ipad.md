@@ -17,8 +17,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/iPad-Preset-Imports.png"
 ---
 
-wp:tadv/classic-paragraph
-# **Creating a New Preset**
+### Creating a New Preset
 
 To create a new preset:
 
@@ -30,20 +29,24 @@ To create a new preset:
 
 ![](https://evoto.gitbook.io/~gitbook/image?url=https%3A%2F%2F3099291537-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FGcGHhe6Z57mAjGmYtrQ4%252Fuploads%252FqpMSTRxHmR19LbjizfqI%252FIMG_1035.PNG%3Falt%3Dmedia%26token%3Dfe0baca5-f4c6-44b0-9067-a1db4d0bfcd5&width=768&dpr=4&quality=100&sign=bc99b7f7&sv=2)
 
-**Effect Filtering Options** When saving a preset, you can quickly filter which effects to include: **Default** – Saves all default effect settings. **Adjusted** – Saves only the sliders or adjustments you have modified. This allows for precise control over what each preset contains. ![](https://support.evoto.ai/wp-content/uploads/2025/04/iPad-Preset-Creation-Filters.png) **Managing Your Presets** **Share, Rename or Delete**: Long-press on any preset to bring up options to *Share, Rename*or*Delete Preset.* **Additional Features**: Import Presets Share Presets Filter Presets View Type Tags (e.g., identifying presets by category or effect type)
+**Effect Filtering Options** When saving a preset, you can quickly filter which effects to include: **Default** – Saves all default effect settings. **Adjusted** – Saves only the sliders or adjustments you have modified. This allows for precise control over what each preset contains.
 
-# **Preset Groups**
+![](https://support.evoto.ai/wp-content/uploads/2025/04/iPad-Preset-Creation-Filters.png)
+
+**Managing Your Presets** **Share, Rename or Delete**: Long-press on any preset to bring up options to *Share, Rename*or*Delete Preset.* **Additional Features**: Import Presets Share Presets Filter Presets View Type Tags (e.g., identifying presets by category or effect type)
+
+### Preset Groups
 
 Preset Groups help you organize presets by shoot type, lighting conditions, or editing style.
 
-To create a new group, tap the **+** icon in the top right corner of the Presets menu, then select Create New Group. When saving a new preset, you can choose which group to save it under for better organization.![](https://support.evoto.ai/wp-content/uploads/2025/04/iPad-Preset-Groups.png)
+To create a new group, tap the **+** icon in the top right corner of the Presets menu, then select Create New Group. When saving a new preset, you can choose which group to save it under for better organization.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/iPad-Preset-Groups.png)
 
 ---
 
-# **Importing Presets**
+### Importing Presets
 
 To import presets from another device or user, tap the **+** icon in the top right corner of the Presets menu and select Import Preset(s). Enter the preset token provided, and the preset will be added to your My Presets list.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/iPad-Preset-Imports.png)
-
-/wp:tadv/classic-paragraph

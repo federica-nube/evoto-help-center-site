@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-instant/faq/README.md"
 ---
 
-# FAQ
-
 ## In This Section
 
 - [Evoto Instant FAQ](evoto-instant/faq/evoto-instant-faq.md)

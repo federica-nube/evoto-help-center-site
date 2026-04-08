@@ -7,8 +7,6 @@ language: "ja"
 translation_group: "910"
 ---
 
-# アカウント設定
-
 ## In This Section
 
 - [アカウントに関するよくある質問](account-settings/group-d7070ff860/README.md)

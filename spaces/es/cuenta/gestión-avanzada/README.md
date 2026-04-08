@@ -5,8 +5,6 @@ source_type: "generated_group"
 source_id: "cuenta/gestión-avanzada/README.md"
 ---
 
-# Gestión Avanzada
-
 ## In This Section
 
 - [Gestión Avanzada](cuenta/gestión-avanzada/gestion-avanzada.md)

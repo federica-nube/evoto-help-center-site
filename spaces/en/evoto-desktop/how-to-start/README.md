@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-desktop/how-to-start/README.md"
 ---
 
-# How to Start
-
 ## In This Section
 
 - [Edit Workspace Overview](evoto-desktop/how-to-start/edit.md)

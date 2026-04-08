@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/cómo-empezar/README.md"
 ---
 
-# Cómo Empezar
-
 ## In This Section
 
 - [¡Bienvenido a Evoto AI para iPad!](evoto-ipad/cómo-empezar/welcome-to-evoto-ai-ipad-es.md)

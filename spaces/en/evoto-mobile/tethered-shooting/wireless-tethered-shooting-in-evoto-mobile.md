@@ -19,21 +19,20 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/10/Wi-Fi-139x300.png"
 ---
 
-wp:tadv/classic-paragraph
 Experience seamless control over your photos with Evoto Mobile’s **Wireless Tethered Shooting**. Connect your camera wirelessly to your device to instantly preview, edit, and manage images in real time—enabling flexible shooting, faster workflow, and effortless collaboration while ensuring every shot is captured exactly as intended.
 
-# Compatible Camera Models
+### Compatible Camera Models
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/10/Snipaste_2025-11-03_16-27-53-300x293.jpg)
 
 > Note: Fujifilm X-H firmware must be updated to the latest version and tethered according to the tutorial.
 
-# Preparation Before Wired Tethered Shooting
+### Preparation Before Wired Tethered Shooting
 
 - A memory card must be installed in the camera.
 - iOS version must be 15 or above.
 
-## Enabling App Permissions
+#### Enabling App Permissions
 
 After opening Evoto and creating a new project, a prompt saying **“Evoto Would Like to Access the Camera”** will appear. Simply tap **“Allow”**.
 
@@ -45,7 +44,7 @@ You also need to make sure that the “Network” permission is enabled before s
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/10/Wi-Fi-139x300.png)
 
-## Camera Settings
+#### Camera Settings
 
 Specific settings for different camera brands:
 
@@ -54,7 +53,7 @@ Specific settings for different camera brands:
 - [Wireless Tethered Shooting – Nikon](https://support.evoto.ai/wireless-tethered-shooting-with-mobile-nikon/)
 - [Wireless Tethered Shooting – Fujifilm](https://support.evoto.ai/wireless-tethered-shooting-with-mobile-fuji-film/)
 
-# Start Tethered Shooting
+### Start Tethered Shooting
 
 If this is your first time using Evoto Mobile or you haven’t created any projects yet, select **“Tethered Shooting”** on the home page or tap the **“Tether”** button at the bottom. Then, tap **“Start Camera Check”**. Once your camera is detected, its model will be displayed—simply tap **“Connect”** to pair.
 
@@ -65,27 +64,25 @@ Once the camera is successfully connected, a **“Camera Connected Successfully�
 - **Tethered Shooting:** Select a project on the new page (you can create a new project or choose an existing one). Photos taken afterward will automatically be imported into Evoto.
 - **Import Photos from Camera:** Select the photos from your camera’s photo list that you want to import. Choose **Edit Existing Project** or **Edit New Project** as needed.
 
-# Tethered Shooting Settings
+### Tethered Shooting Settings
 
 image
 
 1. **Back:** Returns to the previous menu.
 2. **Undo/Redo:** Undo or redo one step. You can also tap **History** to jump to any previous action, or reset photo effects (expand the dropdown to choose **Reset All Effects**, **Reset Portrait Effects**, or **Reset Color Effects**).
 3. **More Functions:** Includes **View All Project Photos**, **History**, **Reset Effects**, **Sync to Others**, **Import Photos**, **Tethered Shooting**, **Report Issue**, and **Delete Current Photo**.
-  - **View All Project Photos:** View all photos in the current project and perform actions such as **Continue Importing Photos**, **Delete Photos**, **Batch Sync**, **Export**, **Filter**, and **Sort**.
-  - **History:** View all actions applied to the current photo and jump to any specific step.
-  - **Sync to Others:** Apply the current photo’s edits to other photos.
-  - **Import Photos:** Import additional photos from your album into the current project.
-  - **Tethered Shooting:** Enter the tethered shooting mode.
-  - **Report Issue:** Upload error information and logs.
-  - **Delete Current Photo:** Delete the current photo. This action cannot be undone, so use caution.
+- **View All Project Photos:** View all photos in the current project and perform actions such as **Continue Importing Photos**, **Delete Photos**, **Batch Sync**, **Export**, **Filter**, and **Sort**.
+- **History:** View all actions applied to the current photo and jump to any specific step.
+- **Sync to Others:** Apply the current photo’s edits to other photos.
+- **Import Photos:** Import additional photos from your album into the current project.
+- **Tethered Shooting:** Enter the tethered shooting mode.
+- **Report Issue:** Upload error information and logs.
+- **Delete Current Photo:** Delete the current photo. This action cannot be undone, so use caution.
 4. **Export:** Export selected photos.
 5. **Sync:** Apply the current photo’s edits to other photos.
 6. **Exit:** Exit the **Tethered Shooting** page.
 7. **Next Photo Effect:** Options include **Sync Previous Photo’s Effect**, **Apply Preset**, or **No Effect**. If **Apply Preset** is selected, you can choose from official recommended presets or your saved presets. Subsequent photos captured via tethered shooting will automatically apply this preset.
 8. **Preview Settings:** Options include **Jump to Latest Photo** or **Keep Preview Position**.
-  - **Jump to Latest Photo:** The preview will automatically show the most recently captured photo.
-  - **Keep Preview Position:** The preview will remain on the currently selected photo and will not jump with new captures.
+- **Jump to Latest Photo:** The preview will automatically show the most recently captured photo.
+- **Keep Preview Position:** The preview will remain on the currently selected photo and will not jump with new captures.
 9. **Import Photo Format:** Not configurable at the moment. Photos transferred to Evoto will follow the camera’s current save format settings.
-
-/wp:tadv/classic-paragraph

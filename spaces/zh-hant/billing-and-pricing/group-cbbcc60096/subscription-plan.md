@@ -3,17 +3,16 @@ title: "Subscription Plan"
 source_url: "https://support.evoto.ai/subscription-plan/"
 source_type: "post"
 source_id: "1245"
-language: "en"
+language: "zh-hant"
 translation_group: "1245"
 primary_category: "price-billing"
 secondary_categories:
   - "subscription"
 ---
 
-wp:tadv/classic-paragraph
 Evoto offers annual subscription plans that are ideal for consistent, high-volume users. These plans provide a lower cost per credit, rollover benefits, and exclusive access to Add-on Packs.
 
-# **Annual Subscription Tiers**
+### Annual Subscription Tiers
 
 Evoto offers five annual subscription tiers, each providing a set number of credits and additional benefits:
 
@@ -25,16 +24,16 @@ Evoto offers five annual subscription tiers, each providing a set number of cred
 
 ---
 
-# **Credit Management**
+### Credit Management
 
-## **Credit Rollover Feature**
+#### Credit Rollover Feature
 
 When you renew your annual subscription, any unused credits from the previous year will roll over to the next year.
 
 - You can roll over up to **5x** the number of credits in your current plan.
 - Rolled-over credits remain valid as long as your subscription is active.
 
-#### **Example:**
+###### Example:
 
 - On the Basic Plus plan (3,600 credits/year), your rollover limit is 18,000 credits (3,600 × 5).
 
@@ -52,7 +51,7 @@ An Add-on Pack is an optional credit bundle you can purchase during your subscri
 2. Go to the **Pricing Page**.
 3. Click **Add-on Pack** to view the available options for your plan.
 
-## **Credit Expiration and Renewal**
+#### Credit Expiration and Renewal
 
 - **Do credits expire?** Annual subscription credits roll over if you renew your plan on time and do not expire. Pay-as-you-go credits, however, are valid for 2 years from the date of purchase.
 - **Renewal Reminder:** Evoto will send you a renewal reminder before your annual subscription is set to renew, giving you time to review, update, or cancel your plan as needed.
@@ -61,9 +60,9 @@ An Add-on Pack is an optional credit bundle you can purchase during your subscri
 
 ---
 
-# **Managing Your Subscription**
+### Managing Your Subscription
 
-## **Subscription Downgrades**
+#### Subscription Downgrades
 
 You can request to downgrade your plan at any time. The change will take effect at the start of your next billing cycle.
 
@@ -74,12 +73,10 @@ You can request to downgrade your plan at any time. The change will take effect 
 - If you have 5,000 credits when the new plan starts, 1,000 credits will be forfeited.
 - The new plan activates on your next billing date. All available credits will remain in your account until the new plan starts.
 
-#### **How to Cancel Your Subscription**
+###### How to Cancel Your Subscription
 
 1. Log in to your Evoto account.
 2. Go to **My Account** → **Billing & Usage**.
 3. Click **Cancel Subscription** and follow the prompts.
 
 **Note:** Your subscription remains active until the end of the current billing period. After that, any remaining credits will expire and cannot be used. There are no refunds for early cancellations.
-
-/wp:tadv/classic-paragraph

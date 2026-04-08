@@ -7,7 +7,7 @@ language: "en"
 translation_group: "909"
 ---
 
-# Price
+## Price
 
 ## In This Section
 

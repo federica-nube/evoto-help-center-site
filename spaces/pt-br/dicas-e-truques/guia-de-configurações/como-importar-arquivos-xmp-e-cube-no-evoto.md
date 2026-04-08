@@ -12,16 +12,15 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2026/01/5-1-300x204.jpg"
 ---
 
-wp:tadv/classic-paragraph
 A correção de cor é uma ferramenta poderosa para fotógrafos e editores, e o Evoto facilita a integração de presets padrão da indústria no seu fluxo de trabalho. Este guia mostrará como importar arquivos .XMP e .CUBE, permitindo aplicar facilmente seus ajustes de cor favoritos.
 
 ---
 
-# Porque Usar Arquivos .XMP e .CUBE?
+### Porque Usar Arquivos .XMP e .CUBE?
 
 Esses formatos são amplamente utilizados para salvar ajustes específicos de cor e compartilhá-los entre diferentes projetos e softwares. A compatibilidade do Evoto com esses formatos garante que você possa trazer suas predefinições favoritas diretamente para a edição, facilitando transições de cor mais suaves e melhorando seu fluxo de trabalho.
 
-# Como Importar Arquivos .XMP e .CUBE no Evoto
+### Como Importar Arquivos .XMP e .CUBE no Evoto
 
 O processo de importação é simples e direto.
 
@@ -42,7 +41,3 @@ Se você estiver trabalhando com um arquivo **.CUBE** ou um **.XMP** que contém
 ---
 
 A capacidade de importar esses formatos comuns simplifica seu processo de edição, permitindo que você libere seu potencial criativo com ajustes de cor precisos e consistentes.
-
-/wp:tadv/classic-paragraph
-wp:paragraph
-/wp:paragraph

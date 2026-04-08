@@ -14,17 +14,17 @@ The **Project Page** in Evoto Mobile allows you to manage and organize all your 
 
 ---
 
-# Image Filters
+### Image Filters
 
 Filter and sort your images within projects to quickly find specific photos. Evoto Mobile offers enhanced filtering options:
 
-## Filter By
+#### Filter By
 
 - **Star Rating:** Show photos with specific ratings (1-5 stars)
 - **Edit Status:** View edited or unedited photos
 - **Export Status:** Filter by exported or unexported images
 
-## Sort By
+#### Sort By
 
 - **Name:** Alphabetical ordering
 - **Date:** By capture or import date
@@ -32,19 +32,19 @@ Filter and sort your images within projects to quickly find specific photos. Evo
 
 ---
 
-# Project Information & Creation
+### Project Information & Creation
 
 View detailed information about your projects including creation date, number of images, and storage location. Create new projects directly from the Project Page to start organizing your photos.
 
 ---
 
-# Project Rename & Delete
+### Project Rename & Delete
 
 Easily rename projects to keep your library organized, or delete projects you no longer need. Long-press on a project to access rename and delete options.
 
 ---
 
-# Import Images
+### Import Images
 
 Import images from multiple sources to start your editing workflow. Evoto Mobile supports importing from:
 
@@ -55,23 +55,23 @@ Import images from multiple sources to start your editing workflow. Evoto Mobile
 
 ---
 
-# Library View
+### Library View
 
 Browse your images in the Library View, which displays both the Project Page and Images Page. Navigate between projects and individual images seamlessly to manage your photography workflow.
 
 ---
 
-# Image Multi-Selection
+### Image Multi-Selection
 
 Evoto Mobile now supports multi-selection in the Images tab for efficient batch management of your photos.
 
-## Enter Multi-Selection Mode
+#### Enter Multi-Selection Mode
 
 - **Long Press:** Long press on any image to open the context menu, then tap "Multiple Selection"
 - **Default Selection:** The current image is selected by default when entering multi-selection mode
 - **Select All:** Use the select all icon in the top right corner to quickly select all images
 
-## Multi-Selection Actions
+#### Multi-Selection Actions
 
 - **Slide Selection:** Slide across multiple images to quickly select them
 - **Delete Selected:** Use the "Delete" button at the bottom to remove selected images
@@ -81,7 +81,7 @@ Evoto Mobile now supports multi-selection in the Images tab for efficient batch 
 
 ---
 
-# Star Rating Integration
+### Star Rating Integration
 
 Evoto Mobile introduces star ratings to help you organize and prioritize your photos:
 

@@ -3,7 +3,7 @@ title: "How to Automate Your Workflow with Auto Import & Export"
 source_url: "https://support.evoto.ai/automate-your-workflow-with-auto-import-export/"
 source_type: "post"
 source_id: "1760"
-language: "en"
+language: "ja"
 translation_group: "1760"
 primary_category: "quick-tips"
 secondary_categories:
@@ -20,7 +20,6 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.02.11-300x57.png"
 ---
 
-wp:tadv/classic-paragraph
 The **Auto Import & Export** feature in Evoto streamlines your workflow by monitoring designated folders for new images, automatically applying a selected preset, and exporting the edited results. This powerful functionality is ideal for high-volume image processing and works seamlessly with tethered shooting.
 
 **Overview**
@@ -36,7 +35,7 @@ This feature helps automate repetitive tasks, allowing you to focus on creative 
 
 ---
 
-# **How to Set Up Auto Import & Export**
+### How to Set Up Auto Import & Export
 
 Evoto makes it easy to configure this feature in just a few steps.
 
@@ -63,7 +62,7 @@ Start by creating a new project. It is recommended to do this from the beginning
 
 - Once configured, click **Start Auto Import** to enable the feature. Evoto will automatically import only new images added after this point; existing files in the folder will not be imported.
 
-#### **Step 3: Enable Auto Export**
+###### Step 3: Enable Auto Export
 
 **Set the Export Path:**
 
@@ -82,12 +81,10 @@ Start by creating a new project. It is recommended to do this from the beginning
 **Customize Export Settings:**
 
 - Click the **More Settings** icon to customize export settings, including:
-  - **Auto Export Interval:** Allows you to set the time interval (ranging from 10 seconds to 1 hour) between auto-export actions.
-  - **Image Naming, Quality, and Watermark Settings:** These are the same options as manual export.
-  - ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.02.11-300x57.png)
+- **Auto Export Interval:** Allows you to set the time interval (ranging from 10 seconds to 1 hour) between auto-export actions.
+- **Image Naming, Quality, and Watermark Settings:** These are the same options as manual export.
+- ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.02.11-300x57.png)
 
 **Start Auto Export:**
 
 - Once all export settings are configured, click **Start Auto Export** to activate the feature.
-
-/wp:tadv/classic-paragraph

@@ -7,8 +7,6 @@ language: "en"
 translation_group: "6543"
 ---
 
-# Evoto Instant
-
 ## In This Section
 
 - [Getting Started](evoto-instant/getting-started/README.md)

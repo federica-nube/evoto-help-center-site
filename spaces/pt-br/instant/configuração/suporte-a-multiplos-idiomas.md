@@ -19,9 +19,9 @@ O **Evoto Instant** atualmente oferece suporte a idiomas diferentes, e nossa equ
 
 ---
 
-# Alterar Idioma
+### Alterar Idioma
 
-## **Aplicativo Móvel**
+#### Aplicativo Móvel
 
 - **Detecção Automática:**Ao instalar o aplicativo pela primeira vez, ele detecta automaticamente o idioma do sistema do celular. Se o idioma detectado estiver entre os suportados, será exibido um pop-up solicitando que o usuário altere o aplicativo para esse idioma.
 
@@ -35,7 +35,7 @@ O **Evoto Instant** atualmente oferece suporte a idiomas diferentes, e nossa equ
 
 ---
 
-## **Portal Web**
+#### Portal Web
 
 Por padrão, o idioma é **inglês** para novos usuários, mas pode ser alterado pelo Centro do Usuário.
 

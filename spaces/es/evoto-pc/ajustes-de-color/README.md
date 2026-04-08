@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/ajustes-de-color/README.md"
 ---
 
-# Ajustes de Color
-
 ## In This Section
 
 - [Ajustes de Color](evoto-pc/ajustes-de-color/color-adjustment-feature-modules-es.md)

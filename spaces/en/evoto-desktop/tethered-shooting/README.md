@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-desktop/tethered-shooting/README.md"
 ---
 
-# Tethered Shooting
-
 ## In This Section
 
 - [Tethered Shooting – Supported Camera Models](evoto-desktop/tethered-shooting/tethered-shooting-supported-camera-model.md)

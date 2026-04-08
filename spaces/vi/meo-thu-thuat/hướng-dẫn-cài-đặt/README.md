@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "meo-thu-thuat/hướng-dẫn-cài-đặt/README.md"
 ---
 
-# Hướng dẫn cài đặt
-
 ## In This Section
 
 - [Tùy chỉnh chất lượng xuất ảnh trong Evoto: Hướng dẫn các cài đặt nâng cao](meo-thu-thuat/hướng-dẫn-cài-đặt/tuy-chinh-chat-luong-xuat-anh-trong-evoto-huong-dan-cac-cai-dat-nang-cao.md)

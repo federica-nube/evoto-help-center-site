@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-f0eec2150d/README.md"
 ---
 
-# テザー撮影
-
 ## In This Section
 
 - [テザー撮影](evoto-pc/tab-f0eec2150d/tethered-shooting-ja.md)

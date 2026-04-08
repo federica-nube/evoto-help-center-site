@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/ajustes-de-fondo/README.md"
 ---
 
-# Ajustes de Fondo
-
 ## In This Section
 
 - [Ajustes de Fondo](evoto-pc/ajustes-de-fondo/background-adjustments-es.md)

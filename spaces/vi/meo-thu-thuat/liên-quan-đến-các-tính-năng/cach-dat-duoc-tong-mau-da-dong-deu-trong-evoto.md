@@ -10,7 +10,6 @@ secondary_categories:
   - "meo-hay"
 ---
 
-wp:tadv/classic-paragraph
 Trong Evoto, việc đạt được tông màu da đồng đều có thể thực hiện dễ dàng bằng công cụ chỉnh sửa da trong mục "Màu da". Tính năng này cung cấp ba thanh trượt riêng biệt, mỗi thanh điều chỉnh một vùng khác nhau trên cơ thể, giúp bạn tạo ra làn da đều màu và tự nhiên.
 
 - **AI làm đều màu da mặt** Thanh trượt này được thiết kế riêng cho khuôn mặt. Đôi khi, do ánh sáng hoặc các yếu tố khác, màu da trên khuôn mặt có thể không đồng đều. Thanh trượt AI làm đều màu da mặt sẽ giúp cân bằng tông màu da trên toàn bộ khuôn mặt, mang lại làn da mịn màng và nhất quán.
@@ -26,5 +25,3 @@ Chọn khu vực bạn muốn điều chỉnh—da mặt, da cơ thể hoặc to
 Bằng cách kết hợp các tính năng này, Evoto cung cấp công cụ toàn diện giúp đảm bảo chủ thể của bạn có tông màu da tự nhiên và đồng đều, nâng cao chất lượng và sức hấp dẫn tổng thể của bức ảnh.
 
 Nếu bạn có bất kỳ câu hỏi khác hoặc cần hỗ trợ thêm, đừng ngần ngại liên hệ với đội ngũ hỗ trợ của chúng tôi. Chúng tôi luôn sẵn sàng giúp bạn đạt được kết quả tốt nhất với Evoto.
-
-/wp:tadv/classic-paragraph

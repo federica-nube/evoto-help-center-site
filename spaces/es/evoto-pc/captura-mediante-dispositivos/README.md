@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/captura-mediante-dispositivos/README.md"
 ---
 
-# Captura mediante Dispositivos
-
 ## In This Section
 
 - [Modelos de Cámaras Compatibles](evoto-pc/captura-mediante-dispositivos/tethered-shooting-supported-camera-model-es.md)

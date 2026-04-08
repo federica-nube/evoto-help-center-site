@@ -10,8 +10,7 @@ tags:
   - "ipad"
 ---
 
-wp:tadv/classic-paragraph
-# **Keyboard Shortcuts**
+### Keyboard Shortcuts
 
 New navigation shortcuts have been added to improve efficiency in your workflow (with connected keyboard):
 
@@ -20,5 +19,3 @@ New navigation shortcuts have been added to improve efficiency in your workflow 
 - **Hold arrow keys:** Continuous navigation.
 - **Command + Arrow Key:** Jump to the first or last image.
 - **Ctrl + Arrow Key:** Page jump, moving ±10 images at a time.
-
-/wp:tadv/classic-paragraph

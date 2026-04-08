@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-desktop/color-adjustment/README.md"
 ---
 
-# Color Adjustment
-
 ## In This Section
 
 - [Color Adjustments Module](evoto-desktop/color-adjustment/color-adjustment-feature-modules.md)

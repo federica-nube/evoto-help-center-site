@@ -7,8 +7,6 @@ language: "pt-br"
 translation_group: "7557"
 ---
 
-# Evoto Mobile
-
 ## In This Section
 
 - [Tab 1](evoto-mobile/tab-1/README.md)

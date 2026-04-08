@@ -13,23 +13,22 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2026/01/111-236x300.jpg"
 ---
 
-wp:tadv/classic-paragraph
 Este guia explica onde encontrar documentação detalhada, como se conectar com a comunidade de usuários e como entrar em contato com a equipe de suporte para obter ajuda.
 
 ---
 
-# Encontrar Informações & Comunidade
+### Encontrar Informações & Comunidade
 
 - **Suporte de Comunidade**
-  - O **grupo oficial do Evoto no Facebook** é uma comunidade ativa onde você pode compartilhar dicas, obter insights e se inspirar com outros usuários.
-  - O **Fórum Evoto** é um espaço onde usuários e desenvolvedores compartilham dicas avançadas, guias de solução de problemas e atualizações de funcionalidades.
-  - **Observação:** Para suporte técnico, recomendamos entrar em contato diretamente pelos canais oficiais de suporte, em vez de depender apenas dos fóruns da comunidade.
+- O **grupo oficial do Evoto no Facebook** é uma comunidade ativa onde você pode compartilhar dicas, obter insights e se inspirar com outros usuários.
+- O **Fórum Evoto** é um espaço onde usuários e desenvolvedores compartilham dicas avançadas, guias de solução de problemas e atualizações de funcionalidades.
+- **Observação:** Para suporte técnico, recomendamos entrar em contato diretamente pelos canais oficiais de suporte, em vez de depender apenas dos fóruns da comunidade.
 - **Atualizações Oficiais**
-  - O **Blog do Evoto** é atualizado regularmente com novidades, lançamentos de novos recursos e artigos detalhados sobre gerenciamento de contas e segurança.
+- O **Blog do Evoto** é atualizado regularmente com novidades, lançamentos de novos recursos e artigos detalhados sobre gerenciamento de contas e segurança.
 
 ---
 
-# Se não conseguir resolver minhas dúvidas pela comunidade, como entro em contato com o suporte?
+### Se não conseguir resolver minhas dúvidas pela comunidade, como entro em contato com o suporte?
 
 O Evoto oferece várias formas de assistência e envio de feedback:
 
@@ -49,5 +48,3 @@ O Evoto oferece várias formas de assistência e envio de feedback:
 - Use o sistema de **IM** dentro do aplicativo (Atendimento ao Cliente) para contatar o suporte em tempo real.
 
 ![](https://support.evoto.ai/wp-content/uploads/2026/01/111-236x300.jpg)
-
-/wp:tadv/classic-paragraph

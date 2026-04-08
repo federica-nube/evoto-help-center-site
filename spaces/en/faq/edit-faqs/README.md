@@ -5,8 +5,6 @@ source_type: "generated_group"
 source_id: "faq/edit-faqs/README.md"
 ---
 
-# Edit FAQs
-
 ## In This Section
 
 - [Edit FAQs](faq/edit-faqs/editing-related.md)

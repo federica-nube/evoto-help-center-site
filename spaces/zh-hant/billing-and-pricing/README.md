@@ -7,7 +7,7 @@ language: "zh-hant"
 translation_group: "909"
 ---
 
-# 價格
+## 價格
 
 ## In This Section
 

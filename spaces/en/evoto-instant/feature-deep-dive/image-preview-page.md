@@ -17,16 +17,15 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-12-at-15.50.47-300x102.png"
 ---
 
-wp:tadv/classic-paragraph
 The Image Preview Page is where you can review individual photos in detail, access editing status, compare AI effects, and manage image-level operations.
 
 Simply tap on any photo in your project to open the preview view.
 
 ---
 
-# **Key Features**
+### Key Features
 
-## **Photo Information**
+#### Photo Information
 
 Located under the information icon (top right corner), this section provides:
 
@@ -34,17 +33,17 @@ Located under the information icon (top right corner), this section provides:
 - **Photo Size & File Size**
 - **Capture Time**
 - **Editing Status** — indicates the current editing workflow applied:
-  - **Not Edited**: The image has not been processed.
-  - **Manual Edited**: The image has been manually retouched individually.
-  - **Auto Edited**: The image was automatically processed with project-level presets.
-  - **Manual Edited (Original)**: The image was manually restored to its original state.
+- **Not Edited**: The image has not been processed.
+- **Manual Edited**: The image has been manually retouched individually.
+- **Auto Edited**: The image was automatically processed with project-level presets.
+- **Manual Edited (Original)**: The image was manually restored to its original state.
 - Here, you’ll also find **Help & Feedback**, where you can submit feedback about a photo if needed.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-12-at-15.35.11-151x300.png)
 
 ---
 
-## **Face Recognition**
+#### Face Recognition
 
 Displays all detected faces in the selected photo.
 
@@ -57,7 +56,7 @@ Displays all detected faces in the selected photo.
 
 ---
 
-## **Effect Comparison**
+#### Effect Comparison
 
 - If AI Editing has been applied, the preview defaults to the **“After”** view.
 - Long-press the photo to toggle to **“Before”** for side-by-side comparison.
@@ -69,7 +68,7 @@ Displays all detected faces in the selected photo.
 
 ---
 
-## **Image Operations**
+#### Image Operations
 
 From the preview page, you can take direct actions on the photo:
 
@@ -79,5 +78,3 @@ From the preview page, you can take direct actions on the photo:
 - **AI Editing (Single Photo)** – Apply manual AI retouching to this specific photo.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-12-at-15.50.47-300x102.png)
-
-/wp:tadv/classic-paragraph

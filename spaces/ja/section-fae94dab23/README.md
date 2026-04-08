@@ -7,8 +7,6 @@ language: "ja"
 translation_group: "939"
 ---
 
-# お役立ち情報
-
 ## In This Section
 
 - [Editing Workflow](section-fae94dab23/editing-workflow-3cde158ead/README.md)

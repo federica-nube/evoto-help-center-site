@@ -22,22 +22,21 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/09/20250905141547-scaled.jpg"
 ---
 
-wp:tadv/classic-paragraph
 La coincidencia de estilos en lote te permite aplicar el mismo aspecto y efectos a múltiples fotos a la vez, ahorrando tiempo y manteniendo tus ediciones consistentes. En Evoto, puedes hacer esto de **dos formas principales**: **sincronizando efectos directamente** o **creando y aplicando preajustes**.
 
 ---
 
-# **Método 1: Sincronizar Efectos Entre Fotos**
+### Método 1: Sincronizar Efectos Entre Fotos
 
 Este método es ideal cuando quieres copiar todos (o algunos) efectos de una foto y aplicarlos directamente a otras del mismo proyecto.
 
-## **Paso 1 – Seleccionar la Foto de Origen**
+#### Paso 1 – Seleccionar la Foto de Origen
 
 Elige la foto que ya tiene el estilo que deseas usar. Haz clic en ella para que quede resaltada en **amarillo**.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250905113913-scaled.jpg)
 
-## **Paso 2 – Seleccionar las Fotos de Destino**
+#### Paso 2 – Seleccionar las Fotos de Destino
 
 Ahora selecciona las fotos a las que quieres sincronizar los efectos.
 
@@ -49,7 +48,7 @@ Cuando estén seleccionadas, las fotos se resaltarán en **blanco**.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250905114310-scaled.jpg)
 
-## **Paso 3 – Elegir Qué Efectos Sincronizar**
+#### Paso 3 – Elegir Qué Efectos Sincronizar
 
 Haz clic en el **icono de engranaje** junto al botón Sincronizar. Aparecerá un panel donde puedes seleccionar qué tipos de efectos sincronizar, como:
 
@@ -61,7 +60,7 @@ Esto te da control total si solo quieres copiar ciertas ediciones.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250905181803-scaled.jpg)
 
-## **Paso 4 – Sincronizar los Efectos**
+#### Paso 4 – Sincronizar los Efectos
 
 Haz clic en el botón **Sincronizar**. Evoto copiará todos los efectos de la foto resaltada en amarillo a todas las fotos resaltadas en blanco.
 
@@ -76,7 +75,7 @@ Alternativamente, puedes usar atajos de teclado:
 
 ---
 
-# **Configuración de Ventana Emergente y Frecuencia**
+### Configuración de Ventana Emergente y Frecuencia
 
 Por defecto, Evoto está configurado para mostrar la ventana emergente de **Configuración de Sincronización** solo **una vez** por proyecto. Esto significa:
 
@@ -92,11 +91,11 @@ Si prefieres ver el cuadro de selección de configuraciones cada vez que sincron
 
 ---
 
-# **Método 2: Usar Preajustes**
+### Método 2: Usar Preajustes
 
 Este método es ideal si quieres reutilizar un estilo de edición específico en múltiples sesiones o proyectos.
 
-## **Paso 1 – Guardar un Preajuste**
+#### Paso 1 – Guardar un Preajuste
 
 Selecciona la foto que tiene el estilo que quieres conservar.
 
@@ -110,7 +109,7 @@ Aparecerá una ventana emergente donde puedes elegir qué efectos incluir en el 
 
 Después de guardar, tu preajuste aparecerá en tu lista de preajustes.
 
-## **Paso 2 – Aplicar el Preajuste a Otras Fotos**
+#### Paso 2 – Aplicar el Preajuste a Otras Fotos
 
 Selecciona cualquier foto nueva (o grupo de fotos).
 
@@ -124,14 +123,14 @@ Los efectos seleccionados se aplicarán instantáneamente.
 
 ---
 
-# **¿Cuándo Usar Cada Método?**
+### ¿Cuándo Usar Cada Método?
 
 - **Sincronizar Efectos:** Perfecto para ediciones rápidas cuando estás trabajando en un lote de fotos en el mismo proyecto y quieres mantener todo consistente en el momento.
 - **Preajustes:** Mejor para uso a largo plazo. Si sabes que querrás el mismo estilo más adelante, guárdalo como preajuste para reaplicarlo fácilmente en diferentes proyectos.
 
 ---
 
-# **Consideraciones Importantes**
+### Consideraciones Importantes
 
 Aunque la función de Sincronización es potente, hay ciertas limitaciones a tener en cuenta:
 
@@ -140,10 +139,8 @@ Aunque la función de Sincronización es potente, hay ciertas limitaciones a ten
 
 ---
 
-# **Consejos Rápidos para Mejores Resultados**
+### Consejos Rápidos para Mejores Resultados
 
 - Siempre asegúrate de que tu foto de origen (resaltada en amarillo) tenga todos los ajustes finalizados antes de sincronizar.
 - Usa el icono de engranaje para evitar sobrescribir ediciones que no quieres copiar.
 - Nombra tus preajustes claramente (por ejemplo, "Retoque de Retrato Suave" o "Fondo de Estudio Limpio") para que puedas encontrarlos fácilmente después.
-
-/wp:tadv/classic-paragraph

@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "dicas-e-truques/recurso-relevante/README.md"
 ---
 
-# Recurso Relevante
-
 ## In This Section
 
 - [Como Alcançar Tom de Pele Uniforme e Radiante no Evoto](dicas-e-truques/recurso-relevante/como-alcancar-um-tom-de-pele-uniforme-e-radiante-no-evoto.md)

@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-fe377c9bdb/README.md"
 ---
 
-# トリミング
-
 ## In This Section
 
 - [トリミング](evoto-pc/tab-fe377c9bdb/crop-ja.md)

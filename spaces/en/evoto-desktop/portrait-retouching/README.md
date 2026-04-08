@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-desktop/portrait-retouching/README.md"
 ---
 
-# Portrait Retouching
-
 ## In This Section
 
 - [AI Facial Recognition](evoto-desktop/portrait-retouching/portrait-retouching-feature-module.md)

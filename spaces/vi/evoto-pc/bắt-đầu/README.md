@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/bắt-đầu/README.md"
 ---
 
-# Bắt đầu
-
 ## In This Section
 
 - [Bắt đầu](evoto-pc/bắt-đầu/get-start-vi.md)

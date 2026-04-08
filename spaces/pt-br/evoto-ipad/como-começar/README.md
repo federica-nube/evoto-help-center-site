@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/como-começar/README.md"
 ---
 
-# Como Começar
-
 ## In This Section
 
 - [Ipad - Introdução](evoto-ipad/como-começar/ipad-introducao.md)

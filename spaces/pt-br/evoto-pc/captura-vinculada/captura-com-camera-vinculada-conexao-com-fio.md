@@ -22,12 +22,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/monitor-300x193.jpg"
 ---
 
-wp:tadv/classic-paragraph
 O Evoto combina poderosas ferramentas de retoque de retrato com um fluxo de trabalho profissional de captura com câmera vinculada, aprimorando significativamente a eficiência do seu processo fotográfico.
 
 Esse recurso permite conectar sua câmera diretamente ao Evoto em seu dispositivo, possibilitando captura e edição em tempo real.
 
-# **Visão Geral dos Benefícios**
+### Visão Geral dos Benefícios
 
 **Captura e Visualização Instantâneas:**
 
@@ -39,7 +38,7 @@ Aplique predefinições em tempo real durante a captura vinculada para otimizar 
 
 ---
 
-# **Iniciar a Captura com Câmera Vinculada**
+### Iniciar a Captura com Câmera Vinculada
 
 Você pode iniciar uma sessão de captura vinculada em duas áreas principais do Evoto:
 
@@ -60,7 +59,7 @@ Clique na aba ****Conectar à câmera**** para acessar a interface de captura.
 
 > Observação: Atualmente, a interface de captura com câmera vinculada oferece suporte principalmente às funções de captura de imagem e visualização ao vivo. Embora as configurações da câmera sejam exibidas no Evoto, não é possível modificá-las diretamente no Evoto.
 
-## **Disparador da Câmera**
+#### Disparador da Câmera
 
 Depois de conectar sua câmera, basta clicar no ****botão do obturador**** dentro da interface do Evoto para capturar uma foto diretamente pela câmera vinculada.
 
@@ -68,7 +67,7 @@ Depois de conectar sua câmera, basta clicar no ****botão do obturador**** dent
 
 ---
 
-# **Configurações de Captura com Câmera Vinculada**
+### Configurações de Captura com Câmera Vinculada
 
 Antes de iniciar sua sessão, configure as seguintes opções para otimizar o fluxo de trabalho de captura vinculada:
 
@@ -102,7 +101,7 @@ Selecione uma predefinição específica para ser aplicado automaticamente a cad
 
 ---
 
-## ****Quadro de Visualização ao Vivo**** na Captura Vinculada
+#### Quadro de Visualização ao Vivo na Captura Vinculada
 
 O ****Quadro de Visualização ao Vivo**** permite visualizar o feed em tempo real da sua câmera diretamente no Evoto durante a captura vinculada via cabo. Isso elimina a necessidade de verificar o visor LCD da câmera, permitindo capturar e ajustar a composição diretamente no Evoto.
 
@@ -143,7 +142,7 @@ Defina como a visualização se comporta durante a sessão de captura vinculada:
 
 ---
 
-## **Janela Secundária para Captura com Câmera Vinculada**
+#### Janela Secundária para Captura com Câmera Vinculada
 
 Durante a captura, as imagens podem ser exibidas em uma janela secundária. Essa função é útil para que o modelo acompanhe poses em tempo real, facilitando a comunicação e, durante a seleção, permite navegar e marcar imagens, acelerando o fluxo de trabalho.
 
@@ -155,7 +154,7 @@ Durante a captura, as imagens podem ser exibidas em uma janela secundária. Essa
 2. Após ativar, uma janela de exibição secundária será aberta.
 3. Nessa janela, é possível selecionar e marcar imagens conforme necessário.
 
-# **Nome do arquivo**
+### Nome do arquivo
 
 Escolha entre 4 métodos flexíveis para nomear os arquivos capturados:
 
@@ -175,7 +174,7 @@ Escolha entre 4 métodos flexíveis para nomear os arquivos capturados:
 
 ---
 
-# **Conexão da Câmera**
+### Conexão da Câmera
 
 O Evoto utiliza conexão automática para todas as câmeras suportadas, ou seja, normalmente não são necessários passos manuais após a configuração correta da câmera.
 
@@ -183,7 +182,7 @@ O Evoto utiliza conexão automática para todas as câmeras suportadas, ou seja,
 - É possível clicar em ****Desconectar****a qualquer momento para desconectar a câmera manualmente do Evoto.
 - ****Importante****: Algumas câmeras podem exigir a seleção manual de um modo específico de conexão (ex.: PC Remote, MTP, PTP) na própria câmera para que a captura vinculada funcione corretamente.
 
-# **Configurações de Câmera Vinculada**
+### Configurações de Câmera Vinculada
 
 - **No Evoto:**
 
@@ -217,7 +216,7 @@ Recomenda-se configurar a câmera para permanecer ligada / não desligar automat
 
 ---
 
-# **Problemas e Situações Anormais**
+### Problemas e Situações Anormais
 
 Se você encontrar problemas ou mensagens de “Falha na Conexão” durante a captura vinculada, considere as causas possíveis e soluções recomendadas a seguir:
 
@@ -238,9 +237,9 @@ Se você encontrar problemas ou mensagens de “Falha na Conexão” durante a c
 - Se houver problemas específicos na câmera, tente:
 
 1.
-  1. Desconecte a câmera.
-  2. Remova e reinserir a bateria.
-  3. Reinicie a câmera.
+1. Desconecte a câmera.
+2. Remova e reinserir a bateria.
+3. Reinicie a câmera.
 
 - Certifique-se de que todos os cabos funcionem corretamente e, se estiver usando um adaptador, que ele seja certificado OTG.
 - Para conexões sem fio, tente mudar para uma rede Wi-Fi mais estável caso o sinal seja fraco.
@@ -251,5 +250,3 @@ Para mais problemas ou ajuda, entre em contato com nossa equipe de suporte:
 
 - Email: support@evoto.ai
 - Suporte dentro do Evoto: Disponível através do portal de ****Atendimento ao cliente**** do Evoto dentro do software.
-
-/wp:tadv/classic-paragraph

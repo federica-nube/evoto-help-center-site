@@ -15,12 +15,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.12.47-139x300.png"
 ---
 
-wp:tadv/classic-paragraph
 Las funciones de Historial de Evoto proporcionan herramientas flexibles e intuitivas para rastrear, gestionar y refinar tus ediciones. Estas herramientas incluyen el panel de Historial general, así como módulos de historial dedicados para las funciones de Licuar y Corrector. Comprender cómo funciona cada uno te ayudará a tener control total de tu flujo de trabajo de edición.
 
 ---
 
-# Panel de Historial General
+### Panel de Historial General
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.11.30-146x300.png)
 
@@ -35,7 +34,7 @@ El panel flotante de **Historial** sirve como la línea de tiempo maestra para t
 
 ---
 
-# Historiales de Herramientas Licuar y Corrector
+### Historiales de Herramientas Licuar y Corrector
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.12.47-139x300.png)
 
@@ -50,5 +49,3 @@ Una vez que hagas clic en **Guardar** dentro del panel de la herramienta Licuar 
 - Una nueva sesión comenzará la próxima vez que ingreses a la herramienta, con su propio historial separado.
 
 Este diseño te da un control preciso basado en sesiones cuando usas Licuar o Corrector, mientras también consolida tus ediciones para una gestión más fácil en la vista de historial principal. Al usar ambos tipos de historial juntos, puedes trabajar con más confianza y eficiencia—editando con flexibilidad mientras mantienes un control preciso en cada etapa.
-
-/wp:tadv/classic-paragraph

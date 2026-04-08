@@ -20,23 +20,23 @@ El tono de piel juega un papel vital en la edición de retratos. Con Evoto, pued
 
 ---
 
-# Método 1: Ajuste de Tono de Piel
+### Método 1: Ajuste de Tono de Piel
 
 Este método te permite ajustar finamente la apariencia de la piel con control manual. Lo encontrarás en: **Retoque de Retrato > Tono de Piel**
 
 1. **Elige un Tono de Piel Base** Selecciona el tono que mejor coincida con tu sujeto. Esto proporciona un punto de partida para tus ajustes.
 2. **Ajusta la Cantidad** Usa el control deslizante de cantidad para controlar qué tan fuertemente se aplica el tono de piel seleccionado. Un ajuste sutil a menudo se ve más natural.
 3. **Ajusta Finamente los Detalles**
-  - **Temperatura**: Calienta o enfría el tono de piel.
-  - **Matiz**: Agrega cambios verdes o magentas para equilibrar.
-  - **Luminosidad de Piel**: Mejora el brillo y la vitalidad.
-  - **Tez Rosada**: Introduce un efecto de rubor natural.
+- **Temperatura**: Calienta o enfría el tono de piel.
+- **Matiz**: Agrega cambios verdes o magentas para equilibrar.
+- **Luminosidad de Piel**: Mejora el brillo y la vitalidad.
+- **Tez Rosada**: Introduce un efecto de rubor natural.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250910141949-scaled.jpg)
 
 ---
 
-# Método 2: Máscaras Locales para Ajuste de Piel
+### Método 2: Máscaras Locales para Ajuste de Piel
 
 Para ediciones más específicas, usa **Máscaras Locales**.
 
@@ -50,30 +50,30 @@ Este método es especialmente útil para corregir parches desiguales o mejorar r
 
 ---
 
-# Unificar Color de Piel con IA
+### Unificar Color de Piel con IA
 
 Evoto también ofrece herramientas impulsadas por IA que hacen que la unificación del tono de piel sea sencilla. Las encontrarás en: **Retoque de Retrato > Tono de Piel**
 
 Hay **tres controles deslizantes clave**:
 
 1. **Unificar Tez Facial con IA**
-  - Se enfoca exclusivamente en el rostro.
-  - Corrige tonos desiguales por maquillaje, iluminación o sombras.
-  - Produce piel facial suave y consistente.
+- Se enfoca exclusivamente en el rostro.
+- Corrige tonos desiguales por maquillaje, iluminación o sombras.
+- Produce piel facial suave y consistente.
 2. **Unificar Tez Corporal con IA**
-  - Apunta al cuerpo mientras deja el rostro intacto.
-  - Ayuda a corregir inconsistencias por exposición solar, marcas de ropa o iluminación.
-  - Asegura que el cuerpo coincida con el aspecto general del rostro.
+- Apunta al cuerpo mientras deja el rostro intacto.
+- Ayuda a corregir inconsistencias por exposición solar, marcas de ropa o iluminación.
+- Asegura que el cuerpo coincida con el aspecto general del rostro.
 3. **Unificar Tez Corporal (Control Original)**
-  - Funciona tanto en el rostro como en el cuerpo.
-  - Útil cuando las dos áreas parecen no coincidir.
-  - Equilibra los tonos para un resultado cohesivo.
+- Funciona tanto en el rostro como en el cuerpo.
+- Útil cuando las dos áreas parecen no coincidir.
+- Equilibra los tonos para un resultado cohesivo.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250910142424-scaled.jpg)
 
 ---
 
-# Consejos Profesionales
+### Consejos Profesionales
 
 - **Comienza sutil**: Aumenta gradualmente los controles deslizantes hasta encontrar el equilibrio natural.
 - **Compara antes/después**: Activa y desactiva la vista previa para asegurar que tus cambios se vean realistas.

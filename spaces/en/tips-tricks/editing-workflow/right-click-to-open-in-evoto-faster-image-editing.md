@@ -19,7 +19,6 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-10.47.52-243x300.png"
 ---
 
-wp:tadv/classic-paragraph
 This guide explains how to use the "Edit In" feature to quickly send an image from Lightroom Classic to Evoto for advanced retouching and then bring it back into your Lightroom catalog.
 
 **1. Start in Lightroom Classic:** Begin your process by culling, organizing, or performing initial edits on your image in Lightroom.
@@ -44,5 +43,3 @@ This guide explains how to use the "Edit In" feature to quickly send an image fr
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-10.47.52-243x300.png)
 
 This method is ideal for a quick round-trip edit, allowing you to use Evoto’s powerful AI tools on individual images without interrupting your Lightroom workflow.
-
-/wp:tadv/classic-paragraph

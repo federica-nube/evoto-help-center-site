@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-a831935673/README.md"
 ---
 
-# 聯機拍攝
-
 ## In This Section
 
 - [連接到相機（連線）模組](evoto-pc/tab-a831935673/article-d2016724ae.md)

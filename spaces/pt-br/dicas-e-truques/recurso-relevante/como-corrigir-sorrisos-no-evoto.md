@@ -17,10 +17,9 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/10/2-1-300x188.jpg"
 ---
 
-wp:tadv/classic-paragraph
 Nem todo retrato captura o sorriso perfeito, mas com o Evoto, você pode ajustar e melhorar expressões de forma simples para obter resultados naturais. Neste tutorial, você aprenderá como corrigir sorrisos utilizando as ferramentas Expressão Facial, Clareamento dos Dentes e Modelação Facial.
 
-# Passo 1: Ajustar Expressão Facial com Evoto
+### Passo 1: Ajustar Expressão Facial com Evoto
 
 Acesse: Retoque de Retrato > Expressão Facial para encontrar as ferramentas de ajuste de sorriso. Nesta seção, você encontrará três sliders projetados para controlar o quão natural ou expressivo o sorriso aparece.
 
@@ -40,13 +39,13 @@ Acesse: Retoque de Retrato > Expressão Facial para encontrar as ferramentas de 
 
 ---
 
-# Passo 2: Ilumine o Sorriso com Clareamento Dental
+### Passo 2: Ilumine o Sorriso com Clareamento Dental
 
 Um sorriso não depende apenas da expressão; ele também brilha mais com dentes com aparência saudável. O Evoto inclui a opção Clareamento dos Dentes dentro do recurso Retoque de Retrato. Com um ajuste rápido, você pode remover manchas ou tons amarelados, criando um brilho equilibrado e natural.
 
 ---
 
-# Passo 3: Refine o Rosto com Expressão Facial
+### Passo 3: Refine o Rosto com Expressão Facial
 
 Após ajustar o sorriso, você pode querer refinar outros traços faciais para obter um equilíbrio harmonioso. Acesse: Retoque de Retrato > Remodelação Facial.
 
@@ -66,7 +65,7 @@ Aqui estão alguns controles principais que complementam a edição do sorriso:
 
 ---
 
-# **Boas Práticas**
+### Boas Práticas
 
 - **Ajuste Gradual:** Pequenos ajustes geralmente parecem mais naturais do que mudanças extremas.
 - **Verifique em Várias Fotos:** Se estiver editando em um conjunto de imagens (como headshot), utilize as configurações em lote para manter a consistência.
@@ -74,8 +73,6 @@ Aqui estão alguns controles principais que complementam a edição do sorriso:
 
 ---
 
-# Conclusão
+### Conclusão
 
 Com Evoto, corrigir sorrisos é rápido, natural e flexível. Quer você precise realçar um sorriso sutil, clarear os dentes ou ajustar traços faciais ao redor, as ferramentas**Expressão Facial**, **Clareamento dos Dentes** e **Remodelação Facial** fornecem tudo você precisa para destacar os melhores sorrisos em seus retratos.
-
-/wp:tadv/classic-paragraph

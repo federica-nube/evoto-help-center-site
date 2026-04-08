@@ -7,8 +7,6 @@ language: "vi"
 translation_group: "935"
 ---
 
-# Câu hỏi thường gặp
-
 ## In This Section
 
 - [Liên quan đến cài đặt ứng dụng](faq/liên-quan-đến-cài-đặt-ứng-dụng/README.md)

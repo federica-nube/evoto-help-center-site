@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-mobile/tethered-shooting/README.md"
 ---
 
-# Tethered Shooting
-
 ## In This Section
 
 - [Wired Tethered Shooting in Evoto Mobile](evoto-mobile/tethered-shooting/wired-tethered-shooting-in-evoto-mobile.md)

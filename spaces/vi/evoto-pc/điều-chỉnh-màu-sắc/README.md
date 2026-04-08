@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/điều-chỉnh-màu-sắc/README.md"
 ---
 
-# Điều chỉnh màu sắc
-
 ## In This Section
 
 - [Điều chỉnh màu](evoto-pc/điều-chỉnh-màu-sắc/color-adjustment-feature-modules-vi.md)

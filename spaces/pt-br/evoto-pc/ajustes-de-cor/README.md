@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/ajustes-de-cor/README.md"
 ---
 
-# Ajustes de Cor
-
 ## In This Section
 
 - [Recurso Ajustes de Cor](evoto-pc/ajustes-de-cor/recurso-ajustes-de-cor.md)

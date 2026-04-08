@@ -7,8 +7,6 @@ language: "en"
 translation_group: "577"
 ---
 
-# Evoto Knowledge Base
-
 Explore the complete Evoto Knowledge Base for setup, feature walkthroughs, pricing help, and workflow tips across Desktop, iPad, Mobile, and Instant.
 
 Use the sidebar to navigate by product, or jump straight to the sections below.

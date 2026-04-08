@@ -5,8 +5,6 @@ source_type: "generated_group"
 source_id: "price-billing/evoto-ipad-monthly-subscription-faq/README.md"
 ---
 
-# Evoto iPad Monthly Subscription FAQ
-
 ## In This Section
 
 - [Evoto iPad Monthly Subscription FAQ](price-billing/evoto-ipad-monthly-subscription-faq/evoto-ipad-monthly-subscription-faq.md)

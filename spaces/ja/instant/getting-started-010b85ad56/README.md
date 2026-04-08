@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "instant/getting-started-010b85ad56/README.md"
 ---
 
-# Getting Started
-
 ## In This Section
 
 - [Evoto Instant スタートガイド](instant/getting-started-010b85ad56/onboarding-with-instant.md)

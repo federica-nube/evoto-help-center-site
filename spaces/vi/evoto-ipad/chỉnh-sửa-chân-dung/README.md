@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/chỉnh-sửa-chân-dung/README.md"
 ---
 
-# Chỉnh sửa chân dung
-
 ## In This Section
 
 - [Evoto iPad - Xoá khuyết điểm](evoto-ipad/chỉnh-sửa-chân-dung/blemish-removal-ipad-vi.md)

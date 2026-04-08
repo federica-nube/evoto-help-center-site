@@ -27,8 +27,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/4-1-300x238.jpg"
 ---
 
-wp:tadv/classic-paragraph
-# **What is AI Color Match?**
+### What is AI Color Match?
 
 **AI Color Match** lets you automatically match the color tone and visual style of one image to another. By using a reference image, this tool harmonizes exposure, color temperature, tone, and local details across your entire set. It simplifies the editing process by using semantic recognition to intelligently adjust skin tones, hair color, clothing, and even environmental elements such as skies and indoor lighting.
 
@@ -36,15 +35,17 @@ This is especially useful for photographers looking to maintain visual consisten
 
 ---
 
-# **How to use AI Color Match?**
+### How to use AI Color Match?
 
-## **Step 1: Access the AI Color Match Panel**
+#### Step 1: Access the AI Color Match Panel
 
 You can find **AI Color Match** under the **Color Adjustments** feature panel:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/截屏2025-05-28-17.53.25-300x213.png)
 
-If only **AI Color Adjustments** is active, **AI Color Match** appears under both the **Recommended** and **My Looks** tabs. ![](https://support.evoto.ai/wp-content/uploads/2025/04/截屏2025-05-28-17.56.48-251x300.png)
+If only **AI Color Adjustments** is active, **AI Color Match** appears under both the **Recommended** and **My Looks** tabs.
+
+![](https://support.evoto.ai/wp-content/uploads/2025/04/截屏2025-05-28-17.56.48-251x300.png)
 
 If all panels are shown, **AI Color Match** will appear under the **AI Color Looks** section.
 
@@ -52,7 +53,7 @@ If all panels are shown, **AI Color Match** will appear under the **AI Color Loo
 
 ---
 
-## **Step 2: Set a Reference Image**
+#### Step 2: Set a Reference Image
 
 There are two ways to set a reference image for color matching:
 
@@ -63,7 +64,7 @@ There are two ways to set a reference image for color matching:
 
 ---
 
-## **Step 3: Apply the Reference Colors**
+#### Step 3: Apply the Reference Colors
 
 Once a reference is selected:
 
@@ -73,7 +74,7 @@ Once a reference is selected:
 
 ---
 
-## **Step 4: Fine-Tune the Result**
+#### Step 4: Fine-Tune the Result
 
 After applying AI Color Match, you can adjust the results in two areas:
 
@@ -108,7 +109,7 @@ You can:
 
 ---
 
-## **Step 5: Apply in Bulk or Save as a Preset**
+#### Step 5: Apply in Bulk or Save as a Preset
 
 **Batch Sync**
 
@@ -132,30 +133,30 @@ To apply the same AI Color Match across multiple images:
 
 ---
 
-# **AI Color Match: Quick Mode vs. Control Mode**
+### AI Color Match: Quick Mode vs. Control Mode
 
 The **AI Color Match** feature has been upgraded to give you more flexibility and control. You can choose between **Quick Mode** and **Control Mode**, depending on your needs.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250916180254.jpg)
 
-## **Quick Mode**
+#### Quick Mode
 
 - **Best for:** Fast results when you want a smooth, automatic color match.
 - **How it works:** This mode functions just like introduced above. It is fast, simple, and requires no additional adjustments.
 
-## **Control Mode**
+#### Control Mode
 
 - **Best for:** When you need more detailed control over your color matching with a reference image.
 - **How it works:**
-  - Once applied, the profile automatically switches to **Basic**.
-  - The color match adjustments are applied directly to each slider for transparency and fine-tuning.
-  - A local mask is automatically created for the AI color adjustments, with corresponding changes applied to each mask for fine control.
+- Once applied, the profile automatically switches to **Basic**.
+- The color match adjustments are applied directly to each slider for transparency and fine-tuning.
+- A local mask is automatically created for the AI color adjustments, with corresponding changes applied to each mask for fine control.
 
 > Tip: Use Quick Mode when you need fast results, and use Control Mode when you want full visibility and fine control over the adjustments.
 
 ---
 
-# **Reference Management**
+### Reference Management
 
 The Reference Management feature allows users to organize AI Color Match Reference images by color, style, or custom groups, enabling quick access and reuse of relevant references.
 
@@ -174,7 +175,7 @@ Click the button on the right side of the **My References** panel to open the Re
 
 ---
 
-# **Tips for Best Results**
+### Tips for Best Results
 
 - Use reference images with similar lighting, background, or subject matter for more accurate results
 - You can use an already-retouched target photo as a reference to batch-sync style across an entire shoot
@@ -182,7 +183,7 @@ Click the button on the right side of the **My References** panel to open the Re
 
 ---
 
-# **Notes**
+### Notes
 
 - Applying AI Color Match will clear all existing color edits and reset sliders
 - You can undo the change to restore previous settings
@@ -190,9 +191,9 @@ Click the button on the right side of the **My References** panel to open the Re
 
 ---
 
-# **Workflow Examples**
+### Workflow Examples
 
-## **Wedding Photography: Style Consistency Across the Day**
+#### Wedding Photography: Style Consistency Across the Day
 
 To maintain a consistent tone throughout a wedding gallery:
 
@@ -202,7 +203,7 @@ To maintain a consistent tone throughout a wedding gallery:
 
 This saves time and ensures color harmony across different locations and lighting conditions.
 
-## **Tethered Shooting: Real-Time Matching During a Shoot**
+#### Tethered Shooting: Real-Time Matching During a Shoot
 
 For studio or live event photographers:
 
@@ -211,5 +212,3 @@ For studio or live event photographers:
 - Apply the preset in real time as images are captured
 
 This approach helps deliver polished, consistent visuals from the start and cuts down on post-processing time.
-
-/wp:tadv/classic-paragraph

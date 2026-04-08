@@ -7,8 +7,6 @@ language: "es"
 translation_group: "577"
 ---
 
-# Centro de Ayuda de Evoto
-
 Encuentra guías de configuración, explicaciones de funciones, respuestas sobre precios y consejos de flujo de trabajo para todos los productos de Evoto en un solo lugar.
 
 Usa la barra lateral para navegar por producto o entra directamente en las secciones siguientes.

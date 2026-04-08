@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/recortar-y-rotar/README.md"
 ---
 
-# Recortar y Rotar
-
 ## In This Section
 
 - [Recortar](evoto-ipad/recortar-y-rotar/crop-ipad-es.md)

@@ -20,23 +20,23 @@ Skin tone plays a vital role in portrait editing. With Evoto, you can easily uni
 
 ---
 
-# Method 1: Skin Tone Adjustment
+### Method 1: Skin Tone Adjustment
 
 This method allows you to fine-tune the skin’s appearance with manual control. You’ll find it under: **Portrait Retouch > Skin Tone**
 
 1. **Choose a Base Skin Tone** Select the tone that best matches your subject. This provides a starting point for your adjustments.
 2. **Adjust the Amount** Use the amount slider to control how strongly the selected skin tone is applied. A subtle adjustment often looks more natural.
 3. **Fine-Tune Details**
-  - **Temperature**: Warms or cools the skin tone.
-  - **Tint**: Adds green or magenta shifts for balance.
-  - **Skin Radiance**: Enhances glow and vitality.
-  - **Rosy Complexion**: Introduces a natural blush effect.
+- **Temperature**: Warms or cools the skin tone.
+- **Tint**: Adds green or magenta shifts for balance.
+- **Skin Radiance**: Enhances glow and vitality.
+- **Rosy Complexion**: Introduces a natural blush effect.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250910141949-scaled.jpg)
 
 ---
 
-# Method 2: Local Masking for Skin Adjustment
+### Method 2: Local Masking for Skin Adjustment
 
 For more targeted edits, use **Local Masking**.
 
@@ -50,30 +50,30 @@ This method is especially useful for correcting uneven patches or enhancing spec
 
 ---
 
-# AI Unify Skin Color
+### AI Unify Skin Color
 
 Evoto also offers AI-powered tools that make skin tone unification effortless. You’ll find them in: **Portrait Retouch > Skin Tone**
 
 There are **three key sliders**:
 
 1. **AI Unify Face Complexion**
-  - Focuses exclusively on the face.
-  - Corrects uneven tones from makeup, lighting, or shadows.
-  - Produces smooth, consistent facial skin.
+- Focuses exclusively on the face.
+- Corrects uneven tones from makeup, lighting, or shadows.
+- Produces smooth, consistent facial skin.
 2. **AI Unify Body Complexion**
-  - Targets the body while leaving the face untouched.
-  - Helps correct inconsistencies from sun exposure, clothing marks, or lighting.
-  - Ensures the body matches the overall look of the face.
+- Targets the body while leaving the face untouched.
+- Helps correct inconsistencies from sun exposure, clothing marks, or lighting.
+- Ensures the body matches the overall look of the face.
 3. **Unify Body Complexion (Original Slider)**
-  - Works across both face and body.
-  - Useful when the two areas appear mismatched.
-  - Balances tones for a cohesive result.
+- Works across both face and body.
+- Useful when the two areas appear mismatched.
+- Balances tones for a cohesive result.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250910142424-scaled.jpg)
 
 ---
 
-# Pro Tips
+### Pro Tips
 
 - **Start subtle**: Gradually increase sliders until you find the natural balance.
 - **Compare before/after**: Toggle the preview on and off to ensure your changes look realistic.

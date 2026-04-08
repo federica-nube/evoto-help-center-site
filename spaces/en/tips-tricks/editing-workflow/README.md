@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "tips-tricks/editing-workflow/README.md"
 ---
 
-# Editing Workflow
-
 ## In This Section
 
 - [How to Use the "Edit In" Feature in Lightroom Classic](tips-tricks/editing-workflow/right-click-to-open-in-evoto-faster-image-editing.md)

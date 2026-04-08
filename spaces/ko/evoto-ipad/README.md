@@ -7,8 +7,6 @@ language: "ko"
 translation_group: "423"
 ---
 
-# Evoto iPad
-
 ## In This Section
 
 - [시작하기 가이드](evoto-ipad/tab-ed40d7ef2f/README.md)

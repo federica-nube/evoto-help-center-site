@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/bắt-đầu/README.md"
 ---
 
-# Bắt đầu
-
 ## In This Section
 
 - [Chào mừng bạn đến với Evoto iPad](evoto-ipad/bắt-đầu/welcome-to-evoto-ai-ipad-vi.md)

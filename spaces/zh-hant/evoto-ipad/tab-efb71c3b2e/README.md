@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-efb71c3b2e/README.md"
 ---
 
-# 背景調整
-
 ## In This Section
 
 - [背景調整](evoto-ipad/tab-efb71c3b2e/background-adjustments-ipad-zh-hant.md)

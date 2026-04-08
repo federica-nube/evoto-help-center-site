@@ -14,10 +14,9 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/corte3-205x300.jpg"
 ---
 
-wp:tadv/classic-paragraph
 O Evoto oferece vários métodos de corte para atender a diferentes necessidades, incluindo proporção fixa, tamanho livre e dimensões personalizadas. Após ajustar o corte, clique em ****OK**** no canto inferior direito para aplicar o resultado.
 
-# **Tipos de Corte**
+### Tipos de Corte
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/corte1-182x300.jpg)
 
@@ -57,7 +56,7 @@ Personalize e salve seus parâmetros de corte preferidos. Clique em ****Criar Pr
 
 ---
 
-# **Localização por IA**
+### Localização por IA
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/corte3-205x300.jpg)
 
@@ -77,26 +76,26 @@ O recurso Alinhamento automático de pessoa no módulo de Localização por IA (
 - Alinhamento vertical usando o eixo central do sujeito
 - Alinhamento horizontal usando a linha de base dos olhos
 
-## **Opções de Área de Localização**
+#### Opções de Área de Localização
 
 - **Cabeça**: inclui rosto e cabelo
 - **Cabeça + Topo**: inclui rosto, cabelo e qualquer acessório na cabeça
 - **Rosto**: foca estritamente no rosto
 
-## **Sliders de Ajuste**
+#### Sliders de Ajuste
 
 - **Margem superior:** Ajusta o espaço entre o topo da cabeça e a borda superior da foto.
 - **Tamanho da cabeça:** Controla o quão grande a cabeça aparece na imagem final.
 - **Posição horizontal de rosto:** Define onde o rosto aparece horizontalmente na imagem:
-  - 50 = rosto centralizado
-  - 25 = rosto deslocado para a esquerda
-  - 75 = rosto deslocado para a direita
+- 50 = rosto centralizado
+- 25 = rosto deslocado para a esquerda
+- 75 = rosto deslocado para a direita
 
 > Observação: Ao usar o corte L × A × Resolução, é possível definir uma resolução personalizada. O corte de Foto de I D tem padrão de 300 PPI. Outros tipos de corte usarão a resolução original da imagem.
 
 ---
 
-# **Dimensões da Imagem e Casos de Borda**
+### Dimensões da Imagem e Casos de Borda
 
 O recurso Localização de Rosto por IA é desativado quando:
 
@@ -111,5 +110,3 @@ Ao sincronizar configurações de recorte da Imagem A para a Imagem B:
 
 - Se a Imagem B não tiver rosto detectável ou contiver múltiplos rostos, o recorte não será sincronizado.
 - Se os valores sincronizados excederem o intervalo suportado na Imagem B, eles serão ajustados para o limite permitido mais próximo.
-
-/wp:tadv/classic-paragraph

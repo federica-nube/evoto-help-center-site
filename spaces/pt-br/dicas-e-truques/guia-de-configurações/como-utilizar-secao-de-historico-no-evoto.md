@@ -13,12 +13,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.12.47-139x300.png"
 ---
 
-wp:tadv/classic-paragraph
 As função de**Histórico** do Evoto oferecem as ferramentas flexíveis e intuitivas para acompanhar, gerenciar e refinar suas edições. Essas ferramentas incluem o painel geral de Histórico, bem como módulos de Histórico dedicados para as ferramentas manuais, como Ferramenta de Dissolver e Ferramenta de Recuperação. Compreender como cada um funciona ajudará você a assumir total controle do seu fluxo de edição.
 
 ---
 
-# Painel Geral de Histórico
+### Painel Geral de Histórico
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.11.30-146x300.png)
 
@@ -33,7 +32,7 @@ O panel flutuante de **Histórico** funciona como a linha do tempo principal par
 
 ---
 
-# Histórico de Ferramenta de Dissolver e Ferramenta de Recuperação
+### Histórico de Ferramenta de Dissolver e Ferramenta de Recuperação
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.12.47-139x300.png)
 
@@ -50,5 +49,3 @@ Assim que você clicar em **Salvar** no painel de Histórico de ferramenta de Di
 ---
 
 Este design oferece controle preciso por sessão ao usar as ferramenta de Dissolver e ferramenta de recuperação, ao mesmo tempo em que consolida as edições para facilitar o gerenciamento no painel geral do Histórico. Ao utilizar os dois tipos de Histórico em conjunto, você pode trabalhar com mais confiança e eficiência - editando com flexibilidade, enquanto mantém controle preciso em cada etapa.
-
-/wp:tadv/classic-paragraph

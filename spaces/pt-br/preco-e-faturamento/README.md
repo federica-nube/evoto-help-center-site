@@ -7,8 +7,6 @@ language: "pt-br"
 translation_group: "909"
 ---
 
-# Preço e faturamento
-
 ## In This Section
 
 - [Evoto Créditos](preco-e-faturamento/evoto-créditos/README.md)

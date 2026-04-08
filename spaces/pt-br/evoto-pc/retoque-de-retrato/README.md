@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/retoque-de-retrato/README.md"
 ---
 
-# Retoque de Retrato
-
 ## In This Section
 
 - [Reconhecimento Facial por IA](evoto-pc/retoque-de-retrato/reconhecimento-facial-por-ia.md)

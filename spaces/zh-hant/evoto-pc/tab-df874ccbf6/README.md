@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-df874ccbf6/README.md"
 ---
 
-# 入門
-
 ## In This Section
 
 - [入門](evoto-pc/tab-df874ccbf6/article-a95bf2fed6.md)

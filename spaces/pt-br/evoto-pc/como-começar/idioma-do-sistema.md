@@ -12,12 +12,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/language-300x263.jpg"
 ---
 
-wp:tadv/classic-paragraph
 A Evoto está comprometida em atender fotógrafos de todo o mundo com soluções de edição inteligentes e de alta qualidade.
 
 Atualmente, o Evoto oferece suporte a ****12 idiomas diferentes****, e nossa equipe trabalha ativamente para expandir essa lista à medida que avançamos para novas regiões.
 
-# **Alterar idioma**
+### Alterar idioma
 
 Para mudar o idioma da interface:
 
@@ -28,7 +27,3 @@ Para mudar o idioma da interface:
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/language-300x263.jpg)
 
 A interface será atualizada automaticamente para refletir sua seleção.
-
-/wp:tadv/classic-paragraph
-wp:paragraph
-/wp:paragraph

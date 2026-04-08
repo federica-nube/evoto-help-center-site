@@ -5,8 +5,6 @@ source_type: "generated_group"
 source_id: "configuracoes-da-conta/perguntas-frequentes-sobre-conta/README.md"
 ---
 
-# Perguntas Frequentes sobre Conta
-
 ## In This Section
 
 - [Perguntas Frequentes sobre Conta](configuracoes-da-conta/perguntas-frequentes-sobre-conta/perguntas-frequentes-sobre-conta.md)

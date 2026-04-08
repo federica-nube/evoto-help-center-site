@@ -15,7 +15,6 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/09/20250905143054-scaled.jpg"
 ---
 
-wp:tadv/classic-paragraph
 Um fundo de estúdio limpo é essencial para retratos, fotos de produtos e trabalhos comerciais com aparência profissional. O Evoto facilita a remoção de distrações e o refinamento de fundos de cor sólida com apenas algumas ferramentas simples.
 
 Todos os recursos de limpeza de fundo foram desenvolvidos para fotos de estúdio em ambientes internos com fundos sólidos, e cada ferramenta inclui uma opção para forçar a aplicação do efeito caso a IA não identifique automaticamente a cena como adequada. Você pode fazer isso pelo menu suspenso, escolhendo a opção que melhor corresponde à sua foto (por exemplo, *“Distrações”* ou *“Cenário Sólido”*).
@@ -24,7 +23,7 @@ A seguir, vamos apresentar as principais ferramentas passo a passo.
 
 ---
 
-# **Passo 1: Remover Distrações**
+### Passo 1: Remover Distrações
 
 1. Acesse o **painel de Remoção de Distrações**.
 2. Ative a função.
@@ -33,7 +32,7 @@ A seguir, vamos apresentar as principais ferramentas passo a passo.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250905142036-scaled.jpg)
 
-# **Passo 2: Limpar Fundo**
+### Passo 2: Limpar Fundo
 
 Esta ferramenta remove pequenas imperfeições, manchas ou rugas no fundo, proporcionando um acabamento de estúdio profissional.
 
@@ -43,7 +42,7 @@ Esta ferramenta remove pequenas imperfeições, manchas ou rugas no fundo, propo
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250905142855-scaled.jpg)
 
-# Etapa 3: Unificar Iluminação
+### Etapa 3: Unificar Iluminação
 
 Ative o **Unificar Iluminação** para suavizar inconsistências de iluminação no fundo.
 
@@ -54,7 +53,7 @@ Ajuste os dois sliders:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250905142956-scaled.jpg)
 
-# Etapa 4: Remoção de Bandas de Cor
+### Etapa 4: Remoção de Bandas de Cor
 
 - Por fim, ative **Remoção de Bandas de Cor**.
 - Esta função corrige faixas ou gradientes visíveis que às vezes aparecem em fundos lisos e sólidos.
@@ -65,5 +64,3 @@ Ajuste os dois sliders:
 ---
 
 **Resumo** Combinando os quatro passos—remoção de distrações, limpar fundo, unificar iluminação e remoção de bandas de cor—você consegue um fundo de estúdio impecável, com aparência profissional. Cada ferramenta funciona com um simples botão e alguns ajustes de sliders, permitindo que você deixe sua foto perfeita em poucos minutos.
-
-/wp:tadv/classic-paragraph

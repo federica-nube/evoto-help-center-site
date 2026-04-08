@@ -7,8 +7,6 @@ language: "en"
 translation_group: "939"
 ---
 
-# Tips & Tricks
-
 ## In This Section
 
 - [Editing Workflow](tips-tricks/editing-workflow/README.md)

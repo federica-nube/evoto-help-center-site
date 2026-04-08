@@ -13,12 +13,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/12/6-300x195.jpg"
 ---
 
-wp:tadv/classic-paragraph
 O módulo de **Mãos** foca-se no refinamento da aparência das mãos, garantindo consistência e suavidade em edições de retratos.
 
 ---
 
-# **Remoção de Veias das Mãos**
+### Remoção de Veias das Mãos
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/7-300x114.jpg)
 
@@ -27,5 +26,3 @@ Use o slider para atenuar e reduzir a visibilidade de veias proeminentes nas mã
 > Observação: Este recurso se aplica às áreas de pele tanto das mãos quanto dos antebraços.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/12/6-300x195.jpg)
-
-/wp:tadv/classic-paragraph

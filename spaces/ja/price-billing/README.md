@@ -7,8 +7,6 @@ language: "ja"
 translation_group: "909"
 ---
 
-# 料金のご請求とお支払い
-
 ## In This Section
 
 - [チケットについて](price-billing/group-967307ddff/README.md)

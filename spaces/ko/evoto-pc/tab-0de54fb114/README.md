@@ -5,8 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-0de54fb114/README.md"
 ---
 
-# 의상 보정
-
 ## In This Section
 
 - [의상 보정](evoto-pc/tab-0de54fb114/clothing-adjustment-ko.md)

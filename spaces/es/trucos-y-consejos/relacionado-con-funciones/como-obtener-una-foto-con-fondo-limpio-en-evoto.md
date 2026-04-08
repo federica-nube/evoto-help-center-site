@@ -17,14 +17,13 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/09/20250905143054-scaled.jpg"
 ---
 
-wp:tadv/classic-paragraph
 Un fondo de estudio limpio es esencial para retratos de aspecto profesional, fotos de productos o trabajo comercial. Evoto facilita eliminar distracciones y pulir tus fondos de color sólido con unas pocas herramientas simples. Todas las funciones de limpieza de fondo están diseñadas para **fotos de estudio en interiores con fondos sólidos**, y cada función viene con una opción para **forzar el efecto** si la IA no considera que tu escena sea adecuada para el efecto. Puedes hacer esto desde el menú desplegable eligiendo la opción que coincida con tu foto (por ejemplo, "Distracción" o "Fondo sólido").
 
 A continuación, repasaremos las herramientas principales paso a paso.
 
 ---
 
-# Paso 1: Elimina las Distracciones
+### Paso 1: Elimina las Distracciones
 
 - Ve al panel de **Eliminación de Distracciones**.
 - Activa la función.
@@ -37,7 +36,7 @@ Esto te da un punto de partida libre de desorden.
 
 ---
 
-# Paso 2: Limpia el Fondo
+### Paso 2: Limpia el Fondo
 
 - Cambia a la opción **Limpiar Fondo** y actívala.
 - Usa el **control deslizante de Fondo y Suelo** para ajustar la suavidad general de tu fondo.
@@ -49,12 +48,12 @@ Esta herramienta elimina pequeñas imperfecciones, parches irregulares o arrugas
 
 ---
 
-# Paso 3: Unifica la Iluminación
+### Paso 3: Unifica la Iluminación
 
 - Activa **Unificar Iluminación** para suavizar las inconsistencias de iluminación en el fondo.
 - Ajusta los dos controles deslizantes:
-  - **Cantidad** controla qué tan fuertemente se aplica el efecto.
-  - **Luminancia** ayuda a equilibrar los niveles de brillo.
+- **Cantidad** controla qué tan fuertemente se aplica el efecto.
+- **Luminancia** ayuda a equilibrar los niveles de brillo.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/20250905142956-scaled.jpg)
 
@@ -62,7 +61,7 @@ Esto es particularmente útil si la iluminación de tu estudio dejó puntos más
 
 ---
 
-# Paso 4: Elimina el Bandeado de Color
+### Paso 4: Elimina el Bandeado de Color
 
 - Finalmente, habilita **Eliminación de Bandeado de Color**.
 - Esta función corrige las bandas o gradientes visibles que a veces aparecen en fondos suaves y sólidos.
@@ -73,8 +72,6 @@ Después de este paso, tu fondo debería aparecer completamente uniforme y limpi
 
 ---
 
-# Toque Final
+### Toque Final
 
 Con los cuatro pasos combinados—**eliminación de distracciones, limpieza de fondo, iluminación unificada y eliminación de bandeado de color**—lograrás un fondo de estudio impecable que se ve pulido y profesional. Cada herramienta funciona con un simple interruptor y algunos ajustes de control deslizante, para que puedas limpiar tu foto en minutos.
-
-/wp:tadv/classic-paragraph
