@@ -86,7 +86,7 @@ Evoto 데스크톱/iPad 앱과 공식 웹사이트에서 모두 계정 설정에
 
 #### 어떤 보안 기능을 사용할 수 있나요?
 
-Evoto offers various security features to help protect your account:
+Evoto는 계정을 보호할 수 있도록 다양한 보안 기능을 제공합니다.
 
 - **2단계 인증(2FA):** 지원되는 경우 인증 앱을 사용해 2단계 인증을 활성화하면 보안을 강화할 수 있습니다.
 - **비밀번호 강도 표시:** 화면 안내에 따라 안전한 비밀번호를 설정하세요.
@@ -96,7 +96,7 @@ Evoto offers various security features to help protect your account:
 
 #### 어떤 알림 및 개인정보 설정을 사용할 수 있나요?
 
-You have control over the communications you receive and certain aspects of your data.
+사용자는 어떤 알림을 받을지, 그리고 일부 개인정보 관련 설정을 직접 제어할 수 있습니다.
 
 ###### 알림 설정
 
@@ -123,10 +123,10 @@ You have control over the communications you receive and certain aspects of your
 
 기기를 관리하려면 다음 단계를 따르세요.
 
-1. Go to the **Device** section in your account.
-2. View a list of currently signed-in devices.
-3. Click **Remove** next to any device to sign it out.
-4. You can log in again on that device as needed.
+1. 계정 내 **Device** 섹션으로 이동합니다.
+2. 현재 로그인된 기기 목록을 확인합니다.
+3. 로그아웃하려는 기기 옆의 **Remove** 를 클릭합니다.
+4. 필요하면 해당 기기에서 다시 로그인할 수 있습니다.
 
 ---
 

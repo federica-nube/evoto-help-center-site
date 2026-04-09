@@ -1,5 +1,5 @@
 ---
-title: "How to Optimize Evoto's Performance and Speed Up Your Editing Workflow"
+title: "如何優化 Evoto 效能並加快修圖流程"
 source_url: "https://support.evoto.ai/optimizing-evotos-performance-speed-up-your-editing-workflow/"
 source_type: "post"
 source_id: "1722"
@@ -18,11 +18,11 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.01.44-300x245.png"
 ---
 
-Evoto is packed with powerful features for professional-grade photo edits. To make the most of these features, especially when working on complex projects, it's important to optimize the software’s performance. By fine-tuning specific settings, you can significantly enhance rendering speed, ensuring a smoother and faster editing experience.
+Evoto 內建了許多專業級修圖功能。若想充分發揮這些功能的效益，尤其是在處理較複雜的專案時，優化軟體效能就相當重要。透過調整特定設定，你可以大幅提升效果渲染速度，讓整體編輯體驗更順暢、更快速。
 
-#### Rendering Speed Settings
+#### 渲染速度設定
 
-Evoto offers several options to accelerate the rendering of effects. Adjusting these settings can help you achieve faster results without compromising the quality of your work.
+Evoto 提供多項可加快效果渲染的設定。適當調整這些選項，能在不犧牲作品品質的前提下獲得更快的處理速度。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-11.59.32-300x184.png)
 
@@ -32,19 +32,19 @@ Evoto offers several options to accelerate the rendering of effects. Adjusting t
 - **Export Speed Acceleration:**
 - **Portrait Effect Rendering Acceleration:** Speeds up the rendering of portrait effects during the export process.
 
-**Important:** After making any changes to these settings, you must restart Evoto for them to take effect.
+**重要提醒：** 修改這些設定後，必須重新啟動 Evoto 才會生效。
 
-#### Optimizing Group Portrait Processing
+#### 優化團體人像處理
 
-Evoto allows you to optimize effect processing for group portraits, especially for images containing 15 or more people.
+Evoto 可讓你針對團體人像進一步優化效果處理，尤其適用於畫面中有 15 人以上的大合照。
 
 - **Improve Effect Processing Speed of Group Portraits:** Activate this setting to accelerate the processing of large group portraits. While this enhances speed, it may slightly influence the precision of certain effects.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.00.20-300x182.png)
 
-#### Memory Usage Settings
+#### 記憶體使用設定
 
-Optimizing how Evoto uses memory is crucial for maintaining a fast and smooth workflow.
+優化 Evoto 的記憶體使用方式，對於維持快速且流暢的工作流程非常重要。
 
 - **Preview Memory Optimization:**
 - **Improve Memory Utilization:** Enhances how efficiently memory is used during the preview of effects.
@@ -53,11 +53,11 @@ Optimizing how Evoto uses memory is crucial for maintaining a fast and smooth wo
 - **Improve Memory Utilization:** Speeds up the export process by better utilizing available memory.
 - **Optimize Memory Space:** Maximizes memory space to ensure smoother performance during export.
 
-**Note:** A restart of Evoto is necessary for these memory settings to take effect.
+**注意：** 這些記憶體相關設定也需要重新啟動 Evoto 才會生效。
 
-#### Preview & Thumbnail Settings
+#### 預覽與縮圖設定
 
-These settings control how images are displayed within the Evoto interface, balancing visual quality with performance.
+這些設定會控制圖片在 Evoto 介面中的顯示方式，幫助你在畫質與效能之間取得平衡。
 
 - **Preview Size Settings:**
 - Use this setting to change the preview resolution of the image being edited. A higher resolution will provide a sharper image but could slow down performance.
@@ -70,4 +70,4 @@ These settings control how images are displayed within the Evoto interface, bala
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-15-at-12.01.44-300x245.png)
 
-By fine-tuning these settings, you can significantly enhance your workflow in Evoto, making your editing process smoother and faster.
+透過微調這些設定，你可以顯著提升在 Evoto 中的工作效率，讓修圖流程更流暢、更快速。

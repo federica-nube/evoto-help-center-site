@@ -1,5 +1,5 @@
 ---
-title: "How to Master Skin Retouching for Natural Results"
+title: "如何掌握自然膚質修飾"
 source_url: "https://support.evoto.ai/skin-retouching-in-evoto-enhancing-and-perfecting-your-images/"
 source_type: "post"
 source_id: "1733"
@@ -12,15 +12,15 @@ tags:
   - "tips"
 ---
 
-Evoto’s **Skin Retouching** feature set provides advanced tools for refining skin details and achieving natural, polished results. By understanding the function of each tool, you can achieve subtle enhancements or more dramatic transformations.
+Evoto 的 **Skin Retouching** 功能組提供了多種進階工具，可用來細緻調整膚質並呈現自然且精緻的效果。只要了解每個工具的作用，你就能做出細膩的微調，或打造更明顯的風格變化。
 
-#### The Core Smoothing Tools
+#### 核心磨皮工具
 
-Evoto offers a variety of tools for smoothing skin, each using different technologies to achieve a unique result.
+Evoto 提供多種膚質平滑工具，每種都透過不同技術來達成不同效果。
 
-##### Dodge & Burn Techniques
+##### Dodge & Burn 技術
 
-These tools subtly enhance the shape and depth of facial features while preserving natural highlights and shadows. It is recommended to combine them for the best results.
+這些工具能在保留自然明暗層次的同時，微妙地加強五官的立體感與深度。建議搭配使用，以獲得最佳效果。
 
 - **Even with Dodge & Burn:** This tool automatically lightens and darkens targeted areas of the face to effectively smooth wrinkles, reduce blemishes, and correct uneven tones. It delivers a clean, natural complexion that accommodates different skin types.
 - **Sculpt with Dodge & Burn:** This tool refines lighting and contour definition to enhance facial dimensionality. It includes two adjustable sliders:
@@ -28,37 +28,37 @@ These tools subtly enhance the shape and depth of facial features while preservi
 - **Facial Contours Slider:** Accentuates the bone structure and overall shape of the face for a more sculpted look.
 - **Textured Smoothing:** A more subtle Dodge & Burn tool that refines skin tone and structure while preserving natural texture. It’s ideal for smoothing imperfections while maintaining a realistic, three-dimensional appearance.
 
-##### Frequency Separation
+##### 頻率分離
 
-This classic skin retouching method separates the skin into high-frequency (texture) and low-frequency (tone and color) layers for fine-tuned control. This technology is the basis for several of Evoto’s skin-smoothing tools.
+這是一種經典的膚質修圖方式，會將皮膚拆分為高頻層（紋理）與低頻層（色調與顏色），讓你更精細地控制修飾效果。Evoto 中多項膚質平滑工具都以這項技術為基礎。
 
 - **Face Skin Smoothing:** Smooths facial skin by targeting the **low-frequency layer** (tone and color) while preserving details in the **high-frequency layer** (texture). Adjust the slider carefully to maintain a natural look and avoid an overly airbrushed appearance.
 - **Body Skin Smoothing:** Applies the same frequency separation technology to the body, making it ideal for refining skin’s appearance across larger areas and ensuring consistency throughout the image.
 - **High & Low Frequency Sub-sliders:** For even more control, sub-sliders are available to let you manually enhance or soften skin texture (**High Frequency**) or control smoothness and tonal balance (**Low Frequency**). This is recommended for portraits with even exposure.
 
-#### Adding and Refining Texture
+#### 增加與微調膚理
 
-The **Skin Texture Adjustments** feature offers additional control over the skin’s texture, allowing you to add or modify texture details for a more natural and realistic finish.
+**Skin Texture Adjustments** 功能可讓你更進一步控制皮膚紋理，加入或調整細節，讓整體效果更自然、更真實。
 
 - **Glossiness:** Adjusts the brightness of existing highlights on the skin to enhance or reduce light reflection.
 - **Texture:** Controls the visibility of skin texture. Lower values smooth texture; higher values enhance it.
 - **Clarity:** Adds or reduces sharpness in the skin texture for more or less definition.
 
-##### Skin Texture Presets
+##### 膚理預設
 
-Evoto provides three skin texture presets to quickly apply different finishes:
+Evoto 提供三種膚理預設，方便你快速套用不同的質感效果：
 
 - **Satin Preset:** Reduces glossiness for a soft, natural look.
 - **Matte Preset:** Adjusts gloss, texture, and clarity to create a refined, less reflective appearance.
 - **Dewy Preset:** Increases glossiness to give the skin a radiant, luminous finish.
 
-#### Advanced Color & Tone Adjustments
+#### 進階色彩與明暗調整
 
-Evoto provides dedicated tools for fine-tuning skin color, tone, and radiance, each with a different purpose.
+Evoto 也提供專門工具來細調膚色、色調與光澤，每一項都有不同用途。
 
 ##### Select Skin Tone
 
-This tool allows you to adjust and harmonize the overall skin and facial feature tones. It is ideal for color correction or creative changes.
+這個工具可讓你調整並統一整體膚色與臉部色調，適合用於色彩校正或創意風格調整。
 
 - **Skin Tone:** Choose from eight preset tones and adjust using the slider.
 - **Temperature:** Warms or cools the selected skin tone.
@@ -67,20 +67,20 @@ This tool allows you to adjust and harmonize the overall skin and facial feature
 
 ##### Skin Radiance
 
-This feature brightens and enhances the glow of the skin while preserving the integrity of facial color.
+這項功能會提亮肌膚並增加光澤，同時保留臉部原有的色彩表現。
 
 - **Functionality:** It increases the brightness and clarity of the skin, giving it a more luminous appearance without altering the brightness or color of key facial features.
 - **Use Case:** Best for improving dull or uneven skin tones when you want to add vibrance without disrupting the subject’s natural facial coloring.
 
 ##### Rosy Complexion
 
-This tool adds or reduces redness in the skin for a healthier appearance. Use the slider in either direction to subtly increase rosiness or minimize excessive redness.
+這個工具可增加或減少皮膚中的紅潤感，讓膚色看起來更健康。你可以透過滑桿微調，增加自然紅潤，或減少過度泛紅。
 
-#### The Precision of Manual Control
+#### 手動精修的精準控制
 
-For precise control over your skin edits, Evoto offers both manual tools and targeted masks.
+如果你想更精準地控制膚質修飾效果，Evoto 也提供手動工具與局部遮罩。
 
 - **Manual Tuning Pen:** This tool allows you to manually apply or remove smoothing effects in specific areas. Use it to retain natural texture where needed, or to target blemishes individually.
 - **Local Mask Adjustments:** For finer control, you can use **Local Mask > Color Adjustments** to manually refine skin tone on a specific area. This tool allows targeted color edits on areas such as the **Facial Skin**, **Body Skin**, or **All Skin**.
 
-By understanding the purpose of each tool and how to combine them, you can achieve professional, natural-looking skin in your photos.
+只要理解各個工具的用途並善加搭配，你就能在照片中做出專業且自然的膚質修飾效果。

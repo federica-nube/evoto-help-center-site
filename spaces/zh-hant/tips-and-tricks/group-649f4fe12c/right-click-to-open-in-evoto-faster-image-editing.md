@@ -1,5 +1,5 @@
 ---
-title: "How to Use the \"Edit In\" Feature in Lightroom Classic"
+title: "如何在 Lightroom Classic 中使用「Edit In」功能"
 source_url: "https://support.evoto.ai/right-click-to-open-in-evoto-faster-image-editing/"
 source_type: "post"
 source_id: "1633"
@@ -19,27 +19,27 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-10.47.52-243x300.png"
 ---
 
-This guide explains how to use the "Edit In" feature to quickly send an image from Lightroom Classic to Evoto for advanced retouching and then bring it back into your Lightroom catalog.
+本指南說明如何使用「Edit In」功能，快速將圖片從 Lightroom Classic 傳送到 Evoto 進行進階修圖，然後再帶回 Lightroom 目錄中。
 
-**1. Start in Lightroom Classic:** Begin your process by culling, organizing, or performing initial edits on your image in Lightroom.
+**1. 從 Lightroom Classic 開始：** 先在 Lightroom 中完成挑片、整理，或進行初步調整。
 
-**2. Send to Evoto:** Right-click the image you want to edit, then select **Edit in > Edit in Evoto**.
+**2. 傳送到 Evoto：** 對要編輯的圖片按右鍵，然後選擇 **Edit in > Edit in Evoto**。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-10.43.42-300x128.png)
 
-**3. Edit in Evoto:** The image will open in Evoto. Perform your advanced edits (e.g., skin, eyes, hair, etc.).
+**3. 在 Evoto 中編輯：** 圖片會在 Evoto 中開啟。接著進行你需要的進階修飾，例如皮膚、眼睛、頭髮等調整。
 
-**4. Export Back to Lightroom:** When you are ready, click **Export** in Evoto and use the following settings:
+**4. 匯出回 Lightroom：** 完成後，在 Evoto 中點擊 **Export**，並使用以下設定：
 
-- **Export To:** Select the original folder location of the photo.
-- **Existing Files:** Choose **Replace** and ensure the “Replace original file(s)” option is checked.
+- **Export To：** 選擇照片原本所在的資料夾位置。
+- **Existing Files：** 選擇 **Replace**，並確認已勾選 “Replace original file(s)”。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-10.46.18-272x300.png)
 
-**5. Update in Lightroom:** When you return to Lightroom, you may need to click the metadata icon and select **Import Settings from Disk** to update the image and reflect the changes made in Evoto.
+**5. 在 Lightroom 中更新：** 回到 Lightroom 後，你可能需要點擊中繼資料圖示，然後選擇 **Import Settings from Disk**，讓圖片更新並反映你在 Evoto 中做的修改。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-10.47.21-300x293.png)
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-10.47.52-243x300.png)
 
-This method is ideal for a quick round-trip edit, allowing you to use Evoto’s powerful AI tools on individual images without interrupting your Lightroom workflow.
+這種做法很適合快速來回編輯，讓你能在不打斷 Lightroom 工作流程的情況下，使用 Evoto 強大的 AI 工具處理單張圖片。

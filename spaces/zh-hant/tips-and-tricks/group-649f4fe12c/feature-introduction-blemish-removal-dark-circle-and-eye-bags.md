@@ -1,5 +1,5 @@
 ---
-title: "How to Choose Between Eye Area Enhancement Tools"
+title: "如何選擇眼周修飾工具"
 source_url: "https://support.evoto.ai/feature-introduction-blemish-removal-dark-circle-and-eye-bags/"
 source_type: "post"
 source_id: "1668"
@@ -16,28 +16,28 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.38.50-151x300.png"
 ---
 
-The **Blemish Removal** section in Evoto provides a powerful suite of tools for making precise and natural corrections to a wide range of facial and body imperfections. These features are designed to enhance a subject's overall appearance while meticulously maintaining the integrity and realism of the original image.
+Evoto 的 **Blemish Removal** 功能組提供多種強大工具，可精準且自然地修正臉部與身體的各類瑕疵。這些功能旨在改善整體外觀，同時盡可能保留原始影像的真實感與自然度。
 
-#### Eye Area Enhancements
+#### 眼周修飾
 
-Evoto offers two powerful sliders specifically designed to enhance the eye area, helping you achieve a refreshed and healthy look by targeting common issues under the eyes.
+Evoto 提供兩個專為眼周調整設計的滑桿，可針對眼下常見問題進行修飾，讓整體神情看起來更有精神、更健康。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-14-at-11.38.50-151x300.png)
 
-##### Dark Circle Slider
+##### Dark Circle 滑桿
 
-The **Dark Circle** slider is designed to reduce pigmentation and shadows beneath the eyes, which often make subjects appear tired or stressed.
+**Dark Circle** 滑桿主要用來減淡眼下色素沉澱與陰影，這些問題常會讓人物看起來疲憊或壓力大。
 
-- **How it works:** Simply pull the slider to the right to gradually lighten the under-eye area. This adjustment helps to brighten the eyes and reduce signs of fatigue, creating a more vibrant and awake expression.
+- **使用方式：** 只需將滑桿往右拉，即可逐步提亮眼下區域。這項調整能讓眼神更明亮，減少疲態，呈現更有精神的表情。
 
-##### Eye Bags Slider
+##### Eye Bags 滑桿
 
-- The **Eye Bags** slider is specifically targeted at removing puffiness or sagging under the eyes that result from loose, distended, or swollen skin. This helps restore a smoother and more rested facial structure.
+- **Eye Bags** 滑桿則專門用來減少眼下浮腫、鬆弛或膨出感，有助於恢復更平滑、更有休息感的臉部輪廓。
 
 ##### Lower Eyelids Protection
 
-This slider includes built-in protection for the natural puffiness of the lower eyelids, which can contribute to a youthful and expressive appearance.
+這個滑桿內建對下眼瞼自然立體感的保護機制，而這種自然微微隆起的輪廓，往往也是年輕與有神表情的一部分。
 
-- By default, the preservation level is set to 100, ensuring that while eye bags are reduced, the natural shape and volume of the lower eyelids remain intact. You can adjust this level as needed for your desired result.
+- 預設保留程度為 100，確保在減少眼袋的同時，仍保留下眼瞼原有的形狀與立體感。你也可以依照需求自行調整這個保留程度。
 
-By leveraging these tools, you can achieve precise control over the eye area's appearance and address a wide range of common blemishes, ensuring a polished and professional result with ease.
+透過這些工具，你可以更精準地控制眼周外觀，處理多種常見瑕疵，輕鬆獲得更精緻且專業的效果。
