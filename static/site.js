@@ -138,11 +138,63 @@ function attachSidebarToggle() {
   });
 }
 
+function attachPrimaryNavDropdownExclusive() {
+  const nav = document.querySelector(".hero-primary-nav");
+  if (!nav) return;
+  const dropdowns = nav.querySelectorAll("details.primary-nav-dropdown");
+  dropdowns.forEach((details) => {
+    details.addEventListener("toggle", () => {
+      if (!details.open) return;
+      dropdowns.forEach((other) => {
+        if (other !== details) other.open = false;
+      });
+    });
+  });
+  document.addEventListener("click", (event) => {
+    if (!nav.contains(event.target)) {
+      dropdowns.forEach((d) => {
+        d.open = false;
+      });
+      return;
+    }
+    if (!event.target.closest("details.primary-nav-dropdown")) {
+      dropdowns.forEach((d) => {
+        d.open = false;
+      });
+    }
+  });
+}
+
+function normalizePathname(pathname) {
+  let p = pathname.replace(/\/index\.html?$/i, "");
+  p = p.replace(/\/+$/, "");
+  return p || "/";
+}
+
+function learningCenterHrefMatchesCurrentPage(href) {
+  if (!href) return false;
+  const resolved = new URL(href, window.location.href);
+  return normalizePathname(resolved.pathname) === normalizePathname(window.location.pathname);
+}
+
+function attachLearningCenterHomeNavGuard() {
+  document.querySelectorAll("a.primary-nav-dropdown__item--current").forEach((anchor) => {
+    anchor.addEventListener("click", (event) => {
+      const href = anchor.getAttribute("href");
+      if (learningCenterHrefMatchesCurrentPage(href)) {
+        event.preventDefault();
+      }
+    });
+  });
+}
+
 function init() {
   attachSearchSuggestions();
   attachSearchPageResults();
   attachLanguageSwitcher();
   attachSidebarToggle();
+  attachPrimaryNavDropdownExclusive();
+  attachLearningCenterHomeNavGuard();
 }
 
 document.addEventListener("DOMContentLoaded", init);
