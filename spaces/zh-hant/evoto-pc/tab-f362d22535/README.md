@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-f362d22535/README.md"
 ---
 
-## In This Section
+## 本章內容
 
 - [AI 人臉識別](evoto-pc/tab-f362d22535/ai-46a4e943ec.md)
 - [人像修飾模組 - 去除瑕疵](evoto-pc/tab-f362d22535/article-393a28f8a5.md)

@@ -5,6 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-0de54fb114/README.md"
 ---
 
-## In This Section
+## 이 섹션의 문서
 
 - [iPad Clothing Adjustment](evoto-ipad/tab-0de54fb114/clothing-adjustment-ipad.md)

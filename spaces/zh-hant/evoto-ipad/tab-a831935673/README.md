@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-a831935673/README.md"
 ---
 
-## In This Section
+## 本章內容
 
 - [無線聯機拍攝](evoto-ipad/tab-a831935673/wireless-tethered-shooting-ipad-zh-hant.md)
 - [有線聯機拍攝](evoto-ipad/tab-a831935673/wired-tethered-shooting-ipad-zh-hant.md)

@@ -7,7 +7,7 @@ language: "zh-hant"
 translation_group: "935"
 ---
 
-## In This Section
+## 本章內容
 
 - [編輯相關](faq/group-df23fa90a2/README.md)
 - [導入和導出圖片相關](faq/group-ce8e372b77/README.md)

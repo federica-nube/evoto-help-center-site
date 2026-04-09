@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-f362d22535/README.md"
 ---
 
-## In This Section
+## 本章內容
 
 - [祛瑕疵](evoto-ipad/tab-f362d22535/blemish-removal-ipad-zh-hant.md)
 - [皮膚調整](evoto-ipad/tab-f362d22535/skin-retouching-ipad-zh-hant.md)

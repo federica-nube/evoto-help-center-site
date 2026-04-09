@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-ebdd27e685/README.md"
 ---
 
-## In This Section
+## 이 섹션의 문서
 
 - [연결전송 촬영](evoto-pc/tab-ebdd27e685/tethered-shooting-ko.md)
 - [연결전송 촬영 지원 가능한 카메라 리스트](evoto-pc/tab-ebdd27e685/tethered-shooting-supported-camera-model-ko.md)

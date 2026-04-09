@@ -7,7 +7,7 @@ language: "zh-hant"
 translation_group: "423"
 ---
 
-## In This Section
+## 本章內容
 
 - [開始](evoto-ipad/tab-a95bf2fed6/README.md)
 - [色彩調整](evoto-ipad/tab-dc11642475/README.md)

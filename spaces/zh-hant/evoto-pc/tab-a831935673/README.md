@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-a831935673/README.md"
 ---
 
-## In This Section
+## 本章內容
 
 - [連接到相機（連線）模組](evoto-pc/tab-a831935673/article-d2016724ae.md)
 - [電腦聯機拍攝 – 支援的相機型號](evoto-pc/tab-a831935673/article-a65f7f029b.md)

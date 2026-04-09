@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-dca15655ae/README.md"
 ---
 
-## In This Section
+## 이 섹션의 문서
 
 - [인물 사진 보정 모듈](evoto-pc/tab-dca15655ae/portrait-retouching-feature-module-ko.md)
 - [피부 결점 제거](evoto-pc/tab-dca15655ae/blemish-removal-ko.md)

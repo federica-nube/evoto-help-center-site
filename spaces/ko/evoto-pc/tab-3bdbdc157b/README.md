@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-3bdbdc157b/README.md"
 ---
 
-## In This Section
+## 이 섹션의 문서
 
 - [배경 보정](evoto-pc/tab-3bdbdc157b/background-adjustments-ko.md)
 - [배경 교체](evoto-pc/tab-3bdbdc157b/backdrop-changer-ko.md)

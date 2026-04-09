@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/and-449c0c0e1e/README.md"
 ---
 
-## In This Section
+## 本章內容
 
 - [裁剪](evoto-ipad/and-449c0c0e1e/crop-ipad-zh-hant.md)
 - [旋轉](evoto-ipad/and-449c0c0e1e/rotate-ipad-zh-hant.md)

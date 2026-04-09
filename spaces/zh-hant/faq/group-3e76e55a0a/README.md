@@ -5,6 +5,6 @@ source_type: "generated_group"
 source_id: "faq/group-3e76e55a0a/README.md"
 ---
 
-## In This Section
+## 本章內容
 
 - [Additional Resources & Support](faq/group-3e76e55a0a/additional-resources-community-engagement.md)

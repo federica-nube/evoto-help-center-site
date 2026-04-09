@@ -5,6 +5,6 @@ source_type: "generated_group"
 source_id: "faq/evoto-ipad-c3c2d6ec19/README.md"
 ---
 
-## In This Section
+## 本章內容
 
 - [Evoto iPad - FAQs](faq/evoto-ipad-c3c2d6ec19/evoto-ipad-faq.md)

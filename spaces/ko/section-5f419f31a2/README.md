@@ -7,7 +7,7 @@ language: "ko"
 translation_group: "930"
 ---
 
-## In This Section
+## 이 섹션의 문서
 
 - [제목](section-5f419f31a2/group-078b3a1b0a/README.md)
 - [제목](section-5f419f31a2/group-078b3a1b0a/README.md)

@@ -9,7 +9,7 @@ translation_group: "909"
 
 ## 價格
 
-## In This Section
+## 本章內容
 
 - [積分](billing-and-pricing/group-6f90b991e7/README.md)
 - [訂閱計劃](billing-and-pricing/group-cbbcc60096/README.md)

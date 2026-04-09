@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-a95bf2fed6/README.md"
 ---
 
-## In This Section
+## 本章內容
 
 - [歡迎使用 Evoto iPad版！](evoto-ipad/tab-a95bf2fed6/welcome-to-evoto-ai-ipad-zh-hant.md)
 - [Evoto iPad版兼容性概述](evoto-ipad/tab-a95bf2fed6/devices-compatibility-overview-ipad-zh-hant.md)

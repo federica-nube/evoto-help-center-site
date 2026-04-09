@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-ed40d7ef2f/README.md"
 ---
 
-## In This Section
+## 이 섹션의 문서
 
 - [Evoto AI 아이패드 버전 소개](evoto-ipad/tab-ed40d7ef2f/welcome-to-evoto-ai-ipad-ko.md)
 - [Evoto AI의 아이패드 모델 호환성 개요](evoto-ipad/tab-ed40d7ef2f/devices-compatibility-overview-ipad-ko.md)

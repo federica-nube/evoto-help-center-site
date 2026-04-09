@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "instant/tab-4debda003a/README.md"
 ---
 
-## In This Section
+## 이 섹션의 문서
 
 - [인스턴트 온보딩](instant/tab-4debda003a/article-2a38afd704.md)
 - [시스템 소개](instant/tab-4debda003a/article-d04b75011e.md)

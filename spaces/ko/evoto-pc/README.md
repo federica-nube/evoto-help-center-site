@@ -7,7 +7,7 @@ language: "ko"
 translation_group: "453"
 ---
 
-## In This Section
+## 이 섹션의 문서
 
 - [시작하기 가이드](evoto-pc/tab-ed40d7ef2f/README.md)
 - [색감 보정](evoto-pc/tab-524a782309/README.md)

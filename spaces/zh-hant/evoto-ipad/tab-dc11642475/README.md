@@ -5,6 +5,6 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-dc11642475/README.md"
 ---
 
-## In This Section
+## 本章內容
 
 - [色彩調整功能模組](evoto-ipad/tab-dc11642475/color-adjustment-ipad-zh-hant.md)

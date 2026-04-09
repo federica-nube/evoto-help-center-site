@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-ed40d7ef2f/README.md"
 ---
 
-## In This Section
+## 이 섹션의 문서
 
 - [시작하기](evoto-pc/tab-ed40d7ef2f/get-start-ko.md)
 - [보정 작업 공간 소개](evoto-pc/tab-ed40d7ef2f/edit-ko.md)

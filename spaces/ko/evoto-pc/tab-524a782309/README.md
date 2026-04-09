@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "evoto-pc/tab-524a782309/README.md"
 ---
 
-## In This Section
+## 이 섹션의 문서
 
 - [색감 보정 모듈](evoto-pc/tab-524a782309/color-adjustment-feature-modules-ko.md)
 - [AI 스타일 템플릿](evoto-pc/tab-524a782309/feature-introduction-ai-color-looks-ko.md)

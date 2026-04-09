@@ -7,6 +7,6 @@ language: "ko"
 translation_group: "6543"
 ---
 
-## In This Section
+## 이 섹션의 문서
 
 - [빠른 시작](instant/tab-4debda003a/README.md)

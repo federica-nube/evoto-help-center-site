@@ -5,7 +5,7 @@ source_type: "generated_tab"
 source_id: "evoto-ipad/tab-3bdbdc157b/README.md"
 ---
 
-## In This Section
+## 이 섹션의 문서
 
 - [배경 보정](evoto-ipad/tab-3bdbdc157b/background-adjustments-ipad-ko.md)
 - [배경 교체](evoto-ipad/tab-3bdbdc157b/backdrop-changer-ipad-ko.md)

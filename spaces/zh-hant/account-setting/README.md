@@ -9,7 +9,7 @@ translation_group: "910"
 
 ## 帳戶
 
-## In This Section
+## 本章內容
 
 - [帳戶註冊和新手教學](account-setting/group-94505ada5d/README.md)
 - [帳戶設定](account-setting/group-73a5eb4680/README.md)

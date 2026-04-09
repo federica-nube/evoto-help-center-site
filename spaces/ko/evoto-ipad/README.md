@@ -7,7 +7,7 @@ language: "ko"
 translation_group: "423"
 ---
 
-## In This Section
+## 이 섹션의 문서
 
 - [시작하기 가이드](evoto-ipad/tab-ed40d7ef2f/README.md)
 - [색감 보정](evoto-ipad/tab-524a782309/README.md)
