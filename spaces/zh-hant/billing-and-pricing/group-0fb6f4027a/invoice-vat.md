@@ -34,7 +34,7 @@ source_assets:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.28.28-300x166.png)
 
-2. 前往 **My Account** → **My Billing and Usage** → **Invoices**。
+2. 前往 **我的帳戶** → **我的帳單與使用情況** → **發票**。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.29.18-300x186.png)
 
@@ -49,8 +49,8 @@ source_assets:
 在下載前，你可以先更新發票資訊。
 
 1. 登入 Evoto 帳戶。
-2. 前往 **My Account** → **Billing & Usage** → **Invoices**。
-3. 點擊 **“Edit Information.”**
+2. 前往 **我的帳戶** → **帳單與使用情況** → **發票**。
+3. 點擊 **「編輯資訊」**。
 4. 你可以更新公司名稱、地址或其他帳務資訊。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.39.39-300x255.png)
@@ -73,11 +73,11 @@ source_assets:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.42.42-300x232.png)
 
-2. 在付款頁面點擊 **“Add VAT Number.”**
+2. 在付款頁面點擊 **「新增 VAT 編號」**。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.43.38-300x229.png)
 
-3. 輸入你的 **VAT number**，並完成其他必填欄位。
+3. 輸入你的 **VAT 編號**，並完成其他必填欄位。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.44.38-300x272.png)
 

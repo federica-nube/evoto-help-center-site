@@ -57,10 +57,10 @@ Evoto 提供簡單的方法讓你查詢餘額，甚至領取免費點數。
 
 只要完成個人資料，你就可以獲得最多 15 點免費點數：
 
-1. Click the **gift card icon** in the top-right corner of the app.
+1. 點擊 App 右上角的 **禮物卡圖示**。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-13-at-11.51.17-300x187.png)
-2. 選擇 **“Tell Us About Yourself.”**
+2. 選擇 **「Tell Us About Yourself」**。
 3. 填寫並送出表單，點數就會自動加到你的帳戶中。
 
 **注意事項：**
@@ -73,22 +73,22 @@ Evoto 提供簡單的方法讓你查詢餘額，甚至領取免費點數。
 你可以透過以下兩種方式查看目前點數餘額與使用紀錄：
 
 - **方式 1：在 Evoto App 中**
-1. 點擊右上角的 **Account icon**（你的頭像或姓名縮寫）。
-2. 從下拉選單中選擇 **Credits**。
+1. 點擊右上角的 **帳戶圖示**（你的頭像或姓名縮寫）。
+2. 從下拉選單中選擇 **點數**。
 3. 你就能看到剩餘點數與總使用量。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070628-1024x598.png)
 
 - **方式 2：在 Evoto 網站上**
 1. 到 [evoto.ai](http://evoto.ai) 登入。
-2. 前往 **My Account** → **My Billing and Usage**。
-3. 再次選擇 **My Billing and Usage**，即可查看點數餘額與使用紀錄。
+2. 前往 **我的帳戶** → **我的帳單與使用情況**。
+3. 再次選擇 **我的帳單與使用情況**，即可查看點數餘額與使用紀錄。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070806-1024x517.png)
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-071714-1024x656.png)
 
-**點數會過期嗎？** 會。點數是否過期取決於你購買的方案。若要查看點數有效期限：登入 [evoto.ai](http://evoto.ai)，前往 **My Account** → **My Billing and Usage**，再選擇 **Available Packages & Invalid Packages**。**Available Packages** 會顯示目前有效的方案、剩餘點數與到期日；**Invalid Packages** 則會顯示已用完或已過期的方案。你也可以往下捲動查看歷史方案。
+**點數會過期嗎？** 會。點數是否過期取決於你購買的方案。若要查看點數有效期限：登入 [evoto.ai](http://evoto.ai)，前往 **我的帳戶** → **我的帳單與使用情況**，再選擇 **可用方案與失效方案**。**可用方案** 會顯示目前有效的方案、剩餘點數與到期日；**失效方案** 則會顯示已用完或已過期的方案。你也可以往下捲動查看歷史方案。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-073502-1024x859.png)
 

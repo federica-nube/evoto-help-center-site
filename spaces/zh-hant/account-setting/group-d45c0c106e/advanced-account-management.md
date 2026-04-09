@@ -26,7 +26,7 @@ source_assets:
 
 如果你同時在 Evoto 使用個人帳戶與組織帳戶，可以透過儀表板中的個人檔案切換功能，在不同帳戶之間快速切換。部分組織也支援角色委派，讓不同使用者分別擁有特定權限與責任。
 
-- 如需了解你所在組織的角色委派方式，請查看 **account settings** 或 **Evoto Forum** 的相關說明。
+- 如需了解你所在組織的角色委派方式，請查看 **帳戶設定** 或 **Evoto Forum** 的相關說明。
 
 ---
 
@@ -41,11 +41,11 @@ source_assets:
 
 ###### 刪除步驟：
 
-1. Navigate to **Account Settings** within your Evoto app or on the official website.
+1. 在 Evoto App 或官方網站中前往 **帳戶設定**。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/05/9545BB60-81D1-420E-8974-C4482D6A2F78-300x153.png)
 
-2. Locate the **“Delete Account”** option (its exact placement may vary slightly by version).
+2. 找到 **「刪除帳戶」** 選項（實際位置可能會因版本而略有不同）。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/05/D3EAC06E-0CB8-46C5-8B2E-9E9ED4AD23E2-300x196.png)
 
@@ -59,7 +59,7 @@ source_assets:
 
 如果帳戶不幸遭到入侵，請立即依照以下步驟保護你的帳戶：
 
-1. **重設密碼：** 使用登入頁面的「Forgot Password」連結，立即將密碼改成新的、強度更高且唯一的密碼。
+1. **重設密碼：** 使用登入頁面的「忘記密碼」連結，立即將密碼改成新的、強度更高且唯一的密碼。
 2. **通知支援團隊：** 盡快透過 support@evoto.ai 聯絡 Evoto 支援團隊，告知帳戶可能遭到入侵。
 3. **查看近期活動：** 檢查帳戶活動紀錄，確認是否有未授權的登入、變更或點數使用紀錄。
 4. **尋求社群建議：** 到 Evoto Forum 的相關討論串查看復原建議，其他使用者與版主可能會提供協助。

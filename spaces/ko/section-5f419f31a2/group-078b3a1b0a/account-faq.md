@@ -32,11 +32,11 @@ Evoto 앱이나 공식 웹사이트에서 새 Evoto 계정을 쉽게 만들 수 
 ###### Evoto 앱에서 가입하기
 
 1. 기기의 앱 스토어에서 Evoto 앱을 다운로드해 설치합니다.
-2. 앱을 열고 로그인 화면에서 **Sign Up** 옵션을 찾습니다.
+2. 앱을 열고 로그인 화면에서 **회원가입** 옵션을 찾습니다.
 3. **이메일 주소** 또는 **전화번호**를 입력해 계정을 생성합니다.
-4. **Sign Up** 을 클릭합니다.
+4. **회원가입** 을 클릭합니다.
 5. 등록한 이메일 또는 전화번호로 전송된 **인증 코드**를 입력합니다.
-6. **Log In** 을 눌러 가입을 완료하고 계정에 접속합니다.
+6. **로그인** 을 눌러 가입을 완료하고 계정에 접속합니다.
 
 ###### Evoto 웹사이트에서 가입하기
 
@@ -49,7 +49,7 @@ Evoto 앱이나 공식 웹사이트에서 새 Evoto 계정을 쉽게 만들 수 
 
 - 중요한 계정 안내를 놓치지 않도록 자주 확인하는 이메일 주소를 사용하는 것이 좋습니다.
 - 일부 지역에서는 계정 보안을 위해 가입 과정에서 본인 인증이 필요할 수 있습니다.
-- 시작 방법에 대한 일반적인 안내는 Start Guide를 참고하세요.
+- 시작 방법에 대한 일반적인 안내는 시작 가이드를 참고하세요.
 
 ---
 
@@ -74,30 +74,30 @@ Evoto 앱이나 공식 웹사이트에서 새 Evoto 계정을 쉽게 만들 수 
 
 ###### Gmail
 
-1. Go to **Settings** (gear icon) → **See all settings** → **Filters and Blocked Addresses**.
-2. Click **Create a new filter**.
-3. In the “From” field, enter all Evoto noreply addresses, separated by commas (e.g., noreply@mail.evoto.ai, noreply@mail1.evoto.ai, ...).
-4. Click **Create filter**.
-5. Check the box for **“Never send it to Spam”** and finalize the filter.
+1. **Settings**(톱니바퀴 아이콘) → **See all settings** → **Filters and Blocked Addresses** 로 이동합니다.
+2. **Create a new filter** 를 클릭합니다.
+3. “From” 입력란에 Evoto noreply 주소를 쉼표로 구분해 입력합니다(예: noreply@mail.evoto.ai, noreply@mail1.evoto.ai, ...).
+4. **Create filter** 를 클릭합니다.
+5. **“Never send it to Spam”** 항목을 체크하고 설정을 완료합니다.
 
 ###### Outlook / Hotmail
 
-1. Go to **Settings** (gear icon) → **View all Outlook settings** → **Mail** → **Junk email**.
-2. Under **Safe senders and domains**, click **+ Add** and enter each of the Evoto noreply addresses listed above individually.
-3. Click **Save**.
+1. **Settings**(톱니바퀴 아이콘) → **View all Outlook settings** → **Mail** → **Junk email** 로 이동합니다.
+2. **Safe senders and domains** 아래에서 **+ Add** 를 클릭하고, 위에 나온 Evoto noreply 주소를 하나씩 입력합니다.
+3. **저장** 을 클릭합니다.
 
 ###### Yahoo Mail
 
-1. Go to **Settings** (gear icon) → **More Settings** → **Filters**.
-2. Click **Add new filters**.
-3. Set rules to move emails from the listed Evoto senders to your Inbox (e.g., set “From” to contains evoto.ai and move to “Inbox”).
-4. Click **Save**.
+1. **Settings**(톱니바퀴 아이콘) → **More Settings** → **Filters** 로 이동합니다.
+2. **Add new filters** 를 클릭합니다.
+3. Evoto 발신자의 메일을 받은편지함으로 이동시키는 규칙을 설정합니다(예: “From”에 evoto.ai 포함, 이동 대상은 “Inbox”).
+4. **저장** 을 클릭합니다.
 
 ###### 그래도 이메일이 오지 않나요?
 
 위 방법으로도 해결되지 않으면 지원팀에 문의해 주세요.
 
-- **Email:** support@evoto.ai
+- **이메일:** support@evoto.ai
 
 ---
 
@@ -105,7 +105,7 @@ Evoto 앱이나 공식 웹사이트에서 새 Evoto 계정을 쉽게 만들 수 
 
 Evoto 계정 비밀번호를 잊어버렸다면 앱이나 웹사이트에서 바로 재설정할 수 있습니다.
 
-1. 로그인 화면에서 **'Forgot Password?'** 또는 **'Reset Password'** 링크를 클릭합니다.
+1. 로그인 화면에서 **'비밀번호를 잊으셨나요?'** 또는 **'비밀번호 재설정'** 링크를 클릭합니다.
 2. 등록된 이메일 주소 또는 전화번호를 입력합니다.
 3. 이메일 또는 휴대폰으로 전송된 안내에 따라 새 비밀번호를 설정합니다.
 
