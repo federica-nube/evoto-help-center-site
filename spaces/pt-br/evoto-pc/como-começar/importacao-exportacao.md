@@ -27,7 +27,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/2-4-300x149.jpg"
 ---
 
-Este guia aborda a importação e exportação manual de imagens dentro do Evoto. Se você busca informações sobre fluxos de trabalho automatizados usando pastas monitoradas, consulte nosso guia dedicado: [Importação & Exportação Automáticas](https://support.evoto.ai/pt-br/importacao-e-exportacao-automaticas-pasta-monitorada/).
+Este guia aborda a importação e exportação manual de imagens dentro do Evoto. Se você busca informações sobre fluxos de trabalho automatizados usando pastas monitoradas, consulte nosso guia dedicado: [Importação & Exportação Automáticas](../importação-e-exportação-automáticas/importacao-e-exportacao-automaticas-pasta-monitorada.md).
 
 ---
 
@@ -90,11 +90,11 @@ Certos ajustes do Lightroom **não** serão transferidos para o Evoto, incluindo
 
 **Captura com Câmera Vinculada**
 
-Para informações sobre importação direta de uma câmera vinculada, consulte nosso [guia de Captura com Câmera Vinculada](https://support.evoto.ai/pt-br/captura-com-camera-vinculada-modelos-de-camaras-compativeis/).
+Para informações sobre importação direta de uma câmera vinculada, consulte nosso [guia de Captura com Câmera Vinculada](../captura-vinculada/captura-com-camera-vinculada-modelos-de-camaras-compativeis.md).
 
 **Importação & Exportação Automática**
 
-Para importação automatizada via pastas monitoradas, consulte nosso [guia de Importação & Exportação Automática](https://support.evoto.ai/pt-br/importacao-e-exportacao-automaticas-pasta-monitorada/).
+Para importação automatizada via pastas monitoradas, consulte nosso [guia de Importação & Exportação Automática](../importação-e-exportação-automáticas/importacao-e-exportacao-automaticas-pasta-monitorada.md).
 
 **Importar imagens em projetos existentes**
 

@@ -31,7 +31,7 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-01-at-15.11.46-300x147.png"
 ---
 
-Esta guía cubre la importación y exportación manual de imágenes dentro de Evoto. Si busca información sobre flujos de trabajo automatizados que utilizan carpetas activas, consulte nuestra página dedicada[Guía de importación y exportación automática](https://support.evoto.ai/es/auto-import-and-export-es/).
+Esta guía cubre la importación y exportación manual de imágenes dentro de Evoto. Si busca información sobre flujos de trabajo automatizados que utilizan carpetas activas, consulte nuestra página dedicada[Guía de importación y exportación automática](../importación-y-exportación-automática/auto-import-and-export-es.md).
 
 ---
 
@@ -91,7 +91,7 @@ El espacio de trabajo de la biblioteca proporciona múltiples puntos de entrada 
 - **Captura Conectada:**
 - Para obtener información sobre cómo importar directamente desde una cámara conectada, consulte nuestra[Guía de Captura Conectada](https://support.evoto.ai/es/home/evoto-pc/#uagb-tabs__tab6).
 - **Importación y Exportación Automática:**
-- Para la importación automatizada a través de carpetas activas, consulte nuestra[Guía de Importación y Exportación Automática](https://support.evoto.ai/es/auto-import-and-export-es/).
+- Para la importación automatizada a través de carpetas activas, consulte nuestra[Guía de Importación y Exportación Automática](../importación-y-exportación-automática/auto-import-and-export-es.md).
 
 **Importar a un Proyecto Existente:**
 

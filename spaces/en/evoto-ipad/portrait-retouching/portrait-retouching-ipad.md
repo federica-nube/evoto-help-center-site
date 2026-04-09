@@ -119,16 +119,16 @@ Evoto’s intelligent optimization ensures that all retouching:
 
 #### Module Features
 
-- [Blemish Removal](https://support.evoto.ai/blemish-removal-ipad/)
-- [Skin Retouching](https://support.evoto.ai/skin-retouching-ipad/)
-- [Facial Reshape](https://support.evoto.ai/facial-reshape-ipad/)
-- [Facial Expression](https://support.evoto.ai/facial-expression-ipad/)
-- [Teeth](https://support.evoto.ai/teeth-ipad/)
-- [Eyes](https://support.evoto.ai/eyes-ipad/)
-- [Makeup](https://support.evoto.ai/makeup-ipad/)
-- [Hair](https://support.evoto.ai/hair-ipad/)
-- [Hands](https://support.evoto.ai/hands-ipad/)
-- [Full Body Reshape](https://support.evoto.ai/full-body-reshape-ipad/)
+- [Blemish Removal](blemish-removal-ipad.md)
+- [Skin Retouching](skin-retouching-ipad.md)
+- [Facial Reshape](facial-reshape-ipad.md)
+- [Facial Expression](facial-expression-ipad.md)
+- [Teeth](teeth-ipad.md)
+- [Eyes](eyes-ipad.md)
+- [Makeup](makeup-ipad.md)
+- [Hair](hair-ipad.md)
+- [Hands](hands-ipad.md)
+- [Full Body Reshape](full-body-reshape-ipad.md)
 
 *Note: Some features listed in the help articles are only available on our Desktop App.*
 

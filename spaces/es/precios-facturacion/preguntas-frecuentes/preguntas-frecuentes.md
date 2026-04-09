@@ -16,12 +16,12 @@ Para solicitar una consulta, póngase en contacto por correo electrónico a **su
 
 #### ¿Debo elegir el plan de Pago por Uso o un plan de Suscripción?
 
-##### [Plan de Pago por Uso (Pay‑as‑You‑Go)](https://support.evoto.ai/es/paquete-de-pago-por-uso/)
+##### [Plan de Pago por Uso (Pay‑as‑You‑Go)](../paquete-de-pago-por-uso/paquete-de-pago-por-uso.md)
 
 - Ideal para un uso esporádico o impredecible
 - Ofrece máxima flexibilidad sin compromiso a largo plazo
 
-##### [Plan de Suscripción Anual](https://support.evoto.ai/es/plan-de-suscripcion/)
+##### [Plan de Suscripción Anual](../plan-de-suscripción/plan-de-suscripcion.md)
 
 - Perfecto para usuarios con uso frecuente o en volumen elevado
 - Proporciona un coste por crédito más bajo, beneficios de acumulación y acceso a paquetes adicionales

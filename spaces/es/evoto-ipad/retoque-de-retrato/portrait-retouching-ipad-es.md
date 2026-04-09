@@ -108,16 +108,16 @@ La optimización inteligente de Evoto garantiza que todos los retoques:
 
 #### Funciones del Módulo
 
-- [Eliminación de Manchas](https://support.evoto.ai/es/blemish-removal-ipad-es/)
-- [Retoque de Piel](https://support.evoto.ai/es/skin-retouching-ipad-es/)
-- [Remodelación Facial](https://support.evoto.ai/es/facial-reshape-ipad-es/)
-- [Expresiones Faciales](https://support.evoto.ai/es/facial-expression-ipad-es/)
-- [Retoque Dental](https://support.evoto.ai/es/teeth-ipad-es/)
-- [Ojos](https://support.evoto.ai/es/eyes-ipad-es/)
-- [Maquillaje](https://support.evoto.ai/es/makeup-ipad-es/)
-- [Pelo](https://support.evoto.ai/es/hair-ipad-es/)
+- [Eliminación de Manchas](blemish-removal-ipad-es.md)
+- [Retoque de Piel](skin-retouching-ipad-es.md)
+- [Remodelación Facial](facial-reshape-ipad-es.md)
+- [Expresiones Faciales](facial-expression-ipad-es.md)
+- [Retoque Dental](teeth-ipad-es.md)
+- [Ojos](eyes-ipad-es.md)
+- [Maquillaje](makeup-ipad-es.md)
+- [Pelo](hair-ipad-es.md)
 - [Retoque de Manos](https://support.evoto.ai/es/retoque-de-manos/)
-- [Remodelación de Cuerpo](https://support.evoto.ai/es/full-body-reshape-ipad-es/)
+- [Remodelación de Cuerpo](full-body-reshape-ipad-es.md)
 
 > Nota: Algunas funciones mencionadas en los artículos de ayuda solo están disponibles en nuestra aplicación de escritorio.
 

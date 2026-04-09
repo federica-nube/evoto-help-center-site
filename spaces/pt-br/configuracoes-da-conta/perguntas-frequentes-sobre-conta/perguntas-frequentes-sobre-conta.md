@@ -47,7 +47,7 @@ Você pode **registrar facilmente uma nova conta Evoto** diretamente pelo aplica
 
 - Utilize um e-mail que você verifica regularmente para receber comunicações importantes da conta.
 - Em algumas regiões, pode ser necessário validar sua identidade para maior segurança durante o registro.
-- Para informações gerais sobre como começar, consulte nosso [Guia de Início](https://support.evoto.ai/pt-br/comecar-a-usar-evoto/).
+- Para informações gerais sobre como começar, consulte nosso [Guia de Início](../../evoto-pc/como-começar/comecar-a-usar-evoto.md).
 
 ---
 

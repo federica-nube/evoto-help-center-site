@@ -27,7 +27,7 @@ Evoto’s editing workspace is designed to provide a streamlined experience when
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Edit-Workspace-Overview-1024x518.png)
 
-##### [Tool Bar Section](https://support.evoto.ai/tool-bar/)
+##### [Tool Bar Section](tool-bar.md)
 
 Located at the top of the interface, the Tool Bar contains key workspace controls:
 
@@ -139,10 +139,10 @@ Evoto’s main editing capabilities are divided into five modules. Each module c
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Feature-Modules.png)
 
-- [Color Adjustments](https://support.evoto.ai/color-adjustment-feature-modules/)
-- [Portrait Retouching](https://support.evoto.ai/portrait-retouching-feature-module/)
-- [Background Adjustments](https://support.evoto.ai/background-adjustments/)
-- [Clothing & Accessories Adjustments](https://support.evoto.ai/clothing-adjustment/)
-- [Crop & Rotate](https://support.evoto.ai/crop/)
+- [Color Adjustments](../color-adjustment/color-adjustment-feature-modules.md)
+- [Portrait Retouching](../portrait-retouching/portrait-retouching-feature-module.md)
+- [Background Adjustments](../../evoto-ipad/background-adjustments/background-adjustments.md)
+- [Clothing & Accessories Adjustments](../clothes-and-accessories-adjustments/clothing-adjustment.md)
+- [Crop & Rotate](../crop-and-rotate/crop.md)
 
 For detailed instructions on using each module, refer to their respective sections in the Knowledge Base.
