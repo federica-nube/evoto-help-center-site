@@ -19,7 +19,7 @@ Esta seção fornece respostas para perguntas frequentes sobre o processo de edi
 
 ---
 
-#### Porque o tamanho da visualização da minha foto é tão pequeno?
+#### Por que o tamanho da visualização da minha foto é tão pequeno?
 
 O tamanho padrão da visualização é definido automaticamente para otimizar o desempenho. No entanto, você pode ajustá-lo para uma resolução mais alta. Essa alteração afeta apenas a forma como a imagem é exibida na tela e não impacta a qualidade final da exportação.
 
@@ -41,25 +41,25 @@ Como alterar o tamanho da visualização:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-3-1024x548.png)
 
-- **Melhor Visibilidade:**Se versões de visualização ou miniaturas da imagem ausente estiverem disponíveis, elas serão exibidas para ajudá-lo a identificar rapidamente qual imagem está faltando.
-- **Avisos Não Disruptivos:**Em vez de uma janela pop-up bloqueadora, agora aparece apenas um aviso simples na interface quando você seleciona uma imagem ausente. Isso permite escolher a ação seguinte sem interromper seu fluxo de trabalho.
-- **Reconectar Imagens Ausentes:**Você pode reconectar uma imagem ausente apontando o Evoto para o novo local do arquivo. Essa funcionalidade funciona apenas se o arquivo for a imagem original que foi importada inicialmente.
+- **Melhor visibilidade:** Se versões de visualização ou miniaturas da imagem ausente estiverem disponíveis, elas serão exibidas para ajudá-lo a identificar rapidamente qual imagem está faltando.
+- **Avisos não intrusivos:** Em vez de uma janela pop-up bloqueadora, agora aparece apenas um aviso simples na interface quando você seleciona uma imagem ausente. Isso permite escolher a ação seguinte sem interromper seu fluxo de trabalho.
+- **Reconectar imagens ausentes:** Você pode reconectar uma imagem ausente apontando o Evoto para o novo local do arquivo. Essa funcionalidade funciona apenas se o arquivo for a imagem original que foi importada inicialmente.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-4-1024x444.png)
 
 ---
 
-#### Porque o token de predefinição não está funcionando?
+#### Por que o token de predefinição não está funcionando?
 
-Quando você importa um token de predefinição compartilhado por outro usuário, o sistema pode informar que o token não existe se o proprietário original dessa predefinição tiver atualizada ou excluída a predefinição antes de você conseguir importá-la. Os tokens de predefinição estão vinculados ao estado específico da predefinição no momento em que o token foi gerado.
+Quando você importa um token de predefinição compartilhado por outro usuário, o sistema pode informar que o token não existe se o proprietário original dessa predefinição a tiver atualizado ou excluído antes de você conseguir importá-la. Os tokens de predefinição estão vinculados ao estado específico da predefinição no momento em que o token foi gerado.
 
 ---
 
-#### Porque meus efeitos de retoque não aparecem durante os Ajustes de Cor?
+#### Por que meus efeitos de retoque não aparecem durante os Ajustes de Cor?
 
 Essa é uma dúvida comum, e seus ajustes não foram perdidos — trata-se de uma configuração de visualização. Se você começar com Retoque de Retrato ou outros ajustes de detalhe e, em seguida, abrir o módulo de Ajustes de Cor, seus efeitos de retoque podem desaparecer temporariamente.
 
-- **Solução:**Basta localizar e **desativar** a opção **“Ajustes de Cor em Tempo Real”**. O painel de Ajustes de Cor agora exibirá todos os seus ajustes anteriores.
+- **Solução:** Basta localizar e **desativar** a opção **“Ajustes de Cor em Tempo Real”**. O painel de Ajustes de Cor agora exibirá todos os seus ajustes anteriores.
 
 ![](https://support.evoto.ai/wp-content/uploads/2026/01/8-209x300.jpg)
 
@@ -67,15 +67,12 @@ Essa é uma dúvida comum, e seus ajustes não foram perdidos — trata-se de um
 
 ---
 
-#### “Excluir do Disco” não apaga o arquivo do disco?
+#### “Excluir do Disco” não exclui o arquivo do disco?
 
 Isso geralmente ocorre porque o **acesso necessário não foi concedido** ao Evoto.
 
 - Abra as **Configurações do Sistema** (ou **Preferências do Sistema** no macOS Monterey ou anterior).
 - Vá para **Privacidade e Segurança**.
-- No menu lateral, verifique as permissões em:
--
-- **Arquivos e Pastas**
-- **Acesso Total ao Disco**
+- No menu lateral, verifique se o Evoto tem permissão em **Arquivos e Pastas** e **Acesso Total ao Disco**.
 
 Certifique-se de que o Evoto tenha permissão para acessar os locais dos arquivos que você deseja deletar.

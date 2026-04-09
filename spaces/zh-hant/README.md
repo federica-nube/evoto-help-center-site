@@ -15,21 +15,21 @@ translation_group: "577"
 
 ### 產品指南
 
-- [Evoto 電腦](evoto-pc/README.md)
+- [Evoto 電腦版](evoto-pc/README.md)
 - [Evoto iPad 版](evoto-ipad/README.md)
 
 ### 支援主題
 
 - [帳戶](account-setting/README.md)
 - [常見問題](faq/README.md)
-- [提示和技巧](tips-and-tricks/README.md)
-- [價格](billing-and-pricing/README.md)
+- [提示與技巧](tips-and-tricks/README.md)
+- [價格與計費](billing-and-pricing/README.md)
 
 ## 瀏覽所有章節
 
-- [Evoto 電腦](evoto-pc/README.md)
+- [Evoto 電腦版](evoto-pc/README.md)
 - [Evoto iPad 版](evoto-ipad/README.md)
 - [帳戶](account-setting/README.md)
 - [常見問題](faq/README.md)
-- [提示和技巧](tips-and-tricks/README.md)
-- [價格](billing-and-pricing/README.md)
+- [提示與技巧](tips-and-tricks/README.md)
+- [價格與計費](billing-and-pricing/README.md)

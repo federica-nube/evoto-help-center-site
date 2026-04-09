@@ -1,5 +1,5 @@
 ---
-title: "Edit FAQs"
+title: "編輯常見問題"
 source_url: "https://support.evoto.ai/editing-related/"
 source_type: "post"
 source_id: "2173"
@@ -24,62 +24,60 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/05/截屏2025-05-23-14.02.06-1-271x300.png"
 ---
 
-This section provides answers to common questions about the editing process in Evoto, including how to manage previews, troubleshoot missing files, and understand preset behavior.
+本節整理了 Evoto 編輯流程中的常見問題，包括如何管理預覽、處理遺失檔案，以及了解預設口令的運作方式。
 
 ---
 
-#### Why is the preview size of my photo so small?
+#### 為什麼我的照片預覽尺寸看起來這麼小？
 
-The default preview size is automatically set to optimize performance, but you can adjust it to a higher resolution. This change only affects how the image is displayed, not the final export quality.
+預設預覽尺寸會自動設定為兼顧效能的大小，但你可以自行調高解析度。這項變更只會影響畫面上的顯示方式，不會影響最終匯出的畫質。
 
-To change your preview size:
+若要調整預覽尺寸：
 
-1. Access the **Evoto Menu** in the upper left corner of your screen.
-2. Choose the **Preferences** option.
-3. Click the **Preview** tab in the dialog box.
-4. Adjust the **preview size** setting as needed, up to a maximum of **4000px**.
-5. Click **OK** to save your changes.
+1. 點擊畫面左上角的 **Evoto Menu**。
+2. 選擇 **Preferences**。
+3. 在對話框中切換到 **Preview** 分頁。
+4. 依需求調整 **preview size**，最高可設為 **4000px**。
+5. 點擊 **OK** 儲存變更。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/05/Screenshot-2025-08-13-at-16.53.22-300x246.png)
 
-**Note:** A larger preview size may result in slower computer performance.
+**注意：** 預覽尺寸越大，電腦效能可能越慢。
 
 ---
 
-**I accidentally moved my image. How can I find the original path?**
+#### 我不小心移動了圖片，該如何找到原始路徑？
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-3-1024x548.png)
 
-- **Improved Visibility:** If preview or thumbnail versions of a missing image are available, they will be displayed to help you quickly identify which image is missing.
-- **Non-Disruptive Prompts:** Instead of a blocking pop-up, a simple UI prompt will now appear when you select a missing image. This allows you to choose your next action without interrupting your workflow.
-- **Reconnect Missing Images:** You can reconnect a missing image by pointing Evoto to its new location. This feature only works if the file is the original image that was initially imported.
+- **顯示更多資訊：** 如果遺失圖片仍有預覽圖或縮圖，系統會顯示出來，幫助你快速辨識是哪一張圖片遺失。
+- **不打斷操作的提示：** 選取遺失圖片時，系統現在會顯示簡單的介面提示，而不是跳出阻斷式視窗，讓你可以自行決定下一步操作。
+- **重新連結遺失圖片：** 你可以將 Evoto 指向圖片的新位置以重新連結檔案，但此功能僅適用於最初匯入的原始圖片。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-4-1024x444.png)
 
 ---
 
-#### Why is the preset token not working?
+#### 為什麼預設口令無法使用？
 
-When you import a preset token that was shared by another user, the system may show that the token does not exist if the original owner of that preset has updated or deleted it before you had a chance to import it. Preset tokens are linked to the specific state of a preset when the token was generated.
+當你匯入其他使用者分享的預設口令時，如果對方在你匯入之前已更新或刪除該預設，系統可能會顯示此口令不存在。預設口令會綁定在產生當下的預設狀態。
 
 ---
 
-#### Why don't my retouching effects show during Color Adjustments?
+#### 為什麼我在色彩調整時看不到先前的人像修飾效果？
 
-This is a common question, and your edits have not been lost—this is a viewing preference setting. If you begin with **Portrait Retouching** or other detail adjustments and then move to the **Color Adjustments** module, your retouching effects may temporarily disappear.
+這是常見情況，你的編輯並沒有遺失，而是顯示偏好設定造成的。如果你先做 **人像修飾** 或其他細部調整，再切換到 **色彩調整** 模組，這些修飾效果可能會暫時隱藏。
 
-- **Solution:** Simply locate and **disable** the **“Real-Time Color Adjustments”** toggle. The Color Adjustment panel will now display all of your previous edits.
+- **解決方式：** 找到並**關閉** **「即時色彩調整」** 開關。關閉後，色彩調整面板就會再次顯示你先前的所有編輯。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/05/截屏2025-05-23-14.02.06-1-271x300.png)
 
-- **Recommendation:** While there’s no mandatory editing sequence, we recommend you conduct color adjustments first and then do the base retouching. This workflow typically prevents effect conflicts and provides a better foundation for your detailed edits.
+- **建議：** 雖然沒有強制的編輯順序，但我們建議先做色彩調整，再進行基礎修飾。這樣通常可以避免效果互相干擾，也更方便後續微調。
 
-#### Delete photo from disk doesn't delete it from disk?
+#### 為什麼「從磁碟刪除」沒有真的刪掉檔案？
 
-This is likely due to access not granted:
+這通常表示 Evoto 尚未取得必要的存取權限：
 
-- Open **System Settings** (or **System Preferences** if on macOS Monterey or earlier).
-- Go to **Privacy & Security**.
-- In the sidebar, look at:
-- **Files and Folders**
-- **Full Disk Access**
+- 開啟 **System Settings**（若你使用的是 macOS Monterey 或更早版本，請開啟 **System Preferences**）。
+- 前往 **Privacy & Security**。
+- 在側邊欄檢查 Evoto 是否已啟用 **Files and Folders** 與 **Full Disk Access** 權限。

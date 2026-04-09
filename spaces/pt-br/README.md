@@ -11,29 +11,29 @@ Encontre guias de configuração, explicações de recursos, respostas sobre pre
 
 Use a barra lateral para navegar por produto ou acesse diretamente as seções abaixo.
 
-## Comece Aqui
+## Comece aqui
 
-### Guias de Produto
+### Guias de produto
 
 - [Evoto iPad](evoto-ipad/README.md)
 - [Evoto Instantâneo](instant/README.md)
 - [Evoto PC](evoto-pc/README.md)
 - [Evoto Mobile](evoto-mobile/README.md)
 
-### Tópicos de Suporte
+### Tópicos de suporte
 
-- [PERGUNTAS FREQUENTES](perguntas-frequentes/README.md)
-- [Dicas](dicas-e-truques/README.md)
+- [Perguntas frequentes](perguntas-frequentes/README.md)
+- [Dicas e truques](dicas-e-truques/README.md)
 - [Configurações da conta](configuracoes-da-conta/README.md)
 - [Preço e faturamento](preco-e-faturamento/README.md)
 
-## Ver Todas as Seções
+## Ver todas as seções
 
 - [Evoto iPad](evoto-ipad/README.md)
 - [Evoto Instantâneo](instant/README.md)
-- [PERGUNTAS FREQUENTES](perguntas-frequentes/README.md)
+- [Perguntas frequentes](perguntas-frequentes/README.md)
 - [Evoto PC](evoto-pc/README.md)
-- [Dicas](dicas-e-truques/README.md)
+- [Dicas e truques](dicas-e-truques/README.md)
 - [Configurações da conta](configuracoes-da-conta/README.md)
 - [Evoto Mobile](evoto-mobile/README.md)
 - [Preço e faturamento](preco-e-faturamento/README.md)
