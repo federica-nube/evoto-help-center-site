@@ -41,7 +41,7 @@ Within the **Liquify** and **Healing Tool** panels, Evoto provides their own ded
 - Track and undo the last 10 editing actions within the tool.
 - Refine your edits step-by-step before finalizing.
 
-Once you click **Save** within either the Liquify or Healing Tool panel, all edits in that session are merged into a single step in the general History panel. At that point:
+當你在 Liquify 或 Healing Tool 面板中點擊 **儲存** 後，該次操作中的所有編輯都會合併成一般歷史記錄面板中的單一步驟。此時：
 
 - The detailed tool-specific history is cleared.
 - A new session will begin the next time you enter the tool, with its own separate history.

@@ -30,7 +30,7 @@ Evoto 提供多種方式讓你取得協助並提交回饋：
 
 **方式 1：App 內回饋**
 
-- 在 Evoto 中對圖片按右鍵，然後選擇 **Provide Feedback**。
+- 在 Evoto 中對圖片按右鍵，然後選擇 **提供回饋**。
 - 詳細描述你的問題或疑問，我們的支援團隊會盡快跟進。
 
 ![](https://help.evoto.ai/~gitbook/image?url=https%3A%2F%2F2970798312-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F9XghnFYmwxM9PPDFe9AG%252Fuploads%252Fa5jc2NscybewsVBPNdiP%252Fimage.png%3Falt%3Dmedia%26token%3D8d6bffbb-195e-49ee-906b-2b328c1976af&width=768&dpr=4&quality=100&sign=b12d6b57&sv=2)
