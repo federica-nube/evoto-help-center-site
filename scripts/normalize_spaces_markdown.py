@@ -211,6 +211,7 @@ def split_line_around_images(line: str) -> list[str]:
 def compact_paragraphs(lines: list[str]) -> list[str]:
     compacted: list[str] = []
     paragraph: list[str] = []
+    in_code_block = False
 
     def flush_paragraph() -> None:
         if paragraph:
@@ -219,9 +220,17 @@ def compact_paragraphs(lines: list[str]) -> list[str]:
 
     for line in lines:
         stripped = line.strip()
+        if stripped.startswith("```"):
+            flush_paragraph()
+            compacted.append(line)
+            in_code_block = not in_code_block
+            continue
+        if in_code_block:
+            compacted.append(line)
+            continue
         is_block = (
             not stripped
-            or stripped.startswith(("#", ">", "```", "|"))
+            or stripped.startswith(("#", ">", "|"))
             or stripped == "---"
             or IMAGE_RE.fullmatch(stripped) is not None
             or LIST_ITEM_RE.match(line) is not None
@@ -253,9 +262,12 @@ def normalize_body(body: str, page_title: str, source_type: str, source_path: st
             cleaned_lines.append(line)
             continue
 
-        if not in_code_block:
-            line = strip_inline_wp_markers(line)
-            stripped = line.strip()
+        if in_code_block:
+            cleaned_lines.append(line)
+            continue
+
+        line = strip_inline_wp_markers(line)
+        stripped = line.strip()
 
         if stripped == "wp:details":
             pending_details_summary = True
