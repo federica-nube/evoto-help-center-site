@@ -144,13 +144,13 @@ Chúng tôi khuyến khích nên cài đặt máy ảnh của bạn thành Khôn
 ![](https://res.evoto.ai/wordpress/da77d369-edd4-4ca4-86d7-ed0b2b8ff769.png)
 
 Mỗi thương hiệu máy ảnh sẽ có các cài đặt máy ảnh khác nhau. Vui lòng cài đặt máy ảnh tuỳ theo loại máy ảnh mà bạn đang dùng.
-- [**Thiết lập chụp ảnh kết nối - FujiFilm**](https://support.evoto.ai/vi/tethered-shooting-fuji-film-vi/)
-- [**Thiết lập chụp ảnh kết nối - Sony**](https://support.evoto.ai/vi/tethered-shooting-sony-vi/)
-- [**Thiết lập chụp ảnh kết nối - Olympus**](https://support.evoto.ai/vi/tethered-shooting-olympus-cameras-vi/)
-- [**Thiết lập chụp ảnh kết nối - Canon**](https://support.evoto.ai/vi/tethered-shooting-canon-vi/)
-- [**Thiết lập chụp ảnh kết nối - Nikon**](https://support.evoto.ai/vi/tethered-shooting-nikon-vi/)
-- [**Thiết lập chụp ảnh kết nối - Panasonic**](https://support.evoto.ai/vi/tethered-shooting-panasonic-vi/)
-- [**Thiết lập chụp ảnh kết nối - Leica**](https://support.evoto.ai/vi/tethered-shooting-leica-vi/)
+- **Thiết lập chụp ảnh kết nối - FujiFilm**
+- **Thiết lập chụp ảnh kết nối - Sony**
+- **Thiết lập chụp ảnh kết nối - Olympus**
+- **Thiết lập chụp ảnh kết nối - Canon**
+- **Thiết lập chụp ảnh kết nối - Nikon**
+- **Thiết lập chụp ảnh kết nối - Panasonic**
+- **Thiết lập chụp ảnh kết nối - Leica**
 
 #### Trường hợp bất thường và cách xử lý
 
@@ -164,7 +164,7 @@ Loại máy ảnh hiện tại không được hỗ trợ bởi Evoto. Một ứ
 
 **Cách xử lý**
 
-- Vui lòng tham khảo [**Danh sách máy ảnh được hỗ trợ chụp ảnh kết nối máy tính**](https://support.evoto.ai/vi/tethered-shooting-supported-camera-model-vi/). Nếu máy ảnh của bạn không có trong danh sách, hãy liên hệ với support@evoto.ai và chúng tôi sẽ cập nhật sớm nhất có thể.
+- Vui lòng tham khảo **Danh sách máy ảnh được hỗ trợ chụp ảnh kết nối máy tính**. Nếu máy ảnh của bạn không có trong danh sách, hãy liên hệ với support@evoto.ai và chúng tôi sẽ cập nhật sớm nhất có thể.
 - Đóng các phần mềm có khả năng gây xung đột khi truy cập với máy ảnh.
 - Nếu bạn đang gặp sự cố với máy ảnh, hãy thử:
 - Ngắt kết nối máy ảnh.

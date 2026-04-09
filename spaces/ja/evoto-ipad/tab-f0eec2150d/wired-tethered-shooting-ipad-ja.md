@@ -65,13 +65,13 @@ Evoto iPadでは、iPadに直接ケーブル接続することでテザー撮影
 
 #### 対応カメラブランドの設定ガイド
 
-- [Canon（キヤノン）](https://support.evoto.ai/ja/wired-tethered-shooting-canon-ipad-ja/)
-- [Sony（ソニー）](https://support.evoto.ai/ja/wired-tethered-shooting-sony-ipad-ja/)
-- [Nikon（ニコン）](https://support.evoto.ai/ja/wired-tethered-shooting-nikon-ipad-ja/)
-- [Fujifilm（富士フイルム）](https://support.evoto.ai/ja/wired-tethered-shooting-fujifilm-ipad-ja/)
-- [Panasonic（パナソニック）](https://support.evoto.ai/ja/wired-tethered-shooting-panasonic-ipad-ja/)
-- [Leica（ライカ）](https://support.evoto.ai/ja/wired-tethered-shooting-leica-ipad-ja/)
-- [Olympus（オリンパス）](https://support.evoto.ai/ja/wired-tethered-shooting-olympus-ipad-ja/)
+- Canon（キヤノン）
+- Sony（ソニー）
+- Nikon（ニコン）
+- Fujifilm（富士フイルム）
+- Panasonic（パナソニック）
+- Leica（ライカ）
+- Olympus（オリンパス）
 
 ※無線テザー撮影を行う場合、カメラにSDカードを挿入する必要があります。
 

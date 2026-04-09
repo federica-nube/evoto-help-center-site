@@ -95,7 +95,7 @@ You can search through projects directly within the Library’s Projects panel u
 
 Includes:
 
-- **Cloud Space:** enables seamless collaboration and cross-device access through cloud-based storage and synchronization. See more details in [Cloud Space Introduction](https://support.evoto.ai/cloud-space/).
+- **Cloud Space:** enables seamless collaboration and cross-device access through cloud-based storage and synchronization. See more details in Cloud Space Introduction.
 - **Projects**: Create, browse, and sort projects by name or last opened date.
 - **Related Folders**: View and manage the folders where your project images are stored. You can import, create subfolders, move, rename, or delete folders.
 - **Collections: allows you to group and organize photos from multiple projects without duplicating the original files.**
@@ -131,7 +131,7 @@ Displays culling tools, presets, synchronization options, and metadata:
 
 ##### Culling
 
-Culling Feature is available in the Library panel, support manual and AI-powered Culling. Check more details in [Culling & Organization](https://support.evoto.ai/ai-culling/).
+Culling Feature is available in the Library panel, support manual and AI-powered Culling. Check more details in Culling & Organization.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/20250917172715.jpg)
 

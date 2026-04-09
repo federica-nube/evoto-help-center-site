@@ -48,10 +48,10 @@ You also need to make sure that the “Network” permission is enabled before s
 
 Specific settings for different camera brands:
 
-- [Wireless Tethered Shooting – Sony](https://support.evoto.ai/wireless-tethered-shooting-with-mobile-sony/)
-- [Wireless Tethered Shooting – Canon](https://support.evoto.ai/wireless-tethered-shooting-with-mobile-canon/)
-- [Wireless Tethered Shooting – Nikon](https://support.evoto.ai/wireless-tethered-shooting-with-mobile-nikon/)
-- [Wireless Tethered Shooting – Fujifilm](https://support.evoto.ai/wireless-tethered-shooting-with-mobile-fuji-film/)
+- Wireless Tethered Shooting – Sony
+- Wireless Tethered Shooting – Canon
+- Wireless Tethered Shooting – Nikon
+- Wireless Tethered Shooting – Fujifilm
 
 #### Start Tethered Shooting
 

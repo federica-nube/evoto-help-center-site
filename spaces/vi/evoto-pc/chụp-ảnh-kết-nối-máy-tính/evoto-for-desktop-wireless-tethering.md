@@ -74,10 +74,10 @@ Trong quá trình chụp, hình ảnh có thể được hiển thị trên màn
 
 Sau khi kết nối thành công, bạn có thể nhấp vào liên kết bên dưới tương ứng với dòng máy ảnh đang sử dụng để được hướng dẫn cài đặt chi tiết và cách xử lý sự cố của từng dòng:
 
-- [Chụp kết nối không dây với Evoto – Sony](https://support.evoto.ai/vi/wireless-tethered-shooting-with-evoto-sony/)
-- [Chụp kết nối không dây với Evoto – Canon](https://support.evoto.ai/vi/wireless-tethered-shooting-with-evoto-canon/)
-- [Chụp kết nối không dây với Evoto – Nikon](https://support.evoto.ai/vi/wireless-tethered-shooting-with-evoto-nikon/)
-- [Chụp kết nối không dây với Evoto – Fujifilm](https://support.evoto.ai/vi/wireless-tethered-shooting-with-evoto-fuji-film/)
+- Chụp kết nối không dây với Evoto – Sony
+- Chụp kết nối không dây với Evoto – Canon
+- Chụp kết nối không dây với Evoto – Nikon
+- Chụp kết nối không dây với Evoto – Fujifilm
 
 #### Khắc phục sự cố kết nối
 

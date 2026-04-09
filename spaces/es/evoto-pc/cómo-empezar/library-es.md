@@ -89,7 +89,7 @@ Puede buscar proyectos directamente dentro del panel de Proyectos de la Bibliote
 
 Incluye:
 
-- **Espacio en la Nube**: permite la colaboración fluida y el acceso entre dispositivos mediante almacenamiento y sincronización basados en la nube. Consulta más detalles en [**Introducción al Espacio en la Nube**](https://support.evoto.ai/es/nube-de-evoto/).
+- **Espacio en la Nube**: permite la colaboración fluida y el acceso entre dispositivos mediante almacenamiento y sincronización basados en la nube. Consulta más detalles en **Introducción al Espacio en la Nube**.
 - **Proyectos**: Crea, explora y ordena proyectos por nombre o fecha de última apertura.
 - **Carpetas Relacionadas**: Visualiza y gestiona las carpetas donde se almacenan las imágenes de tus proyectos. Puedes importar, crear subcarpetas, mover, renombrar o eliminar carpetas.
 - **Colecciones**: te permite agrupar y organizar fotos de múltiples proyectos sin duplicar los archivos originales.
@@ -105,7 +105,7 @@ El panel izquierdo se puede redimensionar para ajustar la disposición del espac
 
 Incluye:
 
-- **Espacio en la Nube:** permite colaboración fluida y acceso entre dispositivos mediante almacenamiento y sincronización en la nube. Consulta más detalles en la [Introducción al Espacio en la Nube](https://support.evoto.ai/es/nube-de-evoto/).
+- **Espacio en la Nube:** permite colaboración fluida y acceso entre dispositivos mediante almacenamiento y sincronización en la nube. Consulta más detalles en la Introducción al Espacio en la Nube.
 - **Proyectos:** crea, explora y ordena proyectos por nombre o fecha de última apertura.
 - **Carpetas Relacionadas:** visualiza y gestiona las carpetas donde se almacenan las imágenes de tu proyecto. Puedes importar, crear subcarpetas, mover, renombrar o eliminar carpetas.
 - **Colecciones:** permite agrupar y organizar fotos de múltiples proyectos sin duplicar los archivos originales.

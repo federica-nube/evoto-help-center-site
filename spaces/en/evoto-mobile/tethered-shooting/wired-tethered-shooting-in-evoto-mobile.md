@@ -59,13 +59,13 @@ Open the built-in **Photos** app on your iPhone. If the connected camera device 
 
 Specific settings for different camera brands:
 
-- [Canon Cameras](https://support.evoto.ai/canon-wired-tethering-mobile/)
-- [Sony Cameras](https://support.evoto.ai/sony-wired-tethering-mobile/)
-- [Nikon Cameras](https://support.evoto.ai/nikon-wired-tethered-shooting-mobile/)
-- [Fujifilm Cameras](https://support.evoto.ai/fujifilm-wired-tethered-shooting-mobile/)
-- [Panasonic Cameras](https://support.evoto.ai/panasonic-wired-tethered-shooting-mobile/)
-- [Leica Cameras](https://support.evoto.ai/leica-wired-tethered-shooting-mobile/)
-- [Olympus Cameras](https://support.evoto.ai/olympus-wired-tethered-shooting-mobile/)
+- Canon Cameras
+- Sony Cameras
+- Nikon Cameras
+- Fujifilm Cameras
+- Panasonic Cameras
+- Leica Cameras
+- Olympus Cameras
 
 #### Start Tethered Shooting
 

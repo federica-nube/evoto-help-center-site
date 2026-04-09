@@ -82,7 +82,7 @@ Esta seção inclui:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/zuo-300x264.jpg)
 
-- **Espaço na Nuvem:** Permite colaboração contínua e acesso entre dispositivos por meio de armazenamento e sincronização baseados na nuvem. Consulte mais detalhes em Introdução ao [Espaço na Nuvem](https://support.evoto.ai/pt-br/espaco-na-nuvem/).
+- **Espaço na Nuvem:** Permite colaboração contínua e acesso entre dispositivos por meio de armazenamento e sincronização baseados na nuvem. Consulte mais detalhes em Introdução ao Espaço na Nuvem.
 - **Projetos:** Crie, navegue e organize seus projetos por nome ou hora da última abertura.
 - **Pastas Relacionadas:** Visualize e gerencie as pastas onde as imagens do projeto estão armazenadas.É possível importar, criar subpastas, mover, renomear ou excluir pastas.
 - **Coleções:** Permite agrupar e organizar fotos de vários projetos sem duplicar os arquivos originais.
@@ -122,7 +122,7 @@ Exibe ferramentas de seleção, predefinições, opções de sincronização e m
 
 O recurso de Seleção está disponível no painel Biblioteca, oferecendo suporte a seleção manual e seleção assistida por IA.
 
-Consulte mais detalhes em [Seleção e Organização](https://support.evoto.ai/pt-br/selecao-e-organizacao/).
+Consulte mais detalhes em Seleção e Organização.
 
 ##### Predefinições e Sincronização
 

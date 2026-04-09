@@ -93,7 +93,7 @@ For full details, refer to the AI Color Match Introduction
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/%E6%88%AA%E5%B1%8F2025-05-27-17.45.43-300x206.png)
 
-For a detailed breakdown of how to use each type of mask, please refer to the [**Masking** feature](https://support.evoto.ai/feature-introduction-masking/) introduction. **配置文件** 當您匯入包含基於 LUT 的顏色參考資訊的預設時，Evoto 將自動建立一個**配置文件** 以反映嵌入的 LUT。此配置文件定義了所使用的顏色濾鏡類型以及它如何改變影像中的顏色。 預設情況下，除非套用自訂 LUT 設定文件，否則將使用**標準配置文件**。 LUT 可以增強或完全改變照片的色調和氛圍。 **黑白模式**
+For a detailed breakdown of how to use each type of mask, please refer to the **Masking** feature introduction. **配置文件** 當您匯入包含基於 LUT 的顏色參考資訊的預設時，Evoto 將自動建立一個**配置文件** 以反映嵌入的 LUT。此配置文件定義了所使用的顏色濾鏡類型以及它如何改變影像中的顏色。 預設情況下，除非套用自訂 LUT 設定文件，否則將使用**標準配置文件**。 LUT 可以增強或完全改變照片的色調和氛圍。 **黑白模式**
 
 Evoto 透過 配置文件 設定支援黑白 (B&W) 影像處理。 啟用：
 - 前往**顏色調整 → 設定文件**

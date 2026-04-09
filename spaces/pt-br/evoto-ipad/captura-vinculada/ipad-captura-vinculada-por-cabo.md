@@ -118,13 +118,13 @@ Escolha entre 5 métodos flexíveis para nomear os arquivos originais capturados
 
 Para melhor compatibilidade, algumas marcas podem exigir configurações adicionais. Consulte os guias específicos por marca:
 
-- [Canon](https://support.evoto.ai/pt-br/captura-vinculada-por-cabo-canon-ipad/)
-- [Sony](https://support.evoto.ai/pt-br/captura-vinculada-por-cabo-sony-ipad/)
-- [Nikon](https://support.evoto.ai/pt-br/captura-vinculada-por-cabo-nikon-ipad/)
-- [Fujifilm](https://support.evoto.ai/pt-br/captura-vinculada-por-cabo-leica-ipad/)
-- [Panasonic](https://support.evoto.ai/pt-br/captura-vinculada-por-cabo-panasonic-ipad/)
-- [Leica](https://support.evoto.ai/pt-br/captura-vinculada-por-cabo-leica-ipad-2/)
-- [Olympus](https://support.evoto.ai/pt-br/captura-vinculada-por-cabo-olympus-ipad/)
+- Canon
+- Sony
+- Nikon
+- Fujifilm
+- Panasonic
+- Leica
+- Olympus
 
 ---
 

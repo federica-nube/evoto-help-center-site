@@ -135,11 +135,11 @@ On Your Camera: It is highly recommended to set your camera to Stay On / Do Not 
 
 - If your camera automatically powers off or goes into sleep mode, Evoto will lose the tethered connection. You may need to re-establish the connection or reconnect the USB cable if this happens.
 
-Camera-specific settings and requirements may vary. Always refer to the appropriate camera setup guide for detailed instructions: [Tether Shooting Setup - FujiFilm](https://support.evoto.ai/tethered-shooting-fuji-film/)
+Camera-specific settings and requirements may vary. Always refer to the appropriate camera setup guide for detailed instructions: Tether Shooting Setup - FujiFilm
 
-[Tether Shooting Setup - Sony](https://support.evoto.ai/tether-shooting-sony/)
+Tether Shooting Setup - Sony
 
-[Tethered Shooting Setup - Olympus Corporation](https://support.evoto.ai/tethered-shooting-olympus-cameras/)
+Tethered Shooting Setup - Olympus Corporation
 
 Tethered Shooting Setup - Canon Tethered Shooting Setup - Nikon Tethered Shooting Setup - Panasonic Tethered Shooting Setup - Leica
 ---
@@ -157,7 +157,7 @@ If you experience issues or "Connection Failed" messages during tethered shootin
 
 ###### Recommended Solutions:
 
-- Check the[Tethered Shooting Supported Camera Models list](https://support.evoto.ai/tether-shooting-supported-camera-model/) or contact support@evoto.ai to verify compatibility.
+- Check theTethered Shooting Supported Camera Models list or contact support@evoto.ai to verify compatibility.
 - Close any conflicting software that might be occupying camera access.
 - If experiencing a camera issue, try:
 - Disconnecting the camera.

@@ -25,7 +25,7 @@ source_assets:
   - "https://help.evoto.ai/~gitbook/image?url=https%3A%2F%2F2970798312-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F9XghnFYmwxM9PPDFe9AG%252Fuploads%252FilPm1uscvNYRUpRwuVPX%252Fimage.png%3Falt%3Dmedia%26token%3D5b208d25-d7ce-4a57-972f-bb56942fa666&width=768&dpr=4&quality=100&sign=e713702e&sv=2"
 ---
 
-本指南涵蓋如何在 Evoto 中手動匯入和匯出影像。如果您正在尋找使用熱資料夾的自動化工作流程信息，請參閱我們的 [自動導入和導出指南](https://support.evoto.ai/auto-import-export/)。
+本指南涵蓋如何在 Evoto 中手動匯入和匯出影像。如果您正在尋找使用熱資料夾的自動化工作流程信息，請參閱我們的 自動導入和導出指南。
 
 #### 匯入
 
@@ -292,4 +292,4 @@ Evoto 提供上傳自訂浮水印並調整其的選項：
 
 ##### 匯出錯誤程式碼
 
-有關匯出過程中錯誤消息的更多資訊，請參閱我們的[匯出錯誤代碼](https://support.evoto.ai/error-codes-in-exporting-images/)清單
+有關匯出過程中錯誤消息的更多資訊，請參閱我們的匯出錯誤代碼清單

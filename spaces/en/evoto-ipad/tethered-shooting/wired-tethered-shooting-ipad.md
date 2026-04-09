@@ -93,13 +93,13 @@ Choose from five flexible ways to name your original captured files:
 
 For optimal compatibility, some camera brands may require setup adjustments. Refer to brand-specific guides:
 
-- [Canon Cameras](https://support.evoto.ai/wired-tethered-shooting-with-ipad-canon/)
-- [Sony Cameras](https://support.evoto.ai/wired-tethered-shooting-with-ipad-sony/)
-- [Nikon Cameras](https://support.evoto.ai/wired-tethered-shooting-with-ipad-nikon/)
-- [Fujifilm Cameras](https://support.evoto.ai/wired-tethered-shooting-with-ipad-fuji-film/)
-- [Panasonic Cameras](https://support.evoto.ai/wired-tethered-shooting-with-ipad-panasonic/)
-- [Leica Cameras](https://support.evoto.ai/wired-tethered-shooting-with-ipad-leica/)
-- [Olympus Cameras](https://support.evoto.ai/wired-tethered-shooting-with-ipad-om-system/)
+- Canon Cameras
+- Sony Cameras
+- Nikon Cameras
+- Fujifilm Cameras
+- Panasonic Cameras
+- Leica Cameras
+- Olympus Cameras
 
 ---
 

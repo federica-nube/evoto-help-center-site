@@ -53,7 +53,7 @@ Biểu đồ histogram được hiển thị ở phía trên cùng của trang x
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/iPad-AI-Color-Looks-1.png)
 
-Khi áp dụng Mẫu phong cách AI lần đầu tiên, một trang tải sẽ xuất hiện trong khi hiệu ứng đang được xử lý. Sau khi áp dụng, menu các mẫu phong cách AI sẽ vẫn mở để bạn dễ dàng so sánh và chuyển đổi nhanh chóng giữa các mẫu phong cách AI khác nhau. Menu này chỉ đóng lại khi bạn nhấp vào khu vực bên ngoài menu. Xem thêm chi tiết về tính năng của Mẫu phong cách AI [tại đây](https://support.evoto.ai/vi/feature-introduction-ai-color-looks-ipad-vi/). AI phối màu
+Khi áp dụng Mẫu phong cách AI lần đầu tiên, một trang tải sẽ xuất hiện trong khi hiệu ứng đang được xử lý. Sau khi áp dụng, menu các mẫu phong cách AI sẽ vẫn mở để bạn dễ dàng so sánh và chuyển đổi nhanh chóng giữa các mẫu phong cách AI khác nhau. Menu này chỉ đóng lại khi bạn nhấp vào khu vực bên ngoài menu. Xem thêm chi tiết về tính năng của Mẫu phong cách AI tại đây. AI phối màu
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-16.55.27-768x749-1.png)
 
@@ -69,7 +69,7 @@ Tuỳ chỉnh các ảnh tham chiếu Sau khi áp dụng bất kỳ mẫu ảnh 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/iPad-Masking-1.png)
 
-Mặt nạ màu đỏ sẽ biến mất khi bạn bắt đầu thực hiện điều chỉnh. Biểu tượng hình con mắt bên cạnh tab mặt nạ: Tắt biểu tượng: Ẩn hiệu ứng Điều chỉnh bất kỳ thanh trượt: Kích hoạt lại hiệu ứng **Các điều chỉnh màu sắc cục bộ bao gồm:** Cơ bản Đườn cong (ngoại trừ đường cong tham số) HSL Phân loại màu sắc Xem thêm chi tiết về tính năng của Màu bộ phận [tại đây](https://support.evoto.ai/vi/feature-introduction-masking-ipad-vi/). Chỉnh màu thời gian thực Tính năng mạnh mẽ này cho phép bạn tập trung vào việc điều chỉnh màu sắc trong khi tạm thời ẩn các hiệu ứng không liên quan đến màu sắc khác, giúp đẩy nhanh quá trình điều chỉnh màu sắc. Chế độ chỉnh màu thời gian thực mặc định được bật sẵn. Bạn có thể tắt tính năng này bất kỳ lúc nào để kiểm tra các thay đổi hậu kỳ khác mà bạn đã thực hiện, chẳng hạn như **Chỉnh sửa chân dung** hoặc **Cắt ảnh**. Khi lần đầu sử dụng, bạn có thể nhấp vào "Không hiển thị lại thông báo này" để ẩn thông báo cho lần sau.
+Mặt nạ màu đỏ sẽ biến mất khi bạn bắt đầu thực hiện điều chỉnh. Biểu tượng hình con mắt bên cạnh tab mặt nạ: Tắt biểu tượng: Ẩn hiệu ứng Điều chỉnh bất kỳ thanh trượt: Kích hoạt lại hiệu ứng **Các điều chỉnh màu sắc cục bộ bao gồm:** Cơ bản Đườn cong (ngoại trừ đường cong tham số) HSL Phân loại màu sắc Xem thêm chi tiết về tính năng của Màu bộ phận tại đây. Chỉnh màu thời gian thực Tính năng mạnh mẽ này cho phép bạn tập trung vào việc điều chỉnh màu sắc trong khi tạm thời ẩn các hiệu ứng không liên quan đến màu sắc khác, giúp đẩy nhanh quá trình điều chỉnh màu sắc. Chế độ chỉnh màu thời gian thực mặc định được bật sẵn. Bạn có thể tắt tính năng này bất kỳ lúc nào để kiểm tra các thay đổi hậu kỳ khác mà bạn đã thực hiện, chẳng hạn như **Chỉnh sửa chân dung** hoặc **Cắt ảnh**. Khi lần đầu sử dụng, bạn có thể nhấp vào "Không hiển thị lại thông báo này" để ẩn thông báo cho lần sau.
 
 ![](https://res.evoto.ai/wordpress/168e245d-06cd-4f86-bf23-a480159d4ac1.png)
 

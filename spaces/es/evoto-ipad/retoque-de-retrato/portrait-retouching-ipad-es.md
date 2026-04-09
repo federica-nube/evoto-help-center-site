@@ -116,7 +116,7 @@ La optimización inteligente de Evoto garantiza que todos los retoques:
 - [Ojos](eyes-ipad-es.md)
 - [Maquillaje](makeup-ipad-es.md)
 - [Pelo](hair-ipad-es.md)
-- [Retoque de Manos](https://support.evoto.ai/es/retoque-de-manos/)
+- Retoque de Manos
 - [Remodelación de Cuerpo](full-body-reshape-ipad-es.md)
 
 > Nota: Algunas funciones mencionadas en los artículos de ayuda solo están disponibles en nuestra aplicación de escritorio.

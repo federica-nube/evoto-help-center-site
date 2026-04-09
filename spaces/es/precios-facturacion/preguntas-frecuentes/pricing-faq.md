@@ -24,7 +24,7 @@ Sí. Evoto ofrece **planes empresariales** personalizados para equipos grandes, 
 
 ##### ¿Debo elegir un plan de pago por uso o un plan de suscripción?
 
-La elección del plan adecuado depende de tu volumen de edición y de la frecuencia con la que utilizas Evoto. Consulta nuestra [página de precios](https://support.evoto.ai/credit/) para obtener más información.
+La elección del plan adecuado depende de tu volumen de edición y de la frecuencia con la que utilizas Evoto. Consulta nuestra página de precios para obtener más información.
 
 - **Plan de pago por uso:**
 - **Ideal para:** un uso ocasional o imprevisible.

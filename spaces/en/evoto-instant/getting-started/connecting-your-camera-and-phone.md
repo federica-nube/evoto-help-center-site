@@ -64,13 +64,13 @@ you’ll see a camera connected icon in Evoto Instant Workspace; and your photos
 
 Specific settings for different camera brands:
 
-- [Canon Cameras](https://support.evoto.ai/canon-wired-tethering-mobile/)
-- [Sony Cameras](https://support.evoto.ai/sony-wired-tethering-mobile/)
-- [Nikon Cameras](https://support.evoto.ai/nikon-wired-tethered-shooting-mobile/)
-- [Fujifilm Cameras](https://support.evoto.ai/fujifilm-wired-tethered-shooting-mobile/)
-- [Panasonic Cameras](https://support.evoto.ai/panasonic-wired-tethered-shooting-mobile/)
-- [Leica Cameras](https://support.evoto.ai/leica-wired-tethered-shooting-mobile/)
-- [Olympus Cameras](https://support.evoto.ai/olympus-wired-tethered-shooting-mobile/)
+- Canon Cameras
+- Sony Cameras
+- Nikon Cameras
+- Fujifilm Cameras
+- Panasonic Cameras
+- Leica Cameras
+- Olympus Cameras
 
 ---
 
@@ -94,11 +94,11 @@ FTP mode allows real-time wireless transfer of photos from your camera to Evoto 
 
 ##### Step 2: Configure the Camera
 
-[FTP Connection with Nikon Cameras](https://support.evoto.ai/ftp-connection-with-nikon-cameras/)
+FTP Connection with Nikon Cameras
 
-[FTP Connection with Sony A7IV](https://support.evoto.ai/ftp-connection-with-sony-a7iiii-instant/)
+FTP Connection with Sony A7IV
 
-[FTP Connection with Canon Cameras](https://support.evoto.ai/ftp-connections-with-canon-cameras/)
+FTP Connection with Canon Cameras
 
 ---
 

@@ -52,7 +52,7 @@ Após a conexão ser estabelecida, um ícone de câmera conectada será exibido 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/09/Screenshot-2025-09-11-at-17.00.24-147x300.png)
 
-***Observação: Certifique-se de que o celular e a câmera estejam conectados à mesma rede Wi-Fi ou hotspot.*** ***Se você mudar de rede, o endereço do servidor e a porta também serão alterados, sendo necessário inserir os novos valores na câmera.*** **Passo 2: Configurar a Câmera** [FTP Connection with Nikon Cameras](/?p=17342) [FTP Connection with Sony A7IV](https://support.evoto.ai/ftp-connection-with-sony-a7iiii-instant/) [FTP Connection with Canon Cameras](https://support.evoto.ai/ftp-connections-with-canon-cameras/)
+***Observação: Certifique-se de que o celular e a câmera estejam conectados à mesma rede Wi-Fi ou hotspot.*** ***Se você mudar de rede, o endereço do servidor e a porta também serão alterados, sendo necessário inserir os novos valores na câmera.*** **Passo 2: Configurar a Câmera** [FTP Connection with Nikon Cameras](/?p=17342) FTP Connection with Sony A7IV FTP Connection with Canon Cameras
 
 #### Confirmação
 

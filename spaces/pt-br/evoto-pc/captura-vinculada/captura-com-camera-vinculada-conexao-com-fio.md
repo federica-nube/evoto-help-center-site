@@ -200,19 +200,19 @@ Recomenda-se configurar a câmera para permanecer ligada / não desligar automat
 
 > Observação: Configurações e requisitos específicos podem variar da câmera. Sempre consulte o guia de configuração da câmera para instruções detalhadas.
 
-[Captura Vinculada - Fujifilm](https://support.evoto.ai/pt-br/captura-vinculada-fujifilm/)
+Captura Vinculada - Fujifilm
 
-[Captura Vinculada - Sony](https://support.evoto.ai/pt-br/captura-vinculada-sony/)
+Captura Vinculada - Sony
 
-[Captura Vinculada - Olympus](https://support.evoto.ai/pt-br/captura-vinculada-olympus/)
+Captura Vinculada - Olympus
 
-[Captura Vinculada - Canon](https://support.evoto.ai/pt-br/captura-vinculada-canon/)
+Captura Vinculada - Canon
 
-[Captura Vinculada - Nikon](https://support.evoto.ai/pt-br/captura-vinculada-nikon/)
+Captura Vinculada - Nikon
 
-[Captura Vinculada - Panasonic](https://support.evoto.ai/pt-br/captura-vinculada-panasonic/)
+Captura Vinculada - Panasonic
 
-[Captura Vinculada - Leica](https://support.evoto.ai/pt-br/captura-vinculada-leica/)
+Captura Vinculada - Leica
 
 ---
 

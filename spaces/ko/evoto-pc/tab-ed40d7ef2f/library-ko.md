@@ -59,7 +59,7 @@ source_assets:
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/스크린샷-2025-11-10-19.10.47.png)
 
-AI 선별 기능은 라이브러리 작업공간의 '선별' 탭에서 사용할 수 있으며, 수동 및 AI 기반의 선별 기능을 모두 지원합니다. 자세한 내용은 [[AI 선별](https://support.evoto.ai/ko/ai-%ec%84%a0%eb%b3%84-%eb%b0%8f-%ec%9d%b4%eb%af%b8%ec%a7%80-%ec%a0%95%eb%a6%ac/)]에서 확인하세요. **빠른 보정 섹션 (오른쪽) - 프리셋**
+AI 선별 기능은 라이브러리 작업공간의 '선별' 탭에서 사용할 수 있으며, 수동 및 AI 기반의 선별 기능을 모두 지원합니다. 자세한 내용은 [AI 선별]에서 확인하세요. **빠른 보정 섹션 (오른쪽) - 프리셋**
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/스크린샷-2025-11-10-19.13.40.png)
 

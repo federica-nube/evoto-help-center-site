@@ -18,7 +18,7 @@ Before connecting your camera to Evoto Instant, make sure your hardware setup is
 
 - **A digital camera**
 - Supported brands include Canon, Nikon, Sony, Fujifilm, Panasonic etc.
-- For a detailed list of supported camera models, see the [Supported Camera Models](https://support.evoto.ai/supported-camera-models/) guide.
+- For a detailed list of supported camera models, see the Supported Camera Models guide.
 - **A smartphone with OTG support**
 - iOS: version 14.2 or later
 - Android: version 9 or later
@@ -51,7 +51,7 @@ Different cameras require different cable types. Match your camera’s USB port 
 - **Type-C to Micro-B (2.0)** – compact models like Sony A6000, ZV-1
 - **Lightning + OTG Adapter** – required for iPhone 14 and earlier
 
-**Note:** For a detailed list of supported models, see the [Camera Cable Compatibility](https://support.evoto.ai/camera-cable-compatibility/) guide.
+**Note:** For a detailed list of supported models, see the Camera Cable Compatibility guide.
 
 ---
 

@@ -82,7 +82,7 @@ Phím tắt bàn phím:
 
 Bạn sẽ thấy: Không gian đám mây, tất cả dự án, các thư mục liên quan, bộ sưu tập và thùng rác.
 
-- **Không gian đám mây**: Cho phép cộng tác liền mạch và truy cập trên nhiều thiết bị thông qua lưu trữ và đồng bộ hóa trên nền tảng đám mây. Tìm hiểu thêm trong phần [Giới thiệu không gian lưu trữ đám mây](https://support.evoto.ai/vi/cloud-space/).
+- **Không gian đám mây**: Cho phép cộng tác liền mạch và truy cập trên nhiều thiết bị thông qua lưu trữ và đồng bộ hóa trên nền tảng đám mây. Tìm hiểu thêm trong phần Giới thiệu không gian lưu trữ đám mây.
 - **Dự án**: Chức năng giống như phần quản lý dự án ở phiên bản cũ. Bạn có thể tạo dự án mới, duyệt các dự án hiện có hoặc sắp xếp chúng theo tên hoặc theo ngày mở gần nhất (tăng dần/giảm dần).
 - **Thư mục liên quan**: Hiển thị đường dẫn lưu trữ của các hình ảnh trong dự án đã chọn. Bạn cũng có thể nhập các thư mục mới hoặc tạo thư mục con tại đây.
 - **Bộ sưu tập:** Cho phép bạn nhóm và sắp xếp ảnh từ nhiều dự án mà không cần sao chép tệp gốc.
@@ -114,7 +114,7 @@ Hiển thị các công cụ lọc ảnh, cài sẵn, tùy chọn đồng bộ v
 
 ###### Lọc ảnh
 
-Tính năng lọc ảnh có trong Thư viện, hỗ trợ cả lọc thủ công và lọc ảnh bằng AI. Tìm hiểu thêm tính năng này trong phần[**Lọc & quản lý ảnh**](https://support.evoto.ai/vi/ai-culling/).
+Tính năng lọc ảnh có trong Thư viện, hỗ trợ cả lọc thủ công và lọc ảnh bằng AI. Tìm hiểu thêm tính năng này trong phần**Lọc & quản lý ảnh**.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/screenshot-20250919-144734.png)
 

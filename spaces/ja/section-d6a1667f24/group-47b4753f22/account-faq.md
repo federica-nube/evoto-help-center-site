@@ -49,7 +49,7 @@ You can easily register for a new Evoto account directly through the Evoto app o
 
 - Use an email address that you regularly monitor for important account communications.
 - In some regions, identity validation may be required for enhanced account security during registration.
-- For more general information on getting started, refer to our[Start Guide](https://support.evoto.ai/getting-started/).
+- For more general information on getting started, refer to ourStart Guide.
 
 ---
 
