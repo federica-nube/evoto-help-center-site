@@ -5,6 +5,6 @@ source_type: "generated_group"
 source_id: "account-setting/group-94505ada5d/README.md"
 ---
 
-## In This Section
+## 本章內容
 
-- [Account FAQs](account-setting/group-94505ada5d/account-faq.md)
+- [帳戶常見問題](account-setting/group-94505ada5d/account-faq.md)

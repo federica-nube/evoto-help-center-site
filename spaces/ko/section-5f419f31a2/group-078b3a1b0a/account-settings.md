@@ -24,9 +24,9 @@ Evoto 데스크톱/iPad 앱과 공식 웹사이트에서 모두 계정 설정에
 
 **Evoto 앱에서**
 
-1. Log in to the app.
-2. Click your **avatar** (usually the initial of your name) in the top-right corner.
-3. Select **Account Settings** from the dropdown menu.
+1. 앱에 로그인합니다.
+2. 오른쪽 상단의 **아바타**(보통 이름 이니셜)를 클릭합니다.
+3. 드롭다운 메뉴에서 **Account Settings** 를 선택합니다.
 
 **수정 가능한 정보**
 
@@ -37,9 +37,9 @@ Evoto 데스크톱/iPad 앱과 공식 웹사이트에서 모두 계정 설정에
 
 **Evoto 공식 웹사이트에서**
 
-1. Visit[evoto.ai](https://evoto.ai/) and log in.
-2. Click your **avatar** (usually the initial of your name) in the top-right corner.
-3. Select **My Account** from the dropdown menu.
+1. [evoto.ai](https://evoto.ai/)에 접속해 로그인합니다.
+2. 오른쪽 상단의 **아바타**(보통 이름 이니셜)를 클릭합니다.
+3. 드롭다운 메뉴에서 **My Account** 를 선택합니다.
 
 **수정 가능한 정보**
 
@@ -56,17 +56,17 @@ Evoto 데스크톱/iPad 앱과 공식 웹사이트에서 모두 계정 설정에
 
 ###### Evoto 앱에서
 
-1. Log in and go to **Account Settings**.
-2. Under the **Basic Information** section, click **Change Password**.
-3. A verification code will be sent to your registered email or phone.
-4. Enter the code, then set and confirm your new password.
+1. 로그인한 뒤 **Account Settings** 로 이동합니다.
+2. **Basic Information** 섹션에서 **Change Password** 를 클릭합니다.
+3. 등록된 이메일 또는 전화번호로 인증 코드가 전송됩니다.
+4. 코드를 입력한 뒤 새 비밀번호를 설정하고 확인합니다.
 
 ###### Evoto 웹사이트에서
 
-1. Go to **My Account**, then open the **Security Center**.
-2. Enter your current password.
-3. Create a new password using a mix of letters, numbers, and symbols.
-4. **Save** your changes.
+1. **My Account** 로 이동한 뒤 **Security Center** 를 엽니다.
+2. 현재 비밀번호를 입력합니다.
+3. 문자, 숫자, 기호를 조합해 새 비밀번호를 만듭니다.
+4. **Save** 를 눌러 변경 사항을 저장합니다.
 
 ---
 
@@ -74,11 +74,11 @@ Evoto 데스크톱/iPad 앱과 공식 웹사이트에서 모두 계정 설정에
 
 공식 웹사이트를 통해 Evoto 계정에 연결된 이메일 주소를 변경할 수 있습니다.
 
-1. Log in to the Evoto website.
-2. Click your **avatar** and select **My Account**, then go to the **Security Center**.
-3. Click **Change Email**.
-4. Enter the verification code sent to your current email or phone number.
-5. Input your new email address.
+1. Evoto 웹사이트에 로그인합니다.
+2. **아바타**를 클릭한 뒤 **My Account** 를 선택하고, **Security Center** 로 이동합니다.
+3. **Change Email** 을 클릭합니다.
+4. 현재 이메일 또는 전화번호로 전송된 인증 코드를 입력합니다.
+5. 새 이메일 주소를 입력합니다.
 
 **참고:** 새 이메일 주소는 다른 Evoto 계정에 이미 등록되어 있으면 안 됩니다. 이미 등록되어 있다면 먼저 해당 계정을 삭제해야 합니다.
 

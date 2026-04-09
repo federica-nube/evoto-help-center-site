@@ -181,10 +181,10 @@ Os principais recursos de edição do Evoto estão divididos em cinco módulos. 
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/22-165x300.jpg)
 
-- [Ajustes de cor](../ajustes-de-cor/recurso-ajustes-de-cor.md)
-- [Retoque de retratos](../retoque-de-retrato/reconhecimento-facial-por-ia.md)
-- [Ajustes de fundo](../ajustes-de-fundo/recurso-ajustes-de-fundo-ajustes-de-fundo.md)
-- [Ajustes de roupas e acessórios](../ajustes-de-roupas-e-acessórios/ajustes-de-roupas-e-acessorios.md)
-- [Corte e rotação](../corte-and-rotação/corte.md)
+- Ajustes de cor
+- Retoque de retratos
+- Ajustes de fundo
+- Ajustes de roupas e acessórios
+- Corte e rotação
 
 Para obter instruções detalhadas sobre como usar cada módulo, consulte as respectivas seções na Base de conhecimento.

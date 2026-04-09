@@ -5,6 +5,6 @@ source_type: "generated_group"
 source_id: "account-setting/group-afd3542902/README.md"
 ---
 
-## In This Section
+## 本章內容
 
-- [Account Troubleshooting](account-setting/group-afd3542902/account-troubleshooting-support.md)
+- [帳戶疑難排解與支援](account-setting/group-afd3542902/account-troubleshooting-support.md)

@@ -1,5 +1,5 @@
 ---
-title: "How to use the Makeup Feature in Evoto"
+title: "如何使用 Evoto 的化妝功能"
 source_url: "https://support.evoto.ai/enhance-your-portraits-with-evotos-advanced-makeup-feature/"
 source_type: "post"
 source_id: "1729"

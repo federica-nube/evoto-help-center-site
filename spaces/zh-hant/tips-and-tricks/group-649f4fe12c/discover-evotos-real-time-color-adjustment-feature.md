@@ -1,5 +1,5 @@
 ---
-title: "How to use Real-Time Color Adjustments"
+title: "如何使用即時色彩調整"
 source_url: "https://support.evoto.ai/discover-evotos-real-time-color-adjustment-feature/"
 source_type: "post"
 source_id: "1717"

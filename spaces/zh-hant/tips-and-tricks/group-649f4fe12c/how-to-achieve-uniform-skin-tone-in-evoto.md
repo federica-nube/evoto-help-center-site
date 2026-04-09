@@ -1,5 +1,5 @@
 ---
-title: "How to Achieve Uniform Skin Tone and Radiance in Evoto"
+title: "如何在 Evoto 中打造均勻透亮的膚色"
 source_url: "https://support.evoto.ai/how-to-achieve-uniform-skin-tone-in-evoto/"
 source_type: "post"
 source_id: "1666"

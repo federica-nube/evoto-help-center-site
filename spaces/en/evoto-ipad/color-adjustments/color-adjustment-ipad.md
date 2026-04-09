@@ -69,7 +69,7 @@ By analyzing the histogram, you can determine whether your image contains suffic
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/iPad-AI-Color-Looks.png)
 
-The first time you apply an AI Color Look, a loading screen will appear. Once applied, the dropdown menu stays open for fast comparison and switching. The menu closes only when you tap outside it. *See the full introduction for*[*AI Color Looks*](../../evoto-desktop/color-adjustment/feature-introduction-ai-color-looks.md)*in the main feature guide.* **AI Color Match
+The first time you apply an AI Color Look, a loading screen will appear. Once applied, the dropdown menu stays open for fast comparison and switching. The menu closes only when you tap outside it. *See the full introduction for**AI Color Looks**in the main feature guide.* **AI Color Match
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-07-10-at-16.55.27-300x293.png)
 

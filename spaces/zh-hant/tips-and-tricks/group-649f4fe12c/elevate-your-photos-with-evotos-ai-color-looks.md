@@ -1,5 +1,5 @@
 ---
-title: "How To Elevate Your Photos with Evoto's AI Color Looks"
+title: "如何用 Evoto 的 AI 色彩風格提升照片效果"
 source_url: "https://support.evoto.ai/elevate-your-photos-with-evotos-ai-color-looks/"
 source_type: "post"
 source_id: "1755"

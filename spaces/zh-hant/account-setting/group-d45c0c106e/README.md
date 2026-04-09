@@ -5,6 +5,6 @@ source_type: "generated_group"
 source_id: "account-setting/group-d45c0c106e/README.md"
 ---
 
-## In This Section
+## 本章內容
 
-- [Account Management: Profiles, Roles & Deletion](account-setting/group-d45c0c106e/advanced-account-management.md)
+- [帳戶管理：個人檔案、角色與刪除](account-setting/group-d45c0c106e/advanced-account-management.md)

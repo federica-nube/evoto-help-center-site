@@ -139,10 +139,10 @@ Evoto’s main editing capabilities are divided into five modules. Each module c
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Feature-Modules.png)
 
-- [Color Adjustments](../color-adjustment/color-adjustment-feature-modules.md)
-- [Portrait Retouching](../portrait-retouching/portrait-retouching-feature-module.md)
-- [Background Adjustments](../../evoto-ipad/background-adjustments/background-adjustments.md)
-- [Clothing & Accessories Adjustments](../clothes-and-accessories-adjustments/clothing-adjustment.md)
-- [Crop & Rotate](../crop-and-rotate/crop.md)
+- Color Adjustments
+- Portrait Retouching
+- Background Adjustments
+- Clothing & Accessories Adjustments
+- Crop & Rotate
 
 For detailed instructions on using each module, refer to their respective sections in the Knowledge Base.

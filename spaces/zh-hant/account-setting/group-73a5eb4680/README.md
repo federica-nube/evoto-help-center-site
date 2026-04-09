@@ -5,6 +5,6 @@ source_type: "generated_group"
 source_id: "account-setting/group-73a5eb4680/README.md"
 ---
 
-## In This Section
+## 本章內容
 
-- [Evoto Account Settings & Security](account-setting/group-73a5eb4680/account-settings.md)
+- [Evoto 帳戶設定與安全性](account-setting/group-73a5eb4680/account-settings.md)

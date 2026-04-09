@@ -1,5 +1,5 @@
 ---
-title: "How to Customize Image Export Quality in Evoto"
+title: "如何自訂 Evoto 的圖片匯出品質"
 source_url: "https://support.evoto.ai/customizing-image-export-quality-in-evoto-a-guide-to-advanced-settings/"
 source_type: "post"
 source_id: "1751"

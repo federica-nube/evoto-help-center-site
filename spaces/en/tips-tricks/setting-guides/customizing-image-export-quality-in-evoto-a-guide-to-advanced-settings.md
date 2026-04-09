@@ -20,7 +20,7 @@ source_assets:
 
 Evoto provides flexible options for customizing the quality of your exported images, ensuring you get the desired output every time. This guide will help you understand how to optimize your image quality and file size by fine-tuning the available settings.
 
-For more in-depth information, see our full page on [Importing & Exporting](../../evoto-desktop/how-to-start/how-to-use-import-export.md).
+For more in-depth information, see our full page on Importing & Exporting.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "How to Choose Between Skin Color Change and Skin Radiance in Evoto"
+title: "如何區分膚色變更與皮膚光澤"
 source_url: "https://support.evoto.ai/understanding-the-differences-between-skin-color-change-and-skin-radiance-in-evoto/"
 source_type: "post"
 source_id: "1738"

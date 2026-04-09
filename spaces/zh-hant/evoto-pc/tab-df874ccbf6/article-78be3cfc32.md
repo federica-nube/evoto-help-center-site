@@ -1,5 +1,5 @@
 ---
-title: "System Languages"
+title: "系統語言"
 source_url: "https://support.evoto.ai/zh-hant/%e8%aa%9e%e8%a8%80/"
 source_type: "post"
 source_id: "3537"

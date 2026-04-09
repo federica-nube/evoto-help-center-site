@@ -24,7 +24,7 @@ Yes. Evoto provides customized **Enterprise Plans** specifically tailored for la
 
 ##### Should I Choose a Pay‑as‑You‑Go Plan or a Subscription Plan?
 
-Choosing the right plan depends on your editing volume and consistency. Please check our comprehensive [Pricing Page](../evoto-credits/credit.md) for more information.
+Choosing the right plan depends on your editing volume and consistency. Please check our comprehensive Pricing Page for more information.
 
 - **Pay-as-You-Go Plan:**
 - **Ideal for:** Occasional or unpredictable usage.

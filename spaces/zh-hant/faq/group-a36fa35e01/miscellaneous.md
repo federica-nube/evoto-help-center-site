@@ -1,5 +1,5 @@
 ---
-title: "Miscellaneous FAQs"
+title: "其他常見問題"
 source_url: "https://support.evoto.ai/miscellaneous/"
 source_type: "post"
 source_id: "2179"

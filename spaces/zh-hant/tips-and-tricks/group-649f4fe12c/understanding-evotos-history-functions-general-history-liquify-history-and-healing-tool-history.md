@@ -1,5 +1,5 @@
 ---
-title: "How to Master Evoto's History Functions"
+title: "如何掌握 Evoto 的歷史記錄功能"
 source_url: "https://support.evoto.ai/understanding-evotos-history-functions-general-history-liquify-history-and-healing-tool-history/"
 source_type: "post"
 source_id: "1736"

@@ -1,5 +1,5 @@
 ---
-title: "Why Some Sliders are Greyed Out in Full Body Reshape"
+title: "為什麼全身重塑中的某些滑桿會變灰"
 source_url: "https://support.evoto.ai/understanding-the-greyed-out-sliders-in-full-body-reshape-what-it-means-and-how-to-address-it/"
 source_type: "post"
 source_id: "1745"

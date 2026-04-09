@@ -1,5 +1,5 @@
 ---
-title: "Portrait Retouching – Makeup"
+title: "人像修飾－化妝"
 source_url: "https://support.evoto.ai/makeup/"
 source_type: "post"
 source_id: "616"
