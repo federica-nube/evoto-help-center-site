@@ -1,5 +1,5 @@
 ---
-title: "연결전송 촬영 -- Sony"
+title: "연결전송 촬영 - 소니"
 source_url: "https://support.evoto.ai/ko/tethered-shooting-sony-ko/"
 source_type: "post"
 source_id: "4124"

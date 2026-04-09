@@ -1,5 +1,5 @@
 ---
-title: "聯機拍攝 - Panasonic"
+title: "聯機拍攝 - 松下"
 source_url: "https://support.evoto.ai/zh-hant/%e9%9b%bb%e8%85%a6%e7%b7%9a%e4%b8%8a%e6%8b%8d%e6%94%9d-%e6%9d%be%e4%b8%8b/"
 source_type: "post"
 source_id: "7486"

@@ -1,5 +1,5 @@
 ---
-title: "聯機拍攝 - Nikon"
+title: "聯機拍攝 - 尼康"
 source_url: "https://support.evoto.ai/zh-hant/%e7%b7%9a%e4%b8%8a%e6%8b%8d%e6%94%9d-%e5%b0%bc%e5%ba%b7/"
 source_type: "post"
 source_id: "7398"

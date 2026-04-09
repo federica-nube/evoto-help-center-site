@@ -1,5 +1,5 @@
 ---
-title: "Evoto iPad版項目管理"
+title: "Evoto iPad 版專案管理"
 source_url: "https://support.evoto.ai/zh-hant/introduce-to-workspace-ipad-zh-hant/"
 source_type: "post"
 source_id: "3447"

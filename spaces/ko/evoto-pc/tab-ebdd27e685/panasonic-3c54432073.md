@@ -1,5 +1,5 @@
 ---
-title: "연결전송 촬영 - Panasonic"
+title: "연결전송 촬영 - 파나소닉"
 source_url: "https://support.evoto.ai/ko/%ec%97%b0%ea%b2%b0%ec%a0%84%ec%86%a1-%ec%b4%ac%ec%98%81-panasonic/"
 source_type: "post"
 source_id: "8666"

@@ -1,5 +1,5 @@
 ---
-title: "Evoto iPad版設置"
+title: "Evoto iPad 版設定"
 source_url: "https://support.evoto.ai/zh-hant/how-to-use-settings-ipad-zh-hant/"
 source_type: "post"
 source_id: "3461"

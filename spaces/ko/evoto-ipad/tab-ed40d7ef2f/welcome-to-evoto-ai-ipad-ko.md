@@ -1,5 +1,5 @@
 ---
-title: "Evoto AI 아이패드 버전 소개"
+title: "Evoto iPad 소개"
 source_url: "https://support.evoto.ai/ko/welcome-to-evoto-ai-ipad-ko/"
 source_type: "post"
 source_id: "4081"

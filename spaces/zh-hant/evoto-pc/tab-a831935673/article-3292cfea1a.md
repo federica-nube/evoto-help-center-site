@@ -1,5 +1,5 @@
 ---
-title: "聯機拍攝 - Sony"
+title: "聯機拍攝 - 索尼"
 source_url: "https://support.evoto.ai/zh-hant/%e8%81%af%e6%a9%9f%e6%8b%8d%e6%94%9d-%e7%b4%a2%e5%b0%bc/"
 source_type: "post"
 source_id: "3247"

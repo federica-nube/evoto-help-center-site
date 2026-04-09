@@ -1,5 +1,5 @@
 ---
-title: "Evoto AI의 아이패드 모델 호환성 개요"
+title: "Evoto iPad 지원 기기 개요"
 source_url: "https://support.evoto.ai/ko/devices-compatibility-overview-ipad-ko/"
 source_type: "post"
 source_id: "4078"

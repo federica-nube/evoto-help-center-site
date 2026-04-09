@@ -1,5 +1,5 @@
 ---
-title: "AI風格模版"
+title: "AI 風格模板"
 source_url: "https://support.evoto.ai/zh-hant/ai%e9%a2%a8%e6%a0%bc%e6%a8%a1%e7%89%88/"
 source_type: "post"
 source_id: "4683"

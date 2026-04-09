@@ -1,5 +1,5 @@
 ---
-title: "發票與 VAT"
+title: "發票與增值稅（VAT）"
 source_url: "https://support.evoto.ai/invoice-vat/"
 source_type: "post"
 source_id: "1902"

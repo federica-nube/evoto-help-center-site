@@ -1,5 +1,5 @@
 ---
-title: "Evoto iPad版兼容性概述"
+title: "Evoto iPad 版相容性概述"
 source_url: "https://support.evoto.ai/zh-hant/devices-compatibility-overview-ipad-zh-hant/"
 source_type: "post"
 source_id: "3451"

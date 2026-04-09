@@ -1,5 +1,5 @@
 ---
-title: "Evoto AI 프로젝트 관리 인터페이스"
+title: "Evoto iPad 프로젝트 관리 화면"
 source_url: "https://support.evoto.ai/ko/introduce-to-workspace-ipad-ko/"
 source_type: "post"
 source_id: "4073"

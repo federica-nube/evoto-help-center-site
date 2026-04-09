@@ -1,5 +1,5 @@
 ---
-title: "연결전송 촬영 -- Fujifilm"
+title: "연결전송 촬영 - 후지필름"
 source_url: "https://support.evoto.ai/ko/tethered-shooting-fuji-film-ko/"
 source_type: "post"
 source_id: "4137"
