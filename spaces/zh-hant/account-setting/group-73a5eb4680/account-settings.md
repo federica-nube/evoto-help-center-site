@@ -26,27 +26,27 @@ tags:
 
 1. 登入 App。
 2. 點擊右上角的**頭像**（通常是姓名縮寫）。
-3. 從下拉選單中選擇 **Account Settings**。
+3. 從下拉選單中選擇 **帳戶設定**。
 
-**Editable Information:**
+**可編輯資訊：**
 
-- Name
-- Phone number
-- Password
-- Linked third-party accounts (if applicable)
+- 姓名
+- 電話號碼
+- 密碼
+- 已綁定的第三方帳戶（若有）
 
 **在 Evoto 官方網站上**
 
 1. 前往 [evoto.ai](https://evoto.ai/) 並登入。
 2. 點擊右上角的**頭像**（通常是姓名縮寫）。
-3. 從下拉選單中選擇 **My Account**。
+3. 從下拉選單中選擇 **我的帳戶**。
 
-**Editable Information:**
+**可編輯資訊：**
 
-- Name
-- Company name
-- Email notification preferences
-- Language and time zone settings
+- 姓名
+- 公司名稱
+- 電子郵件通知偏好
+- 語言與時區設定
 
 ---
 
@@ -56,17 +56,17 @@ tags:
 
 ###### 在 Evoto App 內：
 
-1. 登入後進入 **Account Settings**。
-2. 在 **Basic Information** 區塊點擊 **Change Password**。
+1. 登入後進入 **帳戶設定**。
+2. 在 **基本資訊** 區塊點擊 **變更密碼**。
 3. 驗證碼會發送到你註冊的電子郵件或手機。
 4. 輸入驗證碼，接著設定並確認新密碼。
 
 ###### 在 Evoto 網站上：
 
-1. 進入 **My Account**，再打開 **Security Center**。
+1. 進入 **我的帳戶**，再打開 **安全中心**。
 2. 輸入目前的密碼。
 3. 使用字母、數字與符號組合建立新密碼。
-4. 點擊 **Save** 儲存變更。
+4. 點擊 **儲存** 以保存變更。
 
 ---
 
@@ -75,12 +75,12 @@ tags:
 你可以透過官方網站更新與 Evoto 帳戶綁定的電子郵件地址。
 
 1. 登入 Evoto 網站。
-2. 點擊你的**頭像**並選擇 **My Account**，再進入 **Security Center**。
-3. 點擊 **Change Email**。
+2. 點擊你的**頭像**並選擇 **我的帳戶**，再進入 **安全中心**。
+3. 點擊 **變更電子郵件**。
 4. 輸入寄送到你目前電子郵件或手機號碼的驗證碼。
 5. 輸入新的電子郵件地址。
 
-**Note:** The new email address must not already be registered to another Evoto account. If it is, you’ll need to delete that account first.
+**注意：** 新的電子郵件地址不能已註冊到其他 Evoto 帳戶。如果已被使用，你需要先刪除該帳戶。
 
 ---
 
@@ -88,9 +88,9 @@ tags:
 
 Evoto 提供多種安全功能，幫助保護你的帳戶：
 
-- **Two-Factor Authentication (2FA):** If supported, enable 2FA using an authentication app for enhanced protection.
-- **Password Strength Indicators:** Follow on-screen prompts to create secure passwords.
-- **Activity Reviews:** Periodically review login history and update your password if you notice any anomalies.
+- **雙重驗證（2FA）：** 若系統支援，可透過驗證 App 啟用 2FA，進一步提升帳戶安全性。
+- **密碼強度提示：** 依照畫面提示建立安全性更高的密碼。
+- **活動記錄檢查：** 定期查看登入紀錄；若發現異常，請立即更新密碼。
 
 ---
 
@@ -98,22 +98,22 @@ Evoto 提供多種安全功能，幫助保護你的帳戶：
 
 你可以控制接收哪些通知，以及部分與個人資料相關的設定。
 
-###### Notification Settings:
+###### 通知設定：
 
-- Customize which alerts you receive, including:
-- Product updates
-- Marketing promotions
-- Account activity
-- Community messages
+- 你可以自訂要接收哪些通知，包括：
+- 產品更新
+- 行銷活動
+- 帳戶活動
+- 社群訊息
 
-###### Privacy Settings:
+###### 隱私設定：
 
-- Control visibility of your profile and activity.
-- Manage data sharing preferences for community and feedback features.
+- 控制你的個人檔案與活動可見範圍。
+- 管理社群功能與意見回饋功能中的資料分享偏好。
 
-**Advanced Tips:**
+**進階建議：**
 
-- Some users fine-tune their notification triggers using community-shared tips. Visit the[Evoto Forum](https://forum.evoto.ai/) for examples.
+- 有些使用者會參考社群分享的技巧，進一步微調通知觸發條件。你可以前往 [Evoto Forum](https://forum.evoto.ai/) 查看相關範例。
 
 ---
 
@@ -123,9 +123,9 @@ Evoto 提供多種安全功能，幫助保護你的帳戶：
 
 若要管理裝置：
 
-1. 進入帳戶中的 **Device** 區塊。
+1. 進入帳戶中的 **裝置** 區塊。
 2. 查看目前已登入裝置的清單。
-3. 在任一裝置旁點擊 **Remove**，即可將該裝置登出。
+3. 在任一裝置旁點擊 **移除**，即可將該裝置登出。
 4. 之後如有需要，你仍可重新在該裝置上登入。
 
 ---
@@ -134,7 +134,7 @@ Evoto 提供多種安全功能，幫助保護你的帳戶：
 
 Evoto 的大多數功能都需要將圖片上傳到雲端伺服器進行分析與處理。不過，系統不會永久保存你的資料，所有圖片在處理完成後都會立即刪除。只有以下功能在取得你事先同意的情況下需要儲存：
 
-1. **Cloud Sync & Cloud Storage：** 雲端處理：是；雲端儲存：是
+1. **雲端同步與雲端儲存：** 雲端處理：是；雲端儲存：是
 2. **AI Color Match：** 雲端處理：是；雲端儲存：是
 3. **Cropping（ID Photo & AI Horizontal Correction）：** 雲端處理：是；雲端儲存：否
 4. **Background Replacement：** 雲端處理：是；雲端儲存：否
