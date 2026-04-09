@@ -1,5 +1,5 @@
 ---
-title: "Import & Export"
+title: "Nhập & Xuất ảnh"
 source_url: "https://support.evoto.ai/how-to-use-import-export/"
 source_type: "post"
 source_id: "600"
@@ -289,17 +289,17 @@ For projects originally imported as a .lrcat file, Evoto allows you to export yo
 
 #### Import & Export Troubleshooting
 
-If you encounter issues during the import or export process, refer to the common problems and solutions below.
+Nếu bạn gặp vấn đề trong quá trình nhập hoặc xuất ảnh, hãy tham khảo các lỗi thường gặp và cách xử lý bên dưới.
 ##### Blurry Image Preview After Import
 
-If your images appear blurry after being imported into Evoto, this is typically due to preview settings and is not a reflection of the image’s actual resolution.
-- Evoto supports all RAW file types and does not reduce the resolution of your original images.
-- The preview quality is automatically adjusted based on your computer’s specifications to optimize performance, which may result in a lower display resolution.
+Nếu ảnh hiển thị bị mờ sau khi được nhập vào Evoto, nguyên nhân thường là do cài đặt xem trước chứ không phải do độ phân giải thực của ảnh.
+- Evoto hỗ trợ mọi định dạng RAW và không làm giảm độ phân giải của ảnh gốc.
+- Chất lượng xem trước sẽ được tự động điều chỉnh dựa trên cấu hình máy tính để tối ưu hiệu năng, nên có thể khiến độ phân giải hiển thị thấp hơn.
 
-To improve preview clarity:
-- Go to **Settings** → **Preview** → **Preview Size**.
-- Increase the preview size as needed—Evoto supports up to 4000 px, the maximum preview resolution currently available.
-- **Note:** The preview size setting affects only how the image is displayed within Evoto. It has no impact on the quality or resolution of exported images.
+Để cải thiện độ rõ của ảnh xem trước:
+- Vào **Settings** → **Preview** → **Preview Size**.
+- Tăng kích thước xem trước theo nhu cầu; Evoto hiện hỗ trợ tối đa 4000 px.
+- **Lưu ý:** Cài đặt kích thước xem trước chỉ ảnh hưởng đến cách ảnh hiển thị trong Evoto, không ảnh hưởng đến chất lượng hoặc độ phân giải của ảnh xuất ra.
 
 ##### File Size Changes After Export
 
@@ -318,4 +318,4 @@ If an exported image does not appear in the selected folder, the issue is likely
 
 ##### Export Error Codes
 
-If you encounter an error during export, please contact our support team at **support@evoto.ai**. To help us resolve the issue faster, kindly include a screenshot of the error code in your Export List.
+Nếu bạn gặp lỗi khi xuất ảnh, vui lòng liên hệ đội ngũ hỗ trợ qua **support@evoto.ai**. Để chúng tôi xử lý nhanh hơn, hãy gửi kèm ảnh chụp màn hình mã lỗi hiển thị trong Export List.

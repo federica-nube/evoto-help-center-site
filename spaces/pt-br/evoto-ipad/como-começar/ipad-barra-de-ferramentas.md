@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Barra de Ferramentas"
+title: "iPad - Barra de Ferramentas"
 source_url: "https://support.evoto.ai/pt-br/ipad-barra-de-ferramentas/"
 source_type: "post"
 source_id: "22422"

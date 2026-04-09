@@ -1,5 +1,5 @@
 ---
-title: "Account Troubleshooting"
+title: "계정 문제 해결 및 지원"
 source_url: "https://support.evoto.ai/account-troubleshooting-support/"
 source_type: "post"
 source_id: "2128"
@@ -15,37 +15,37 @@ tags:
   - "troubleshoot"
 ---
 
-This section addresses common account issues, outlines how to resolve them, and guides you on reporting bugs or providing feedback.
+이 섹션에서는 자주 발생하는 계정 문제를 다루고, 해결 방법과 버그 신고 또는 피드백 제출 방법을 안내합니다.
 
-#### What should I do if I forget my password?
+#### 비밀번호를 잊어버렸다면 어떻게 해야 하나요?
 
-If you forget your Evoto account password, you can easily reset it directly through the app or website:
+Evoto 계정 비밀번호를 잊어버렸다면 앱이나 웹사이트에서 바로 재설정할 수 있습니다.
 
-- Use the **“Forgot Password”** link on the login page.
-- Follow the emailed instructions to reset your password securely.
+- 로그인 페이지에서 **“비밀번호 찾기(Forgot Password)”** 링크를 클릭하세요.
+- 이메일로 전송된 안내에 따라 안전하게 비밀번호를 재설정하세요.
 
-If problems persist after following these steps, contact support via the account dashboard or community support threads.
-
----
-
-#### How can I resolve account issues or errors?
-
-If you encounter general account issues or errors, try these troubleshooting steps:
-
-- **General Troubleshooting:**
-- Clear your browser cache or try accessing Evoto using a different web browser.
-- Check for service status updates on the main Evoto site or blog, as widespread issues may be announced there.
-- Look for similar issues discussed on the Evoto Forum, where community moderators and experienced users often share solutions and workarounds.
-- **Deep Dive Troubleshooting:**
-- Some advanced users report issues related to API connectivity or external integrations. For insights on resolving these more technical issues, look for technical posts and bug reports on the Evoto Forum, or contact support@evoto.ai.
+위 단계를 따른 뒤에도 문제가 계속되면 계정 대시보드 또는 커뮤니티 지원 스레드를 통해 지원팀에 문의하세요。
 
 ---
 
-#### How do I report bugs or provide account-related feedback?
+#### 계정 문제나 오류는 어떻게 해결하나요?
 
-Your feedback is valuable for improving Evoto. The most effective way to report bugs or get support is through our official channels.
+일반적인 계정 문제나 오류가 발생하면 아래의 문제 해결 단계를 시도해 보세요.
 
-- The most effective way is to contact our support team directly at **support@evoto.ai**.
-- Alternatively, you can right-click an image and go to **“Provide Feedback.”** Enter the information in the pop-up box to send feedback to our team.
-- You can also post your issue on the **Evoto Forum**, where fellow users actively respond.
-- Always follow any guidelines mentioned on the **Evoto Blog** regarding bug reporting procedures, as this helps our team efficiently address your concerns.
+- **기본 점검:**
+- 브라우저 캐시를 지우거나 다른 웹브라우저에서 Evoto에 접속해 보세요.
+- Evoto 메인 사이트나 블로그에서 서비스 상태 공지를 확인하세요. 광범위한 장애는 해당 채널에 안내될 수 있습니다.
+- Evoto 포럼에서 유사한 문제를 찾아보세요. 커뮤니티 운영자와 숙련된 사용자가 해결 방법이나 우회 방법을 공유하는 경우가 많습니다.
+- **심화 점검:**
+- 일부 고급 사용자는 API 연결이나 외부 연동과 관련된 문제를 겪을 수 있습니다. 이런 기술적인 문제는 Evoto 포럼의 기술 게시글과 버그 리포트를 참고하거나 support@evoto.ai 로 문의하세요.
+
+---
+
+#### 버그를 신고하거나 계정 관련 피드백을 보내려면 어떻게 해야 하나요?
+
+여러분의 피드백은 Evoto 개선에 큰 도움이 됩니다. 버그를 신고하거나 지원을 받는 가장 효과적인 방법은 공식 채널을 이용하는 것입니다.
+
+- 가장 빠른 방법은 **support@evoto.ai** 로 직접 문의하는 것입니다.
+- 또는 이미지를 마우스 오른쪽 버튼으로 클릭한 뒤 **“Provide Feedback”** 으로 들어가 팝업 창에 내용을 입력해 피드백을 보낼 수 있습니다.
+- **Evoto 포럼**에 문제를 게시해 다른 사용자들의 답변을 받을 수도 있습니다.
+- 버그 신고 절차와 관련해 **Evoto 블로그**에 안내가 있다면 그 가이드를 따라 주세요. 그래야 지원팀이 문제를 더 효율적으로 처리할 수 있습니다.

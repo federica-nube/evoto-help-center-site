@@ -1,5 +1,5 @@
 ---
-title: "Evoto for iPad - Presets"
+title: "Preajustes de Evoto para iPad"
 source_url: "https://support.evoto.ai/how-to-use-preset-ipad/"
 source_type: "post"
 source_id: "1477"

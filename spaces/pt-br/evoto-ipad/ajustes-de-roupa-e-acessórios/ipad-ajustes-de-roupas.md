@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Ajustes de Roupas"
+title: "iPad - Ajustes de Roupas"
 source_url: "https://support.evoto.ai/pt-br/ipad-ajustes-de-roupas/"
 source_type: "post"
 source_id: "21159"

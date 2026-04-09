@@ -1,5 +1,5 @@
 ---
-title: "iPad Portrait Retouching – Blemish Removal"
+title: "Chỉnh sửa chân dung trên iPad – Xóa khuyết điểm"
 source_url: "https://support.evoto.ai/blemish-removal-ipad/"
 source_type: "post"
 source_id: "1833"

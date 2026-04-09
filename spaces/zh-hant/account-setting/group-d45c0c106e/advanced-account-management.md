@@ -1,5 +1,5 @@
 ---
-title: "Account Management: Profiles, Roles & Deletion"
+title: "帳戶管理：個人檔案、角色與刪除"
 source_url: "https://support.evoto.ai/advanced-account-management/"
 source_type: "post"
 source_id: "2114"
@@ -20,26 +20,26 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/05/D3EAC06E-0CB8-46C5-8B2E-9E9ED4AD23E2-300x196.png"
 ---
 
-This guide provides instructions on how to manage multiple profiles or roles within Evoto, outlines account recovery options, and details the steps for permanently deleting your account.
+本指南說明如何在 Evoto 中管理多個個人檔案或角色，介紹帳戶復原選項，並詳細列出永久刪除帳戶的步驟。
 
-#### How do I manage multiple profiles or switch roles?
+#### 我要如何管理多個個人檔案或切換角色？
 
-If you operate both personal and organizational accounts within Evoto, you can efficiently switch between them using the dashboard's profile-switching feature. Some organizations also allow for role delegation, where specific permissions and responsibilities can be assigned to different users.
+如果你同時在 Evoto 使用個人帳戶與組織帳戶，可以透過儀表板中的個人檔案切換功能，在不同帳戶之間快速切換。部分組織也支援角色委派，讓不同使用者分別擁有特定權限與責任。
 
-- Check your **account settings** or the **Evoto Forum** for specific guidance on role delegation within your organization.
+- 如需了解你所在組織的角色委派方式，請查看 **account settings** 或 **Evoto Forum** 的相關說明。
 
 ---
 
-#### How do I permanently delete my account?
+#### 我要如何永久刪除帳戶？
 
-If you decide to permanently delete your Evoto account, please follow these steps carefully. This action is irreversible and will result in data loss.
+如果你決定永久刪除 Evoto 帳戶，請仔細依照以下步驟操作。此操作無法復原，並會造成資料遺失。
 
-###### Before Deletion:
+###### 刪除前請先確認：
 
-- **Export any important data** from your account that you wish to keep, such as presets, edited images, or project files.
-- If you have any questions or concerns about the deletion process, your data, or any associated subscriptions, please **contact support** at support@evoto.ai or check the Evoto Forum for community advice.
+- 先從帳戶中**匯出所有你想保留的重要資料**，例如預設、已編輯圖片或專案檔案。
+- 如果你對刪除流程、資料或相關訂閱有任何疑問，請寄信到 support@evoto.ai **聯絡支援團隊**，或到 Evoto Forum 查看社群建議。
 
-###### Steps for Deletion:
+###### 刪除步驟：
 
 1. Navigate to **Account Settings** within your Evoto app or on the official website.
 
@@ -49,17 +49,17 @@ If you decide to permanently delete your Evoto account, please follow these step
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/05/D3EAC06E-0CB8-46C5-8B2E-9E9ED4AD23E2-300x196.png)
 
-3. Carefully read through all warnings about data loss and irreversible changes. Ensure you understand the implications before proceeding.
+3. 請仔細閱讀所有關於資料遺失與不可逆變更的警告內容，確認充分理解影響後再繼續。
 
-4. If you are absolutely sure of your decision, **confirm your choice** and follow any additional verification steps required to complete the deletion process.
+4. 如果你已確定要刪除，請**確認你的選擇**，並完成所有必要的額外驗證步驟。
 
 ---
 
-#### Account Recovery Options
+#### 帳戶復原選項
 
-In the unfortunate event of an account compromise, follow these recovery steps immediately to secure your account:
+如果帳戶不幸遭到入侵，請立即依照以下步驟保護你的帳戶：
 
-1. **Reset Your Password:** Use the "Forgot Password" link on the login page to immediately reset your password to a new, strong, and unique one.
-2. **Notify Support:** Contact Evoto support at support@evoto.ai as soon as possible to inform us of the potential compromise.
-3. **Review Recent Activities:** Check your account's activity logs for any unauthorized logins, changes, or credit usage.
-4. **Seek Community Advice:** Look for recovery tips and community advice in dedicated forum threads on the Evoto Forum, where other users and moderators may offer guidance.
+1. **重設密碼：** 使用登入頁面的「Forgot Password」連結，立即將密碼改成新的、強度更高且唯一的密碼。
+2. **通知支援團隊：** 盡快透過 support@evoto.ai 聯絡 Evoto 支援團隊，告知帳戶可能遭到入侵。
+3. **查看近期活動：** 檢查帳戶活動紀錄，確認是否有未授權的登入、變更或點數使用紀錄。
+4. **尋求社群建議：** 到 Evoto Forum 的相關討論串查看復原建議，其他使用者與版主可能會提供協助。

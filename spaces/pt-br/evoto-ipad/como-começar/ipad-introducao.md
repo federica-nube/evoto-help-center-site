@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Introdução"
+title: "iPad - Introdução"
 source_url: "https://support.evoto.ai/pt-br/ipad-introducao/"
 source_type: "post"
 source_id: "22102"

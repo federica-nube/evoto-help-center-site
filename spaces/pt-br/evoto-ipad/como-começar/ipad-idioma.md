@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Idioma"
+title: "iPad - Idioma"
 source_url: "https://support.evoto.ai/pt-br/ipad-idioma/"
 source_type: "post"
 source_id: "22118"

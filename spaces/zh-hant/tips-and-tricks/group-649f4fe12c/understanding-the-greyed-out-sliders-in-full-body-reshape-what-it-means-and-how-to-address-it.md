@@ -21,12 +21,12 @@ Sliders become greyed out when the system has difficulty accurately recognizing 
 - **Image Quality:** If the image quality is low or if the body part you want to adjust is not clearly visible, the system may struggle to detect and process it accurately.
 - **Image Composition:** In some cases, a body part may be obscured, partially cropped out, or not properly aligned within the frame, which creates challenges for our recognition algorithms.
 
-By disabling the sliders for these areas, the system ensures that any reshaping attempts do not lead to inaccurate or unnatural results.
+停用這些部位的滑桿，是為了避免身形重塑時產生不準確或不自然的結果。
 
-#### What You Can Do
+#### 你可以怎麼做
 
-If you encounter greyed-out sliders, you can take the following steps to improve the situation and contribute to our ongoing product development:
+如果你遇到滑桿變灰的情況，可以透過以下方式改善問題，並協助我們持續優化產品：
 
-- **Provide a Better Image:** Ensure that the image you use is of high quality and that the body parts you wish to adjust are clearly visible and well-lit. A well-composed image helps the system accurately detect and process the body.
-- **Submit Feedback:** If you consistently experience issues with image recognition for a specific image type or body posture, you can submit the problematic images to us. This feedback is invaluable as it helps our team improve our body recognition algorithms and enhance the overall functionality of the **Full Body Reshape** feature.
-- **Stay Updated:** We are continuously working on optimizing our body recognition capabilities. By submitting your feedback and using high-quality images, you contribute to the ongoing improvement of our tools, leading to a better user experience for everyone.
+- **提供品質更好的照片：** 請確保使用的圖片解析度足夠高，且你想調整的身體部位清楚可見、光線充足。構圖良好的照片能幫助系統更準確地辨識與處理身體。
+- **提交回饋：** 如果你在特定圖片類型或姿勢上持續遇到辨識問題，可以把相關圖片提交給我們。這些回饋非常寶貴，有助於團隊改善身體辨識演算法，並提升 **Full Body Reshape** 功能的整體表現。
+- **持續更新：** 我們一直在優化身體辨識能力。透過提交回饋與使用高品質圖片，你也在幫助工具持續進步，讓所有使用者都能獲得更好的體驗。

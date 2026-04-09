@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Rotação"
+title: "iPad - Rotação"
 source_url: "https://support.evoto.ai/pt-br/ipad-rotacao/"
 source_type: "post"
 source_id: "22077"

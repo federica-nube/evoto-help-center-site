@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Módulo de Ajustes de Cor"
+title: "iPad - Módulo de Ajustes de Cor"
 source_url: "https://support.evoto.ai/pt-br/ipad-modulo-de-ajustes-de-cor/"
 source_type: "post"
 source_id: "23183"

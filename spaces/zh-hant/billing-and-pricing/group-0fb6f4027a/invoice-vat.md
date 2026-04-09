@@ -1,5 +1,5 @@
 ---
-title: "Invoice & VAT"
+title: "發票與 VAT"
 source_url: "https://support.evoto.ai/invoice-vat/"
 source_type: "post"
 source_id: "1902"
@@ -20,73 +20,73 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.44.38-300x272.png"
 ---
 
-This guide provides instructions on how to access and manage your invoices, as well as how to handle VAT (Value Added Tax) information during and after your purchase.
+本指南說明如何存取與管理你的發票，以及如何在購買前後處理 VAT（加值稅）資訊。
 
 ---
 
-#### Managing Your Invoices
+#### 管理你的發票
 
-##### How can I download my invoice after making a purchase?
+##### 購買後我要如何下載發票？
 
-You can easily download past invoices directly from your Evoto account on the website.
+你可以直接在網站上的 Evoto 帳戶中下載過往發票。
 
-1. Sign in to the **Evoto website**.
+1. 登入 **Evoto 網站**。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.28.28-300x166.png)
 
-2.Go to **My Account** → **My Billing and Usage** → **Invoices**.
+2. 前往 **My Account** → **My Billing and Usage** → **Invoices**。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.29.18-300x186.png)
 
-3. Scroll through your purchase history to find the desired invoice.
+3. 在購買紀錄中找到你要下載的發票。
 
-4. Click the **download icon** next to the invoice you want to save.
+4. 點擊該發票旁的**下載圖示**。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.30.54-300x94.png)
 
-##### How can I edit the information shown on the invoice?
+##### 我要如何修改發票上的資訊？
 
-You can update your invoice details before downloading them.
+在下載前，你可以先更新發票資訊。
 
-1. Sign in to your Evoto account.
-2. Go to **My Account** → **Billing & Usage** → **Invoices**.
-3. Click **“Edit Information.”**
-4. You'll be able to update specific details such as your company name, address, or other billing particulars.
+1. 登入 Evoto 帳戶。
+2. 前往 **My Account** → **Billing & Usage** → **Invoices**。
+3. 點擊 **“Edit Information.”**
+4. 你可以更新公司名稱、地址或其他帳務資訊。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.39.39-300x255.png)
 
-- **Important:** Make sure to update this information *before* downloading your invoice, as changes won't apply to already downloaded copies.
+- **重要提醒：** 請務必在下載發票**之前**更新這些資訊，因為已下載的發票副本不會套用後續修改。
 
-##### What should I do if I can’t find my invoice?
+##### 如果我找不到發票，該怎麼辦？
 
-If you're unable to locate a specific invoice in your account, please contact our support team at support@evoto.ai for further assistance.
+如果你在帳戶中找不到特定發票，請寄信到 support@evoto.ai 與支援團隊聯繫。
 
 ---
 
-#### VAT Information
+#### VAT 資訊
 
-##### How to Add a VAT Number When Purchasing Credits?
+##### 購買點數時如何新增 VAT 編號？
 
-To ensure the correct VAT is applied (or exempted) to your purchase, you can add your VAT number during the checkout process.
+若要確保系統正確套用（或豁免）VAT，你可以在結帳流程中加入 VAT 編號。
 
-1. Enter your **billing country and ZIP code** on the checkout page, then click **Continue** to proceed to the payment page.
+1. 在結帳頁面輸入你的**帳單國家**與**郵遞區號**，再點擊 **Continue** 進入付款頁面。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.42.42-300x232.png)
 
-2.On the payment page, click **“Add VAT Number.”**
+2. 在付款頁面點擊 **“Add VAT Number.”**
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.43.38-300x229.png)
 
-3.Enter your **VAT number** and complete any additional required fields.
+3. 輸入你的 **VAT number**，並完成其他必填欄位。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-07-at-18.44.38-300x272.png)
 
-- Once successfully added, your **VAT discount** (if applicable) will appear on the right side of the payment summary, reflecting the adjusted price.
+- 新增成功後，你的**VAT 折扣**（如適用）會顯示在付款摘要右側，反映調整後的價格。
 
-##### Can I edit or update my VAT number after purchase?
+##### 購買完成後，我可以修改 VAT 編號嗎？
 
-Unfortunately, you won’t be able to edit the VAT number directly after the purchase has been completed.
+很抱歉，購買完成後，你將無法直接修改 VAT 編號。
 
-##### What happens if I forget to add my VAT number during checkout?
+##### 如果我在結帳時忘記填寫 VAT 編號，會怎樣？
 
-If you forgot to add your VAT number during checkout and need to have it applied, please contact our support team at support@evoto.ai for further assistance.
+如果你在結帳時忘記填寫 VAT 編號，之後仍希望補上，請寄信到 support@evoto.ai 與支援團隊聯繫。

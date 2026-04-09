@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Modelos Compatíveis"
+title: "iPad - Modelos Compatíveis"
 source_url: "https://support.evoto.ai/pt-br/ipad-modelos-compativeis/"
 source_type: "post"
 source_id: "22584"

@@ -1,5 +1,5 @@
 ---
-title: "Evoto para Ipad -  Perguntas Frequentes"
+title: "Evoto para iPad - Perguntas frequentes"
 source_url: "https://support.evoto.ai/pt-br/evoto-para-ipad-perguntas-frequentes/"
 source_type: "post"
 source_id: "23879"

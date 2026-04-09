@@ -1,5 +1,5 @@
 ---
-title: "Pay-as-You-Go Plan"
+title: "隨用隨付方案"
 source_url: "https://support.evoto.ai/pay-as-you-go-package/"
 source_type: "post"
 source_id: "1242"
@@ -10,30 +10,27 @@ secondary_categories:
   - "price-billing"
 ---
 
-This section provides answers to common questions about Evoto's Pay-as-You-Go credit packages, which are ideal for users who do not require an annual subscription.
+本節整理了與 Evoto 隨用隨付點數方案相關的常見問題。這類方案特別適合不需要年度訂閱的使用者。
 
-#### Credit Packs & Validity
+#### 點數方案與有效期限
 
-- **What Credit Packs Are Available?** Evoto offers four flexible Pay-as-You-Go credit packs designed to suit workflows of any size, with no recurring fees or commitment:
-- 200 credits
-- 500 credits
-- 1,200 credits
-- 3,600 credits
-- **Credit Expiration:** Credits purchased after September 26, 2024 (12:00 PM UTC) are valid for 2 years from the purchase date. Credits purchased before that date are valid for 1 year, under the previous policy. For more information on this policy change, please see the Evoto Price Change Notice.
+- **有哪些點數包可選？** Evoto 提供四種彈性的隨用隨付點數包，適合不同規模的工作流程，沒有定期費用，也不需要長期綁約：
+- 200 點
+- 500 點
+- 1,200 點
+- 3,600 點
+- **點數有效期限：** 於 2024 年 9 月 26 日 12:00 PM UTC 之後購買的點數，自購買日起有效 2 年；在此之前購買的點數則依舊制有效 1 年。若想了解此政策調整，請參閱 Evoto 價格變更公告。
 
-#### Other Frequently Asked Questions
+#### 其他常見問題
 
-- **Can I Roll Over Unused Credits?**
+- **未使用的點數可以延用嗎？**
 
-- -
-- No. Unused credits from a Pay-as-You-Go package expire 2 years after purchase and cannot be rolled over, even if you switch to a subscription plan.
+- 不可以。隨用隨付方案中未使用的點數會在購買 2 年後到期，即使之後改訂閱其他方案，也無法延用。
 
-- **Can I Extend the Expiration Date?**
+- **可以延長點數有效期限嗎？**
 
-- -
-- No. Pay-as-You-Go credits have a fixed 2-year expiration date and cannot be extended under any circumstances.
+- 不可以。隨用隨付點數固定為 2 年有效，無法在任何情況下延長。
 
-- **How Many Devices Can I Use?**
+- **同一帳戶可以在幾台裝置上使用？**
 
--
-- You can log in on up to 2 devices using the same Evoto account under the Pay-as-You-Go plan.
+- 使用同一個 Evoto 帳戶搭配隨用隨付方案時，最多可以同時登入 2 台裝置。

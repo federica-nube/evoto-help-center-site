@@ -1,5 +1,5 @@
 ---
-title: "Evoto iPad - FAQs"
+title: "Evoto iPad 常見問題"
 source_url: "https://support.evoto.ai/evoto-ipad-faq/"
 source_type: "post"
 source_id: "965"
@@ -11,91 +11,91 @@ tags:
   - "ipad"
 ---
 
-This section provides answers to common questions specifically related to using Evoto on your iPad, covering pricing, tethered shooting, presets, and feature availability.
+本節整理了與在 iPad 上使用 Evoto 有關的常見問題，涵蓋價格、連線拍攝、預設與功能支援情況。
 
 ---
 
-#### Purchase-Related Questions
+#### 購買相關問題
 
-###### What is the pricing model for Evoto on iPad?
+###### Evoto iPad 的計價方式是什麼？
 
-All features within the Evoto iPad app are **free to use**. Credits are only required when exporting edited images – each export consumes one (1) credit.
+Evoto iPad App 內的所有功能都可**免費使用**。只有在匯出已編輯的圖片時才需要點數，每匯出 1 張圖片會消耗 1 點。
 
-###### Are credits shared between the iPad and PC versions?
+###### iPad 版與 PC 版的點數會共用嗎？
 
-Yes. Credits are fully shared across both platforms. You can purchase a plan (whether Pay-As-You-Go or an Annual Subscription) on either your iPad or your PC, and use the credits interchangeably on both devices.
+會。點數會在兩個平台之間完全共用。無論你是在 iPad 或 PC 上購買方案（隨用隨付或年度訂閱），點數都可以在兩邊通用。
 
-###### Is pricing the same on iPad and PC?
+###### iPad 與 PC 的價格相同嗎？
 
-Yes, the available plans and their base pricing are the same across iPad and PC platforms. However, there may be slight pricing differences depending on your region and current exchange rate fluctuations or specific platform (App Store) policies.
+基本上相同。iPad 與 PC 提供的方案與基礎價格一致，但實際售價仍可能因地區、匯率波動或特定平台（如 App Store）政策而略有差異。
 
 ---
 
-#### Tethered Shooting Questions
+#### 連線拍攝相關問題
 
-###### Is there an extra fee to use tethered shooting?
+###### 使用連線拍攝需要額外付費嗎？
 
-No. All Evoto iPad features are free to use, including both wired and wireless tethered shooting. Charges only apply when you export edited images, not for the act of tethering or capturing photos.
+不需要。Evoto iPad 的所有功能都可免費使用，包括有線與無線連線拍攝。只有在匯出已編輯的圖片時才會收費，連線拍攝或拍攝照片本身不會產生費用。
 
-###### What tethered shooting modes are supported on iPad?
+###### iPad 支援哪些連線拍攝模式？
 
-Evoto for iPad supports two primary tethered shooting modes:
+Evoto iPad 支援兩種主要的連線拍攝模式：
 
-- **Wired Tethering** (via a direct cable connection)
-- **Wireless Tethering** (via Wi-Fi)
+- **有線連線拍攝**（透過實體傳輸線）
+- **無線連線拍攝**（透過 Wi-Fi）
 
-###### Which camera brands and models are supported?
+###### 支援哪些相機品牌與型號？
 
-Evoto iPad supports a wide range of mainstream camera brands for tethered shooting:
+Evoto iPad 支援多種主流相機品牌的連線拍攝：
 
 - **Wired Tethering:** Canon, Sony, Nikon, Fujifilm, Panasonic, Leica, Olympus
 - **Wireless Tethering:** Canon, Sony, Nikon, Fujifilm
 
-For the most up-to-date and complete list of supported models, including specific series and versions, please visit the[Evoto Help Center](https://support.evoto.ai/).
+如需查看最新且完整的支援型號清單（包含具體系列與版本），請前往 [Evoto Help Center](https://support.evoto.ai/)。
 
-###### Will wireless tethering via mobile hotspot consume mobile data?
+###### 透過手機熱點進行無線連線拍攝會消耗行動數據嗎？
 
-No. All image transfers during wireless tethered shooting (even if using a mobile hotspot as your Wi-Fi network) are done over the internal local network connection established between your camera and iPad. This process does **not** consume your mobile data plan.
+不會。無線連線拍攝時的所有影像傳輸，即使使用手機熱點作為 Wi-Fi 網路，也都是透過相機與 iPad 之間建立的內部區域網路進行，因此**不會**消耗你的行動數據方案。
 
-###### Are tethered shooting images saved to the iPad’s storage?
+###### 連線拍攝的照片會儲存在 iPad 裝置裡嗎？
 
-No. Images captured via tethered shooting are initially stored only within the Evoto iPad app itself. They are not automatically saved to your iPad’s Photos app or general storage. If needed, you can export the original files from within the Evoto app or retrieve them directly from your camera’s SD card.
-
----
-
-#### Presets Questions
-
-###### Can presets saved on the PC be used normally on the iPad?
-
-Most presets saved on your PC can be used normally on the iPad, and vice-versa (presets saved on iPad can also be used on PC). However, due to some functional differences between the PC and iPad versions of Evoto (e.g., certain features might be desktop-only), if a preset contains adjustments or features not supported on the iPad, the effect applied may vary or be incomplete.
+不會。透過連線拍攝取得的圖片一開始只會儲存在 Evoto iPad App 內，不會自動存進 iPad 的相簿或一般儲存空間。如有需要，你可以在 Evoto App 內匯出原始檔，或直接從相機的 SD 卡中取回。
 
 ---
 
-#### Effects Questions
+#### 預設相關問題
 
-###### What retouching features can I currently use on Evoto iPad?
+###### 在 PC 上儲存的預設可以正常用在 iPad 上嗎？
 
-Evoto iPad offers a robust suite of retouching features for on-the-go editing. You can use powerful tools such as:
-
-- Color adjustment (e.g., curves, HSL, basic adjustments)
-- Portrait beautification (e.g., skin retouching, blemish removal, facial reshaping, facial expression tools)
-- Background adjustment (e.g., background extraction, backdrop changer, sky replacement)
-- Clothing enhancement (e.g., de-wrinkle clothing)
-- Cropping and rotation
-- Liquify tools
-- Healing brush
-
-If you have any unmet needs or specific feature requests, please let us know, and we will consider them for future updates.
-
-###### Can I perform batch editing on Evoto iPad?
-
-Yes. This is one of the key advantages of Evoto iPad. You only need to retouch one image, and the same effects can be efficiently synchronized to all other selected images within your project. This greatly improves your editing efficiency for consistent results across a series of photos.
+大多數在 PC 上儲存的預設都可以正常用於 iPad，反之亦然（iPad 上儲存的預設也可在 PC 使用）。不過，由於 Evoto 的 PC 版與 iPad 版在功能上仍有一些差異（例如部分功能只在桌面版提供），若某個預設包含 iPad 不支援的調整項目或功能，套用後的效果可能會有所差異或不完整。
 
 ---
 
-#### Supported Camera Models (for Tethering)
+#### 效果相關問題
 
-This list details the specific camera models supported for tethered shooting with Evoto iPad.
+###### 目前在 Evoto iPad 上可以使用哪些修圖功能？
+
+Evoto iPad 提供完整的行動修圖功能，讓你隨時隨地進行編輯。你可以使用以下工具：
+
+- 色彩調整（如曲線、HSL、基本調整）
+- 人像美化（如磨皮、去瑕疵、臉型調整、表情工具）
+- 背景調整（如去背、換背景、天空替換）
+- 服裝優化（如去除衣物皺褶）
+- 裁切與旋轉
+- 液化工具
+- 修復筆刷
+
+如果你有尚未滿足的需求或特定功能建議，歡迎告訴我們，我們會納入後續更新評估。
+
+###### 我可以在 Evoto iPad 上進行批次編輯嗎？
+
+可以。這正是 Evoto iPad 的一大優勢。你只需要先修好一張圖片，就能將相同效果快速同步到專案中其他已選取的圖片，大幅提升整批照片的一致性與編輯效率。
+
+---
+
+#### 支援的相機型號（連線拍攝）
+
+以下列出 Evoto iPad 支援連線拍攝的相機型號。
 
 ###### Canon
 

@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Configurações do Sistema"
+title: "iPad - Configurações do Sistema"
 source_url: "https://support.evoto.ai/pt-br/ipad-configuracoes-do-sistema/"
 source_type: "post"
 source_id: "22553"

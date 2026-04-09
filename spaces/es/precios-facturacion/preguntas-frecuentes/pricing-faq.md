@@ -1,5 +1,5 @@
 ---
-title: "Pricing FAQ"
+title: "Preguntas frecuentes sobre precios"
 source_url: "https://support.evoto.ai/pricing-faq/"
 source_type: "post"
 source_id: "1265"
@@ -10,116 +10,116 @@ secondary_categories:
   - "price-billing"
 ---
 
-This section provides answers to common questions about Evoto's pricing, plans, payment methods, and related policies.
+Esta sección responde a las preguntas más frecuentes sobre los precios de Evoto, los planes disponibles, los métodos de pago y las políticas relacionadas.
 
 ---
 
-#### Plan Types & Recommendations
+#### Tipos de plan y recomendaciones
 
-##### Does Evoto Offer Enterprise Plans?
+##### ¿Evoto ofrece planes empresariales?
 
-Yes. Evoto provides customized **Enterprise Plans** specifically tailored for large teams, studios, and organizations with high-volume editing needs.
+Sí. Evoto ofrece **planes empresariales** personalizados para equipos grandes, estudios y organizaciones con necesidades de edición de alto volumen.
 
-- To request a consultation and discuss a customized solution, please email our sales team at contactus@evoto.ai (as per the main pricing page, ensuring consistency).
+- Para solicitar una consulta y valorar una solución personalizada, escribe a nuestro equipo comercial en contactus@evoto.ai.
 
-##### Should I Choose a Pay‑as‑You‑Go Plan or a Subscription Plan?
+##### ¿Debo elegir un plan de pago por uso o un plan de suscripción?
 
-Choosing the right plan depends on your editing volume and consistency. Please check our comprehensive [Pricing Page](https://support.evoto.ai/credit/) for more information.
+La elección del plan adecuado depende de tu volumen de edición y de la frecuencia con la que utilizas Evoto. Consulta nuestra [página de precios](https://support.evoto.ai/credit/) para obtener más información.
 
-- **Pay-as-You-Go Plan:**
-- **Ideal for:** Occasional or unpredictable usage.
-- **Benefits:** Offers maximum flexibility with no ongoing commitment.
-- **Yearly Subscription Plan:**
-- **Best for:** Consistent, high-volume users.
-- **Benefits:** Provides a lower cost per credit, rollover benefits for unused credits, and access to exclusive Add-on Packs.
+- **Plan de pago por uso:**
+- **Ideal para:** un uso ocasional o imprevisible.
+- **Ventajas:** ofrece la máxima flexibilidad sin compromiso continuo.
+- **Plan de suscripción anual:**
+- **Recomendado para:** usuarios constantes y con alto volumen de edición.
+- **Ventajas:** ofrece un coste por crédito más bajo, beneficios por acumulación de créditos no usados y acceso a paquetes adicionales exclusivos.
 
-###### Recommendations:
+###### Recomendaciones
 
-- Choose a **subscription plan** if you use Evoto regularly and have a consistent editing workload.
-- Choose **Pay-as-You-Go credits** if your usage varies significantly from month to month or if you only need credits for specific, infrequent projects.
+- Elige un **plan de suscripción** si usas Evoto con regularidad y tienes una carga de trabajo constante.
+- Elige **créditos de pago por uso** si tu uso varía mucho de un mes a otro o si solo necesitas créditos para proyectos concretos y poco frecuentes.
 
-##### Can I Switch from a Pay‑as‑You‑Go Plan to a Subscription Plan?
+##### ¿Puedo pasar de un plan de pago por uso a un plan de suscripción?
 
-Yes. You can **upgrade to a subscription plan at any time**.
+Sí. Puedes **cambiar a un plan de suscripción en cualquier momento**.
 
-- The subscription begins immediately upon purchase.
-- Any unused Pay-as-You-Go credits you currently hold remain active and valid for up to **2 years** from their original purchase date, allowing you to use them alongside your new subscription credits.
+- La suscripción comienza inmediatamente después de la compra.
+- Los créditos de pago por uso que aún no hayas utilizado seguirán activos y serán válidos durante **2 años** desde su fecha de compra original, por lo que podrás usarlos junto con los nuevos créditos de suscripción.
 
-##### Can I Switch from a Yearly Subscription Plan to a Pay‑as‑You‑Go Package?
+##### ¿Puedo pasar de una suscripción anual a un paquete de pago por uso?
 
-Not while your annual subscription is active.
+No mientras tu suscripción anual siga activa.
 
-- During your active subscription period, you **cannot** purchase Pay-as-You-Go credits. If you need more credits before your next billing cycle, please purchase an **Add-on Pack** instead, which offers credits at your subscription's unit rate.
-- Once your current subscription ends or is canceled, you may then purchase a Pay-as-You-Go package.
+- Durante el periodo activo de tu suscripción **no puedes** comprar créditos de pago por uso. Si necesitas más créditos antes del siguiente ciclo de facturación, compra un **Add-on Pack**, ya que ofrece créditos al precio unitario de tu suscripción.
+- Una vez que tu suscripción finalice o se cancele, ya podrás comprar un paquete de pago por uso.
 
-**Note:** Any unused subscription credits (including rollover credits) may be forfeited and will not carry over if you do not renew your subscription.
-
----
-
-#### Payments & Discounts
-
-##### Do You Offer Installment Payment Options?
-
-No. Installment payment options are currently **not available** for standard plans (Pay-as-You-Go or annual subscriptions).
-
-- If you are considering an **Enterprise Plan**, you may discuss custom payment terms and options directly with your assigned Account Manager.
-
-##### Are There Discounts for Long-Term Commitments?
-
-No. Evoto currently does **not offer discounts** for multi-year plans. All pricing is based on the plan selected at the time of purchase.
-
-##### Are There Discounts for Students, Nonprofits, or Veterans?
-
-Not at this time. Special discounts are not currently available for students, nonprofits, or veterans.
-
-- However, please feel free to contact us at support@evoto.ai for more information or to inquire about potential future programs.
+**Nota:** Los créditos de suscripción no utilizados, incluidos los créditos acumulados, pueden perderse y no se conservarán si no renuevas la suscripción.
 
 ---
 
-#### Billing & Refund Policy
+#### Pagos y descuentos
 
-##### Is Customer Support Available for Billing Questions?
+##### ¿Ofrecen opciones de pago a plazos?
 
-Yes. Our dedicated support team is available to help with any billing inquiries or questions you may have.
+No. Actualmente **no hay pagos a plazos** para los planes estándar, incluidos los planes de pago por uso y las suscripciones anuales.
 
-You can contact us via:
+- Si estás valorando un **plan empresarial**, puedes hablar con tu gestor de cuenta para revisar condiciones de pago personalizadas.
 
-- **Email:** support@evoto.ai
-- **In-app chat:** Available directly inside the Evoto application.
+##### ¿Hay descuentos por compromisos a largo plazo?
 
-##### What Is the Refund Policy for Unused Credits?
+No. Actualmente Evoto **no ofrece descuentos** por planes de varios años. Todos los precios dependen del plan seleccionado en el momento de la compra.
 
-Refunds for unused credits are **generally not provided** due to the nature of software licensing and credit-based services, unless explicitly stated otherwise in our terms.
+##### ¿Hay descuentos para estudiantes, organizaciones sin ánimo de lucro o veteranos?
 
-- We highly recommend reviewing our official **Refund Policy** on our website for complete details.
-- You can also reach out to support@evoto.ai with your specific inquiry.
+No por ahora. Actualmente no hay descuentos especiales para estudiantes, organizaciones sin ánimo de lucro ni veteranos.
+
+- Aun así, puedes escribirnos a support@evoto.ai para obtener más información o consultar sobre posibles programas futuros.
 
 ---
 
-#### Troubleshooting Payment & Login Issues
+#### Facturación y política de reembolso
 
-##### What Should I Do If My Payment Fails (Error Code E-403)?
+##### ¿Hay soporte para dudas de facturación?
 
-If you encounter **Error Code E-403** or experience any other payment failure during a purchase, please try the following steps:
+Sí. Nuestro equipo de soporte está disponible para ayudarte con cualquier consulta relacionada con la facturación.
 
-1. **Try a different credit card or payment method.**
-2. **Wait 24 hours** before attempting the purchase again. Repeated attempts in quick succession may extend the waiting period.
-3. **Contact your bank** to:
-- Enable international transactions if you are making a purchase from a different country.
-- Lift any fraud or spending restrictions that might be blocking the transaction.
+Puedes contactarnos a través de:
 
-- **Common causes for payment failures include:** Insufficient funds, fraud prevention blocks by your bank, expired cards, international transaction limits, or temporary technical issues.
+- **Correo electrónico:** support@evoto.ai
+- **Chat dentro de la app:** disponible directamente en la aplicación de Evoto.
 
-If you are still having issues after trying these steps, please contact us at support@evoto.ai for further assistance.
+##### ¿Cuál es la política de reembolso para créditos no utilizados?
 
-##### What Should I Do If the Login Popup Keeps Failing to Load When Making a Purchase?
+Por la naturaleza de las licencias de software y de los servicios basados en créditos, **normalmente no se ofrecen reembolsos** por créditos no utilizados, salvo que nuestras condiciones indiquen expresamente lo contrario.
 
-If the login popup fails to load or causes issues when you're trying to make a purchase, try these troubleshooting steps:
+- Te recomendamos revisar la **política oficial de reembolso** en nuestro sitio web para conocer todos los detalles.
+- También puedes escribir a support@evoto.ai si tienes una consulta específica.
 
-1. **Check your internet connection:** Ensure that your device is connected to a reliable internet connection. Try opening other web pages or or applications to confirm that your internet connection is working properly.
-2. **Check your VPN connection:** If you are using a VPN (Virtual Private Network), verify that it is running properly. Sometimes, VPN connections can interfere with the loading of certain website elements or payment gateways. Try temporarily disabling your VPN to see if it resolves the issue.
-3. **Try a different browser or device:** If the issue persists, try making the purchase using a different web browser (e.g., Chrome, Firefox, Safari) or a different device. Sometimes, certain browsers or devices may have compatibility issues with the website or cached data causing interference.
+---
 
-If you are still having issues after trying these steps, please contact us at support@evoto.ai for further assistance.
+#### Solución de problemas de pago e inicio de sesión
+
+##### ¿Qué debo hacer si falla el pago con el código de error E-403?
+
+Si aparece el **código de error E-403** o cualquier otro fallo de pago durante una compra, prueba lo siguiente:
+
+1. **Prueba con otra tarjeta o método de pago.**
+2. **Espera 24 horas** antes de volver a intentarlo. Los intentos repetidos en poco tiempo pueden alargar el periodo de espera.
+3. **Contacta con tu banco** para:
+- habilitar transacciones internacionales si estás realizando la compra desde otro país;
+- retirar posibles bloqueos por fraude o límites de gasto que estén impidiendo la operación.
+
+- **Las causas más comunes de un pago fallido incluyen:** fondos insuficientes, bloqueos antifraude del banco, tarjetas caducadas, límites para transacciones internacionales o incidencias técnicas temporales.
+
+Si el problema continúa tras seguir estos pasos, escríbenos a support@evoto.ai para recibir más ayuda.
+
+##### ¿Qué debo hacer si la ventana emergente de inicio de sesión no carga al intentar comprar?
+
+Si la ventana emergente de inicio de sesión no carga o da problemas al intentar realizar una compra, prueba estas acciones:
+
+1. **Comprueba tu conexión a internet:** Asegúrate de que el dispositivo esté conectado a una red estable. Abre otras páginas web o aplicaciones para confirmar que la conexión funciona correctamente.
+2. **Comprueba tu VPN:** Si utilizas una VPN, verifica que funcione correctamente. En algunos casos puede interferir con la carga de determinados elementos del sitio web o de la pasarela de pago. Prueba a desactivarla temporalmente para comprobar si se resuelve el problema.
+3. **Prueba con otro navegador o dispositivo:** Si el problema persiste, intenta hacer la compra desde otro navegador (por ejemplo, Chrome, Firefox o Safari) o desde otro dispositivo. A veces puede haber incompatibilidades del navegador o datos en caché que interfieran.
+
+Si después de probar estos pasos el problema continúa, contacta con nosotros en support@evoto.ai para obtener ayuda adicional.
 
 ---

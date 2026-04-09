@@ -32,17 +32,17 @@ Importing these files has become a straightforward process.
 
 ###### Step 1: Access the Import Preset Option
 
-First, open Evoto and navigate to the **Presets** panel. Click on the **➕ (Plus)** icon, then select the **Import Preset** option. You will see a new selection for **“Local Files (.xmp/.cube).”** This is where you will begin the import process.
+首先，打開 Evoto 並前往 **Presets** 面板。點擊 **➕（Plus）** 圖示後，選擇 **Import Preset**。接著你會看到 **「Local Files (.xmp/.cube)」** 的選項，這就是匯入流程的起點。
 
-###### Step 2: Importing .XMP Files
+###### 步驟 2：匯入 .XMP 檔案
 
-If you have an .XMP file, simply select it and import it into Evoto. Upon import, Evoto will automatically create a new preset under **“My Presets,”** making it easily accessible for future use.
+如果你有 .XMP 檔案，只要選取後匯入 Evoto 即可。匯入完成後，Evoto 會自動在 **「My Presets」** 中建立新的預設，方便你之後快速使用。
 
-###### Step 3: Importing .CUBE Files or .XMP Files with LUT Information
+###### 步驟 3：匯入 .CUBE 檔案或包含 LUT 資訊的 .XMP 檔案
 
-If you're working with a .CUBE file or an .XMP file that includes LUT (Look-Up Table) information, the process is just as simple. Importing these files will automatically generate a preset that includes the **Profile** information, which will be stored in the same location as your other presets for quick access.
+如果你使用的是 .CUBE 檔案，或是包含 LUT（Look-Up Table）資訊的 .XMP 檔案，匯入方式也一樣簡單。匯入後系統會自動建立一個包含 **Profile** 資訊的預設，並與其他預設一起儲存在同一位置，方便快速存取。
 
-The ability to import these common file formats streamlines your editing process, allowing you to unleash your creative potential with seamless color adjustments.
+支援匯入這些常見格式，能讓你的編修流程更順暢，並透過無縫的色彩調整發揮更多創作可能。
 
 evoto-7-1-xmp-profile-support
 ##### New in Evoto 7.1: Missing Profile Detection

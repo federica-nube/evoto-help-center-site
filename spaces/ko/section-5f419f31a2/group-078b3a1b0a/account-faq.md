@@ -1,5 +1,5 @@
 ---
-title: "Account FAQs"
+title: "계정 FAQ"
 source_url: "https://support.evoto.ai/account-faq/"
 source_type: "post"
 source_id: "1346"
@@ -12,65 +12,65 @@ tags:
   - "faq"
 ---
 
-**This section provides answers to common questions about your Evoto account, including how to sign up, manage your access, and troubleshoot common issues like confirmation emails and password resets.**
+**이 섹션에서는 Evoto 계정과 관련해 자주 묻는 질문에 답합니다. 가입 방법, 접근 권한 관리, 확인 이메일 미수신이나 비밀번호 재설정 같은 일반적인 문제 해결 방법을 확인할 수 있습니다.**
 
-#### What Is an Evoto Account?
+#### Evoto 계정이란 무엇인가요?
 
-An Evoto account grants you secure access to our powerful photo editing platform. With an active account, you can:
+Evoto 계정은 강력한 사진 편집 플랫폼을 안전하게 이용할 수 있도록 해줍니다. 계정이 활성화되어 있으면 다음과 같은 작업을 할 수 있습니다.
 
-- Log in to the Evoto app across all supported devices (desktop and iPad).
-- Conveniently manage your credit usage, subscription plans, and billing settings.
-- Access your cloud-based presets and personalized settings, ensuring consistency across your workflow.
-- Receive important updates, feature announcements, and dedicated support from our team.
-
----
-
-#### How Do I Sign Up for an Account?
-
-You can easily register for a new Evoto account directly through the Evoto app or via our official website.
-
-###### Signing Up via the Evoto App
-
-1. Download and install the Evoto app from your device's app store.
-2. Open the app and locate the **Sign Up** option from the login screen.
-3. Enter your **email address** or **phone number** to create your account.
-4. Click **Sign Up**.
-5. Enter the **verification code** that is sent to your registered email or phone number.
-6. Click **Log In** to complete the registration process and access your account.
-
-###### Signing Up via the Evoto Website
-
-1. Go to the official Evoto website at[evoto.ai](https://evoto.ai/).
-2. Click **Sign In** (usually found in the top right corner).
-3. You can either enter your **email address** and proceed, or select **Continue with Google/Facebook** for a quicker registration.
-4. Follow the **confirmation steps** sent to your email address (if registering with email) to activate your account.
-
-**Tips:**
-
-- Use an email address that you regularly monitor for important account communications.
-- In some regions, identity validation may be required for enhanced account security during registration.
-- For more general information on getting started, refer to our[Start Guide](https://support.evoto.ai/getting-started/).
+- 지원되는 모든 기기(데스크톱, iPad)에서 Evoto 앱에 로그인할 수 있습니다.
+- 크레딧 사용량, 구독 플랜, 결제 설정을 편리하게 관리할 수 있습니다.
+- 클라우드 기반 프리셋과 개인 설정에 접근해 작업 흐름의 일관성을 유지할 수 있습니다.
+- 중요한 업데이트, 기능 안내, 전담 지원을 받을 수 있습니다.
 
 ---
 
-#### Troubleshooting: Didn’t Receive the Confirmation Email?
+#### 계정은 어떻게 가입하나요?
 
-If you've completed the signup process but haven't received your confirmation email, please try the following steps:
+Evoto 앱이나 공식 웹사이트에서 새 Evoto 계정을 쉽게 만들 수 있습니다.
 
-###### 1. Check Spam or Junk Folders
+###### Evoto 앱에서 가입하기
 
-Often, confirmation emails can be mistakenly filtered into spam or junk folders. Please check these folders for emails from any of the following senders:
+1. 기기의 앱 스토어에서 Evoto 앱을 다운로드해 설치합니다.
+2. 앱을 열고 로그인 화면에서 **Sign Up** 옵션을 찾습니다.
+3. **이메일 주소** 또는 **전화번호**를 입력해 계정을 생성합니다.
+4. **Sign Up** 을 클릭합니다.
+5. 등록한 이메일 또는 전화번호로 전송된 **인증 코드**를 입력합니다.
+6. **Log In** 을 눌러 가입을 완료하고 계정에 접속합니다.
+
+###### Evoto 웹사이트에서 가입하기
+
+1. 공식 Evoto 웹사이트 [evoto.ai](https://evoto.ai/) 로 이동합니다.
+2. **Sign In** 을 클릭합니다. 보통 화면 오른쪽 상단에 있습니다.
+3. **이메일 주소**를 입력해 계속 진행하거나, 더 빠른 가입을 위해 **Continue with Google/Facebook** 을 선택합니다.
+4. 이메일로 가입한 경우, 이메일로 전송된 **확인 절차**를 완료해 계정을 활성화합니다.
+
+**팁:**
+
+- 중요한 계정 안내를 놓치지 않도록 자주 확인하는 이메일 주소를 사용하는 것이 좋습니다.
+- 일부 지역에서는 계정 보안을 위해 가입 과정에서 본인 인증이 필요할 수 있습니다.
+- 시작 방법에 대한 일반적인 안내는 [Start Guide](https://support.evoto.ai/getting-started/)를 참고하세요.
+
+---
+
+#### 문제 해결: 확인 이메일을 받지 못했나요?
+
+가입 절차를 완료했는데 확인 이메일을 받지 못했다면 아래 단계를 시도해 보세요.
+
+###### 1. 스팸함 또는 정크 메일함 확인
+
+확인 이메일이 스팸함이나 정크 메일함으로 잘못 분류되는 경우가 많습니다. 아래 발신자 주소의 메일이 있는지 확인해 주세요.
 
 - noreply@mail.evoto.ai
 - noreply@mail1.evoto.ai
 - noreply@mail2.evoto.ai
 - noreply@mail3.evoto.ai
 
-If found, mark the email as “Not Spam” or “Not Junk” to ensure future communications are delivered to your inbox.
+메일을 찾았다면 “스팸 아님” 또는 “정크 메일 아님”으로 표시해 향후 안내가 받은편지함으로 오도록 설정하세요.
 
-###### 2. Add Us to Your Whitelist (Safe Sender List)
+###### 2. 화이트리스트(안전한 발신자 목록)에 추가하기
 
-To prevent future delivery issues and ensure Evoto emails always reach your inbox, add the addresses above to your contacts or whitelist/safe sender list. Instructions for common email providers are below:
+앞으로 Evoto 메일이 안정적으로 도착하도록 위 주소들을 연락처 또는 화이트리스트/안전한 발신자 목록에 추가해 주세요. 대표적인 메일 서비스 설정 방법은 아래와 같습니다.
 
 ###### Gmail
 
@@ -93,28 +93,28 @@ To prevent future delivery issues and ensure Evoto emails always reach your inbo
 3. Set rules to move emails from the listed Evoto senders to your Inbox (e.g., set “From” to contains evoto.ai and move to “Inbox”).
 4. Click **Save**.
 
-###### Still Not Receiving the Email?
+###### 그래도 이메일이 오지 않나요?
 
-If none of the above steps resolve the issue, please contact our support team for further assistance:
+위 방법으로도 해결되지 않으면 지원팀에 문의해 주세요.
 
 - **Email:** support@evoto.ai
 
 ---
 
-#### What if I forget my password?
+#### 비밀번호를 잊어버리면 어떻게 하나요?
 
-If you forget your Evoto account password, you can easily reset it directly through the app or website:
+Evoto 계정 비밀번호를 잊어버렸다면 앱이나 웹사이트에서 바로 재설정할 수 있습니다.
 
-1. On the login screen, click the **'Forgot Password?'** or **'Reset Password'** link.
-2. Enter your registered email address or phone number.
-3. Follow the instructions sent to your email or phone to create a new password.
+1. 로그인 화면에서 **'Forgot Password?'** 또는 **'Reset Password'** 링크를 클릭합니다.
+2. 등록된 이메일 주소 또는 전화번호를 입력합니다.
+3. 이메일 또는 휴대폰으로 전송된 안내에 따라 새 비밀번호를 설정합니다.
 
 ---
 
-#### How do I log out of my Evoto account?
+#### Evoto 계정에서 로그아웃하려면 어떻게 하나요?
 
-To log out of your Evoto account:
+Evoto 계정에서 로그아웃하려면 다음 단계를 따르세요.
 
-1. Open the Evoto application.
-2. Click on your **account avatar** (usually a blue circle with your initial or profile picture) in the top right corner or sidebar.
-3. From the dropdown menu, select **'Sign Out'** or **'Log Out'**.
+1. Evoto 앱을 엽니다.
+2. 화면 오른쪽 상단 또는 사이드바에 있는 **계정 아바타**(이니셜 또는 프로필 이미지)를 클릭합니다.
+3. 드롭다운 메뉴에서 **'Sign Out'** 또는 **'Log Out'** 을 선택합니다.

@@ -1,5 +1,5 @@
 ---
-title: "iPad Clothing Adjustment"
+title: "iPad 의상 보정"
 source_url: "https://support.evoto.ai/clothing-adjustment-ipad/"
 source_type: "post"
 source_id: "2234"

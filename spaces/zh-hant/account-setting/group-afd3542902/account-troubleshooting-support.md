@@ -1,5 +1,5 @@
 ---
-title: "Account Troubleshooting"
+title: "帳戶疑難排解與支援"
 source_url: "https://support.evoto.ai/account-troubleshooting-support/"
 source_type: "post"
 source_id: "2128"
@@ -15,37 +15,37 @@ tags:
   - "troubleshoot"
 ---
 
-This section addresses common account issues, outlines how to resolve them, and guides you on reporting bugs or providing feedback.
+本節整理常見的帳戶問題，說明解決方法，並指引你如何回報 Bug 或提供回饋。
 
-#### What should I do if I forget my password?
+#### 如果我忘記密碼，該怎麼辦？
 
-If you forget your Evoto account password, you can easily reset it directly through the app or website:
+如果你忘記 Evoto 帳戶密碼，可以直接在 App 或網站上輕鬆重設：
 
-- Use the **“Forgot Password”** link on the login page.
-- Follow the emailed instructions to reset your password securely.
+- 在登入頁面使用 **「Forgot Password」** 連結。
+- 依照寄到你電子郵件中的指示安全地重設密碼。
 
-If problems persist after following these steps, contact support via the account dashboard or community support threads.
-
----
-
-#### How can I resolve account issues or errors?
-
-If you encounter general account issues or errors, try these troubleshooting steps:
-
-- **General Troubleshooting:**
-- Clear your browser cache or try accessing Evoto using a different web browser.
-- Check for service status updates on the main Evoto site or blog, as widespread issues may be announced there.
-- Look for similar issues discussed on the Evoto Forum, where community moderators and experienced users often share solutions and workarounds.
-- **Deep Dive Troubleshooting:**
-- Some advanced users report issues related to API connectivity or external integrations. For insights on resolving these more technical issues, look for technical posts and bug reports on the Evoto Forum, or contact support@evoto.ai.
+如果完成以上步驟後仍有問題，請透過帳戶儀表板或社群支援討論串聯絡支援團隊。
 
 ---
 
-#### How do I report bugs or provide account-related feedback?
+#### 我要如何處理帳戶問題或錯誤？
 
-Your feedback is valuable for improving Evoto. The most effective way to report bugs or get support is through our official channels.
+如果你遇到一般性的帳戶問題或錯誤，請先嘗試以下疑難排解步驟：
 
-- The most effective way is to contact our support team directly at **support@evoto.ai**.
-- Alternatively, you can right-click an image and go to **“Provide Feedback.”** Enter the information in the pop-up box to send feedback to our team.
-- You can also post your issue on the **Evoto Forum**, where fellow users actively respond.
-- Always follow any guidelines mentioned on the **Evoto Blog** regarding bug reporting procedures, as this helps our team efficiently address your concerns.
+- **一般疑難排解：**
+- 清除瀏覽器快取，或改用其他瀏覽器存取 Evoto。
+- 查看 Evoto 主網站或部落格的服務狀態更新，若是大範圍問題，通常會在這些管道公告。
+- 到 Evoto Forum 查看是否有類似問題，社群管理員與有經驗的使用者常會分享解法與替代方案。
+- **進階疑難排解：**
+- 部分進階使用者回報的問題與 API 連線或外部整合有關。若想了解這類技術問題的處理方式，請參考 Evoto Forum 中的技術文章與錯誤回報，或直接聯絡 support@evoto.ai。
+
+---
+
+#### 我要如何回報 Bug 或提供帳戶相關回饋？
+
+你的回饋對 Evoto 的改進很有價值。回報 Bug 或取得支援的最有效方式，是透過我們的官方管道。
+
+- 最直接有效的方式，是寄信到 **support@evoto.ai** 聯絡支援團隊。
+- 你也可以在圖片上按右鍵，選擇 **「Provide Feedback」**，並在跳出的視窗中填入資訊，把回饋送給團隊。
+- 你也可以把問題發佈到 **Evoto Forum**，其他使用者通常會很積極地回應。
+- 若 **Evoto Blog** 對 Bug 回報流程有任何說明，請盡量依照指引操作，這有助於團隊更有效率地處理你的問題。

@@ -1,5 +1,5 @@
 ---
-title: "Pricing FAQ"
+title: "價格常見問題"
 source_url: "https://support.evoto.ai/pricing-faq/"
 source_type: "post"
 source_id: "1265"
@@ -10,116 +10,116 @@ secondary_categories:
   - "price-billing"
 ---
 
-This section provides answers to common questions about Evoto's pricing, plans, payment methods, and related policies.
+本節整理了關於 Evoto 價格、方案、付款方式與相關政策的常見問題。
 
 ---
 
-#### Plan Types & Recommendations
+#### 方案類型與建議
 
-##### Does Evoto Offer Enterprise Plans?
+##### Evoto 有企業方案嗎？
 
-Yes. Evoto provides customized **Enterprise Plans** specifically tailored for large teams, studios, and organizations with high-volume editing needs.
+有。Evoto 提供專為大型團隊、工作室與高產量編修需求組織設計的**企業方案**。
 
-- To request a consultation and discuss a customized solution, please email our sales team at contactus@evoto.ai (as per the main pricing page, ensuring consistency).
+- 如果你想預約諮詢並討論客製化方案，請寄信到 contactus@evoto.ai 與我們的銷售團隊聯繫。
 
-##### Should I Choose a Pay‑as‑You‑Go Plan or a Subscription Plan?
+##### 我該選擇隨用隨付方案，還是訂閱方案？
 
-Choosing the right plan depends on your editing volume and consistency. Please check our comprehensive [Pricing Page](https://support.evoto.ai/credit/) for more information.
+最適合的方案取決於你的編修量與使用頻率。更多資訊請參考完整的 [Pricing Page](https://support.evoto.ai/credit/)。
 
-- **Pay-as-You-Go Plan:**
-- **Ideal for:** Occasional or unpredictable usage.
-- **Benefits:** Offers maximum flexibility with no ongoing commitment.
-- **Yearly Subscription Plan:**
-- **Best for:** Consistent, high-volume users.
-- **Benefits:** Provides a lower cost per credit, rollover benefits for unused credits, and access to exclusive Add-on Packs.
+- **隨用隨付方案：**
+- **適合對象：** 偶爾使用，或每月使用量不固定的使用者。
+- **優點：** 最有彈性，不需要持續綁約。
+- **年度訂閱方案：**
+- **適合對象：** 長期且高頻率使用的使用者。
+- **優點：** 每點成本更低，未使用點數可延續，並可購買專屬的 Add-on Packs。
 
-###### Recommendations:
+###### 建議
 
-- Choose a **subscription plan** if you use Evoto regularly and have a consistent editing workload.
-- Choose **Pay-as-You-Go credits** if your usage varies significantly from month to month or if you only need credits for specific, infrequent projects.
+- 如果你經常使用 Evoto，且工作量穩定，建議選擇**訂閱方案**。
+- 如果你的使用量每個月差異很大，或只在特定、較少發生的專案中需要點數，建議選擇**隨用隨付點數**。
 
-##### Can I Switch from a Pay‑as‑You‑Go Plan to a Subscription Plan?
+##### 我可以從隨用隨付方案轉成訂閱方案嗎？
 
-Yes. You can **upgrade to a subscription plan at any time**.
+可以。你可以**隨時升級為訂閱方案**。
 
-- The subscription begins immediately upon purchase.
-- Any unused Pay-as-You-Go credits you currently hold remain active and valid for up to **2 years** from their original purchase date, allowing you to use them alongside your new subscription credits.
+- 訂閱會在購買後立即生效。
+- 你目前持有但尚未使用的隨用隨付點數，會自原始購買日起最多維持 **2 年**有效，你可以與新的訂閱點數一起使用。
 
-##### Can I Switch from a Yearly Subscription Plan to a Pay‑as‑You‑Go Package?
+##### 我可以從年度訂閱方案轉成隨用隨付方案嗎？
 
-Not while your annual subscription is active.
+在年度訂閱仍有效期間內，不行。
 
-- During your active subscription period, you **cannot** purchase Pay-as-You-Go credits. If you need more credits before your next billing cycle, please purchase an **Add-on Pack** instead, which offers credits at your subscription's unit rate.
-- Once your current subscription ends or is canceled, you may then purchase a Pay-as-You-Go package.
+- 在訂閱有效期間內，你**不能**購買隨用隨付點數。如果你在下個計費週期前需要更多點數，請改購買 **Add-on Pack**，它會依照你的訂閱單價提供點數。
+- 只有在目前訂閱結束或取消後，你才可以購買隨用隨付方案。
 
-**Note:** Any unused subscription credits (including rollover credits) may be forfeited and will not carry over if you do not renew your subscription.
-
----
-
-#### Payments & Discounts
-
-##### Do You Offer Installment Payment Options?
-
-No. Installment payment options are currently **not available** for standard plans (Pay-as-You-Go or annual subscriptions).
-
-- If you are considering an **Enterprise Plan**, you may discuss custom payment terms and options directly with your assigned Account Manager.
-
-##### Are There Discounts for Long-Term Commitments?
-
-No. Evoto currently does **not offer discounts** for multi-year plans. All pricing is based on the plan selected at the time of purchase.
-
-##### Are There Discounts for Students, Nonprofits, or Veterans?
-
-Not at this time. Special discounts are not currently available for students, nonprofits, or veterans.
-
-- However, please feel free to contact us at support@evoto.ai for more information or to inquire about potential future programs.
+**注意：** 如果你沒有續訂，任何未使用的訂閱點數（包含延續點數）都可能失效，不會再延續到下一期。
 
 ---
 
-#### Billing & Refund Policy
+#### 付款與折扣
 
-##### Is Customer Support Available for Billing Questions?
+##### 可以分期付款嗎？
 
-Yes. Our dedicated support team is available to help with any billing inquiries or questions you may have.
+不行。目前標準方案（隨用隨付或年度訂閱）**不提供**分期付款。
 
-You can contact us via:
+- 如果你正在考慮**企業方案**，可以直接與你的帳戶經理討論客製化的付款條件與方式。
 
-- **Email:** support@evoto.ai
-- **In-app chat:** Available directly inside the Evoto application.
+##### 長期承諾會有折扣嗎？
 
-##### What Is the Refund Policy for Unused Credits?
+不會。Evoto 目前**不提供**多年度方案折扣。所有價格都以你購買時所選擇的方案為準。
 
-Refunds for unused credits are **generally not provided** due to the nature of software licensing and credit-based services, unless explicitly stated otherwise in our terms.
+##### 學生、非營利組織或退伍軍人有優惠嗎？
 
-- We highly recommend reviewing our official **Refund Policy** on our website for complete details.
-- You can also reach out to support@evoto.ai with your specific inquiry.
+目前沒有。現在暫時未提供學生、非營利組織或退伍軍人的特殊折扣。
+
+- 不過，你仍可透過 support@evoto.ai 聯繫我們，以了解更多資訊或詢問未來是否可能推出相關方案。
 
 ---
 
-#### Troubleshooting Payment & Login Issues
+#### 帳單與退款政策
 
-##### What Should I Do If My Payment Fails (Error Code E-403)?
+##### 有提供帳單相關問題的客服支援嗎？
 
-If you encounter **Error Code E-403** or experience any other payment failure during a purchase, please try the following steps:
+有。我們的專屬支援團隊可協助處理任何帳單相關問題與疑問。
 
-1. **Try a different credit card or payment method.**
-2. **Wait 24 hours** before attempting the purchase again. Repeated attempts in quick succession may extend the waiting period.
-3. **Contact your bank** to:
-- Enable international transactions if you are making a purchase from a different country.
-- Lift any fraud or spending restrictions that might be blocking the transaction.
+你可以透過以下方式聯絡我們：
 
-- **Common causes for payment failures include:** Insufficient funds, fraud prevention blocks by your bank, expired cards, international transaction limits, or temporary technical issues.
+- **Email：** support@evoto.ai
+- **App 內聊天：** 可直接在 Evoto 應用程式中使用。
 
-If you are still having issues after trying these steps, please contact us at support@evoto.ai for further assistance.
+##### 未使用的點數可以退款嗎？
 
-##### What Should I Do If the Login Popup Keeps Failing to Load When Making a Purchase?
+除非條款中另有明確說明，否則基於軟體授權與點數服務的性質，**通常不提供**未使用點數的退款。
 
-If the login popup fails to load or causes issues when you're trying to make a purchase, try these troubleshooting steps:
+- 我們建議你先查閱官網上的**退款政策**，了解完整細節。
+- 你也可以寄信到 support@evoto.ai，告訴我們你的具體情況。
 
-1. **Check your internet connection:** Ensure that your device is connected to a reliable internet connection. Try opening other web pages or or applications to confirm that your internet connection is working properly.
-2. **Check your VPN connection:** If you are using a VPN (Virtual Private Network), verify that it is running properly. Sometimes, VPN connections can interfere with the loading of certain website elements or payment gateways. Try temporarily disabling your VPN to see if it resolves the issue.
-3. **Try a different browser or device:** If the issue persists, try making the purchase using a different web browser (e.g., Chrome, Firefox, Safari) or a different device. Sometimes, certain browsers or devices may have compatibility issues with the website or cached data causing interference.
+---
 
-If you are still having issues after trying these steps, please contact us at support@evoto.ai for further assistance.
+#### 付款與登入問題排查
+
+##### 如果付款失敗並出現 E-403 錯誤碼，該怎麼辦？
+
+如果你在購買過程中遇到 **Error Code E-403**，或發生其他付款失敗情況，請先嘗試以下步驟：
+
+1. **改用其他信用卡或付款方式。**
+2. **等待 24 小時**後再重新嘗試購買。若在短時間內連續多次嘗試，等待時間可能會被延長。
+3. **聯絡你的銀行**，請對方：
+- 啟用跨國交易功能（如果你是在其他國家付款）；
+- 解除可能阻擋交易的防詐或消費限制。
+
+- **常見的付款失敗原因包括：** 餘額不足、銀行防詐攔截、卡片過期、跨國交易限制，或暫時性的技術問題。
+
+如果你完成上述步驟後仍然無法付款，請寄信到 support@evoto.ai 與我們聯繫。
+
+##### 如果購買時登入彈窗一直無法載入，該怎麼辦？
+
+如果你在購買時遇到登入彈窗無法載入，或彈窗造成流程中斷，請嘗試以下排查方式：
+
+1. **檢查網路連線：** 確認你的裝置已連上穩定的網路。你可以嘗試打開其他網頁或 App，確認連線是否正常。
+2. **檢查 VPN 連線：** 如果你正在使用 VPN，請確認它運作正常。有時 VPN 會干擾網站元件或支付頁面的載入，建議暫時停用後再試一次。
+3. **改用其他瀏覽器或裝置：** 若問題持續，請改用其他瀏覽器（例如 Chrome、Firefox、Safari）或其他裝置嘗試購買。有時是瀏覽器相容性或快取資料造成干擾。
+
+如果你在完成這些步驟後仍然遇到問題，請寄信到 support@evoto.ai 取得進一步協助。
 
 ---

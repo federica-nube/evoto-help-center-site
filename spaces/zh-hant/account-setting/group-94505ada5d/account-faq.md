@@ -1,5 +1,5 @@
 ---
-title: "Account FAQs"
+title: "帳戶常見問題"
 source_url: "https://support.evoto.ai/account-faq/"
 source_type: "post"
 source_id: "1346"
@@ -12,65 +12,65 @@ tags:
   - "faq"
 ---
 
-**This section provides answers to common questions about your Evoto account, including how to sign up, manage your access, and troubleshoot common issues like confirmation emails and password resets.**
+**本節整理了與 Evoto 帳戶相關的常見問題，包括如何註冊、管理帳戶存取，以及處理確認信與密碼重設等常見情況。**
 
-#### What Is an Evoto Account?
+#### 什麼是 Evoto 帳戶？
 
-An Evoto account grants you secure access to our powerful photo editing platform. With an active account, you can:
+Evoto 帳戶可讓你安全地使用我們強大的照片編輯平台。帳戶啟用後，你可以：
 
-- Log in to the Evoto app across all supported devices (desktop and iPad).
-- Conveniently manage your credit usage, subscription plans, and billing settings.
-- Access your cloud-based presets and personalized settings, ensuring consistency across your workflow.
-- Receive important updates, feature announcements, and dedicated support from our team.
-
----
-
-#### How Do I Sign Up for an Account?
-
-You can easily register for a new Evoto account directly through the Evoto app or via our official website.
-
-###### Signing Up via the Evoto App
-
-1. Download and install the Evoto app from your device's app store.
-2. Open the app and locate the **Sign Up** option from the login screen.
-3. Enter your **email address** or **phone number** to create your account.
-4. Click **Sign Up**.
-5. Enter the **verification code** that is sent to your registered email or phone number.
-6. Click **Log In** to complete the registration process and access your account.
-
-###### Signing Up via the Evoto Website
-
-1. Go to the official Evoto website at[evoto.ai](https://evoto.ai/).
-2. Click **Sign In** (usually found in the top right corner).
-3. You can either enter your **email address** and proceed, or select **Continue with Google/Facebook** for a quicker registration.
-4. Follow the **confirmation steps** sent to your email address (if registering with email) to activate your account.
-
-**Tips:**
-
-- Use an email address that you regularly monitor for important account communications.
-- In some regions, identity validation may be required for enhanced account security during registration.
-- For more general information on getting started, refer to our[Start Guide](https://support.evoto.ai/getting-started/).
+- 在所有支援的裝置上（桌面版與 iPad）登入 Evoto App。
+- 方便地管理你的點數使用情況、訂閱方案與帳單設定。
+- 存取雲端預設與個人化設定，讓工作流程保持一致。
+- 接收重要更新、功能公告，以及我們團隊提供的專屬支援。
 
 ---
 
-#### Troubleshooting: Didn’t Receive the Confirmation Email?
+#### 我要如何註冊帳戶？
 
-If you've completed the signup process but haven't received your confirmation email, please try the following steps:
+你可以直接在 Evoto App 或官方網站上輕鬆註冊新的 Evoto 帳戶。
 
-###### 1. Check Spam or Junk Folders
+###### 透過 Evoto App 註冊
 
-Often, confirmation emails can be mistakenly filtered into spam or junk folders. Please check these folders for emails from any of the following senders:
+1. 從你裝置的 App Store 下載並安裝 Evoto App。
+2. 開啟 App，並在登入畫面找到 **Sign Up**。
+3. 輸入你的**電子郵件地址**或**手機號碼**來建立帳戶。
+4. 點擊 **Sign Up**。
+5. 輸入寄送到你註冊電子郵件或手機號碼的**驗證碼**。
+6. 點擊 **Log In** 完成註冊流程並進入你的帳戶。
+
+###### 透過 Evoto 網站註冊
+
+1. 前往 Evoto 官方網站 [evoto.ai](https://evoto.ai/)。
+2. 點擊 **Sign In**（通常位於右上角）。
+3. 你可以輸入**電子郵件地址**繼續，或選擇 **Continue with Google/Facebook** 更快速地註冊。
+4. 若你使用電子郵件註冊，請依照寄送到信箱中的**確認步驟**啟用帳戶。
+
+**小提醒：**
+
+- 請使用你平常會查看的電子郵件地址，以免錯過重要帳戶通知。
+- 在某些地區，為提升帳戶安全性，註冊時可能需要進行身分驗證。
+- 如需更多入門資訊，請參考我們的 [Start Guide](https://support.evoto.ai/getting-started/)。
+
+---
+
+#### 疑難排解：沒有收到確認信？
+
+如果你已完成註冊流程，但還沒有收到確認信，請嘗試以下步驟：
+
+###### 1. 檢查垃圾郵件或廣告信件匣
+
+確認信有時會被誤判到垃圾郵件或廣告信件匣。請檢查是否收到以下寄件者寄出的郵件：
 
 - noreply@mail.evoto.ai
 - noreply@mail1.evoto.ai
 - noreply@mail2.evoto.ai
 - noreply@mail3.evoto.ai
 
-If found, mark the email as “Not Spam” or “Not Junk” to ensure future communications are delivered to your inbox.
+如果有找到，請將郵件標記為「非垃圾郵件」，確保未來通知能正常送達收件匣。
 
-###### 2. Add Us to Your Whitelist (Safe Sender List)
+###### 2. 將我們加入白名單（安全寄件者清單）
 
-To prevent future delivery issues and ensure Evoto emails always reach your inbox, add the addresses above to your contacts or whitelist/safe sender list. Instructions for common email providers are below:
+為避免後續再次收不到信，並確保 Evoto 郵件都能送達收件匣，請將上述地址加入聯絡人或白名單/安全寄件者清單。常見信箱服務的設定方式如下：
 
 ###### Gmail
 
@@ -93,28 +93,28 @@ To prevent future delivery issues and ensure Evoto emails always reach your inbo
 3. Set rules to move emails from the listed Evoto senders to your Inbox (e.g., set “From” to contains evoto.ai and move to “Inbox”).
 4. Click **Save**.
 
-###### Still Not Receiving the Email?
+###### 還是沒收到郵件？
 
-If none of the above steps resolve the issue, please contact our support team for further assistance:
+如果以上方法都無法解決問題，請聯絡支援團隊尋求協助：
 
 - **Email:** support@evoto.ai
 
 ---
 
-#### What if I forget my password?
+#### 如果我忘記密碼怎麼辦？
 
-If you forget your Evoto account password, you can easily reset it directly through the app or website:
+如果你忘記 Evoto 帳戶密碼，可以直接在 App 或網站上重新設定：
 
-1. On the login screen, click the **'Forgot Password?'** or **'Reset Password'** link.
-2. Enter your registered email address or phone number.
-3. Follow the instructions sent to your email or phone to create a new password.
+1. 在登入畫面點擊 **'Forgot Password?'** 或 **'Reset Password'** 連結。
+2. 輸入你註冊時使用的電子郵件地址或手機號碼。
+3. 依照寄送到你信箱或手機的指示建立新密碼。
 
 ---
 
-#### How do I log out of my Evoto account?
+#### 我要如何登出 Evoto 帳戶？
 
-To log out of your Evoto account:
+若要登出 Evoto 帳戶：
 
-1. Open the Evoto application.
-2. Click on your **account avatar** (usually a blue circle with your initial or profile picture) in the top right corner or sidebar.
-3. From the dropdown menu, select **'Sign Out'** or **'Log Out'**.
+1. 開啟 Evoto App。
+2. 點擊右上角或側邊欄中的**帳戶頭像**（通常是藍色圓形的姓名縮寫或個人照片）。
+3. 從下拉選單中選擇 **'Sign Out'** 或 **'Log Out'**。

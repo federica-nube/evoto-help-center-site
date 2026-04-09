@@ -1,5 +1,5 @@
 ---
-title: "Evoto for iPad - Tool Bar"
+title: "Barra de herramientas de Evoto para iPad"
 source_url: "https://support.evoto.ai/tool-bar-ipad/"
 source_type: "post"
 source_id: "1490"
@@ -85,7 +85,7 @@ Toggle the visibility of the Freeze Mask overlay. When off, masked areas will no
 
 ##### Navigation Note
 
-You can export or return to the **Project Page** while in the Liquify tool. A prompt will appear, confirming that liquify changes will be preserved.
+Puedes exportar o volver a la **página del proyecto** mientras estás dentro de la herramienta Liquify. Aparecerá un aviso confirmando que los cambios de licuado se conservarán.
 
 ***
 

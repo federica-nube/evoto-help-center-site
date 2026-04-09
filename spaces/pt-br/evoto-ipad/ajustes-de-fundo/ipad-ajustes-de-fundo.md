@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Ajustes de Fundo"
+title: "iPad - Ajustes de Fundo"
 source_url: "https://support.evoto.ai/pt-br/ipad-ajustes-de-fundo/"
 source_type: "post"
 source_id: "21100"

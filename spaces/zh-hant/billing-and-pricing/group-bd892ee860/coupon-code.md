@@ -1,5 +1,5 @@
 ---
-title: "Promo Codes"
+title: "優惠碼與促銷碼"
 source_url: "https://support.evoto.ai/coupon-code/"
 source_type: "post"
 source_id: "1574"
@@ -11,27 +11,27 @@ secondary_categories:
   - "uncategorized-en"
 ---
 
-This section provides answers to common questions about finding and using Evoto coupon and promo codes.
+本節整理了關於如何取得與使用 Evoto 優惠碼和促銷碼的常見問題。
 
-#### Where Can I Find Evoto Coupon Codes?
+#### 我可以在哪裡找到 Evoto 優惠碼？
 
-Evoto distributes valid coupon and promo codes through official channels. To make sure you don't miss any exclusive offers, we recommend the following:
+Evoto 會透過官方管道發佈有效的優惠碼與促銷碼。為了避免錯過任何限定優惠，建議你留意以下來源：
 
-- **Official Blog Posts:** Look for promotional campaigns and seasonal offers on the Evoto blog.
-- **Subscriber Newsletters:** We send exclusive offers directly to your registered email address.
-- **Social Media:** Follow our official social media accounts for special event promotions and partnership campaigns.
+- **官方部落格文章：** Evoto 部落格會發佈促銷活動與季節性優惠。
+- **訂閱電子報：** 我們會將專屬優惠直接寄送到你註冊的電子郵件信箱。
+- **社群媒體：** 關注官方社群帳號，以掌握活動優惠與合作推廣資訊。
 
-#### Do Promo Codes Expire?
+#### 促銷碼會過期嗎？
 
-Yes, promo codes do have expiration dates. The expiration date is usually listed in the event or message where the code was provided. If no date is stated, you can try entering the code at checkout. If the code has expired, a message will appear to let you know it's no longer valid.
+會。促銷碼通常都有有效期限。到期日一般會標示在活動頁面或提供該代碼的訊息中。如果沒有寫明日期，你可以在結帳時嘗試輸入；若代碼已過期，系統會提示此代碼已失效。
 
-#### Are There Any Restrictions on Promotional Codes?
+#### 使用促銷碼有什麼限制嗎？
 
-Yes, there are a few restrictions to keep in mind:
+有，以下幾點需要特別注意：
 
-- **Non-transferable:** Promo codes are linked to specific campaigns and cannot be transferred or sold.
-- **Limited Eligibility:** Some codes apply to all packages, while others may be limited to specific options.
-- **One Code Per Transaction:** You can only apply one promo code per transaction.
-- **Expiration Dates:** Promotional codes have expiration dates, which are typically listed with the code.
+- **不得轉讓：** 促銷碼通常綁定特定活動，不能轉讓或販售。
+- **適用範圍有限：** 有些代碼適用於所有方案，有些則只適用於特定方案。
+- **每筆交易僅限一組：** 每次交易只能使用一組促銷碼。
+- **有使用期限：** 促銷碼通常都有有效期限，通常會和代碼一起標示。
 
-If your code isn't working or you're unsure why, please contact us at **support@evoto.ai** for assistance.
+如果你的代碼無法使用，或不確定原因，請寄信到 **support@evoto.ai** 與我們聯繫。

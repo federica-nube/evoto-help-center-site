@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Substituição de Céu"
+title: "iPad - Substituição de Céu"
 source_url: "https://support.evoto.ai/pt-br/ipad-substituicao-de-ceu/"
 source_type: "post"
 source_id: "21125"

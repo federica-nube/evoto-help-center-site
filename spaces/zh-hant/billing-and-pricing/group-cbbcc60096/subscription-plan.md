@@ -1,5 +1,5 @@
 ---
-title: "Subscription Plan"
+title: "訂閱方案"
 source_url: "https://support.evoto.ai/subscription-plan/"
 source_type: "post"
 source_id: "1245"
@@ -10,11 +10,11 @@ secondary_categories:
   - "subscription"
 ---
 
-Evoto offers annual subscription plans that are ideal for consistent, high-volume users. These plans provide a lower cost per credit, rollover benefits, and exclusive access to Add-on Packs.
+Evoto 提供年度訂閱方案，特別適合穩定且高頻率使用的用戶。這些方案提供更低的單點成本、點數延續機制，以及專屬 Add-on Packs 的購買資格。
 
-#### Annual Subscription Tiers
+#### 年度訂閱等級
 
-Evoto offers five annual subscription tiers, each providing a set number of credits and additional benefits:
+Evoto 目前提供五種年度訂閱等級，每一種都包含固定數量的點數與額外權益：
 
 - **Starter Plan:** 800 credits/year
 - **Basic Plan:** 1,600 credits/year
@@ -24,59 +24,59 @@ Evoto offers five annual subscription tiers, each providing a set number of cred
 
 ---
 
-#### Credit Management
+#### 點數管理
 
-##### Credit Rollover Feature
+##### 點數延續功能
 
-When you renew your annual subscription, any unused credits from the previous year will roll over to the next year.
+當你續訂年度訂閱時，前一年尚未使用的點數會延續到下一年。
 
-- You can roll over up to **5x** the number of credits in your current plan.
-- Rolled-over credits remain valid as long as your subscription is active.
+- 最多可延續相當於目前方案點數數量 **5 倍** 的點數。
+- 只要你的訂閱維持有效，這些延續點數就會持續有效。
 
-###### Example:
+###### 範例：
 
-- On the Basic Plus plan (3,600 credits/year), your rollover limit is 18,000 credits (3,600 × 5).
+- 若你使用 Basic Plus 方案（每年 3,600 點），你的延續上限就是 18,000 點（3,600 × 5）。
 
 **Add-on Packs**
 
-An Add-on Pack is an optional credit bundle you can purchase during your subscription term without changing your plan.
+Add-on Pack 是你在訂閱期間可額外購買的點數包，不需要更改原有方案。
 
-- Add-on Packs are available at a lower per-credit rate than Pay-as-You-Go credits.
-- The pricing is based on your current subscription tier.
-- There is no limit on how many times you can purchase them.
+- Add-on Packs 的每點價格低於隨用隨付點數。
+- 價格會依照你目前的訂閱等級而定。
+- 購買次數沒有限制。
 
-**How to Check the Add-on Pack Price:**
+**如何查看 Add-on Pack 的價格：**
 
-1. Log in at evoto.ai.
-2. Go to the **Pricing Page**.
-3. Click **Add-on Pack** to view the available options for your plan.
+1. 登入 evoto.ai。
+2. 前往 **Pricing Page**。
+3. 點擊 **Add-on Pack** 查看你的方案可購買的選項。
 
-##### Credit Expiration and Renewal
+##### 點數到期與續訂
 
-- **Do credits expire?** Annual subscription credits roll over if you renew your plan on time and do not expire. Pay-as-you-go credits, however, are valid for 2 years from the date of purchase.
-- **Renewal Reminder:** Evoto will send you a renewal reminder before your annual subscription is set to renew, giving you time to review, update, or cancel your plan as needed.
-- **Renewal Payment:** You will be billed once per year on the anniversary date of your original purchase.
-- **What if I don’t renew on time?** You have a **30-day grace period** after your subscription ends. If you renew during this period, your rollover credits remain valid. If you do not renew on time, all remaining credits, including rollover credits, will expire and be permanently invalidated.
+- **點數會過期嗎？** 如果你準時續訂，年度訂閱點數會延續且不會過期。隨用隨付點數則自購買日起有效 2 年。
+- **續訂提醒：** Evoto 會在年度訂閱即將續訂前寄送提醒，讓你有時間檢查、更新或取消方案。
+- **續訂付款：** 系統會依照原始購買日期的週年日，每年收取一次費用。
+- **如果沒有準時續訂怎麼辦？** 訂閱結束後你會有 **30 天寬限期**。若在此期間內完成續訂，延續點數仍然有效；若未在期限內續訂，所有剩餘點數（包含延續點數）都會過期並永久失效。
 
 ---
 
-#### Managing Your Subscription
+#### 管理你的訂閱
 
-##### Subscription Downgrades
+##### 方案降級
 
-You can request to downgrade your plan at any time. The change will take effect at the start of your next billing cycle.
+你可以隨時申請將方案降級。變更會在下一個計費週期開始時生效。
 
-**Example:**
+**範例：**
 
-- You’re on the Basic Plus plan (3,600 credits/year) and request a downgrade to the Starter plan (800 credits/year).
-- Your rollover limit for the new plan becomes 4,000 credits (800 × 5).
-- If you have 5,000 credits when the new plan starts, 1,000 credits will be forfeited.
-- The new plan activates on your next billing date. All available credits will remain in your account until the new plan starts.
+- 你目前使用 Basic Plus 方案（每年 3,600 點），並申請降級為 Starter 方案（每年 800 點）。
+- 新方案的點數延續上限將變成 4,000 點（800 × 5）。
+- 如果新方案開始時你有 5,000 點，則其中 1,000 點會失效。
+- 新方案會在你的下一個計費日生效；在此之前，現有點數仍會保留在帳戶內。
 
-###### How to Cancel Your Subscription
+###### 如何取消訂閱
 
-1. Log in to your Evoto account.
-2. Go to **My Account** → **Billing & Usage**.
-3. Click **Cancel Subscription** and follow the prompts.
+1. 登入 Evoto 帳戶。
+2. 前往 **My Account** → **Billing & Usage**。
+3. 點擊 **Cancel Subscription**，並依提示完成操作。
 
-**Note:** Your subscription remains active until the end of the current billing period. After that, any remaining credits will expire and cannot be used. There are no refunds for early cancellations.
+**注意：** 你的訂閱會持續有效到目前計費週期結束。之後所有剩餘點數都會到期且無法再使用。提前取消不提供退款。

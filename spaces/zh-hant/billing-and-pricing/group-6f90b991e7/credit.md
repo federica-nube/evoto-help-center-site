@@ -1,5 +1,5 @@
 ---
-title: "Evoto Credits"
+title: "Evoto 點數"
 source_url: "https://support.evoto.ai/credit/"
 source_type: "post"
 source_id: "1075"
@@ -18,78 +18,86 @@ source_assets:
   - "https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-073502-1024x859.png"
 ---
 
-This guide explains what Evoto credits are, how they are used, and how to manage your credit balance and device access.
+本指南說明 Evoto 點數的用途、使用方式，以及如何管理點數餘額與裝置登入權限。
 
-#### What Are Credits in Evoto?
+#### Evoto 的點數是什麼？
 
-**Credits** are the currency you use within Evoto to export your edited photos without watermarks. Think of 1 credit as the key to unlock 1 professionally retouched image.
+**點數（Credits）** 是你在 Evoto 中用來匯出無浮水印編輯照片的計費單位。你可以把 1 點理解為解鎖 1 張專業修圖照片匯出的憑證。
 
 - **1 credit = 1 edited photo export.**
 
 ---
 
-#### Credit Usage Rules
+#### 點數使用規則
 
-Understanding how credits are deducted helps you manage your balance effectively.
+了解點數的扣除方式，有助於你更有效地管理餘額。
 
-- **Exporting Edited Photos:** Each edited photo you export consumes 1 credit.
-- **Exporting Original Photos:** Exporting **original, unedited** images does not use any credits.
-- **Re-exporting the Same Photo:** If you export the same edited photo multiple times, you'll **only be charged 1 credit** for that unique image, as long as it was originally imported from the same device.
-- **Re-importing from a Different Device:** If you import the *same photo* from a **different device**, Evoto treats it as a new file, and credits will be deducted again upon export.
+- **匯出已編輯照片：** 每匯出 1 張已編輯照片，就會扣除 1 點。
+- **匯出原始照片：** 匯出**未編輯的原始照片**不會消耗任何點數。
+- **重複匯出同一張照片：** 如果你多次匯出同一張已編輯照片，只要該照片最初是從同一台裝置匯入，這張唯一圖片**只會扣 1 點**。
+- **從不同裝置重新匯入：** 如果你從**另一台裝置**匯入*相同照片*，Evoto 會將其視為新檔案，匯出時會再次扣點。
 
-###### Important Note on External Modifications:
+###### 關於外部修改的重要提醒：
 
-If you modify an image outside of Evoto (e.g., by resizing or rotating it using other software), edits within Evoto will still be applied based on the original version. This may result in inaccurate edits or additional credit usage upon export. It's best to complete all Evoto edits before making external modifications if you plan to re-export.
+如果你在 Evoto 之外修改圖片（例如使用其他軟體調整尺寸或旋轉），Evoto 內的編輯仍會以原始版本為基準套用。這可能導致編輯結果不準確，或在再次匯出時額外扣點。如果你之後還打算重新匯出，建議先完成 Evoto 內的所有編輯，再進行外部修改。
 
 ---
 
-#### Credit Sharing & Transferability
+#### 點數共用與轉移
 
-- **Between Evoto Desktop and iPad:** Yes, credits purchased on either platform are linked to your Evoto account and can be used interchangeably on both the desktop and iPad versions.
-- **Transferring to Other Accounts:** No, credits are non-transferable and remain tied to the account that purchased them.
-- **Sharing with Other Users:** No, credits are specific to your account and cannot be shared with other users.
+- **Evoto 桌面版與 iPad 版之間：** 可以。無論你在哪個平台購買點數，點數都會綁定在你的 Evoto 帳戶上，可於桌面版與 iPad 版共用。
+- **轉移到其他帳戶：** 不可以。點數不可轉讓，且會一直綁定在購買該點數的帳戶上。
+- **與其他使用者共用：** 不可以。點數屬於你的帳戶，不能與其他使用者共用。
 
-#### Managing Your Credits
+#### 管理你的點數
 
-Evoto provides easy ways to check your balance and even claim free credits.
+Evoto 提供簡單的方法讓你查詢餘額，甚至領取免費點數。
 
-**How to Claim Your 15 Free Credits**
+**如何領取 15 點免費點數**
 
-You can earn up to 15 free credits by simply completing your profile:
+只要完成個人資料，你就可以獲得最多 15 點免費點數：
 
 1. Click the **gift card icon** in the top-right corner of the app.
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/Screenshot-2025-08-13-at-11.51.17-300x187.png)
-2. Select **“Tell Us About Yourself.”**
-3. Fill out the form and submit it — your credits will be added automatically to your account.
+2. 選擇 **“Tell Us About Yourself.”**
+3. 填寫並送出表單，點數就會自動加到你的帳戶中。
 
-**Notes:**
+**注意事項：**
 
-- Each device can only claim this reward once.
-- Please use these reward credits within 30 days after claiming them, as they may expire.
+- 每台裝置只能領取一次此獎勵。
+- 請在領取後 30 天內使用這些獎勵點數，否則可能會過期。
 
-#### How to Check Your Credit Balance
+#### 如何查詢點數餘額
 
-You can view your current credit balance and usage history in two ways:
+你可以透過以下兩種方式查看目前點數餘額與使用紀錄：
 
-- **Method 1: In the Evoto App:**
-1. Go to the **Account icon** (your avatar or initial) in the top-right corner.
-2. Select **Credits** from the dropdown menu.
-3. You’ll see your remaining credits and total usage.
+- **方式 1：在 Evoto App 中**
+1. 點擊右上角的 **Account icon**（你的頭像或姓名縮寫）。
+2. 從下拉選單中選擇 **Credits**。
+3. 你就能看到剩餘點數與總使用量。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070628-1024x598.png)
 
-- **Method 2: On the Evoto Website:**
-1. Sign in at [evoto.ai](http://evoto.ai).
-2. Go to **My Account** → **My Billing and Usage**.
-3. Select **My billing and usage** again to view your credit balance and usage history.
+- **方式 2：在 Evoto 網站上**
+1. 到 [evoto.ai](http://evoto.ai) 登入。
+2. 前往 **My Account** → **My Billing and Usage**。
+3. 再次選擇 **My Billing and Usage**，即可查看點數餘額與使用紀錄。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-070806-1024x517.png)
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-071714-1024x656.png)
 
-**Do Credits Expire?** Yes, credits have an expiration date that depends on the package you purchased. To check your credit expiration: Sign in at [evoto.ai](http://evoto.ai). Go to **My Account** → **My Billing and Usage**. Select **Available Packages & Invalid Packages**. **Available Packages:** Shows your active packages with remaining credits and their respective expiry dates. **Invalid Packages:** Displays fully used or expired packages. You can scroll down to view all past packages.
+**點數會過期嗎？** 會。點數是否過期取決於你購買的方案。若要查看點數有效期限：登入 [evoto.ai](http://evoto.ai)，前往 **My Account** → **My Billing and Usage**，再選擇 **Available Packages & Invalid Packages**。**Available Packages** 會顯示目前有效的方案、剩餘點數與到期日；**Invalid Packages** 則會顯示已用完或已過期的方案。你也可以往下捲動查看歷史方案。
 
 ![](https://support.evoto.ai/wp-content/uploads/2025/04/image-20250422-073502-1024x859.png)
 
-**How Are Credits Deducted If I Have Multiple Packages?** If you have more than one credit package or plan active, Evoto will always use credits from the package that expires **soonest** first. This helps you maximize your credit usage before any expire. **Device Access** The number of devices you can be logged into simultaneously depends on your Evoto plan. **Pay-as-You-Go Plan:** You can log in on up to **2 devices**. **Yearly Subscription Plan:** The number of devices allowed depends on your specific subscription tier (e.g., higher tiers may support more devices). **Enterprise Plan:** For multi-user access and advanced team management features, please contact your Evoto Account Manager or our sales team.
+**如果我同時擁有多個方案，點數會怎麼扣？** 如果你同時啟用了多個點數包或方案，Evoto 會優先扣除**最早到期**的那一組點數，幫助你在點數過期前盡量用完。
+
+**裝置登入權限**
+
+可同時登入的裝置數量取決於你的 Evoto 方案：
+
+- **隨用隨付方案：** 最多可同時登入 **2 台裝置**。
+- **年度訂閱方案：** 可登入裝置數量取決於你的訂閱等級（較高等級通常支援更多裝置）。
+- **企業方案：** 若需多使用者存取與進階團隊管理功能，請聯絡你的 Evoto 帳戶經理或我們的銷售團隊。

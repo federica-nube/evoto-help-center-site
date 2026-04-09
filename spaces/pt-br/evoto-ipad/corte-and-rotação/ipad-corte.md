@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Corte"
+title: "iPad - Corte"
 source_url: "https://support.evoto.ai/pt-br/ipad-corte/"
 source_type: "post"
 source_id: "21169"

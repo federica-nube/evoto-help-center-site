@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Predefinições"
+title: "iPad - Predefinições"
 source_url: "https://support.evoto.ai/pt-br/ipad-predefinicoes/"
 source_type: "post"
 source_id: "22503"

@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Trocador de Fundo"
+title: "iPad - Trocador de Fundo"
 source_url: "https://support.evoto.ai/pt-br/ipad-trocador-de-fundo/"
 source_type: "post"
 source_id: "21108"

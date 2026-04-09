@@ -1,5 +1,5 @@
 ---
-title: "Ipad - Captura Vinculada Sem Fio"
+title: "iPad - Captura Vinculada Sem Fio"
 source_url: "https://support.evoto.ai/pt-br/ipad-captura-vinculada-sem-fio/"
 source_type: "post"
 source_id: "22806"
